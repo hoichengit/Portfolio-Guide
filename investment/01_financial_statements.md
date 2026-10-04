@@ -6,6 +6,8 @@
 - **Output:** [Our Excel analysis](../outputs/PG_1_Analysis.xlsx) · [Structured financial history](../processed_data/financial_history.csv).
 - **Scope:** Income and cash flow: FY2024–FY2026. Balance sheet: 30 June 2025 and 2026, the two dates disclosed in this report.
 
+Evidence opens on click. Each image shows the relevant report or Excel area; full documents remain available through the links.
+
 ## Analysis questions
 
 | Area | Question | Who uses the answer? |
@@ -40,17 +42,21 @@ flowchart TB
 **Answer:** Yes — FY2024, FY2025 and FY2026 revenues are **$84,039m, $84,284m and $87,032m** in both the annual report and our Excel.
 
 <details>
-<summary>View original report and full Excel screenshot</summary>
+<summary>Compare the original report with Excel</summary>
 
-| Original annual report — printed page 37 | Full Excel worksheet |
-|---|---|
-| [![P&G original earnings statement with revenue and operating income marked red](../evidence/original_earnings.png)](../evidence/original_earnings.png) | [![Full Excel worksheet with matching revenue and operating income in red](../evidence/excel_reported.png)](../evidence/excel_reported.png) |
+**Original annual report · Net sales · FY2024–FY2026 · USD millions**
 
-Click either image to enlarge it. Red marks identify the corresponding revenue and operating-income figures; they do not mean that every highlighted result is unfavorable.
+<a href="../evidence/q1_source.png"><img src="../evidence/q1_source.png" alt="Original annual report · Net sales · FY2024–FY2026 · USD millions" width="850"></a>
+
+**Excel · Reported Earnings · Matching net sales**
+
+<a href="../evidence/q1_excel.png"><img src="../evidence/q1_excel.png" alt="Excel · Reported Earnings · Matching net sales" width="850"></a>
+
+Click an image to enlarge it. Red marks identify the corresponding revenue and operating-income figures; they do not mean that every highlighted result is unfavorable.
 
 [Unmarked source page](../raw_data/PG_2026_Earnings_Original_Page.pdf) · [Full original annual report](https://s204.q4cdn.com/332108499/files/doc_financials/2026/ar/2026_annual_report.pdf#page=49) · [Open the Excel analysis](../outputs/PG_1_Analysis.xlsx)
 
-The source image preserves the original PDF page, with red outlines added. The Excel image was captured in Microsoft Excel and includes the complete populated worksheet.
+These are cropped excerpts from the original report and an actual Microsoft Excel screenshot. Red highlights identify matching evidence. The links above open the complete source and workbook.
 
 </details>
 
@@ -70,17 +76,21 @@ The source image preserves the original PDF page, with red outlines added. The E
 **Answer:** No — revenue increased **3.3%**, but operating profit fell **3.4% ($703m)** because the combined increase in product costs and SG&A exceeded the revenue increase.
 
 <details>
-<summary>View original report and full Excel screenshot</summary>
+<summary>Compare the original report with Excel</summary>
 
-| Original annual report — printed page 37 | Full Excel worksheet |
-|---|---|
-| [![P&G original earnings statement with revenue and operating income marked red](../evidence/original_earnings.png)](../evidence/original_earnings.png) | [![Full Excel worksheet with matching revenue and operating income in red](../evidence/excel_analysis.png)](../evidence/excel_analysis.png) |
+**Original annual report · Revenue and operating costs · USD millions**
 
-Click either image to enlarge it. Red marks identify the corresponding revenue and operating-income figures; they do not mean that every highlighted result is unfavorable.
+<a href="../evidence/q2_source.png"><img src="../evidence/q2_source.png" alt="Original annual report · Revenue and operating costs · USD millions" width="850"></a>
+
+**Excel · PG_1_Analysis · Revenue growth and profit bridge**
+
+<a href="../evidence/q2_excel.png"><img src="../evidence/q2_excel.png" alt="Excel · PG_1_Analysis · Revenue growth and profit bridge" width="850"></a>
+
+Click an image to enlarge it. Red marks identify the corresponding revenue and operating-income figures; they do not mean that every highlighted result is unfavorable.
 
 [Unmarked source page](../raw_data/PG_2026_Earnings_Original_Page.pdf) · [Full original annual report](https://s204.q4cdn.com/332108499/files/doc_financials/2026/ar/2026_annual_report.pdf#page=49) · [Open the Excel analysis](../outputs/PG_1_Analysis.xlsx)
 
-The source image preserves the original PDF page, with red outlines added. The Excel image was captured in Microsoft Excel and includes the complete populated worksheet.
+These are cropped excerpts from the original report and an actual Microsoft Excel screenshot. Red highlights identify matching evidence. The links above open the complete source and workbook.
 
 </details>
 
@@ -117,26 +127,34 @@ FY2024 included a **$1,341m intangible impairment charge**. Its absence helped F
 <details>
 <summary>Compare the original balance sheet with Excel</summary>
 
-| Original annual report | Full Excel worksheet |
-|---|---|
-| [![Original report with key figures marked red](../evidence/original_balance.png)](../evidence/original_balance.png) | [![Full worksheet captured in Microsoft Excel](../evidence/excel_balance.png)](../evidence/excel_balance.png) |
+**Original annual report · Balance sheet · USD millions**
+
+<a href="../evidence/q3_balance_source.png"><img src="../evidence/q3_balance_source.png" alt="Original annual report · Balance sheet · USD millions" width="850"></a>
+
+**Excel · Reported Balance · FY2025 and FY2026**
+
+<a href="../evidence/q3_balance_excel.png"><img src="../evidence/q3_balance_excel.png" alt="Excel · Reported Balance · FY2025 and FY2026" width="850"></a>
 
 **Follow the red figures:** FY2026 cash **$9,942m**, assets **$126,521m**, liabilities **$72,210m** and equity **$54,311m** match the Reported Balance worksheet. Read the year headings: the report and Excel use opposite year order.
 
-Click either image to enlarge. [Original annual report, PDF page 50](https://s204.q4cdn.com/332108499/files/doc_financials/2026/ar/2026_annual_report.pdf#page=50) · [Open Excel](../outputs/PG_1_Analysis.xlsx)
+Click an image to enlarge. [Original annual report, PDF page 50](https://s204.q4cdn.com/332108499/files/doc_financials/2026/ar/2026_annual_report.pdf#page=50) · [Open Excel](../outputs/PG_1_Analysis.xlsx)
 
 </details>
 
 <details>
 <summary>Compare the original cash flow statement with Excel</summary>
 
-| Original annual report | Full Excel worksheet |
-|---|---|
-| [![Original report with key figures marked red](../evidence/original_cash.png)](../evidence/original_cash.png) | [![Full worksheet captured in Microsoft Excel](../evidence/excel_cash.png)](../evidence/excel_cash.png) |
+**Original annual report · Cash flow statement · USD millions**
+
+<a href="../evidence/q3_cash_source.png"><img src="../evidence/q3_cash_source.png" alt="Original annual report · Cash flow statement · USD millions" width="850"></a>
+
+**Excel · Reported Cash · FY2024–FY2026**
+
+<a href="../evidence/q3_cash_excel.png"><img src="../evidence/q3_cash_excel.png" alt="Excel · Reported Cash · FY2024–FY2026" width="850"></a>
 
 **Follow the red figures:** FY2026 net earnings **$16,144m**, operating cash flow **$19,556m** and ending cash **$9,942m** match the Reported Cash worksheet. Negative cash flows retain their signs.
 
-Click either image to enlarge. [Original annual report, PDF page 52](https://s204.q4cdn.com/332108499/files/doc_financials/2026/ar/2026_annual_report.pdf#page=52) · [Open Excel](../outputs/PG_1_Analysis.xlsx)
+Click an image to enlarge. [Original annual report, PDF page 52](https://s204.q4cdn.com/332108499/files/doc_financials/2026/ar/2026_annual_report.pdf#page=52) · [Open Excel](../outputs/PG_1_Analysis.xlsx)
 
 </details>
 
@@ -155,13 +173,25 @@ Read the original company spreadsheet, reorder years chronologically, convert re
 <details>
 <summary>Compare reported earnings and cash with the Excel checks</summary>
 
-| Original annual report | Full Excel worksheet |
-|---|---|
-| [![Original report with key figures marked red](../evidence/original_cash.png)](../evidence/original_cash.png) | [![Full worksheet captured in Microsoft Excel](../evidence/excel_checks.png)](../evidence/excel_checks.png) |
+**Original annual report · Net earnings · Columns: FY2026, FY2025, FY2024 · USD millions**
+
+<a href="../evidence/q4_earnings_source.png"><img src="../evidence/q4_earnings_source.png" alt="Original annual report · Net earnings · Columns: FY2026, FY2025, FY2024 · USD millions" width="850"></a>
+
+**Original annual report · Ending cash · Same year order and units**
+
+<a href="../evidence/q4_cash_source.png"><img src="../evidence/q4_cash_source.png" alt="Original annual report · Ending cash · Same year order and units" width="850"></a>
+
+**Excel · PG_2_Analysis · Matching FY2026 earnings and cash · USD millions**
+
+<a href="../evidence/q4_excel.png"><img src="../evidence/q4_excel.png" alt="Excel · PG_2_Analysis · Matching FY2026 earnings and cash · USD millions" width="850"></a>
+
+**Excel · PG_2_Analysis · Reconciliation differences**
+
+<a href="../evidence/q4_checks_excel.png"><img src="../evidence/q4_checks_excel.png" alt="Excel · PG_2_Analysis · Reconciliation differences" width="850"></a>
 
 **Read the matching red figures:** total FY2026 net earnings are **$16,144m** in both income and cash flow; ending cash is **$9,942m** in both cash flow and the balance sheet. Use total net earnings, not the **$16,046m** attributable only to P&G shareholders.
 
-Click either image to enlarge. [Original annual report, PDF page 52](https://s204.q4cdn.com/332108499/files/doc_financials/2026/ar/2026_annual_report.pdf#page=52) · [Open Excel](../outputs/PG_1_Analysis.xlsx)
+Click an image to enlarge. [Original annual report, PDF page 52](https://s204.q4cdn.com/332108499/files/doc_financials/2026/ar/2026_annual_report.pdf#page=52) · [Open Excel](../outputs/PG_1_Analysis.xlsx)
 
 </details>
 
@@ -186,13 +216,17 @@ For FY2025, liabilities **$72,946m** plus equity **$52,284m** equal **$125,230m*
 <details>
 <summary>Compare company sales drivers with the Excel analysis</summary>
 
-| Original annual report | Full Excel worksheet |
-|---|---|
-| [![Original report with key figures marked red](../evidence/original_drivers.png)](../evidence/original_drivers.png) | [![Full worksheet captured in Microsoft Excel](../evidence/excel_revenue.png)](../evidence/excel_revenue.png) |
+**Original annual report · Sales growth drivers · FY2026 vs FY2025**
 
-**Follow the red figures:** the report’s TOTAL COMPANY row shows **FX 2%** and **Price 1%**; these match the lower table in PG_3_Analysis. The company percentages are approximate. Growth calculated from revenue amounts is **3.2604%**; do not force these rounded drivers into an exact dollar bridge.
+<a href="../evidence/q5_source.png"><img src="../evidence/q5_source.png" alt="Original annual report · Sales growth drivers · FY2026 vs FY2025" width="850"></a>
 
-Click either image to enlarge. [Original annual report, PDF page 34](https://s204.q4cdn.com/332108499/files/doc_financials/2026/ar/2026_annual_report.pdf#page=34) · [Open Excel](../outputs/PG_1_Analysis.xlsx)
+**Excel · PG_3_Analysis · The same company-wide growth drivers**
+
+<a href="../evidence/q5_excel.png"><img src="../evidence/q5_excel.png" alt="Excel · PG_3_Analysis · The same company-wide growth drivers" width="850"></a>
+
+**Follow the red figures:** the report’s TOTAL COMPANY row shows **FX 2%** and **Price 1%**; these match the Excel table shown below. The company percentages are approximate. Growth calculated from revenue amounts is **3.2604%**; do not force these rounded drivers into an exact dollar bridge.
+
+Click an image to enlarge. [Original annual report, PDF page 34](https://s204.q4cdn.com/332108499/files/doc_financials/2026/ar/2026_annual_report.pdf#page=34) · [Open Excel](../outputs/PG_1_Analysis.xlsx)
 
 </details>
 
@@ -211,26 +245,34 @@ Foreign exchange changes the US-dollar value of overseas sales. Pricing reflects
 <details>
 <summary>Compare FY2026 segment sales with the Excel contribution calculation</summary>
 
-| Original annual report | Full Excel worksheet |
-|---|---|
-| [![Original report with key figures marked red](../evidence/original_segments_26.png)](../evidence/original_segments_26.png) | [![Full worksheet captured in Microsoft Excel](../evidence/excel_revenue.png)](../evidence/excel_revenue.png) |
+**Original annual report · FY2026 segment revenue · USD millions**
+
+<a href="../evidence/q6_2026_source.png"><img src="../evidence/q6_2026_source.png" alt="Original annual report · FY2026 segment revenue · USD millions" width="850"></a>
+
+**Excel · PG_3_Analysis · Segment revenue and contribution · USD millions**
+
+<a href="../evidence/q6_excel.png"><img src="../evidence/q6_excel.png" alt="Excel · PG_3_Analysis · Segment revenue and contribution · USD millions" width="850"></a>
 
 **Follow Beauty:** the FY2026 source shows **$16,023m**. Subtract FY2025 **$14,964m** to get **$1,059m**, then divide by the company increase of **$2,748m** to get **38.5%**.
 
-Click either image to enlarge. [Original annual report, PDF page 56](https://s204.q4cdn.com/332108499/files/doc_financials/2026/ar/2026_annual_report.pdf#page=56) · [Open Excel](../outputs/PG_1_Analysis.xlsx)
+Click an image to enlarge. [Original annual report, PDF page 56](https://s204.q4cdn.com/332108499/files/doc_financials/2026/ar/2026_annual_report.pdf#page=56) · [Open Excel](../outputs/PG_1_Analysis.xlsx)
 
 </details>
 
 <details>
 <summary>Check the FY2025 starting figures</summary>
 
-| Original annual report | Full Excel worksheet |
-|---|---|
-| [![Original report with key figures marked red](../evidence/original_segments_25.png)](../evidence/original_segments_25.png) | [![Full worksheet captured in Microsoft Excel](../evidence/excel_revenue.png)](../evidence/excel_revenue.png) |
+**Original annual report · FY2025 segment revenue · USD millions**
+
+<a href="../evidence/q6_2025_source.png"><img src="../evidence/q6_2025_source.png" alt="Original annual report · FY2025 segment revenue · USD millions" width="850"></a>
+
+**Excel · PG_3_Analysis · FY2025 starting values and FY2026 changes · USD millions**
+
+<a href="../evidence/q6_excel.png"><img src="../evidence/q6_excel.png" alt="Excel · PG_3_Analysis · FY2025 starting values and FY2026 changes · USD millions" width="850"></a>
 
 The prior-year source shows Beauty at **$14,964m**. All six segment changes, including Corporate, add to **$2,748m**. The displayed segment sales levels total $1m below consolidated sales in both years, so their changes still reconcile exactly.
 
-Click either image to enlarge. [Original annual report, PDF page 57](https://s204.q4cdn.com/332108499/files/doc_financials/2026/ar/2026_annual_report.pdf#page=57) · [Open Excel](../outputs/PG_1_Analysis.xlsx)
+Click an image to enlarge. [Original annual report, PDF page 57](https://s204.q4cdn.com/332108499/files/doc_financials/2026/ar/2026_annual_report.pdf#page=57) · [Open Excel](../outputs/PG_1_Analysis.xlsx)
 
 </details>
 
@@ -242,26 +284,34 @@ Click either image to enlarge. [Original annual report, PDF page 57](https://s20
 <details>
 <summary>Compare the first part of the company margin explanation with Excel</summary>
 
-| Original annual report | Full Excel worksheet |
-|---|---|
-| [![Original report with key figures marked red](../evidence/original_margin_20.png)](../evidence/original_margin_20.png) | [![Full worksheet captured in Microsoft Excel](../evidence/excel_margins.png)](../evidence/excel_margins.png) |
+**Original annual report · Margin comparison and first three cost drivers**
+
+<a href="../evidence/q7_source_a.png"><img src="../evidence/q7_source_a.png" alt="Original annual report · Margin comparison and first three cost drivers" width="850"></a>
+
+**Excel · PG_4_Analysis · Margin changes and company explanation**
+
+<a href="../evidence/q7_excel.png"><img src="../evidence/q7_excel.png" alt="Excel · PG_4_Analysis · Margin changes and company explanation" width="850"></a>
 
 **Follow the red drivers:** product mix **−120 bps**, product and packaging investment **−70 bps**, and restructuring **−60 bps** are copied into the Excel explanation. These are company-attributed gross-margin effects, not assumptions.
 
-Click either image to enlarge. [Original annual report, PDF page 32](https://s204.q4cdn.com/332108499/files/doc_financials/2026/ar/2026_annual_report.pdf#page=32) · [Open Excel](../outputs/PG_1_Analysis.xlsx)
+Click an image to enlarge. [Original annual report, PDF page 32](https://s204.q4cdn.com/332108499/files/doc_financials/2026/ar/2026_annual_report.pdf#page=32) · [Open Excel](../outputs/PG_1_Analysis.xlsx)
 
 </details>
 
 <details>
 <summary>Compare the remaining costs and offsets with Excel</summary>
 
-| Original annual report | Full Excel worksheet |
-|---|---|
-| [![Original report with key figures marked red](../evidence/original_margin_21.png)](../evidence/original_margin_21.png) | [![Full worksheet captured in Microsoft Excel](../evidence/excel_margins.png)](../evidence/excel_margins.png) |
+**Original annual report · Remaining gross-margin drivers and SG&A explanation**
+
+<a href="../evidence/q7_source_b.png"><img src="../evidence/q7_source_b.png" alt="Original annual report · Remaining gross-margin drivers and SG&A explanation" width="850"></a>
+
+**Excel · PG_4_Analysis · Gross-margin bridge · Basis points**
+
+<a href="../evidence/q7_excel.png"><img src="../evidence/q7_excel.png" alt="Excel · PG_4_Analysis · Gross-margin bridge · Basis points" width="850"></a>
 
 Manufacturing productivity **+180 bps** and pricing **+40 bps** only partly offset the adverse drivers. All nine company effects sum to **−100 bps**. One basis point is **0.01 percentage point**.
 
-Click either image to enlarge. [Original annual report, PDF page 33](https://s204.q4cdn.com/332108499/files/doc_financials/2026/ar/2026_annual_report.pdf#page=33) · [Open Excel](../outputs/PG_1_Analysis.xlsx)
+Click an image to enlarge. [Original annual report, PDF page 33](https://s204.q4cdn.com/332108499/files/doc_financials/2026/ar/2026_annual_report.pdf#page=33) · [Open Excel](../outputs/PG_1_Analysis.xlsx)
 
 </details>
 
