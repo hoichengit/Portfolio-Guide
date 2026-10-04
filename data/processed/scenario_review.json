@@ -1,0 +1,104 @@
+{
+  "source": "https://github.com/hoichengit/Portfolio-Guide/blob/codex/financial-scenarios/outputs/analysis.json",
+  "company": "PG",
+  "period": "April\u2013June 2026",
+  "basis": "Retrospective; March and May publication cutoffs",
+  "accuracy": [
+    {
+      "vintage": "pre_history",
+      "base_profit": 3799.6109599999995,
+      "actual_profit": 3044.0,
+      "absolute_error": 755.6109599999995,
+      "absolute_percentage_error": 0.24822961892247028,
+      "inside_scenario_range": true
+    },
+    {
+      "vintage": "pre_market",
+      "base_profit": 3799.6109599999995,
+      "actual_profit": 3044.0,
+      "absolute_error": 755.6109599999995,
+      "absolute_percentage_error": 0.24822961892247028,
+      "inside_scenario_range": true
+    },
+    {
+      "vintage": "mid_history",
+      "base_profit": 3693.6232416000003,
+      "actual_profit": 3044.0,
+      "absolute_error": 649.6232416000003,
+      "absolute_percentage_error": 0.21341105177398167,
+      "inside_scenario_range": true
+    },
+    {
+      "vintage": "mid_market",
+      "base_profit": 3624.5391408,
+      "actual_profit": 3044.0,
+      "absolute_error": 580.5391408,
+      "absolute_percentage_error": 0.19071588068331144,
+      "inside_scenario_range": true
+    }
+  ],
+  "actual_bridge": [
+    {
+      "driver": "sales_growth",
+      "profit_change": -84.58660079999981
+    },
+    {
+      "driver": "gross_margin",
+      "profit_change": -17.218109999999797
+    },
+    {
+      "driver": "sga_ratio",
+      "profit_change": -282.0294300000005
+    },
+    {
+      "driver": "net_nonoperating_income",
+      "profit_change": -132.76499999999987
+    },
+    {
+      "driver": "effective_tax_rate",
+      "profit_change": -45.72337147215876
+    },
+    {
+      "driver": "noncontrolling_income",
+      "profit_change": -19.0
+    },
+    {
+      "driver": "diluted_shares",
+      "profit_change": 0.0
+    },
+    {
+      "driver": "ocf_to_net_income",
+      "profit_change": 0.0
+    },
+    {
+      "driver": "capex_ratio",
+      "profit_change": 0.0
+    },
+    {
+      "driver": "Reported rounding and basis residual",
+      "profit_change": 0.7833714721587057
+    }
+  ],
+  "sensitivity": [
+    {
+      "driver": "sales_growth",
+      "shock": 0.01,
+      "profit_change": 33.877780199999506
+    },
+    {
+      "driver": "gross_margin",
+      "shock": 0.01,
+      "profit_change": 172.71025199999985
+    },
+    {
+      "driver": "sga_ratio",
+      "shock": 0.01,
+      "profit_change": -172.7102520000003
+    },
+    {
+      "driver": "effective_tax_rate",
+      "shock": 0.01,
+      "profit_change": -45.81810240000004
+    }
+  ]
+}

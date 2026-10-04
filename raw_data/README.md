@@ -16,4 +16,4 @@ The income-statement worksheet contains consolidated earnings: metric names in c
 - [Margins, p.20](margin_20_original.pdf) and [p.21](margin_21_original.pdf): explanations in basis points.
 - [Segment results, p.44](segments_26_original.pdf) and [p.45](segments_25_original.pdf): reported revenue by business.
 
-These PDFs preserve the original page content. Red outlines appear only in the evidence images. See [question 3](../investment/01_financial_statements.md#statement-extraction) for original-source and full Excel screenshots.
+These PDFs preserve the original page content. Red outlines appear only in the evidence images. See [question 3](../investment/01_financial_statements.md#statement-extraction) for cropped original-source and Excel screenshots.

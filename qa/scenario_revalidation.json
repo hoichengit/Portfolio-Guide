@@ -1,0 +1,15 @@
+{
+  "verified_on": "2026-10-04",
+  "test_command": "python3 -m unittest discover -s tests -p '*test.py'",
+  "tests_run": 20,
+  "tests_passed": 20,
+  "source_workflow": "codex/financial-scenarios",
+  "replay_runs": [
+    "PG_pre_history",
+    "PG_pre_market",
+    "PG_mid_history",
+    "PG_mid_market"
+  ],
+  "all_four_replays_passed": true,
+  "scope": "Tests used the existing scenario implementation; replay used the selected published run artifacts. No new model calls or forecast assumptions were generated."
+}

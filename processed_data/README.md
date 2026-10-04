@@ -6,7 +6,7 @@
 - [Business drivers and extracted statements](extended_history.json): company-disclosed approximate percentages and reported segment sales.
 - [Statement and driver checks](../outputs/extended_checks.json) · [Independent review](../agents/review.md).
 
-Reported values remain unchanged. Derived values include growth, margins and contributions. No forecast, valuation or adjusted earnings series is included in this stage.
+Reported values remain unchanged. Derived values include growth, margins and contributions. This workbook covers historical analysis. The [model guide](../model/README.md) links the separate quarterly scenario workbook; no valuation or adjusted earnings series is included here.
 
 ## How to read the Excel
 

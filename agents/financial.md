@@ -1,21 +1,38 @@
-# Financial Statements & Quality Agent
+# Finance Agent
 
-**Purpose:** Make reported financial numbers comparable and explain what the historical results show.
+**Purpose:** Build comparable financial inputs from company filings.
 
-| Problem | Task | Example |
-|---|---|---|
-| Revenue extraction | Match amount, period and unit to the original report. | [Source and Excel](../investment/01_financial_statements.md#revenue-extraction) |
-| Profit conversion | Explain how revenue and expense changes affect operating profit. | [Revenue vs profit](../investment/01_financial_statements.md#revenue-vs-profit) |
-| Comparability | Identify impairment and other items that affect historical comparisons. | [FY2024 impairment](../investment/01_financial_statements.md#revenue-vs-profit) |
+[Skills](skills.md#financial) · [Executable role instructions](https://github.com/hoichengit/Portfolio-Guide/blob/codex/financial-scenarios/agents/finance.md) · [Actual structured output](https://github.com/hoichengit/Portfolio-Guide/blob/codex/financial-scenarios/outputs/runs/PG_mid_market/finance/output.json) · [All roles](README.md)
 
-## Reusable instructions
+## Questions this role handles
 
-Use company filings and original public financial tables. Preserve fiscal periods, units and signs. Distinguish Reported, Derived and Adjusted data. Explain transformations and cite page or cell locations. Do not invent unavailable internal budgets, forecasts or adjusted figures. Hand the financial dataset and proposed conclusions to independent QA.
+| Area | Example |
+|---|---|
+| Period mapping, statement extraction and metric definitions. | [Revenue extraction](#worked-example) |
 
-## Skills
+<a id="worked-example"></a>
+## Revenue extraction: What did the role establish?
 
-- **Statement mapping:** Preserve the accounting line while making labels readable; prevents comparing different definitions.
-- **Ratio analysis:** Use same-period amounts and explicit formulas; makes growth and margin calculations traceable.
-- **Comparability review:** Flag non-recurring items; avoids treating an accounting rebound as sustainable operating growth.
+**Answer:** Annual revenue agrees with Excel for all three years.
 
-[Expandable examples](../investment/01_financial_statements.md#analysis-questions) · [Actual review](review.md)
+[Read the full financial question](../analysis/01_revenue.md)
+<details>
+<summary>🔎 Compare source and Excel</summary>
+
+**Original report**
+
+<img src="../evidence/q1_source.png" width="850" alt="Original source evidence">
+
+**Excel output**
+
+<img src="../evidence/q1_excel.png" width="850" alt="Actual Excel evidence">
+
+Red marks identify the relevant amounts. Use the full question for the period, units and reconciliation details.
+
+</details>
+
+## Handoff
+
+Send structured history and comparability issues to Research and Scenario; QA checks the source mapping.
+
+[← Agent workflow](README.md) · [Project home](../README.md)

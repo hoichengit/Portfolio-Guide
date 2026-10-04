@@ -1,5 +1,7 @@
 # 1. Financial statements
 
+[📖 Read the new question-by-question report](../analysis/README.md) · [Executive memo](../reports/investment_memo.md) · [Skills and evidence](../SKILLS.md)
+
 - **Goal:** Transfer the three financial statements into Excel, check their connections, and explain revenue and margin changes.
 - **Audience:** CIO, investment committee and credit analyst.
 - **Data:** [P&G 2026 annual report, p.37](https://s204.q4cdn.com/332108499/files/doc_financials/2026/ar/2026_annual_report.pdf#page=49) · [Company's original financial spreadsheet](../raw_data/PG_2026_Company_Financials.xlsx).

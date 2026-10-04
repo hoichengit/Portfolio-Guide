@@ -1,0 +1,15 @@
+{
+  "status": "passed",
+  "reported_inputs_matched_to_source_and_workbook": 199,
+  "saved_workbook_error_cells": 0,
+  "report_pages_checked": 33,
+  "missing_local_links": 0,
+  "headline_checks": [
+    "revenue change +2748",
+    "operating income change -703",
+    "segment increases +2748",
+    "company gross margin bridge -100 bps"
+  ],
+  "workbook_sha256": "320f89e1ffe19c163ffaebc1e402229b4e6b086ca9ae9f00bad310570a58b6a4",
+  "scope": "Read-only source comparison and saved-result checks; not a new Excel recalculation or audit."
+}

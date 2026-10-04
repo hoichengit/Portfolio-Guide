@@ -1,113 +1,59 @@
 # P&G Financial Analysis & Agentic Scenario Planning
 
-**Can P&G protect profit and cash flow when demand, costs and currencies change?**
+**Why did sales grow while profit fell, and did market research improve the earnings forecast?**
 
-[📊 Financial model](outputs/PG_1_Analysis.xlsx) · [📁 Source data](raw_data/README.md) · [🔎 Evidence](#evidence) · [⚙️ Workflow](#workflow)
+[📄 Executive memo](reports/investment_memo.md) · [📊 Excel models](model/README.md) · [🖥️ Power BI](dashboard/README.md) · [⚙️ Agent workflow](agents/README.md)
 
 ## In 30 seconds
 
-**Sales grew. Operating profit fell. Higher costs absorbed the growth.**
+**Sales grew. Costs grew faster. The forecast needed more attention to operating expenses.**
 
-![FY2026 sales and profit summary](architecture/summary.svg)
+![P&G annual performance](architecture/summary.svg)
 
-- **What we found:** Sales rose 3.3%, but operating profit fell 3.4%.
-- **Why it matters:** Revenue growth alone overstates the improvement in performance.
-- **What to test next:** Whether pricing and productivity can protect margins under weaker demand.
+- **Annual results:** Revenue rose **3.3%**, while operating profit fell **3.4%**.
+- **Business drivers:** FX and pricing supported growth; Beauty added **38.5%** of the sales increase.
+- **Forecast review:** May research reduced the quarterly earnings error by **$69.1m**, but the base still exceeded actual earnings by **$580.5m**.
 
-*Historical analysis is available. Market research, scenarios, valuation and a final recommendation are the next stages of this project.*
+[Read the findings and evidence →](analysis/README.md)
 
-## 🧭 Choose a question
+## 🧭 Explore the project
 
-| Start here | What you will learn |
+| Read | What you will see |
 |---|---|
-| [Why did profit fall?](#profit) | Trace the $703m decline to revenue and costs. |
-| [Can I trust the numbers?](#evidence) | Compare the annual report with the Excel calculation. |
-| [Read all seven historical questions](investment/01_financial_statements.md) | Explore statement checks, sales drivers and margins. |
-| [How do the agents help?](#workflow) | See the roles, calculations and review steps. |
+| [1. Financial performance](analysis/README.md#-historical-performance) | Seven questions, original filings, Excel calculations and red-marked evidence. |
+| [2. Market research and scenarios](analysis/08_market_research.md) | How dated evidence changes assumptions and why. |
+| [3. Forecast vs actual](analysis/10_forecast_review.md) | The remaining earnings miss and the next modelling priorities. |
+| [4. Agent design and controls](agents/README.md) | Actual role outputs, a reusable workflow and validation records. |
 
-<a id="profit"></a>
-## 1. Revenue vs profit: Why did profit fall when sales grew?
+## 🧰 Skills demonstrated
 
-**Answer:** Additional revenue of **$2,748m** was smaller than the **$3,451m** increase in product costs and selling, general and administrative expenses (SG&A).
-
-![Operating profit bridge](architecture/profit_bridge.svg)
-
-**The calculation:** $2,748m − $2,198m − $1,253m = **−$703m**.
-
-**Analyst interpretation:** Growth did not translate into higher operating profit. The next step is to separate cost pressure from investment and temporary charges before forecasting margins.
-
-<a id="evidence"></a>
-<details>
-<summary>🔎 Show the evidence — original report → Excel</summary>
-
-**Original annual report · FY2024–FY2026 · USD millions**
-
-<a href="evidence/q2_source.png"><img src="evidence/q2_source.png" alt="Original income statement: sales and operating income highlighted in red" width="850"></a>
-
-**Our Excel analysis · Same reported amounts, plus the profit calculation**
-
-<a href="evidence/q2_excel.png"><img src="evidence/q2_excel.png" alt="Actual Excel screenshot: revenue, operating costs and the profit bridge" width="850"></a>
-
-Follow the red revenue and operating-profit figures. The years appear in a different order; match the year labels. Red highlights identify evidence, not whether a result is good or bad.
-
-[Open the source report, page 37](https://s204.q4cdn.com/332108499/files/doc_financials/2026/ar/2026_annual_report.pdf#page=49) · [Open our Excel workbook](outputs/PG_1_Analysis.xlsx)
-
-</details>
-
-<details>
-<summary>🧮 Show the method and checks</summary>
-
-1. Copy sales, product costs, SG&A and operating income from the report.
-2. Subtract FY2025 from FY2026 for each line.
-3. Add the revenue increase and subtract the cost increases.
-4. Check that the result equals $19,748m − $20,451m = −$703m.
-
-**Periods:** Years ended 30 June. **Units:** USD millions. **Source:** Consolidated Statements of Earnings.
-
-FY2024 included a $1,341m impairment charge; FY2025 and FY2026 did not. This bridge compares FY2026 with FY2025.
-
-[Review the existing QA record](agents/review.md)
-
-</details>
-
-<a id="workflow"></a>
-## ⚙️ How the work gets done
-
-**Agents organise evidence and challenge assumptions. Excel calculates. The analyst reviews the recommendation.**
-
-![Target workflow, with current and planned roles distinguished](architecture/workflow.svg)
-
-<details>
-<summary>See the five roles and their outputs</summary>
-
-| Role | One job | Output | Status |
-|---|---|---|---|
-| Financial | Extract and check the statements. | Financial history | Existing review and data |
-| Business Driver | Explain changes in sales and margins. | Business-driver table | Analysis exists; separate agent planned |
-| Market Research | Connect outside evidence to model drivers. | Market evidence and implications | Planned for this project |
-| Scenario | Propose base, upside and downside assumptions. | Assumption table | Planned for this project |
-| QA | Compare source, model and dashboard. | Reconciliation report | Source and Excel review exists; dashboard checks later |
-
-[Current agents](agents/README.md) · [Current financial history](processed_data/financial_history.csv)
-
-</details>
-
-## 🗂️ Where the project is going
-
-**Data → Analysis → Model → Decision**
-
-<details>
-<summary>See the proposed repository structure</summary>
-
-| Folder | What belongs here |
+| Skill | Concrete evidence |
 |---|---|
-| `data/raw/` and `data/processed/` | Original sources and cleaned inputs, with a data manifest. |
-| `analysis/` | Historical, business-driver, market and valuation analysis. |
-| `agents/` and `architecture/` | Responsibilities, skills, example outputs and workflow diagrams. |
-| `model/` and `dashboard/` | Excel calculations, scenario outputs and Power BI. |
-| `decisions/` | Assumption challenges, reasons for revisions and the final recommendation. |
-| `reports/` and `qa/` | Short investment memo, executive summary and validation checks. |
+| Financial statement analysis | [199 reported inputs and cross-statement checks](analysis/03_statements.md). |
+| Commercial finance | [Profit bridge](analysis/02_profit.md), [segment contribution](analysis/06_segments.md) and [margin drivers](analysis/07_margins.md). |
+| Excel modelling | [Linked historical report and editable scenario model](model/README.md). |
+| Research and scenario planning | [Dated evidence, matched controls and explicit assumptions](analysis/09_scenarios.md). |
+| Power BI | [Six-page report, scenario slicers and recorded DAX checks](dashboard/README.md). |
+| Python and agent workflows | [Role handoffs, frozen assumptions and repeatable checks](agents/README.md). |
+| Financial communication | [One-page memo](reports/investment_memo.md) and [documented analytical choices](decisions/decision_log.md). |
 
-This is the target organisation; existing files remain accessible while the project is reorganised. Decision entries will record actual analyst decisions; example decisions will be labelled as examples.
+[See each skill, task and deliverable →](SKILLS.md)
+
+<details>
+<summary>📅 Understand the two time periods</summary>
+
+- **Historical review:** FY2024–FY2026 annual results; balance sheets at 30 June 2025 and 2026.
+- **Scenario case:** April–June 2026, reconstructed using information available by **31 March** or **15 May 2026**. The existing quarterly case and its deliverables are linked from this project.
+- **Separation:** The annual report is used for historical analysis and later outcome review. It is not an input to the March or May forecast packets.
+- **Timing:** The forecasting exercise was run retrospectively in October 2026. Date controls do not remove a model’s pretrained knowledge.
+
+</details>
+
+<details>
+<summary>📁 Data, calculations and review</summary>
+
+[Source files](data/raw/README.md) · [Processed data](data/processed/README.md) · [Data manifest](data/DATA_MANIFEST.md) · [Model guide](model/README.md) · [QA results](qa/README.md) · [Reproduce the work](src/README.md)
+
+Public-company analysis and analyst forecasts; company internal budgets are not available. The quarterly cash model uses a conversion ratio. [Scope and limitations](reports/scope.md) explain what the results support.
 
 </details>

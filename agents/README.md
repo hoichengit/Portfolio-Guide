@@ -1,26 +1,27 @@
 # Agent workflow
 
-**Purpose:** Separate financial judgement from independent checking, while code and Excel perform the calculations.
+**Four executable roles organise financial evidence, challenge assumptions and check outputs. Excel and Python perform the calculations.**
 
-| Agent | Responsibility | This sample |
+![Workflow](../architecture/workflow.svg)
+
+| Role | Problem it solves | Inspect |
 |---|---|---|
-| [Financial Statements & Quality](financial.md) | Check financial inputs, comparability and earnings quality. | Reviewed the three statements, source residuals and disclosed business drivers. |
-| Business Driver | Explain volume, price, mix, FX, segments and concentration. | Driver analysis is included; a separate specialist role is planned. |
-| Market & Competitor Research | Compare company claims with external evidence. | Planned. |
-| Forecast, Scenario & Valuation | Propose assumptions and interpret calculated scenarios and value. | Planned. |
-| [Independent QA & Evidence](qa.md) | Find inconsistencies between source, data, Excel and claims. | Separate review of this sample. |
+| [Finance](financial.md) | Consistent financial definitions and baseline inputs. | Reported statements and checked mappings. |
+| [Research](research.md) | External evidence that actually changes model drivers. | Dated source register and model implications. |
+| [Scenario](scenario.md) | Coherent bear, base and bull assumptions. | Structured assumption tables and bounds. |
+| [QA](qa.md) | Inconsistent sources, dates, assumptions or calculations. | Findings, rejection history and frozen records. |
+| [Business Driver specialism](business_driver.md) | Why revenue and margin changed. | Historical driver analysis; not a separate executable role. |
 
-```mermaid
-flowchart LR
-    A[Public reports] --> B[Financial Agent]
-    B --> C[Structured data]
-    C --> D[Code and Excel]
-    A --> E[Independent QA]
-    D --> E
-    E -->|Corrections| B
-    E --> F[Evidence and answer]
-```
+The annual report was reviewed by Financial and QA agents. The linked quarterly workflow contains actual Finance → Research → Scenario → QA runs. The five-area presentation distinguishes expertise without claiming a fifth model call that did not occur.
 
-[Actual review record](review.md) · [Seven worked questions](../investment/01_financial_statements.md) · [Rerun instructions](../src/README.md)
+## 📂 Inspect a real run
 
-Only the Financial and QA roles were used for this pilot. The five-agent investment workflow and insurance module are not yet implemented end to end.
+| Step | Input / output |
+|---|---|
+| Finance | [Input](https://github.com/hoichengit/Portfolio-Guide/blob/codex/financial-scenarios/outputs/runs/PG_mid_market/finance/input.json) · [Output](https://github.com/hoichengit/Portfolio-Guide/blob/codex/financial-scenarios/outputs/runs/PG_mid_market/finance/output.json) |
+| Research | [Input](https://github.com/hoichengit/Portfolio-Guide/blob/codex/financial-scenarios/outputs/runs/PG_mid_market/research/input.json) · [Output](https://github.com/hoichengit/Portfolio-Guide/blob/codex/financial-scenarios/outputs/runs/PG_mid_market/research/output.json) |
+| Scenario | [Input](https://github.com/hoichengit/Portfolio-Guide/blob/codex/financial-scenarios/outputs/runs/PG_mid_market/scenario/input.json) · [Output](https://github.com/hoichengit/Portfolio-Guide/blob/codex/financial-scenarios/outputs/runs/PG_mid_market/scenario/output.json) |
+| QA | [Initial review](https://github.com/hoichengit/Portfolio-Guide/blob/codex/financial-scenarios/outputs/runs/PG_mid_market/qa_initial/output.json) · [Final review](https://github.com/hoichengit/Portfolio-Guide/blob/codex/financial-scenarios/outputs/runs/PG_mid_market/qa/output.json) |
+| Freeze | [Hashes, timing and retained review lineage](https://github.com/hoichengit/Portfolio-Guide/blob/codex/financial-scenarios/outputs/runs/PG_mid_market/freeze.json) |
+
+[Skills library](skills.md) · [Rerun guide](../src/README.md) · [Annual review record](review.md) · [← Project home](../README.md)
