@@ -10,12 +10,13 @@
         "real_pce_mom_percent": 0.2,
         "real_dpi_mom_percent": -0.1
       },
-      "analyst_adjustment_pp": {
+      "limitation": "US household data; not a calibrated P&G global sales elasticity.",
+      "analyst_stress_assumption_pp": {
         "Downside": -0.75,
         "Base": -0.25,
         "Upside": 0
       },
-      "limitation": "US household data; not a calibrated P&G global sales elasticity."
+      "use": "Directional context only; not a numerical calibration."
     },
     {
       "id": "S4",
@@ -26,13 +27,214 @@
         "home_care_volume_yoy_percent": 6.2,
         "home_care_price_yoy_percent": -0.1
       },
-      "analyst_adjustment_pp": {
+      "limitation": "Peer sensitivity, not evidence of P&G share loss; category and geographic mixes differ.",
+      "analyst_stress_assumption_pp": {
         "Downside": -0.25,
         "Base": -0.25,
         "Upside": -0.25
       },
-      "limitation": "Peer sensitivity, not evidence of P&G share loss; category and geographic mixes differ."
+      "use": "Directional context only; not a numerical calibration."
+    },
+    {
+      "id": "GEO",
+      "published_at": null,
+      "period": "FY2025",
+      "vintage": "baseline",
+      "title": "P&G FY2025 10-K Note 2",
+      "url": "https://www.sec.gov/Archives/edgar/data/80424/000008042425000076/pg-20250630.htm",
+      "facts": {
+        "us_sales_usd_bn_rounded": 41.6,
+        "international_sales_usd_bn_rounded": 42.7
+      },
+      "interpretation": "US is about half of sales; international evidence is required.",
+      "limitation": "Historical annual exposure, not target-quarter weights.",
+      "numeric_model_adjustment_derived": false
+    },
+    {
+      "id": "JOBS",
+      "published_at": "2026-05-08",
+      "period": "April 2026",
+      "vintage": "new",
+      "title": "US Employment Situation",
+      "url": "https://www.bls.gov/news.release/archives/empsit_05082026.htm",
+      "facts": {
+        "payroll_change": 115000,
+        "unemployment_percent": 4.3
+      },
+      "interpretation": "Counters demand-collapse interpretation.",
+      "limitation": "US employment is an indirect driver, not P&G volumes.",
+      "numeric_model_adjustment_derived": false
+    },
+    {
+      "id": "RETAIL",
+      "published_at": "2026-05-14",
+      "period": "April 2026",
+      "vintage": "new",
+      "title": "US retail advance vintage",
+      "url": "https://www2.census.gov/retail/releases/historical/marts/adv2604.pdf",
+      "facts": {
+        "total_mom_percent": 0.5,
+        "ex_gas_mom_percent": 0.3,
+        "grocery_mom_percent": 0.7,
+        "health_personal_care_stores_mom_percent": 0
+      },
+      "interpretation": "Spending increased, with mixed category channels.",
+      "limitation": "Nominal, seasonally adjusted store-based data; sample estimates subject to revisions.",
+      "numeric_model_adjustment_derived": false
+    },
+    {
+      "id": "EU",
+      "published_at": "2026-05-07",
+      "period": "March 2026",
+      "vintage": "new",
+      "title": "Eurostat retail volume release",
+      "url": "https://ec.europa.eu/eurostat/en/web/products-euro-indicators/w/4-07052026-ap",
+      "facts": {
+        "euro_area_mom_percent": -0.1,
+        "eu_mom_percent": 0.3,
+        "euro_area_nonfood_exfuel_mom_percent": 0.6,
+        "eu_nonfood_exfuel_mom_percent": 1
+      },
+      "interpretation": "Positive non-food volumes counter uniformly weak demand.",
+      "limitation": "EU/euro area overlap and do not equal P&G Europe; use this vintage, not later revisions.",
+      "numeric_model_adjustment_derived": false
+    },
+    {
+      "id": "CN_RETAIL",
+      "published_at": "2026-04-17",
+      "period": "March 2026",
+      "vintage": "baseline",
+      "title": "NBS English March retail release",
+      "url": "https://www.stats.gov.cn/english/PressRelease/202604/t20260417_1963351.html",
+      "facts": {
+        "total_yoy_percent": 1.7,
+        "cosmetics_yoy_percent": 8.3,
+        "daily_necessities_yoy_percent": 4.6
+      },
+      "interpretation": "Category performance stronger than headline; already known at baseline.",
+      "limitation": "Nominal; category figures cover enterprises above designated size; mainland data not all Greater China.",
+      "numeric_model_adjustment_derived": false
+    },
+    {
+      "id": "CN_CPI",
+      "published_at": "2026-05-11",
+      "period": "April 2026",
+      "vintage": "new",
+      "title": "NBS CPI release",
+      "url": "https://www.stats.gov.cn/sj/zxfb/202605/t20260511_1963659.html",
+      "facts": {
+        "headline_yoy_percent": 1.2,
+        "household_goods_services_yoy_percent": 1.4
+      },
+      "interpretation": "Price context only.",
+      "limitation": "Not P&G net pricing or sales volume.",
+      "numeric_model_adjustment_derived": false
+    },
+    {
+      "id": "PG_Q3",
+      "published_at": "2026-04-24",
+      "period": "Jan–Mar 2026 actual / FY2026 guidance",
+      "vintage": "baseline",
+      "title": "P&G Q3 release",
+      "url": "https://www.pginvestor.com/news/news-details/2026/PG-Announces-Fiscal-Year-2026-Third-Quarter-Results/default.aspx",
+      "facts": {
+        "volume_yoy_percent": 2,
+        "price_yoy_percent": 1,
+        "annual_commodity_aftertax_headwind_usd_m": 150,
+        "annual_tariff_aftertax_headwind_usd_m": 400,
+        "annual_fx_aftertax_tailwind_usd_m": 200,
+        "annual_fx_and_portfolio_sales_tailwind_pp": 1
+      },
+      "interpretation": "Positive starting pricing; company cost guidance belongs in baseline margin model.",
+      "limitation": "Annual after-tax profit effects cannot be deducted from quarterly sales.",
+      "numeric_model_adjustment_derived": false
+    },
+    {
+      "id": "UL_COUNTER",
+      "published_at": "2026-04-30",
+      "period": "Q1 2026",
+      "vintage": "new",
+      "title": "Unilever personal-care counterevidence",
+      "url": "https://www.unilever.com/files/unilever-q1-2026-full-announcement.pdf",
+      "facts": {
+        "personal_care_pricing_yoy_percent": 2.5,
+        "personal_care_volume_yoy_percent": 1.1
+      },
+      "interpretation": "Pricing differs by category.",
+      "limitation": "Peer category mix differs; no estimated P&G pass-through.",
+      "numeric_model_adjustment_derived": false
+    },
+    {
+      "id": "COLGATE",
+      "published_at": "2026-05-01",
+      "period": "Q1 2026 actual / CY2026 outlook",
+      "vintage": "new",
+      "title": "Colgate Q1 release",
+      "url": "https://investor.colgatepalmolive.com/news-releases/news-release-details/colgate-announces-1st-quarter-2026-results",
+      "facts": {
+        "total_pricing_yoy_percent": 2.2,
+        "north_america_pricing_yoy_percent": 1,
+        "north_america_reported_volume_yoy_percent": -3.2,
+        "latin_america_organic_yoy_percent": 5.4,
+        "asia_pacific_organic_yoy_percent": 5.6,
+        "gross_margin_outlook": "down, previously up",
+        "sales_guidance": "maintained"
+      },
+      "interpretation": "Mixed regional demand; positive pricing; margin risk without sales downgrade.",
+      "limitation": "Includes pet nutrition; group and regional weights differ from P&G.",
+      "numeric_model_adjustment_derived": false
+    },
+    {
+      "id": "CPI",
+      "published_at": "2026-05-12",
+      "period": "April 2026",
+      "vintage": "new",
+      "title": "US CPI",
+      "url": "https://www.bls.gov/news.release/archives/cpi_05122026.htm",
+      "facts": {
+        "headline_mom_percent": 0.6,
+        "energy_mom_percent": 3.8
+      },
+      "interpretation": "Household affordability context.",
+      "limitation": "Do not double count alongside the demand stress.",
+      "numeric_model_adjustment_derived": false
+    },
+    {
+      "id": "PPI",
+      "published_at": "2026-05-13",
+      "period": "April 2026",
+      "vintage": "new",
+      "title": "US PPI",
+      "url": "https://www.bls.gov/news.release/archives/ppi_05132026.htm",
+      "facts": {
+        "final_demand_mom_percent": 1.4
+      },
+      "interpretation": "Cost monitoring for a separate margin build.",
+      "limitation": "Not a company-specific input-cost basket.",
+      "numeric_model_adjustment_derived": false
     }
   ],
-  "no_target_quarter_actuals_used": true
+  "no_target_quarter_actuals_used": true,
+  "review_conclusion": "Mixed evidence. Original numerical cases are retained stress tests, not a calibrated central forecast revision.",
+  "baseline_cutoff": "2026-04-24",
+  "review_cutoff": "2026-05-15",
+  "excluded": [
+    {
+      "source": "China April retail English release",
+      "published_at": "2026-05-19",
+      "reason": "After review cutoff; no figures used."
+    },
+    {
+      "source": "Later Eurostat revisions",
+      "reason": "Not available at review cutoff."
+    }
+  ],
+  "coverage_gaps": [
+    "Direct Canada and UK review",
+    "Direct Japan and India review",
+    "Country-level Latin America review",
+    "Target-quarter geographic/category revenue weights",
+    "Company-specific FX basket",
+    "Measured demand and pricing transmission"
+  ]
 }

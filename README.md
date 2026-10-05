@@ -19,11 +19,11 @@
 
 ## 2. Adjust the sales scenarios with new evidence
 
-**Our base sales scenario falls by $104.4m after demand and pricing adjustments.**
+**US, European, Chinese and competitor evidence gives a mixed picture. The $104.4m reduction is a stress test, not a measured forecast revision.**
 
 - **Starting reference:** company guidance available on 24 April.
 - **Review:** new information published from 25 April through 15 May.
-- **Result:** revised downside / base / upside sales, with each assumption and its impact explained.
+- **Result:** supporting and conflicting evidence, plus the financial impact of the original stress assumptions.
 
 👉 [Read the completed sales adjustment and expand the evidence](analysis/03_scenario_adjustment.md) · [Download Excel](outputs/may_adjustment/PG_3_Scenario_Adjustment.xlsx)
 
