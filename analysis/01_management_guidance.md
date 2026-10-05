@@ -4,7 +4,9 @@
 
 ## 🎯 Goal
 
-Create a clear company benchmark for our April–June forecast.
+Forecast **April–June 2026 as one quarter**, then combine it with the first nine months to show the full-year result.
+
+We use quarterly public financial data. We do not split the forecast into months without evidence for that monthly pattern.
 
 **Data:** [P&G's 24 April earnings release](https://www.pginvestor.com/news/news-details/2026/PG-Announces-Fiscal-Year-2026-Third-Quarter-Results/default.aspx) → [our Excel guidance table](../outputs/april_guidance_sample/PG_1_Management_Guidance.xlsx).
 
@@ -28,12 +30,32 @@ Create a clear company benchmark for our April–June forecast.
 
 All-in sales includes currency and portfolio effects; organic sales removes specified currency and acquisition/divestiture effects. Core EPS is an adjusted measure, so it must be compared with core EPS rather than GAAP EPS.
 
+## 📅 From annual guidance to a quarterly sales target
+
+![How annual guidance becomes an April–June sales target](../architecture/annual_to_quarter.svg)
+
+1. Multiply **FY2025 sales** by **1 + the FY2026 growth rate** to get the implied full-year sales target.
+2. Subtract **actual July 2025–March 2026 sales** to get the sales needed in **April–June 2026**.
+3. Compare that amount with **April–June 2025 sales** to calculate the implied quarterly growth rate.
+
+Repeat for the company’s low, midpoint and high references. These are implied targets; our independent scenarios come next. **Do not divide the annual growth rate by four or twelve.**
+
+This subtraction works for sales amounts; organic growth and EPS require their own comparable-basis calculations.
+
 <details>
 <summary>🔎 Evidence: original announcement → our Excel table</summary>
 
 ### Original announcement
 
-Read the first paragraph for **1%–5% sales growth**, the second for **0%–4% core EPS growth**, and the final sentence for the **lower-end EPS expectation**.
+The announcement spells out percentages in words. Match these three phrases to the table above:
+
+| Find in the screenshot | Numeric meaning | Metric |
+|---|---|---|
+| **① First paragraph:** “one to five percent” | **1%–5%** | Full-year all-in sales growth |
+| **② First paragraph:** “in-line to up four percent” | **0%–4%** | Full-year organic sales growth |
+| **③ Second paragraph:** “in-line to up four percent” | **0%–4%** | Full-year core EPS growth |
+
+**“In-line” means unchanged from the prior year: 0% growth.** The screenshot below is the actual guidance section, not the quarterly headline results at the top of the announcement.
 
 ![P&G's original fiscal 2026 guidance section](../evidence/april_guidance_source.jpg)
 
@@ -53,6 +75,6 @@ The screenshot was captured in Microsoft Excel. Source limits are numeric percen
 
 ## Next question
 
-**What April–June sales would be needed to reach that annual guidance?** We will calculate that first, then challenge it with information available by 24 April.
+**What April–June sales would be needed to reach that annual guidance?** The calculation method is shown above; the numerical quarterly build is the next section, using only information available by 24 April.
 
 [← Project home](../README.md)

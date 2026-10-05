@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1040" height="260" viewBox="0 0 1040 260">
+<rect width="1040" height="260" rx="16" fill="#F2F6FA"/>
+<g font-family="Arial, sans-serif" fill="#173552">
+<text x="28" y="40" font-size="24" font-weight="bold">Annual guidance → April–June sales target</text>
+<text x="28" y="92" font-size="21">FY2025 sales × (1 + FY2026 growth guidance)</text>
+<text x="28" y="134" font-size="21">− Actual sales: July 2025–March 2026</text>
+<path d="M28 155H1000" stroke="#B8CADA"/>
+<text x="28" y="196" font-size="25" font-weight="bold" fill="#B52424">= Sales needed in April–June 2026</text>
+<text x="28" y="234" font-size="17">One quarterly forecast · Add nine-month actuals to obtain the full-year result · No monthly split</text>
+</g></svg>

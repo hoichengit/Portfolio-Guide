@@ -3,7 +3,7 @@
 **Can P&G deliver its outlook, and what would change our view?**
 
 - 📅 **Start:** the January–March results released on 24 April 2026.
-- 🎯 **Forecast:** April–June 2026, with a clear link to the full-year outlook.
+- 🎯 **Forecast:** April–June 2026 as one quarter; add nine-month actuals to show the full year. No monthly split.
 - 🔎 **Method:** separate company guidance, our assumptions and actual results.
 
 ![From guidance to forecast review](architecture/april_workflow.svg)
