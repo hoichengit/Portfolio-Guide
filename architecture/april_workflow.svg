@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="270" viewBox="0 0 1100 270">
+<rect width="1100" height="270" rx="18" fill="#F1F5FA"/>
+<g font-family="Arial, sans-serif" fill="#16324F">
+<text x="30" y="38" font-size="22" font-weight="bold">One forecast. A recorded history of changing views.</text>
+<g font-size="20" font-weight="bold"><text x="35" y="95">Company guidance</text><text x="318" y="95">Our first forecast</text><text x="602" y="95">Updated forecast</text><text x="878" y="95">Actual results</text></g>
+<g font-size="18"><text x="35" y="130">24 April reference</text><text x="318" y="130">24 April evidence</text><text x="602" y="130">15 May evidence</text><text x="878" y="130">29 July release</text></g>
+<path d="M230 162H298 M514 162H582 M798 162H858" stroke="#0093B5" stroke-width="3"/>
+<g fill="#0093B5"><path d="M298 162l-10 -6v12z"/><path d="M582 162l-10 -6v12z"/><path d="M858 162l-10 -6v12z"/></g>
+<g font-size="17"><text x="35" y="183">Low / mid / high</text><text x="318" y="183">Down / base / up</text><text x="602" y="183">What changed? Why?</text><text x="878" y="183">Explain the gaps</text></g>
+<text x="30" y="238" font-size="17" fill="#526378">Forecast target: April–June 2026 · Keep each version · Use only information available at its cutoff</text>
+</g></svg>

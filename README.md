@@ -1,59 +1,44 @@
-# P&G Financial Analysis & Agentic Scenario Planning
+# P&G | From Company Guidance to an Independent Forecast
 
-**Why did sales grow while profit fell, and did market research improve the earnings forecast?**
+**Can P&G deliver its outlook, and what would change our view?**
 
-[📄 Executive memo](reports/investment_memo.md) · [📊 Excel models](model/README.md) · [🖥️ Power BI](dashboard/README.md) · [⚙️ Agent workflow](agents/README.md)
+- 📅 **Start:** the January–March results released on 24 April 2026.
+- 🎯 **Forecast:** April–June 2026, with a clear link to the full-year outlook.
+- 🔎 **Method:** separate company guidance, our assumptions and actual results.
 
-## In 30 seconds
+![From guidance to forecast review](architecture/april_workflow.svg)
 
-**Sales grew. Costs grew faster. The forecast needed more attention to operating expenses.**
+## 1. Understand the company's outlook
 
-![P&G annual performance](architecture/summary.svg)
+**P&G guided to 1%–5% full-year sales growth. The midpoint is a reference, not our forecast.**
 
-- **Annual results:** Revenue rose **3.3%**, while operating profit fell **3.4%**.
-- **Business drivers:** FX and pricing supported growth; Beauty added **38.5%** of the sales increase.
-- **Forecast review:** May research reduced the quarterly earnings error by **$69.1m**, but the base still exceeded actual earnings by **$580.5m**.
+👉 [Read the first question and open the source-to-Excel evidence](analysis/01_management_guidance.md)
 
-[Read the findings and evidence →](analysis/README.md)
+## 2. Build and update our own view
 
-## 🧭 Explore the project
+- **24 April:** use all information publicly available by that date to build independent downside, base and upside cases.
+- **15 May:** add new evidence, save a second version and explain each assumption change.
+- **29 July:** compare both saved forecasts with the published April–June results.
 
-| Read | What you will see |
+This is a historical reconstruction. The first completed section establishes the company reference; the revised independent forecasts are the next step.
+
+## 3. Measure uncertainty — after the forecast is built
+
+Use sensitivity analysis to select the important drivers, then document distributions and correlations before running Monte Carlo simulations. Report ranges and threshold probabilities conditional on those assumptions, not guaranteed real-world odds.
+
+## 🧰 What the first section demonstrates
+
+| Skill | Evidence |
 |---|---|
-| [1. Financial performance](analysis/README.md#-historical-performance) | Seven questions, original filings, Excel calculations and red-marked evidence. |
-| [2. Market research and scenarios](analysis/08_market_research.md) | How dated evidence changes assumptions and why. |
-| [3. Forecast vs actual](analysis/10_forecast_review.md) | The remaining earnings miss and the next modelling priorities. |
-| [4. Agent design and controls](agents/README.md) | Actual role outputs, a reusable workflow and validation records. |
+| Financial research | Locate the actual guidance and preserve its date and definition. |
+| Excel | Transfer the company ranges and calculate their midpoints. |
+| Analytical judgement | Separate annual from quarterly growth, and company guidance from our own scenarios. |
 
-## 🧰 Skills demonstrated
-
-| Skill | Concrete evidence |
-|---|---|
-| Financial statement analysis | [199 reported inputs and cross-statement checks](analysis/03_statements.md). |
-| Commercial finance | [Profit bridge](analysis/02_profit.md), [segment contribution](analysis/06_segments.md) and [margin drivers](analysis/07_margins.md). |
-| Excel modelling | [Linked historical report and editable scenario model](model/README.md). |
-| Research and scenario planning | [Dated evidence, matched controls and explicit assumptions](analysis/09_scenarios.md). |
-| Power BI | [Six-page report, scenario slicers and recorded DAX checks](dashboard/README.md). |
-| Python and agent workflows | [Role handoffs, frozen assumptions and repeatable checks](agents/README.md). |
-| Financial communication | [One-page memo](reports/investment_memo.md) and [documented analytical choices](decisions/decision_log.md). |
-
-[See each skill, task and deliverable →](SKILLS.md)
+[📊 Download the Excel sample](outputs/april_guidance_sample/PG_1_Management_Guidance.xlsx) · [🔎 Read the analysis](analysis/01_management_guidance.md)
 
 <details>
-<summary>📅 Understand the two time periods</summary>
+<summary>Project version</summary>
 
-- **Historical review:** FY2024–FY2026 annual results; balance sheets at 30 June 2025 and 2026.
-- **Scenario case:** April–June 2026, reconstructed using information available by **31 March** or **15 May 2026**. The existing quarterly case and its deliverables are linked from this project.
-- **Separation:** The annual report is used for historical analysis and later outcome review. It is not an input to the March or May forecast packets.
-- **Timing:** The forecasting exercise was run retrospectively in October 2026. Date controls do not remove a model’s pretrained knowledge.
-
-</details>
-
-<details>
-<summary>📁 Data, calculations and review</summary>
-
-[Source files](data/raw/README.md) · [Processed data](data/processed/README.md) · [Data manifest](data/DATA_MANIFEST.md) · [Model guide](model/README.md) · [QA results](qa/README.md) · [Reproduce the work](src/README.md)
-
-Public-company analysis and analyst forecasts; company internal budgets are not available. The quarterly cash model uses a conversion ratio. [Scope and limitations](reports/scope.md) explain what the results support.
+This preview replaces the previous landing page and its March-start forecast framing. Earlier models and results remain in repository history and supporting files; they are not results of the revised April-start design. Monte Carlo has not yet been run for this design.
 
 </details>
