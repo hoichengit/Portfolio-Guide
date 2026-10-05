@@ -1,0 +1,15 @@
+{
+  "financial_quarters": 17,
+  "company_rows": 119,
+  "monthly_observations": 377,
+  "matched_rows": 297,
+  "diagnostic_tests": 18,
+  "approved_market_coefficients": 0,
+  "quantitative_peers": 0,
+  "peer_reason": "P&G-first model. No peer coefficient is used; single-quarter peer anecdotes are excluded from quantitative adjustment.",
+  "target_actuals_used": false,
+  "quarter_aggregation": "Sum monthly flows; average SAAR levels and indices; require 3 observations before quarterly YoY.",
+  "diagnostic_limit": "Two cutoff vintages are preserved. Historical expanding-window market tests do not replay each past release vintage.",
+  "benchmark_segment_sales": 21276.9975,
+  "corporate_prior_year_sales": 274
+}

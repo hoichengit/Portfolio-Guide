@@ -17,17 +17,18 @@
 
 💡 **The 3% annual midpoint requires only 0.45% growth in April–June.** Open question 2 to see why.
 
-## 2. Adjust the sales scenarios with new evidence
+## 2. Test market evidence before adjusting the scenarios
 
-**US, European, Chinese and competitor evidence gives a mixed picture. The $104.4m reduction is a stress test, not a measured forecast revision.**
+**Four years of history help us test a market signal before changing the forecast.**
 
-- **Starting reference:** company guidance available on 24 April.
-- **Review:** new information published from 25 April through 15 May.
-- **Result:** supporting and conflicting evidence, plus the financial impact of the original stress assumptions.
+- **Company history:** 17 quarters, January 2022–March 2026, across five reporting segments.
+- **Product research:** 11 categories mapped to available market data; missing product-level amounts stay missing.
+- **Result:** 18 exploratory company–market tests across two information cutoffs. No coefficient is approved for forecasting yet.
+- **Competitors:** optional checks for industry performance and market share; no peer coefficient enters this model.
 
-👉 [Read the completed sales adjustment and expand the evidence](analysis/03_scenario_adjustment.md) · [Download Excel](outputs/may_adjustment/PG_3_Scenario_Adjustment.xlsx)
+👉 [Read the questions and answers](analysis/03_scenario_adjustment.md) · [Expand original-report and Excel evidence](analysis/04_historical_matching.md) · [Download the historical analysis](outputs/history_review/PG_4_Historical_Market_Analysis.xlsx)
 
-This is a historical reconstruction. The adjustments are analyst sensitivities, not measured company-specific elasticities. Profit and cash-flow scenarios remain separate work.
+This historical reconstruction separates what was known on 24 April from what was known on 15 May. The previous unsupported blanket reductions have been withdrawn from the active argument. A new calibrated downside/base/upside forecast remains unfinished.
 
 ## 3. Measure uncertainty — after the forecast is built
 
@@ -39,6 +40,7 @@ Use sensitivity analysis to select the important drivers, then document distribu
 |---|---|
 | Financial research | Locate the actual guidance and preserve its date and definition. |
 | Excel | Build linked sales calculations and reconcile annual totals to quarterly targets. |
+| Market analysis | Align monthly indicators with quarterly company results; test associations and stability. |
 | Analytical judgement | Separate annual from quarterly growth, and company guidance from our own scenarios. |
 
 [📊 Download the Excel sample](outputs/april_guidance_sample/PG_1_Management_Guidance.xlsx) · [🔎 Read the analysis](analysis/01_management_guidance.md)

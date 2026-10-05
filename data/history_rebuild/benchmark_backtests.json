@@ -1,0 +1,362 @@
+[
+  {
+    "segment": "Beauty",
+    "period_end": "2024-03-31",
+    "predicted_growth": 3.75,
+    "reported_growth": 2.0,
+    "error_pp": -1.75,
+    "zero_growth_error_pp": 2.0
+  },
+  {
+    "segment": "Beauty",
+    "period_end": "2024-06-30",
+    "predicted_growth": 3.5,
+    "reported_growth": -1.0,
+    "error_pp": -4.5,
+    "zero_growth_error_pp": -1.0
+  },
+  {
+    "segment": "Beauty",
+    "period_end": "2024-09-30",
+    "predicted_growth": 1.25,
+    "reported_growth": -5.0,
+    "error_pp": -6.25,
+    "zero_growth_error_pp": -5.0
+  },
+  {
+    "segment": "Beauty",
+    "period_end": "2024-12-31",
+    "predicted_growth": -0.75,
+    "reported_growth": 0.0,
+    "error_pp": 0.75,
+    "zero_growth_error_pp": 0.0
+  },
+  {
+    "segment": "Beauty",
+    "period_end": "2025-03-31",
+    "predicted_growth": -1.0,
+    "reported_growth": -2.0,
+    "error_pp": -1.0,
+    "zero_growth_error_pp": -2.0
+  },
+  {
+    "segment": "Beauty",
+    "period_end": "2025-06-30",
+    "predicted_growth": -2.0,
+    "reported_growth": 0.0,
+    "error_pp": 2.0,
+    "zero_growth_error_pp": 0.0
+  },
+  {
+    "segment": "Beauty",
+    "period_end": "2025-09-30",
+    "predicted_growth": -1.75,
+    "reported_growth": 6.0,
+    "error_pp": 7.75,
+    "zero_growth_error_pp": 6.0
+  },
+  {
+    "segment": "Beauty",
+    "period_end": "2025-12-31",
+    "predicted_growth": 1.0,
+    "reported_growth": 5.0,
+    "error_pp": 4.0,
+    "zero_growth_error_pp": 5.0
+  },
+  {
+    "segment": "Beauty",
+    "period_end": "2026-03-31",
+    "predicted_growth": 2.25,
+    "reported_growth": 11.0,
+    "error_pp": 8.75,
+    "zero_growth_error_pp": 11.0
+  },
+  {
+    "segment": "Grooming",
+    "period_end": "2024-03-31",
+    "predicted_growth": 4.0,
+    "reported_growth": 3.0,
+    "error_pp": -1.0,
+    "zero_growth_error_pp": 3.0
+  },
+  {
+    "segment": "Grooming",
+    "period_end": "2024-06-30",
+    "predicted_growth": 4.5,
+    "reported_growth": 0.0,
+    "error_pp": -4.5,
+    "zero_growth_error_pp": 0.0
+  },
+  {
+    "segment": "Grooming",
+    "period_end": "2024-09-30",
+    "predicted_growth": 3.75,
+    "reported_growth": 0.0,
+    "error_pp": -3.75,
+    "zero_growth_error_pp": 0.0
+  },
+  {
+    "segment": "Grooming",
+    "period_end": "2024-12-31",
+    "predicted_growth": 2.25,
+    "reported_growth": 1.0,
+    "error_pp": -1.25,
+    "zero_growth_error_pp": 1.0
+  },
+  {
+    "segment": "Grooming",
+    "period_end": "2025-03-31",
+    "predicted_growth": 1.0,
+    "reported_growth": -2.0,
+    "error_pp": -3.0,
+    "zero_growth_error_pp": -2.0
+  },
+  {
+    "segment": "Grooming",
+    "period_end": "2025-06-30",
+    "predicted_growth": -0.25,
+    "reported_growth": 2.0,
+    "error_pp": 2.25,
+    "zero_growth_error_pp": 2.0
+  },
+  {
+    "segment": "Grooming",
+    "period_end": "2025-09-30",
+    "predicted_growth": 0.25,
+    "reported_growth": 5.0,
+    "error_pp": 4.75,
+    "zero_growth_error_pp": 5.0
+  },
+  {
+    "segment": "Grooming",
+    "period_end": "2025-12-31",
+    "predicted_growth": 1.5,
+    "reported_growth": 2.0,
+    "error_pp": 0.5,
+    "zero_growth_error_pp": 2.0
+  },
+  {
+    "segment": "Grooming",
+    "period_end": "2026-03-31",
+    "predicted_growth": 1.75,
+    "reported_growth": 7.0,
+    "error_pp": 5.25,
+    "zero_growth_error_pp": 7.0
+  },
+  {
+    "segment": "Health Care",
+    "period_end": "2024-03-31",
+    "predicted_growth": 6.0,
+    "reported_growth": 2.0,
+    "error_pp": -4.0,
+    "zero_growth_error_pp": 2.0
+  },
+  {
+    "segment": "Health Care",
+    "period_end": "2024-06-30",
+    "predicted_growth": 5.0,
+    "reported_growth": 3.0,
+    "error_pp": -2.0,
+    "zero_growth_error_pp": 3.0
+  },
+  {
+    "segment": "Health Care",
+    "period_end": "2024-09-30",
+    "predicted_growth": 5.0,
+    "reported_growth": 2.0,
+    "error_pp": -3.0,
+    "zero_growth_error_pp": 2.0
+  },
+  {
+    "segment": "Health Care",
+    "period_end": "2024-12-31",
+    "predicted_growth": 2.75,
+    "reported_growth": 2.0,
+    "error_pp": -0.75,
+    "zero_growth_error_pp": 2.0
+  },
+  {
+    "segment": "Health Care",
+    "period_end": "2025-03-31",
+    "predicted_growth": 2.25,
+    "reported_growth": 0.0,
+    "error_pp": -2.25,
+    "zero_growth_error_pp": 0.0
+  },
+  {
+    "segment": "Health Care",
+    "period_end": "2025-06-30",
+    "predicted_growth": 1.75,
+    "reported_growth": 2.0,
+    "error_pp": 0.25,
+    "zero_growth_error_pp": 2.0
+  },
+  {
+    "segment": "Health Care",
+    "period_end": "2025-09-30",
+    "predicted_growth": 1.5,
+    "reported_growth": 2.0,
+    "error_pp": 0.5,
+    "zero_growth_error_pp": 2.0
+  },
+  {
+    "segment": "Health Care",
+    "period_end": "2025-12-31",
+    "predicted_growth": 1.5,
+    "reported_growth": 5.0,
+    "error_pp": 3.5,
+    "zero_growth_error_pp": 5.0
+  },
+  {
+    "segment": "Health Care",
+    "period_end": "2026-03-31",
+    "predicted_growth": 2.25,
+    "reported_growth": 7.0,
+    "error_pp": 4.75,
+    "zero_growth_error_pp": 7.0
+  },
+  {
+    "segment": "Fabric & Home Care",
+    "period_end": "2024-03-31",
+    "predicted_growth": 5.75,
+    "reported_growth": 2.0,
+    "error_pp": -3.75,
+    "zero_growth_error_pp": 2.0
+  },
+  {
+    "segment": "Fabric & Home Care",
+    "period_end": "2024-06-30",
+    "predicted_growth": 5.0,
+    "reported_growth": 0.0,
+    "error_pp": -5.0,
+    "zero_growth_error_pp": 0.0
+  },
+  {
+    "segment": "Fabric & Home Care",
+    "period_end": "2024-09-30",
+    "predicted_growth": 3.75,
+    "reported_growth": 1.0,
+    "error_pp": -2.75,
+    "zero_growth_error_pp": 1.0
+  },
+  {
+    "segment": "Fabric & Home Care",
+    "period_end": "2024-12-31",
+    "predicted_growth": 2.0,
+    "reported_growth": 2.0,
+    "error_pp": 0.0,
+    "zero_growth_error_pp": 2.0
+  },
+  {
+    "segment": "Fabric & Home Care",
+    "period_end": "2025-03-31",
+    "predicted_growth": 1.25,
+    "reported_growth": -3.0,
+    "error_pp": -4.25,
+    "zero_growth_error_pp": -3.0
+  },
+  {
+    "segment": "Fabric & Home Care",
+    "period_end": "2025-06-30",
+    "predicted_growth": 0.0,
+    "reported_growth": 2.0,
+    "error_pp": 2.0,
+    "zero_growth_error_pp": 2.0
+  },
+  {
+    "segment": "Fabric & Home Care",
+    "period_end": "2025-09-30",
+    "predicted_growth": 0.5,
+    "reported_growth": 1.0,
+    "error_pp": 0.5,
+    "zero_growth_error_pp": 1.0
+  },
+  {
+    "segment": "Fabric & Home Care",
+    "period_end": "2025-12-31",
+    "predicted_growth": 0.5,
+    "reported_growth": 1.0,
+    "error_pp": 0.5,
+    "zero_growth_error_pp": 1.0
+  },
+  {
+    "segment": "Fabric & Home Care",
+    "period_end": "2026-03-31",
+    "predicted_growth": 0.25,
+    "reported_growth": 7.0,
+    "error_pp": 6.75,
+    "zero_growth_error_pp": 7.0
+  },
+  {
+    "segment": "Baby, Feminine & Family Care",
+    "period_end": "2024-03-31",
+    "predicted_growth": 4.25,
+    "reported_growth": -2.0,
+    "error_pp": -6.25,
+    "zero_growth_error_pp": -2.0
+  },
+  {
+    "segment": "Baby, Feminine & Family Care",
+    "period_end": "2024-06-30",
+    "predicted_growth": 3.0,
+    "reported_growth": -3.0,
+    "error_pp": -6.0,
+    "zero_growth_error_pp": -3.0
+  },
+  {
+    "segment": "Baby, Feminine & Family Care",
+    "period_end": "2024-09-30",
+    "predicted_growth": 0.5,
+    "reported_growth": -2.0,
+    "error_pp": -2.5,
+    "zero_growth_error_pp": -2.0
+  },
+  {
+    "segment": "Baby, Feminine & Family Care",
+    "period_end": "2024-12-31",
+    "predicted_growth": -1.25,
+    "reported_growth": 3.0,
+    "error_pp": 4.25,
+    "zero_growth_error_pp": 3.0
+  },
+  {
+    "segment": "Baby, Feminine & Family Care",
+    "period_end": "2025-03-31",
+    "predicted_growth": -1.0,
+    "reported_growth": -4.0,
+    "error_pp": -3.0,
+    "zero_growth_error_pp": -4.0
+  },
+  {
+    "segment": "Baby, Feminine & Family Care",
+    "period_end": "2025-06-30",
+    "predicted_growth": -1.5,
+    "reported_growth": 2.0,
+    "error_pp": 3.5,
+    "zero_growth_error_pp": 2.0
+  },
+  {
+    "segment": "Baby, Feminine & Family Care",
+    "period_end": "2025-09-30",
+    "predicted_growth": -0.25,
+    "reported_growth": 1.0,
+    "error_pp": 1.25,
+    "zero_growth_error_pp": 1.0
+  },
+  {
+    "segment": "Baby, Feminine & Family Care",
+    "period_end": "2025-12-31",
+    "predicted_growth": 0.5,
+    "reported_growth": -3.0,
+    "error_pp": -3.5,
+    "zero_growth_error_pp": -3.0
+  },
+  {
+    "segment": "Baby, Feminine & Family Care",
+    "period_end": "2026-03-31",
+    "predicted_growth": -1.0,
+    "reported_growth": 6.0,
+    "error_pp": 7.0,
+    "zero_growth_error_pp": 6.0
+  }
+]

@@ -1,0 +1,992 @@
+[
+  {
+    "series": "RSHPCS",
+    "vintage": "2026-04-24",
+    "period_end": "2022-03-31",
+    "level": 97633.0,
+    "prior_year_level": 91538.0,
+    "growth_yoy": 6.658436933295464,
+    "aggregation": "sum",
+    "months": 3
+  },
+  {
+    "series": "RSHPCS",
+    "vintage": "2026-04-24",
+    "period_end": "2022-06-30",
+    "level": 98706.0,
+    "prior_year_level": 95612.0,
+    "growth_yoy": 3.235995481738696,
+    "aggregation": "sum",
+    "months": 3
+  },
+  {
+    "series": "RSHPCS",
+    "vintage": "2026-04-24",
+    "period_end": "2022-09-30",
+    "level": 100278.0,
+    "prior_year_level": 96837.0,
+    "growth_yoy": 3.553393847393038,
+    "aggregation": "sum",
+    "months": 3
+  },
+  {
+    "series": "RSHPCS",
+    "vintage": "2026-04-24",
+    "period_end": "2022-12-31",
+    "level": 100667.0,
+    "prior_year_level": 96979.0,
+    "growth_yoy": 3.8028851607049052,
+    "aggregation": "sum",
+    "months": 3
+  },
+  {
+    "series": "RSHPCS",
+    "vintage": "2026-04-24",
+    "period_end": "2023-03-31",
+    "level": 104880.0,
+    "prior_year_level": 97633.0,
+    "growth_yoy": 7.4226951952721,
+    "aggregation": "sum",
+    "months": 3
+  },
+  {
+    "series": "RSHPCS",
+    "vintage": "2026-04-24",
+    "period_end": "2023-06-30",
+    "level": 106972.0,
+    "prior_year_level": 98706.0,
+    "growth_yoy": 8.374364273701707,
+    "aggregation": "sum",
+    "months": 3
+  },
+  {
+    "series": "RSHPCS",
+    "vintage": "2026-04-24",
+    "period_end": "2023-09-30",
+    "level": 107563.0,
+    "prior_year_level": 100278.0,
+    "growth_yoy": 7.2648038453100305,
+    "aggregation": "sum",
+    "months": 3
+  },
+  {
+    "series": "RSHPCS",
+    "vintage": "2026-04-24",
+    "period_end": "2023-12-31",
+    "level": 110658.0,
+    "prior_year_level": 100667.0,
+    "growth_yoy": 9.924801573504727,
+    "aggregation": "sum",
+    "months": 3
+  },
+  {
+    "series": "RSHPCS",
+    "vintage": "2026-04-24",
+    "period_end": "2024-03-31",
+    "level": 107216.0,
+    "prior_year_level": 104880.0,
+    "growth_yoy": 2.22730739893211,
+    "aggregation": "sum",
+    "months": 3
+  },
+  {
+    "series": "RSHPCS",
+    "vintage": "2026-04-24",
+    "period_end": "2024-06-30",
+    "level": 107827.0,
+    "prior_year_level": 106972.0,
+    "growth_yoy": 0.7992745765246889,
+    "aggregation": "sum",
+    "months": 3
+  },
+  {
+    "series": "RSHPCS",
+    "vintage": "2026-04-24",
+    "period_end": "2024-09-30",
+    "level": 113573.0,
+    "prior_year_level": 107563.0,
+    "growth_yoy": 5.587423184552298,
+    "aggregation": "sum",
+    "months": 3
+  },
+  {
+    "series": "RSHPCS",
+    "vintage": "2026-04-24",
+    "period_end": "2024-12-31",
+    "level": 114112.0,
+    "prior_year_level": 110658.0,
+    "growth_yoy": 3.121328778759791,
+    "aggregation": "sum",
+    "months": 3
+  },
+  {
+    "series": "RSHPCS",
+    "vintage": "2026-04-24",
+    "period_end": "2025-03-31",
+    "level": 115895.0,
+    "prior_year_level": 107216.0,
+    "growth_yoy": 8.094873899417987,
+    "aggregation": "sum",
+    "months": 3
+  },
+  {
+    "series": "RSHPCS",
+    "vintage": "2026-04-24",
+    "period_end": "2025-06-30",
+    "level": 117502.0,
+    "prior_year_level": 107827.0,
+    "growth_yoy": 8.972706279503285,
+    "aggregation": "sum",
+    "months": 3
+  },
+  {
+    "series": "RSHPCS",
+    "vintage": "2026-04-24",
+    "period_end": "2025-09-30",
+    "level": 120937.0,
+    "prior_year_level": 113573.0,
+    "growth_yoy": 6.4839354424026885,
+    "aggregation": "sum",
+    "months": 3
+  },
+  {
+    "series": "RSHPCS",
+    "vintage": "2026-04-24",
+    "period_end": "2025-12-31",
+    "level": 120797.0,
+    "prior_year_level": 114112.0,
+    "growth_yoy": 5.858279584969162,
+    "aggregation": "sum",
+    "months": 3
+  },
+  {
+    "series": "RSHPCS",
+    "vintage": "2026-04-24",
+    "period_end": "2026-03-31",
+    "level": 118465.0,
+    "prior_year_level": 115895.0,
+    "growth_yoy": 2.2175244833685603,
+    "aggregation": "sum",
+    "months": 3
+  },
+  {
+    "series": "RSHPCS",
+    "vintage": "2026-05-15",
+    "period_end": "2022-03-31",
+    "level": 97633.0,
+    "prior_year_level": 91538.0,
+    "growth_yoy": 6.658436933295464,
+    "aggregation": "sum",
+    "months": 3
+  },
+  {
+    "series": "RSHPCS",
+    "vintage": "2026-05-15",
+    "period_end": "2022-06-30",
+    "level": 98706.0,
+    "prior_year_level": 95612.0,
+    "growth_yoy": 3.235995481738696,
+    "aggregation": "sum",
+    "months": 3
+  },
+  {
+    "series": "RSHPCS",
+    "vintage": "2026-05-15",
+    "period_end": "2022-09-30",
+    "level": 100278.0,
+    "prior_year_level": 96837.0,
+    "growth_yoy": 3.553393847393038,
+    "aggregation": "sum",
+    "months": 3
+  },
+  {
+    "series": "RSHPCS",
+    "vintage": "2026-05-15",
+    "period_end": "2022-12-31",
+    "level": 100667.0,
+    "prior_year_level": 96979.0,
+    "growth_yoy": 3.8028851607049052,
+    "aggregation": "sum",
+    "months": 3
+  },
+  {
+    "series": "RSHPCS",
+    "vintage": "2026-05-15",
+    "period_end": "2023-03-31",
+    "level": 104880.0,
+    "prior_year_level": 97633.0,
+    "growth_yoy": 7.4226951952721,
+    "aggregation": "sum",
+    "months": 3
+  },
+  {
+    "series": "RSHPCS",
+    "vintage": "2026-05-15",
+    "period_end": "2023-06-30",
+    "level": 106972.0,
+    "prior_year_level": 98706.0,
+    "growth_yoy": 8.374364273701707,
+    "aggregation": "sum",
+    "months": 3
+  },
+  {
+    "series": "RSHPCS",
+    "vintage": "2026-05-15",
+    "period_end": "2023-09-30",
+    "level": 107563.0,
+    "prior_year_level": 100278.0,
+    "growth_yoy": 7.2648038453100305,
+    "aggregation": "sum",
+    "months": 3
+  },
+  {
+    "series": "RSHPCS",
+    "vintage": "2026-05-15",
+    "period_end": "2023-12-31",
+    "level": 110658.0,
+    "prior_year_level": 100667.0,
+    "growth_yoy": 9.924801573504727,
+    "aggregation": "sum",
+    "months": 3
+  },
+  {
+    "series": "RSHPCS",
+    "vintage": "2026-05-15",
+    "period_end": "2024-03-31",
+    "level": 107216.0,
+    "prior_year_level": 104880.0,
+    "growth_yoy": 2.22730739893211,
+    "aggregation": "sum",
+    "months": 3
+  },
+  {
+    "series": "RSHPCS",
+    "vintage": "2026-05-15",
+    "period_end": "2024-06-30",
+    "level": 107827.0,
+    "prior_year_level": 106972.0,
+    "growth_yoy": 0.7992745765246889,
+    "aggregation": "sum",
+    "months": 3
+  },
+  {
+    "series": "RSHPCS",
+    "vintage": "2026-05-15",
+    "period_end": "2024-09-30",
+    "level": 113573.0,
+    "prior_year_level": 107563.0,
+    "growth_yoy": 5.587423184552298,
+    "aggregation": "sum",
+    "months": 3
+  },
+  {
+    "series": "RSHPCS",
+    "vintage": "2026-05-15",
+    "period_end": "2024-12-31",
+    "level": 114112.0,
+    "prior_year_level": 110658.0,
+    "growth_yoy": 3.121328778759791,
+    "aggregation": "sum",
+    "months": 3
+  },
+  {
+    "series": "RSHPCS",
+    "vintage": "2026-05-15",
+    "period_end": "2025-03-31",
+    "level": 115816.0,
+    "prior_year_level": 107216.0,
+    "growth_yoy": 8.021190867034766,
+    "aggregation": "sum",
+    "months": 3
+  },
+  {
+    "series": "RSHPCS",
+    "vintage": "2026-05-15",
+    "period_end": "2025-06-30",
+    "level": 117819.0,
+    "prior_year_level": 107827.0,
+    "growth_yoy": 9.266695725560382,
+    "aggregation": "sum",
+    "months": 3
+  },
+  {
+    "series": "RSHPCS",
+    "vintage": "2026-05-15",
+    "period_end": "2025-09-30",
+    "level": 120937.0,
+    "prior_year_level": 113573.0,
+    "growth_yoy": 6.4839354424026885,
+    "aggregation": "sum",
+    "months": 3
+  },
+  {
+    "series": "RSHPCS",
+    "vintage": "2026-05-15",
+    "period_end": "2025-12-31",
+    "level": 120797.0,
+    "prior_year_level": 114112.0,
+    "growth_yoy": 5.858279584969162,
+    "aggregation": "sum",
+    "months": 3
+  },
+  {
+    "series": "RSHPCS",
+    "vintage": "2026-05-15",
+    "period_end": "2026-03-31",
+    "level": 118700.0,
+    "prior_year_level": 115816.0,
+    "growth_yoy": 2.4901568004420893,
+    "aggregation": "sum",
+    "months": 3
+  },
+  {
+    "series": "PCENDC96",
+    "vintage": "2026-04-24",
+    "period_end": "2022-03-31",
+    "level": 3334.4,
+    "prior_year_level": 3218.5666666666666,
+    "growth_yoy": 3.598910488105478,
+    "aggregation": "mean",
+    "months": 3
+  },
+  {
+    "series": "PCENDC96",
+    "vintage": "2026-04-24",
+    "period_end": "2022-06-30",
+    "level": 3335.0333333333333,
+    "prior_year_level": 3336.3,
+    "growth_yoy": -0.03796621007303713,
+    "aggregation": "mean",
+    "months": 3
+  },
+  {
+    "series": "PCENDC96",
+    "vintage": "2026-04-24",
+    "period_end": "2022-09-30",
+    "level": 3310.0666666666666,
+    "prior_year_level": 3342.633333333333,
+    "growth_yoy": -0.9742817539066029,
+    "aggregation": "mean",
+    "months": 3
+  },
+  {
+    "series": "PCENDC96",
+    "vintage": "2026-04-24",
+    "period_end": "2022-12-31",
+    "level": 3302.6,
+    "prior_year_level": 3360.0,
+    "growth_yoy": -1.708333333333334,
+    "aggregation": "mean",
+    "months": 3
+  },
+  {
+    "series": "PCENDC96",
+    "vintage": "2026-04-24",
+    "period_end": "2023-03-31",
+    "level": 3317.266666666667,
+    "prior_year_level": 3334.4,
+    "growth_yoy": -0.5138355726167609,
+    "aggregation": "mean",
+    "months": 3
+  },
+  {
+    "series": "PCENDC96",
+    "vintage": "2026-04-24",
+    "period_end": "2023-06-30",
+    "level": 3322.233333333333,
+    "prior_year_level": 3335.0333333333333,
+    "growth_yoy": -0.38380425982749156,
+    "aggregation": "mean",
+    "months": 3
+  },
+  {
+    "series": "PCENDC96",
+    "vintage": "2026-04-24",
+    "period_end": "2023-09-30",
+    "level": 3349.4333333333334,
+    "prior_year_level": 3310.0666666666666,
+    "growth_yoy": 1.1893013232362026,
+    "aggregation": "mean",
+    "months": 3
+  },
+  {
+    "series": "PCENDC96",
+    "vintage": "2026-04-24",
+    "period_end": "2023-12-31",
+    "level": 3376.1,
+    "prior_year_level": 3302.6,
+    "growth_yoy": 2.2255192878338326,
+    "aggregation": "mean",
+    "months": 3
+  },
+  {
+    "series": "PCENDC96",
+    "vintage": "2026-04-24",
+    "period_end": "2024-03-31",
+    "level": 3362.8,
+    "prior_year_level": 3317.266666666667,
+    "growth_yoy": 1.3726160091641626,
+    "aggregation": "mean",
+    "months": 3
+  },
+  {
+    "series": "PCENDC96",
+    "vintage": "2026-04-24",
+    "period_end": "2024-06-30",
+    "level": 3398.0,
+    "prior_year_level": 3322.233333333333,
+    "growth_yoy": 2.2805943792830297,
+    "aggregation": "mean",
+    "months": 3
+  },
+  {
+    "series": "PCENDC96",
+    "vintage": "2026-04-24",
+    "period_end": "2024-09-30",
+    "level": 3438.2000000000003,
+    "prior_year_level": 3349.4333333333334,
+    "growth_yoy": 2.650199536239972,
+    "aggregation": "mean",
+    "months": 3
+  },
+  {
+    "series": "PCENDC96",
+    "vintage": "2026-04-24",
+    "period_end": "2024-12-31",
+    "level": 3470.2,
+    "prior_year_level": 3376.1,
+    "growth_yoy": 2.787239714463441,
+    "aggregation": "mean",
+    "months": 3
+  },
+  {
+    "series": "PCENDC96",
+    "vintage": "2026-04-24",
+    "period_end": "2025-03-31",
+    "level": 3488.9,
+    "prior_year_level": 3362.8,
+    "growth_yoy": 3.749851314380881,
+    "aggregation": "mean",
+    "months": 3
+  },
+  {
+    "series": "PCENDC96",
+    "vintage": "2026-04-24",
+    "period_end": "2025-06-30",
+    "level": 3507.866666666667,
+    "prior_year_level": 3398.0,
+    "growth_yoy": 3.2332744751814912,
+    "aggregation": "mean",
+    "months": 3
+  },
+  {
+    "series": "PCENDC96",
+    "vintage": "2026-04-24",
+    "period_end": "2025-09-30",
+    "level": 3541.233333333333,
+    "prior_year_level": 3438.2000000000003,
+    "growth_yoy": 2.996723091540132,
+    "aggregation": "mean",
+    "months": 3
+  },
+  {
+    "series": "PCENDC96",
+    "vintage": "2026-04-24",
+    "period_end": "2025-12-31",
+    "level": 3544.733333333333,
+    "prior_year_level": 3470.2,
+    "growth_yoy": 2.1478108850594646,
+    "aggregation": "mean",
+    "months": 3
+  },
+  {
+    "series": "PCENDC96",
+    "vintage": "2026-05-15",
+    "period_end": "2022-03-31",
+    "level": 3334.4,
+    "prior_year_level": 3218.5666666666666,
+    "growth_yoy": 3.598910488105478,
+    "aggregation": "mean",
+    "months": 3
+  },
+  {
+    "series": "PCENDC96",
+    "vintage": "2026-05-15",
+    "period_end": "2022-06-30",
+    "level": 3335.0333333333333,
+    "prior_year_level": 3336.3,
+    "growth_yoy": -0.03796621007303713,
+    "aggregation": "mean",
+    "months": 3
+  },
+  {
+    "series": "PCENDC96",
+    "vintage": "2026-05-15",
+    "period_end": "2022-09-30",
+    "level": 3310.0666666666666,
+    "prior_year_level": 3342.633333333333,
+    "growth_yoy": -0.9742817539066029,
+    "aggregation": "mean",
+    "months": 3
+  },
+  {
+    "series": "PCENDC96",
+    "vintage": "2026-05-15",
+    "period_end": "2022-12-31",
+    "level": 3302.6,
+    "prior_year_level": 3360.0,
+    "growth_yoy": -1.708333333333334,
+    "aggregation": "mean",
+    "months": 3
+  },
+  {
+    "series": "PCENDC96",
+    "vintage": "2026-05-15",
+    "period_end": "2023-03-31",
+    "level": 3317.266666666667,
+    "prior_year_level": 3334.4,
+    "growth_yoy": -0.5138355726167609,
+    "aggregation": "mean",
+    "months": 3
+  },
+  {
+    "series": "PCENDC96",
+    "vintage": "2026-05-15",
+    "period_end": "2023-06-30",
+    "level": 3322.233333333333,
+    "prior_year_level": 3335.0333333333333,
+    "growth_yoy": -0.38380425982749156,
+    "aggregation": "mean",
+    "months": 3
+  },
+  {
+    "series": "PCENDC96",
+    "vintage": "2026-05-15",
+    "period_end": "2023-09-30",
+    "level": 3349.4333333333334,
+    "prior_year_level": 3310.0666666666666,
+    "growth_yoy": 1.1893013232362026,
+    "aggregation": "mean",
+    "months": 3
+  },
+  {
+    "series": "PCENDC96",
+    "vintage": "2026-05-15",
+    "period_end": "2023-12-31",
+    "level": 3376.1,
+    "prior_year_level": 3302.6,
+    "growth_yoy": 2.2255192878338326,
+    "aggregation": "mean",
+    "months": 3
+  },
+  {
+    "series": "PCENDC96",
+    "vintage": "2026-05-15",
+    "period_end": "2024-03-31",
+    "level": 3362.8,
+    "prior_year_level": 3317.266666666667,
+    "growth_yoy": 1.3726160091641626,
+    "aggregation": "mean",
+    "months": 3
+  },
+  {
+    "series": "PCENDC96",
+    "vintage": "2026-05-15",
+    "period_end": "2024-06-30",
+    "level": 3398.0,
+    "prior_year_level": 3322.233333333333,
+    "growth_yoy": 2.2805943792830297,
+    "aggregation": "mean",
+    "months": 3
+  },
+  {
+    "series": "PCENDC96",
+    "vintage": "2026-05-15",
+    "period_end": "2024-09-30",
+    "level": 3438.2000000000003,
+    "prior_year_level": 3349.4333333333334,
+    "growth_yoy": 2.650199536239972,
+    "aggregation": "mean",
+    "months": 3
+  },
+  {
+    "series": "PCENDC96",
+    "vintage": "2026-05-15",
+    "period_end": "2024-12-31",
+    "level": 3470.2,
+    "prior_year_level": 3376.1,
+    "growth_yoy": 2.787239714463441,
+    "aggregation": "mean",
+    "months": 3
+  },
+  {
+    "series": "PCENDC96",
+    "vintage": "2026-05-15",
+    "period_end": "2025-03-31",
+    "level": 3488.9,
+    "prior_year_level": 3362.8,
+    "growth_yoy": 3.749851314380881,
+    "aggregation": "mean",
+    "months": 3
+  },
+  {
+    "series": "PCENDC96",
+    "vintage": "2026-05-15",
+    "period_end": "2025-06-30",
+    "level": 3507.866666666667,
+    "prior_year_level": 3398.0,
+    "growth_yoy": 3.2332744751814912,
+    "aggregation": "mean",
+    "months": 3
+  },
+  {
+    "series": "PCENDC96",
+    "vintage": "2026-05-15",
+    "period_end": "2025-09-30",
+    "level": 3541.233333333333,
+    "prior_year_level": 3438.2000000000003,
+    "growth_yoy": 2.996723091540132,
+    "aggregation": "mean",
+    "months": 3
+  },
+  {
+    "series": "PCENDC96",
+    "vintage": "2026-05-15",
+    "period_end": "2025-12-31",
+    "level": 3544.733333333333,
+    "prior_year_level": 3470.2,
+    "growth_yoy": 2.1478108850594646,
+    "aggregation": "mean",
+    "months": 3
+  },
+  {
+    "series": "PCENDC96",
+    "vintage": "2026-05-15",
+    "period_end": "2026-03-31",
+    "level": 3542.9,
+    "prior_year_level": 3488.9,
+    "growth_yoy": 1.5477657714465964,
+    "aggregation": "mean",
+    "months": 3
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "vintage": "2026-04-24",
+    "period_end": "2022-03-31",
+    "level": 161.63166666666666,
+    "prior_year_level": 159.987,
+    "growth_yoy": 1.0280001916822323,
+    "aggregation": "mean",
+    "months": 3
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "vintage": "2026-04-24",
+    "period_end": "2022-06-30",
+    "level": 164.41333333333333,
+    "prior_year_level": 159.76066666666665,
+    "growth_yoy": 2.912272941608496,
+    "aggregation": "mean",
+    "months": 3
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "vintage": "2026-04-24",
+    "period_end": "2022-09-30",
+    "level": 168.94833333333332,
+    "prior_year_level": 159.61066666666667,
+    "growth_yoy": 5.850277341531052,
+    "aggregation": "mean",
+    "months": 3
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "vintage": "2026-04-24",
+    "period_end": "2022-12-31",
+    "level": 171.058,
+    "prior_year_level": 159.48566666666667,
+    "growth_yoy": 7.25603345755208,
+    "aggregation": "mean",
+    "months": 3
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "vintage": "2026-04-24",
+    "period_end": "2023-03-31",
+    "level": 172.578,
+    "prior_year_level": 161.63166666666666,
+    "growth_yoy": 6.77239402344838,
+    "aggregation": "mean",
+    "months": 3
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "vintage": "2026-04-24",
+    "period_end": "2023-06-30",
+    "level": 176.018,
+    "prior_year_level": 164.41333333333333,
+    "growth_yoy": 7.05822723217906,
+    "aggregation": "mean",
+    "months": 3
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "vintage": "2026-04-24",
+    "period_end": "2023-09-30",
+    "level": 178.22966666666667,
+    "prior_year_level": 168.94833333333332,
+    "growth_yoy": 5.4935927157217845,
+    "aggregation": "mean",
+    "months": 3
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "vintage": "2026-04-24",
+    "period_end": "2023-12-31",
+    "level": 178.26333333333332,
+    "prior_year_level": 171.058,
+    "growth_yoy": 4.212216519153356,
+    "aggregation": "mean",
+    "months": 3
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "vintage": "2026-04-24",
+    "period_end": "2024-03-31",
+    "level": 178.85433333333333,
+    "prior_year_level": 172.578,
+    "growth_yoy": 3.636809635836169,
+    "aggregation": "mean",
+    "months": 3
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "vintage": "2026-04-24",
+    "period_end": "2024-06-30",
+    "level": 178.93066666666667,
+    "prior_year_level": 176.018,
+    "growth_yoy": 1.6547550061168037,
+    "aggregation": "mean",
+    "months": 3
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "vintage": "2026-04-24",
+    "period_end": "2024-09-30",
+    "level": 178.895,
+    "prior_year_level": 178.22966666666667,
+    "growth_yoy": 0.373301115227731,
+    "aggregation": "mean",
+    "months": 3
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "vintage": "2026-04-24",
+    "period_end": "2024-12-31",
+    "level": 178.87133333333333,
+    "prior_year_level": 178.26333333333332,
+    "growth_yoy": 0.341068456777438,
+    "aggregation": "mean",
+    "months": 3
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "vintage": "2026-04-24",
+    "period_end": "2025-03-31",
+    "level": 179.27633333333333,
+    "prior_year_level": 178.85433333333333,
+    "growth_yoy": 0.23594619830289432,
+    "aggregation": "mean",
+    "months": 3
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "vintage": "2026-04-24",
+    "period_end": "2025-06-30",
+    "level": 179.83566666666667,
+    "prior_year_level": 178.93066666666667,
+    "growth_yoy": 0.5057825004843641,
+    "aggregation": "mean",
+    "months": 3
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "vintage": "2026-04-24",
+    "period_end": "2025-09-30",
+    "level": 180.69866666666667,
+    "prior_year_level": 178.895,
+    "growth_yoy": 1.0082264270475205,
+    "aggregation": "mean",
+    "months": 3
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "vintage": "2026-04-24",
+    "period_end": "2026-03-31",
+    "level": 182.77066666666667,
+    "prior_year_level": 179.27633333333333,
+    "growth_yoy": 1.9491325309717533,
+    "aggregation": "mean",
+    "months": 3
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "vintage": "2026-05-15",
+    "period_end": "2022-03-31",
+    "level": 161.63166666666666,
+    "prior_year_level": 159.987,
+    "growth_yoy": 1.0280001916822323,
+    "aggregation": "mean",
+    "months": 3
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "vintage": "2026-05-15",
+    "period_end": "2022-06-30",
+    "level": 164.41333333333333,
+    "prior_year_level": 159.76066666666665,
+    "growth_yoy": 2.912272941608496,
+    "aggregation": "mean",
+    "months": 3
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "vintage": "2026-05-15",
+    "period_end": "2022-09-30",
+    "level": 168.94833333333332,
+    "prior_year_level": 159.61066666666667,
+    "growth_yoy": 5.850277341531052,
+    "aggregation": "mean",
+    "months": 3
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "vintage": "2026-05-15",
+    "period_end": "2022-12-31",
+    "level": 171.058,
+    "prior_year_level": 159.48566666666667,
+    "growth_yoy": 7.25603345755208,
+    "aggregation": "mean",
+    "months": 3
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "vintage": "2026-05-15",
+    "period_end": "2023-03-31",
+    "level": 172.578,
+    "prior_year_level": 161.63166666666666,
+    "growth_yoy": 6.77239402344838,
+    "aggregation": "mean",
+    "months": 3
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "vintage": "2026-05-15",
+    "period_end": "2023-06-30",
+    "level": 176.018,
+    "prior_year_level": 164.41333333333333,
+    "growth_yoy": 7.05822723217906,
+    "aggregation": "mean",
+    "months": 3
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "vintage": "2026-05-15",
+    "period_end": "2023-09-30",
+    "level": 178.22966666666667,
+    "prior_year_level": 168.94833333333332,
+    "growth_yoy": 5.4935927157217845,
+    "aggregation": "mean",
+    "months": 3
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "vintage": "2026-05-15",
+    "period_end": "2023-12-31",
+    "level": 178.26333333333332,
+    "prior_year_level": 171.058,
+    "growth_yoy": 4.212216519153356,
+    "aggregation": "mean",
+    "months": 3
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "vintage": "2026-05-15",
+    "period_end": "2024-03-31",
+    "level": 178.85433333333333,
+    "prior_year_level": 172.578,
+    "growth_yoy": 3.636809635836169,
+    "aggregation": "mean",
+    "months": 3
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "vintage": "2026-05-15",
+    "period_end": "2024-06-30",
+    "level": 178.93066666666667,
+    "prior_year_level": 176.018,
+    "growth_yoy": 1.6547550061168037,
+    "aggregation": "mean",
+    "months": 3
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "vintage": "2026-05-15",
+    "period_end": "2024-09-30",
+    "level": 178.895,
+    "prior_year_level": 178.22966666666667,
+    "growth_yoy": 0.373301115227731,
+    "aggregation": "mean",
+    "months": 3
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "vintage": "2026-05-15",
+    "period_end": "2024-12-31",
+    "level": 178.87133333333333,
+    "prior_year_level": 178.26333333333332,
+    "growth_yoy": 0.341068456777438,
+    "aggregation": "mean",
+    "months": 3
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "vintage": "2026-05-15",
+    "period_end": "2025-03-31",
+    "level": 179.27633333333333,
+    "prior_year_level": 178.85433333333333,
+    "growth_yoy": 0.23594619830289432,
+    "aggregation": "mean",
+    "months": 3
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "vintage": "2026-05-15",
+    "period_end": "2025-06-30",
+    "level": 179.83566666666667,
+    "prior_year_level": 178.93066666666667,
+    "growth_yoy": 0.5057825004843641,
+    "aggregation": "mean",
+    "months": 3
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "vintage": "2026-05-15",
+    "period_end": "2025-09-30",
+    "level": 180.69866666666667,
+    "prior_year_level": 178.895,
+    "growth_yoy": 1.0082264270475205,
+    "aggregation": "mean",
+    "months": 3
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "vintage": "2026-05-15",
+    "period_end": "2026-03-31",
+    "level": 182.77066666666667,
+    "prior_year_level": 179.27633333333333,
+    "growth_yoy": 1.9491325309717533,
+    "aggregation": "mean",
+    "months": 3
+  }
+]

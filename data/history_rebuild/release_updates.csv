@@ -1,0 +1,4 @@
+series,april_last_month,may_last_month,latest_value,monthly_change_pct,new_observation_months,revised_prior_months,decision
+CUUR0000SEGB,2026-03-01,2026-04-01,184.895,0.6165583744190961,2026-04-01,0,Refresh evidence; do not apply an unvalidated global sales coefficient
+PCENDC96,2026-02-01,2026-03-01,3551.1,0.34757544930483775,2026-03-01,2,Refresh evidence; do not apply an unvalidated global sales coefficient
+RSHPCS,2026-03-01,2026-04-01,40099.0,-0.017453747568940692,2026-04-01,4,Refresh evidence; do not apply an unvalidated global sales coefficient

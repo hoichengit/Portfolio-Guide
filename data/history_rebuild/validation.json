@@ -1,0 +1,94 @@
+{
+  "quarters": 17,
+  "segments": 5,
+  "first": "2022-03-31",
+  "last": "2026-03-31",
+  "quarterly_reconciliations": [
+    {
+      "period": "2022-03-31",
+      "segment_sum_difference_usdm": 0.0,
+      "tolerance_usdm": 3
+    },
+    {
+      "period": "2022-06-30",
+      "segment_sum_difference_usdm": 0.0,
+      "tolerance_usdm": 3
+    },
+    {
+      "period": "2022-09-30",
+      "segment_sum_difference_usdm": 0.0,
+      "tolerance_usdm": 3
+    },
+    {
+      "period": "2022-12-31",
+      "segment_sum_difference_usdm": 0.0,
+      "tolerance_usdm": 3
+    },
+    {
+      "period": "2023-03-31",
+      "segment_sum_difference_usdm": 0.0,
+      "tolerance_usdm": 3
+    },
+    {
+      "period": "2023-06-30",
+      "segment_sum_difference_usdm": 0.0,
+      "tolerance_usdm": 3
+    },
+    {
+      "period": "2023-09-30",
+      "segment_sum_difference_usdm": 0.0,
+      "tolerance_usdm": 3
+    },
+    {
+      "period": "2023-12-31",
+      "segment_sum_difference_usdm": 1.0,
+      "tolerance_usdm": 3
+    },
+    {
+      "period": "2024-03-31",
+      "segment_sum_difference_usdm": 0.0,
+      "tolerance_usdm": 3
+    },
+    {
+      "period": "2024-06-30",
+      "segment_sum_difference_usdm": -1.0,
+      "tolerance_usdm": 3
+    },
+    {
+      "period": "2024-09-30",
+      "segment_sum_difference_usdm": 0.0,
+      "tolerance_usdm": 3
+    },
+    {
+      "period": "2024-12-31",
+      "segment_sum_difference_usdm": -1.0,
+      "tolerance_usdm": 3
+    },
+    {
+      "period": "2025-03-31",
+      "segment_sum_difference_usdm": 0.0,
+      "tolerance_usdm": 3
+    },
+    {
+      "period": "2025-06-30",
+      "segment_sum_difference_usdm": 1.0,
+      "tolerance_usdm": 3
+    },
+    {
+      "period": "2025-09-30",
+      "segment_sum_difference_usdm": 0.0,
+      "tolerance_usdm": 3
+    },
+    {
+      "period": "2025-12-31",
+      "segment_sum_difference_usdm": 0.0,
+      "tolerance_usdm": 3
+    },
+    {
+      "period": "2026-03-31",
+      "segment_sum_difference_usdm": -2.0,
+      "tolerance_usdm": 3
+    }
+  ],
+  "all_sources_before_cutoff": true
+}

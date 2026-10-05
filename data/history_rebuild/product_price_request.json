@@ -1,0 +1,14 @@
+{
+  "url": "https://api.bls.gov/publicAPI/v2/timeseries/data/",
+  "request": {
+    "seriesid": [
+      "CUUR0000SEHN01",
+      "CUUR0000SEHN02",
+      "CUUR0000SEGB01",
+      "CUUR0000SEGB02"
+    ],
+    "startyear": "2021",
+    "endyear": "2026"
+  },
+  "scope": "Current-vintage research only; not an as-of forecast input"
+}

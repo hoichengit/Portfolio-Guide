@@ -1,0 +1,138 @@
+[
+  {
+    "form": "10-Q",
+    "date": "2026-04-24",
+    "period": "2026-03-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/80424/000008042426000060/pg-20260331.htm",
+    "file": "sources/pg_2026-03-31_tables.json",
+    "sha256": "6bd1478a5da179717a3c7a99f794dbd76f50c5a472e55885ef25a1f9e876e71a"
+  },
+  {
+    "form": "10-Q",
+    "date": "2026-01-23",
+    "period": "2025-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/80424/000008042426000011/pg-20251231.htm",
+    "file": "sources/pg_2025-12-31_tables.json",
+    "sha256": "497df73908442056327104927ba19e38d7b41484787adf731b28f34d28ff010b"
+  },
+  {
+    "form": "10-Q",
+    "date": "2025-10-24",
+    "period": "2025-09-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/80424/000008042425000245/pg-20250930.htm",
+    "file": "sources/pg_2025-09-30_tables.json",
+    "sha256": "442bac4dc85fc12857e4d97e2c80ce962833365f1441e6aa7c5e764691a9522b"
+  },
+  {
+    "form": "10-Q",
+    "date": "2025-04-24",
+    "period": "2025-03-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/80424/000008042425000037/pg-20250331.htm",
+    "file": "sources/pg_2025-03-31_tables.json",
+    "sha256": "acf9ca6072b339a3c4425dcbc2d463b4e91f131f446064f701207e654f33ab38"
+  },
+  {
+    "form": "10-Q",
+    "date": "2025-01-22",
+    "period": "2024-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/80424/000008042425000013/pg-20241231.htm",
+    "file": "sources/pg_2024-12-31_tables.json",
+    "sha256": "215e41aa67cb666185e4e88e310f4fcec77f6a97342f5fcd68abf0e36aad1864"
+  },
+  {
+    "form": "10-Q",
+    "date": "2024-10-18",
+    "period": "2024-09-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/80424/000008042424000113/pg-20240930.htm",
+    "file": "sources/pg_2024-09-30_tables.json",
+    "sha256": "286dafb61ed794a800b3f3235d5b67cb52db11ae233e6985704ed0e4494bbd4c"
+  },
+  {
+    "form": "10-Q",
+    "date": "2024-04-19",
+    "period": "2024-03-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/80424/000008042424000051/pg-20240331.htm",
+    "file": "sources/pg_2024-03-31_tables.json",
+    "sha256": "565e781c840a2bfc2c00464f4f0b1617461fffda781a7b55b52767c8e28c88e9"
+  },
+  {
+    "form": "10-Q",
+    "date": "2024-01-23",
+    "period": "2023-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/80424/000008042424000018/pg-20231231.htm",
+    "file": "sources/pg_2023-12-31_tables.json",
+    "sha256": "073523a713f6e3eddcf02709832502efd172f13a300e4c908d15a2b4573bf01c"
+  },
+  {
+    "form": "10-Q",
+    "date": "2023-10-18",
+    "period": "2023-09-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/80424/000008042423000103/pg-20230930.htm",
+    "file": "sources/pg_2023-09-30_tables.json",
+    "sha256": "07db4d2c95de554f224fc8194f83ae91564a7338861bad8c2c78031c13b5e109"
+  },
+  {
+    "form": "10-Q",
+    "date": "2023-04-21",
+    "period": "2023-03-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/80424/000008042423000046/pg-20230331.htm",
+    "file": "sources/pg_2023-03-31_tables.json",
+    "sha256": "30701bca7c3c6f00a68ec15a2e156ae4d136ef8d09b1929dde7e46e20b4fd8d4"
+  },
+  {
+    "form": "10-Q",
+    "date": "2023-01-19",
+    "period": "2022-12-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/80424/000008042423000014/pg-20221231.htm",
+    "file": "sources/pg_2022-12-31_tables.json",
+    "sha256": "a128600092be8942692cc399a571f4795808cbe13062dfd590b0161c01ff5f85"
+  },
+  {
+    "form": "10-Q",
+    "date": "2022-10-19",
+    "period": "2022-09-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/80424/000008042422000102/pg-20220930.htm",
+    "file": "sources/pg_2022-09-30_tables.json",
+    "sha256": "faffa30281bdfba51a3981933ef4eaec9d0c9f3fa0baec23db94b40cc91d44e5"
+  },
+  {
+    "form": "10-Q",
+    "date": "2022-04-20",
+    "period": "2022-03-31",
+    "url": "https://www.sec.gov/Archives/edgar/data/80424/000008042422000035/pg-20220331.htm",
+    "file": "sources/pg_2022-03-31_tables.json",
+    "sha256": "72918a460610c4e931e69648869fe685e6d2844ca8860ba9e1de3f7bf54dc9b7"
+  },
+  {
+    "period": "2022-06-30",
+    "date": "2022-07-29",
+    "url": "https://www.sec.gov/Archives/edgar/data/80424/000008042422000051/fy2122q4amj8-kexhibit991.htm",
+    "form": "Earnings release",
+    "file": "sources/release_2022-06-30_tables.json",
+    "sha256": "cb083dc5a43127b94c16cf82408e7de853fd4e2ce0560650bf91d6be3b6cfbe8"
+  },
+  {
+    "period": "2023-06-30",
+    "date": "2023-07-28",
+    "url": "https://www.sec.gov/Archives/edgar/data/80424/000008042423000059/fy2223q4amj8-kexhibit991.htm",
+    "form": "Earnings release",
+    "file": "sources/release_2023-06-30_tables.json",
+    "sha256": "c7db5b43df1565fa442b3f52353135244f9463b82e2ed93f772a87d819f580da"
+  },
+  {
+    "period": "2024-06-30",
+    "date": "2024-07-30",
+    "url": "https://www.sec.gov/Archives/edgar/data/80424/000008042424000071/fy2324q4amj8-kexhibit991.htm",
+    "form": "Earnings release",
+    "file": "sources/release_2024-06-30_tables.json",
+    "sha256": "5cc6544573b77f0d0af762706499e4c52844daf850a8187092d648248600d458"
+  },
+  {
+    "period": "2025-06-30",
+    "date": "2025-07-29",
+    "url": "https://www.pginvestor.com/news/news-details/2025/PG-Announces-Fourth-Quarter-and-Fiscal-Year-2025-Results/default.aspx",
+    "form": "Earnings release",
+    "file": "sources/release_2025-06-30_tables.json",
+    "sha256": "a84752da48e5ce6dcc57197935f8b31b39efef7d67f9d416229f42abec828595"
+  }
+]

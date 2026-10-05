@@ -1,0 +1,3018 @@
+[
+  {
+    "series": "RSHPCS",
+    "vintage": "2026-04-24",
+    "month": "2021-01-01",
+    "value": 29812.0,
+    "unit": "USD million, monthly flow, seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=RSHPCS&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-04-24"
+  },
+  {
+    "series": "RSHPCS",
+    "vintage": "2026-04-24",
+    "month": "2021-02-01",
+    "value": 29636.0,
+    "unit": "USD million, monthly flow, seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=RSHPCS&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-04-24"
+  },
+  {
+    "series": "RSHPCS",
+    "vintage": "2026-04-24",
+    "month": "2021-03-01",
+    "value": 32090.0,
+    "unit": "USD million, monthly flow, seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=RSHPCS&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-04-24"
+  },
+  {
+    "series": "RSHPCS",
+    "vintage": "2026-04-24",
+    "month": "2021-04-01",
+    "value": 31957.0,
+    "unit": "USD million, monthly flow, seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=RSHPCS&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-04-24"
+  },
+  {
+    "series": "RSHPCS",
+    "vintage": "2026-04-24",
+    "month": "2021-05-01",
+    "value": 31321.0,
+    "unit": "USD million, monthly flow, seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=RSHPCS&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-04-24"
+  },
+  {
+    "series": "RSHPCS",
+    "vintage": "2026-04-24",
+    "month": "2021-06-01",
+    "value": 32334.0,
+    "unit": "USD million, monthly flow, seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=RSHPCS&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-04-24"
+  },
+  {
+    "series": "RSHPCS",
+    "vintage": "2026-04-24",
+    "month": "2021-07-01",
+    "value": 32225.0,
+    "unit": "USD million, monthly flow, seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=RSHPCS&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-04-24"
+  },
+  {
+    "series": "RSHPCS",
+    "vintage": "2026-04-24",
+    "month": "2021-08-01",
+    "value": 32429.0,
+    "unit": "USD million, monthly flow, seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=RSHPCS&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-04-24"
+  },
+  {
+    "series": "RSHPCS",
+    "vintage": "2026-04-24",
+    "month": "2021-09-01",
+    "value": 32183.0,
+    "unit": "USD million, monthly flow, seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=RSHPCS&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-04-24"
+  },
+  {
+    "series": "RSHPCS",
+    "vintage": "2026-04-24",
+    "month": "2021-10-01",
+    "value": 32099.0,
+    "unit": "USD million, monthly flow, seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=RSHPCS&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-04-24"
+  },
+  {
+    "series": "RSHPCS",
+    "vintage": "2026-04-24",
+    "month": "2021-11-01",
+    "value": 32490.0,
+    "unit": "USD million, monthly flow, seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=RSHPCS&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-04-24"
+  },
+  {
+    "series": "RSHPCS",
+    "vintage": "2026-04-24",
+    "month": "2021-12-01",
+    "value": 32390.0,
+    "unit": "USD million, monthly flow, seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=RSHPCS&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-04-24"
+  },
+  {
+    "series": "RSHPCS",
+    "vintage": "2026-04-24",
+    "month": "2022-01-01",
+    "value": 32664.0,
+    "unit": "USD million, monthly flow, seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=RSHPCS&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-04-24"
+  },
+  {
+    "series": "RSHPCS",
+    "vintage": "2026-04-24",
+    "month": "2022-02-01",
+    "value": 32416.0,
+    "unit": "USD million, monthly flow, seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=RSHPCS&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-04-24"
+  },
+  {
+    "series": "RSHPCS",
+    "vintage": "2026-04-24",
+    "month": "2022-03-01",
+    "value": 32553.0,
+    "unit": "USD million, monthly flow, seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=RSHPCS&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-04-24"
+  },
+  {
+    "series": "RSHPCS",
+    "vintage": "2026-04-24",
+    "month": "2022-04-01",
+    "value": 32838.0,
+    "unit": "USD million, monthly flow, seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=RSHPCS&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-04-24"
+  },
+  {
+    "series": "RSHPCS",
+    "vintage": "2026-04-24",
+    "month": "2022-05-01",
+    "value": 32656.0,
+    "unit": "USD million, monthly flow, seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=RSHPCS&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-04-24"
+  },
+  {
+    "series": "RSHPCS",
+    "vintage": "2026-04-24",
+    "month": "2022-06-01",
+    "value": 33212.0,
+    "unit": "USD million, monthly flow, seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=RSHPCS&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-04-24"
+  },
+  {
+    "series": "RSHPCS",
+    "vintage": "2026-04-24",
+    "month": "2022-07-01",
+    "value": 33431.0,
+    "unit": "USD million, monthly flow, seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=RSHPCS&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-04-24"
+  },
+  {
+    "series": "RSHPCS",
+    "vintage": "2026-04-24",
+    "month": "2022-08-01",
+    "value": 33318.0,
+    "unit": "USD million, monthly flow, seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=RSHPCS&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-04-24"
+  },
+  {
+    "series": "RSHPCS",
+    "vintage": "2026-04-24",
+    "month": "2022-09-01",
+    "value": 33529.0,
+    "unit": "USD million, monthly flow, seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=RSHPCS&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-04-24"
+  },
+  {
+    "series": "RSHPCS",
+    "vintage": "2026-04-24",
+    "month": "2022-10-01",
+    "value": 33673.0,
+    "unit": "USD million, monthly flow, seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=RSHPCS&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-04-24"
+  },
+  {
+    "series": "RSHPCS",
+    "vintage": "2026-04-24",
+    "month": "2022-11-01",
+    "value": 33896.0,
+    "unit": "USD million, monthly flow, seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=RSHPCS&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-04-24"
+  },
+  {
+    "series": "RSHPCS",
+    "vintage": "2026-04-24",
+    "month": "2022-12-01",
+    "value": 33098.0,
+    "unit": "USD million, monthly flow, seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=RSHPCS&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-04-24"
+  },
+  {
+    "series": "RSHPCS",
+    "vintage": "2026-04-24",
+    "month": "2023-01-01",
+    "value": 34603.0,
+    "unit": "USD million, monthly flow, seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=RSHPCS&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-04-24"
+  },
+  {
+    "series": "RSHPCS",
+    "vintage": "2026-04-24",
+    "month": "2023-02-01",
+    "value": 35070.0,
+    "unit": "USD million, monthly flow, seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=RSHPCS&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-04-24"
+  },
+  {
+    "series": "RSHPCS",
+    "vintage": "2026-04-24",
+    "month": "2023-03-01",
+    "value": 35207.0,
+    "unit": "USD million, monthly flow, seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=RSHPCS&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-04-24"
+  },
+  {
+    "series": "RSHPCS",
+    "vintage": "2026-04-24",
+    "month": "2023-04-01",
+    "value": 35493.0,
+    "unit": "USD million, monthly flow, seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=RSHPCS&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-04-24"
+  },
+  {
+    "series": "RSHPCS",
+    "vintage": "2026-04-24",
+    "month": "2023-05-01",
+    "value": 35745.0,
+    "unit": "USD million, monthly flow, seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=RSHPCS&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-04-24"
+  },
+  {
+    "series": "RSHPCS",
+    "vintage": "2026-04-24",
+    "month": "2023-06-01",
+    "value": 35734.0,
+    "unit": "USD million, monthly flow, seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=RSHPCS&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-04-24"
+  },
+  {
+    "series": "RSHPCS",
+    "vintage": "2026-04-24",
+    "month": "2023-07-01",
+    "value": 35455.0,
+    "unit": "USD million, monthly flow, seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=RSHPCS&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-04-24"
+  },
+  {
+    "series": "RSHPCS",
+    "vintage": "2026-04-24",
+    "month": "2023-08-01",
+    "value": 36097.0,
+    "unit": "USD million, monthly flow, seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=RSHPCS&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-04-24"
+  },
+  {
+    "series": "RSHPCS",
+    "vintage": "2026-04-24",
+    "month": "2023-09-01",
+    "value": 36011.0,
+    "unit": "USD million, monthly flow, seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=RSHPCS&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-04-24"
+  },
+  {
+    "series": "RSHPCS",
+    "vintage": "2026-04-24",
+    "month": "2023-10-01",
+    "value": 37298.0,
+    "unit": "USD million, monthly flow, seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=RSHPCS&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-04-24"
+  },
+  {
+    "series": "RSHPCS",
+    "vintage": "2026-04-24",
+    "month": "2023-11-01",
+    "value": 37150.0,
+    "unit": "USD million, monthly flow, seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=RSHPCS&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-04-24"
+  },
+  {
+    "series": "RSHPCS",
+    "vintage": "2026-04-24",
+    "month": "2023-12-01",
+    "value": 36210.0,
+    "unit": "USD million, monthly flow, seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=RSHPCS&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-04-24"
+  },
+  {
+    "series": "RSHPCS",
+    "vintage": "2026-04-24",
+    "month": "2024-01-01",
+    "value": 35827.0,
+    "unit": "USD million, monthly flow, seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=RSHPCS&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-04-24"
+  },
+  {
+    "series": "RSHPCS",
+    "vintage": "2026-04-24",
+    "month": "2024-02-01",
+    "value": 35765.0,
+    "unit": "USD million, monthly flow, seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=RSHPCS&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-04-24"
+  },
+  {
+    "series": "RSHPCS",
+    "vintage": "2026-04-24",
+    "month": "2024-03-01",
+    "value": 35624.0,
+    "unit": "USD million, monthly flow, seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=RSHPCS&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-04-24"
+  },
+  {
+    "series": "RSHPCS",
+    "vintage": "2026-04-24",
+    "month": "2024-04-01",
+    "value": 35778.0,
+    "unit": "USD million, monthly flow, seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=RSHPCS&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-04-24"
+  },
+  {
+    "series": "RSHPCS",
+    "vintage": "2026-04-24",
+    "month": "2024-05-01",
+    "value": 36028.0,
+    "unit": "USD million, monthly flow, seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=RSHPCS&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-04-24"
+  },
+  {
+    "series": "RSHPCS",
+    "vintage": "2026-04-24",
+    "month": "2024-06-01",
+    "value": 36021.0,
+    "unit": "USD million, monthly flow, seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=RSHPCS&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-04-24"
+  },
+  {
+    "series": "RSHPCS",
+    "vintage": "2026-04-24",
+    "month": "2024-07-01",
+    "value": 37535.0,
+    "unit": "USD million, monthly flow, seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=RSHPCS&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-04-24"
+  },
+  {
+    "series": "RSHPCS",
+    "vintage": "2026-04-24",
+    "month": "2024-08-01",
+    "value": 37678.0,
+    "unit": "USD million, monthly flow, seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=RSHPCS&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-04-24"
+  },
+  {
+    "series": "RSHPCS",
+    "vintage": "2026-04-24",
+    "month": "2024-09-01",
+    "value": 38360.0,
+    "unit": "USD million, monthly flow, seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=RSHPCS&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-04-24"
+  },
+  {
+    "series": "RSHPCS",
+    "vintage": "2026-04-24",
+    "month": "2024-10-01",
+    "value": 38196.0,
+    "unit": "USD million, monthly flow, seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=RSHPCS&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-04-24"
+  },
+  {
+    "series": "RSHPCS",
+    "vintage": "2026-04-24",
+    "month": "2024-11-01",
+    "value": 38085.0,
+    "unit": "USD million, monthly flow, seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=RSHPCS&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-04-24"
+  },
+  {
+    "series": "RSHPCS",
+    "vintage": "2026-04-24",
+    "month": "2024-12-01",
+    "value": 37831.0,
+    "unit": "USD million, monthly flow, seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=RSHPCS&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-04-24"
+  },
+  {
+    "series": "RSHPCS",
+    "vintage": "2026-04-24",
+    "month": "2025-01-01",
+    "value": 37806.0,
+    "unit": "USD million, monthly flow, seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=RSHPCS&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-04-24"
+  },
+  {
+    "series": "RSHPCS",
+    "vintage": "2026-04-24",
+    "month": "2025-02-01",
+    "value": 38865.0,
+    "unit": "USD million, monthly flow, seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=RSHPCS&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-04-24"
+  },
+  {
+    "series": "RSHPCS",
+    "vintage": "2026-04-24",
+    "month": "2025-03-01",
+    "value": 39224.0,
+    "unit": "USD million, monthly flow, seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=RSHPCS&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-04-24"
+  },
+  {
+    "series": "RSHPCS",
+    "vintage": "2026-04-24",
+    "month": "2025-04-01",
+    "value": 38881.0,
+    "unit": "USD million, monthly flow, seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=RSHPCS&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-04-24"
+  },
+  {
+    "series": "RSHPCS",
+    "vintage": "2026-04-24",
+    "month": "2025-05-01",
+    "value": 39104.0,
+    "unit": "USD million, monthly flow, seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=RSHPCS&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-04-24"
+  },
+  {
+    "series": "RSHPCS",
+    "vintage": "2026-04-24",
+    "month": "2025-06-01",
+    "value": 39517.0,
+    "unit": "USD million, monthly flow, seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=RSHPCS&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-04-24"
+  },
+  {
+    "series": "RSHPCS",
+    "vintage": "2026-04-24",
+    "month": "2025-07-01",
+    "value": 40182.0,
+    "unit": "USD million, monthly flow, seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=RSHPCS&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-04-24"
+  },
+  {
+    "series": "RSHPCS",
+    "vintage": "2026-04-24",
+    "month": "2025-08-01",
+    "value": 40118.0,
+    "unit": "USD million, monthly flow, seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=RSHPCS&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-04-24"
+  },
+  {
+    "series": "RSHPCS",
+    "vintage": "2026-04-24",
+    "month": "2025-09-01",
+    "value": 40637.0,
+    "unit": "USD million, monthly flow, seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=RSHPCS&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-04-24"
+  },
+  {
+    "series": "RSHPCS",
+    "vintage": "2026-04-24",
+    "month": "2025-10-01",
+    "value": 40456.0,
+    "unit": "USD million, monthly flow, seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=RSHPCS&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-04-24"
+  },
+  {
+    "series": "RSHPCS",
+    "vintage": "2026-04-24",
+    "month": "2025-11-01",
+    "value": 40222.0,
+    "unit": "USD million, monthly flow, seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=RSHPCS&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-04-24"
+  },
+  {
+    "series": "RSHPCS",
+    "vintage": "2026-04-24",
+    "month": "2025-12-01",
+    "value": 40119.0,
+    "unit": "USD million, monthly flow, seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=RSHPCS&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-04-24"
+  },
+  {
+    "series": "RSHPCS",
+    "vintage": "2026-04-24",
+    "month": "2026-01-01",
+    "value": 38913.0,
+    "unit": "USD million, monthly flow, seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=RSHPCS&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-04-24"
+  },
+  {
+    "series": "RSHPCS",
+    "vintage": "2026-04-24",
+    "month": "2026-02-01",
+    "value": 39686.0,
+    "unit": "USD million, monthly flow, seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=RSHPCS&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-04-24"
+  },
+  {
+    "series": "RSHPCS",
+    "vintage": "2026-04-24",
+    "month": "2026-03-01",
+    "value": 39866.0,
+    "unit": "USD million, monthly flow, seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=RSHPCS&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-04-24"
+  },
+  {
+    "series": "RSHPCS",
+    "vintage": "2026-05-15",
+    "month": "2021-01-01",
+    "value": 29812.0,
+    "unit": "USD million, monthly flow, seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=RSHPCS&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-05-15"
+  },
+  {
+    "series": "RSHPCS",
+    "vintage": "2026-05-15",
+    "month": "2021-02-01",
+    "value": 29636.0,
+    "unit": "USD million, monthly flow, seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=RSHPCS&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-05-15"
+  },
+  {
+    "series": "RSHPCS",
+    "vintage": "2026-05-15",
+    "month": "2021-03-01",
+    "value": 32090.0,
+    "unit": "USD million, monthly flow, seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=RSHPCS&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-05-15"
+  },
+  {
+    "series": "RSHPCS",
+    "vintage": "2026-05-15",
+    "month": "2021-04-01",
+    "value": 31957.0,
+    "unit": "USD million, monthly flow, seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=RSHPCS&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-05-15"
+  },
+  {
+    "series": "RSHPCS",
+    "vintage": "2026-05-15",
+    "month": "2021-05-01",
+    "value": 31321.0,
+    "unit": "USD million, monthly flow, seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=RSHPCS&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-05-15"
+  },
+  {
+    "series": "RSHPCS",
+    "vintage": "2026-05-15",
+    "month": "2021-06-01",
+    "value": 32334.0,
+    "unit": "USD million, monthly flow, seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=RSHPCS&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-05-15"
+  },
+  {
+    "series": "RSHPCS",
+    "vintage": "2026-05-15",
+    "month": "2021-07-01",
+    "value": 32225.0,
+    "unit": "USD million, monthly flow, seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=RSHPCS&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-05-15"
+  },
+  {
+    "series": "RSHPCS",
+    "vintage": "2026-05-15",
+    "month": "2021-08-01",
+    "value": 32429.0,
+    "unit": "USD million, monthly flow, seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=RSHPCS&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-05-15"
+  },
+  {
+    "series": "RSHPCS",
+    "vintage": "2026-05-15",
+    "month": "2021-09-01",
+    "value": 32183.0,
+    "unit": "USD million, monthly flow, seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=RSHPCS&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-05-15"
+  },
+  {
+    "series": "RSHPCS",
+    "vintage": "2026-05-15",
+    "month": "2021-10-01",
+    "value": 32099.0,
+    "unit": "USD million, monthly flow, seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=RSHPCS&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-05-15"
+  },
+  {
+    "series": "RSHPCS",
+    "vintage": "2026-05-15",
+    "month": "2021-11-01",
+    "value": 32490.0,
+    "unit": "USD million, monthly flow, seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=RSHPCS&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-05-15"
+  },
+  {
+    "series": "RSHPCS",
+    "vintage": "2026-05-15",
+    "month": "2021-12-01",
+    "value": 32390.0,
+    "unit": "USD million, monthly flow, seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=RSHPCS&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-05-15"
+  },
+  {
+    "series": "RSHPCS",
+    "vintage": "2026-05-15",
+    "month": "2022-01-01",
+    "value": 32664.0,
+    "unit": "USD million, monthly flow, seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=RSHPCS&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-05-15"
+  },
+  {
+    "series": "RSHPCS",
+    "vintage": "2026-05-15",
+    "month": "2022-02-01",
+    "value": 32416.0,
+    "unit": "USD million, monthly flow, seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=RSHPCS&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-05-15"
+  },
+  {
+    "series": "RSHPCS",
+    "vintage": "2026-05-15",
+    "month": "2022-03-01",
+    "value": 32553.0,
+    "unit": "USD million, monthly flow, seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=RSHPCS&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-05-15"
+  },
+  {
+    "series": "RSHPCS",
+    "vintage": "2026-05-15",
+    "month": "2022-04-01",
+    "value": 32838.0,
+    "unit": "USD million, monthly flow, seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=RSHPCS&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-05-15"
+  },
+  {
+    "series": "RSHPCS",
+    "vintage": "2026-05-15",
+    "month": "2022-05-01",
+    "value": 32656.0,
+    "unit": "USD million, monthly flow, seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=RSHPCS&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-05-15"
+  },
+  {
+    "series": "RSHPCS",
+    "vintage": "2026-05-15",
+    "month": "2022-06-01",
+    "value": 33212.0,
+    "unit": "USD million, monthly flow, seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=RSHPCS&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-05-15"
+  },
+  {
+    "series": "RSHPCS",
+    "vintage": "2026-05-15",
+    "month": "2022-07-01",
+    "value": 33431.0,
+    "unit": "USD million, monthly flow, seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=RSHPCS&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-05-15"
+  },
+  {
+    "series": "RSHPCS",
+    "vintage": "2026-05-15",
+    "month": "2022-08-01",
+    "value": 33318.0,
+    "unit": "USD million, monthly flow, seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=RSHPCS&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-05-15"
+  },
+  {
+    "series": "RSHPCS",
+    "vintage": "2026-05-15",
+    "month": "2022-09-01",
+    "value": 33529.0,
+    "unit": "USD million, monthly flow, seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=RSHPCS&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-05-15"
+  },
+  {
+    "series": "RSHPCS",
+    "vintage": "2026-05-15",
+    "month": "2022-10-01",
+    "value": 33673.0,
+    "unit": "USD million, monthly flow, seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=RSHPCS&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-05-15"
+  },
+  {
+    "series": "RSHPCS",
+    "vintage": "2026-05-15",
+    "month": "2022-11-01",
+    "value": 33896.0,
+    "unit": "USD million, monthly flow, seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=RSHPCS&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-05-15"
+  },
+  {
+    "series": "RSHPCS",
+    "vintage": "2026-05-15",
+    "month": "2022-12-01",
+    "value": 33098.0,
+    "unit": "USD million, monthly flow, seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=RSHPCS&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-05-15"
+  },
+  {
+    "series": "RSHPCS",
+    "vintage": "2026-05-15",
+    "month": "2023-01-01",
+    "value": 34603.0,
+    "unit": "USD million, monthly flow, seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=RSHPCS&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-05-15"
+  },
+  {
+    "series": "RSHPCS",
+    "vintage": "2026-05-15",
+    "month": "2023-02-01",
+    "value": 35070.0,
+    "unit": "USD million, monthly flow, seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=RSHPCS&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-05-15"
+  },
+  {
+    "series": "RSHPCS",
+    "vintage": "2026-05-15",
+    "month": "2023-03-01",
+    "value": 35207.0,
+    "unit": "USD million, monthly flow, seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=RSHPCS&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-05-15"
+  },
+  {
+    "series": "RSHPCS",
+    "vintage": "2026-05-15",
+    "month": "2023-04-01",
+    "value": 35493.0,
+    "unit": "USD million, monthly flow, seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=RSHPCS&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-05-15"
+  },
+  {
+    "series": "RSHPCS",
+    "vintage": "2026-05-15",
+    "month": "2023-05-01",
+    "value": 35745.0,
+    "unit": "USD million, monthly flow, seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=RSHPCS&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-05-15"
+  },
+  {
+    "series": "RSHPCS",
+    "vintage": "2026-05-15",
+    "month": "2023-06-01",
+    "value": 35734.0,
+    "unit": "USD million, monthly flow, seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=RSHPCS&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-05-15"
+  },
+  {
+    "series": "RSHPCS",
+    "vintage": "2026-05-15",
+    "month": "2023-07-01",
+    "value": 35455.0,
+    "unit": "USD million, monthly flow, seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=RSHPCS&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-05-15"
+  },
+  {
+    "series": "RSHPCS",
+    "vintage": "2026-05-15",
+    "month": "2023-08-01",
+    "value": 36097.0,
+    "unit": "USD million, monthly flow, seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=RSHPCS&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-05-15"
+  },
+  {
+    "series": "RSHPCS",
+    "vintage": "2026-05-15",
+    "month": "2023-09-01",
+    "value": 36011.0,
+    "unit": "USD million, monthly flow, seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=RSHPCS&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-05-15"
+  },
+  {
+    "series": "RSHPCS",
+    "vintage": "2026-05-15",
+    "month": "2023-10-01",
+    "value": 37298.0,
+    "unit": "USD million, monthly flow, seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=RSHPCS&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-05-15"
+  },
+  {
+    "series": "RSHPCS",
+    "vintage": "2026-05-15",
+    "month": "2023-11-01",
+    "value": 37150.0,
+    "unit": "USD million, monthly flow, seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=RSHPCS&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-05-15"
+  },
+  {
+    "series": "RSHPCS",
+    "vintage": "2026-05-15",
+    "month": "2023-12-01",
+    "value": 36210.0,
+    "unit": "USD million, monthly flow, seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=RSHPCS&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-05-15"
+  },
+  {
+    "series": "RSHPCS",
+    "vintage": "2026-05-15",
+    "month": "2024-01-01",
+    "value": 35827.0,
+    "unit": "USD million, monthly flow, seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=RSHPCS&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-05-15"
+  },
+  {
+    "series": "RSHPCS",
+    "vintage": "2026-05-15",
+    "month": "2024-02-01",
+    "value": 35765.0,
+    "unit": "USD million, monthly flow, seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=RSHPCS&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-05-15"
+  },
+  {
+    "series": "RSHPCS",
+    "vintage": "2026-05-15",
+    "month": "2024-03-01",
+    "value": 35624.0,
+    "unit": "USD million, monthly flow, seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=RSHPCS&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-05-15"
+  },
+  {
+    "series": "RSHPCS",
+    "vintage": "2026-05-15",
+    "month": "2024-04-01",
+    "value": 35778.0,
+    "unit": "USD million, monthly flow, seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=RSHPCS&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-05-15"
+  },
+  {
+    "series": "RSHPCS",
+    "vintage": "2026-05-15",
+    "month": "2024-05-01",
+    "value": 36028.0,
+    "unit": "USD million, monthly flow, seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=RSHPCS&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-05-15"
+  },
+  {
+    "series": "RSHPCS",
+    "vintage": "2026-05-15",
+    "month": "2024-06-01",
+    "value": 36021.0,
+    "unit": "USD million, monthly flow, seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=RSHPCS&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-05-15"
+  },
+  {
+    "series": "RSHPCS",
+    "vintage": "2026-05-15",
+    "month": "2024-07-01",
+    "value": 37535.0,
+    "unit": "USD million, monthly flow, seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=RSHPCS&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-05-15"
+  },
+  {
+    "series": "RSHPCS",
+    "vintage": "2026-05-15",
+    "month": "2024-08-01",
+    "value": 37678.0,
+    "unit": "USD million, monthly flow, seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=RSHPCS&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-05-15"
+  },
+  {
+    "series": "RSHPCS",
+    "vintage": "2026-05-15",
+    "month": "2024-09-01",
+    "value": 38360.0,
+    "unit": "USD million, monthly flow, seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=RSHPCS&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-05-15"
+  },
+  {
+    "series": "RSHPCS",
+    "vintage": "2026-05-15",
+    "month": "2024-10-01",
+    "value": 38196.0,
+    "unit": "USD million, monthly flow, seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=RSHPCS&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-05-15"
+  },
+  {
+    "series": "RSHPCS",
+    "vintage": "2026-05-15",
+    "month": "2024-11-01",
+    "value": 38085.0,
+    "unit": "USD million, monthly flow, seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=RSHPCS&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-05-15"
+  },
+  {
+    "series": "RSHPCS",
+    "vintage": "2026-05-15",
+    "month": "2024-12-01",
+    "value": 37831.0,
+    "unit": "USD million, monthly flow, seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=RSHPCS&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-05-15"
+  },
+  {
+    "series": "RSHPCS",
+    "vintage": "2026-05-15",
+    "month": "2025-01-01",
+    "value": 37806.0,
+    "unit": "USD million, monthly flow, seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=RSHPCS&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-05-15"
+  },
+  {
+    "series": "RSHPCS",
+    "vintage": "2026-05-15",
+    "month": "2025-02-01",
+    "value": 38865.0,
+    "unit": "USD million, monthly flow, seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=RSHPCS&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-05-15"
+  },
+  {
+    "series": "RSHPCS",
+    "vintage": "2026-05-15",
+    "month": "2025-03-01",
+    "value": 39145.0,
+    "unit": "USD million, monthly flow, seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=RSHPCS&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-05-15"
+  },
+  {
+    "series": "RSHPCS",
+    "vintage": "2026-05-15",
+    "month": "2025-04-01",
+    "value": 39198.0,
+    "unit": "USD million, monthly flow, seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=RSHPCS&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-05-15"
+  },
+  {
+    "series": "RSHPCS",
+    "vintage": "2026-05-15",
+    "month": "2025-05-01",
+    "value": 39104.0,
+    "unit": "USD million, monthly flow, seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=RSHPCS&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-05-15"
+  },
+  {
+    "series": "RSHPCS",
+    "vintage": "2026-05-15",
+    "month": "2025-06-01",
+    "value": 39517.0,
+    "unit": "USD million, monthly flow, seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=RSHPCS&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-05-15"
+  },
+  {
+    "series": "RSHPCS",
+    "vintage": "2026-05-15",
+    "month": "2025-07-01",
+    "value": 40182.0,
+    "unit": "USD million, monthly flow, seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=RSHPCS&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-05-15"
+  },
+  {
+    "series": "RSHPCS",
+    "vintage": "2026-05-15",
+    "month": "2025-08-01",
+    "value": 40118.0,
+    "unit": "USD million, monthly flow, seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=RSHPCS&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-05-15"
+  },
+  {
+    "series": "RSHPCS",
+    "vintage": "2026-05-15",
+    "month": "2025-09-01",
+    "value": 40637.0,
+    "unit": "USD million, monthly flow, seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=RSHPCS&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-05-15"
+  },
+  {
+    "series": "RSHPCS",
+    "vintage": "2026-05-15",
+    "month": "2025-10-01",
+    "value": 40456.0,
+    "unit": "USD million, monthly flow, seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=RSHPCS&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-05-15"
+  },
+  {
+    "series": "RSHPCS",
+    "vintage": "2026-05-15",
+    "month": "2025-11-01",
+    "value": 40222.0,
+    "unit": "USD million, monthly flow, seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=RSHPCS&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-05-15"
+  },
+  {
+    "series": "RSHPCS",
+    "vintage": "2026-05-15",
+    "month": "2025-12-01",
+    "value": 40119.0,
+    "unit": "USD million, monthly flow, seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=RSHPCS&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-05-15"
+  },
+  {
+    "series": "RSHPCS",
+    "vintage": "2026-05-15",
+    "month": "2026-01-01",
+    "value": 38913.0,
+    "unit": "USD million, monthly flow, seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=RSHPCS&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-05-15"
+  },
+  {
+    "series": "RSHPCS",
+    "vintage": "2026-05-15",
+    "month": "2026-02-01",
+    "value": 39681.0,
+    "unit": "USD million, monthly flow, seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=RSHPCS&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-05-15"
+  },
+  {
+    "series": "RSHPCS",
+    "vintage": "2026-05-15",
+    "month": "2026-03-01",
+    "value": 40106.0,
+    "unit": "USD million, monthly flow, seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=RSHPCS&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-05-15"
+  },
+  {
+    "series": "RSHPCS",
+    "vintage": "2026-05-15",
+    "month": "2026-04-01",
+    "value": 40099.0,
+    "unit": "USD million, monthly flow, seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=RSHPCS&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-05-15"
+  },
+  {
+    "series": "PCENDC96",
+    "vintage": "2026-04-24",
+    "month": "2021-01-01",
+    "value": 3196.8,
+    "unit": "USD billion, chained 2017, seasonally adjusted annual rate",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=PCENDC96&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-04-24"
+  },
+  {
+    "series": "PCENDC96",
+    "vintage": "2026-04-24",
+    "month": "2021-02-01",
+    "value": 3136.7,
+    "unit": "USD billion, chained 2017, seasonally adjusted annual rate",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=PCENDC96&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-04-24"
+  },
+  {
+    "series": "PCENDC96",
+    "vintage": "2026-04-24",
+    "month": "2021-03-01",
+    "value": 3322.2,
+    "unit": "USD billion, chained 2017, seasonally adjusted annual rate",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=PCENDC96&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-04-24"
+  },
+  {
+    "series": "PCENDC96",
+    "vintage": "2026-04-24",
+    "month": "2021-04-01",
+    "value": 3323.4,
+    "unit": "USD billion, chained 2017, seasonally adjusted annual rate",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=PCENDC96&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-04-24"
+  },
+  {
+    "series": "PCENDC96",
+    "vintage": "2026-04-24",
+    "month": "2021-05-01",
+    "value": 3315.0,
+    "unit": "USD billion, chained 2017, seasonally adjusted annual rate",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=PCENDC96&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-04-24"
+  },
+  {
+    "series": "PCENDC96",
+    "vintage": "2026-04-24",
+    "month": "2021-06-01",
+    "value": 3370.5,
+    "unit": "USD billion, chained 2017, seasonally adjusted annual rate",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=PCENDC96&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-04-24"
+  },
+  {
+    "series": "PCENDC96",
+    "vintage": "2026-04-24",
+    "month": "2021-07-01",
+    "value": 3316.0,
+    "unit": "USD billion, chained 2017, seasonally adjusted annual rate",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=PCENDC96&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-04-24"
+  },
+  {
+    "series": "PCENDC96",
+    "vintage": "2026-04-24",
+    "month": "2021-08-01",
+    "value": 3358.1,
+    "unit": "USD billion, chained 2017, seasonally adjusted annual rate",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=PCENDC96&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-04-24"
+  },
+  {
+    "series": "PCENDC96",
+    "vintage": "2026-04-24",
+    "month": "2021-09-01",
+    "value": 3353.8,
+    "unit": "USD billion, chained 2017, seasonally adjusted annual rate",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=PCENDC96&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-04-24"
+  },
+  {
+    "series": "PCENDC96",
+    "vintage": "2026-04-24",
+    "month": "2021-10-01",
+    "value": 3364.3,
+    "unit": "USD billion, chained 2017, seasonally adjusted annual rate",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=PCENDC96&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-04-24"
+  },
+  {
+    "series": "PCENDC96",
+    "vintage": "2026-04-24",
+    "month": "2021-11-01",
+    "value": 3370.8,
+    "unit": "USD billion, chained 2017, seasonally adjusted annual rate",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=PCENDC96&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-04-24"
+  },
+  {
+    "series": "PCENDC96",
+    "vintage": "2026-04-24",
+    "month": "2021-12-01",
+    "value": 3344.9,
+    "unit": "USD billion, chained 2017, seasonally adjusted annual rate",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=PCENDC96&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-04-24"
+  },
+  {
+    "series": "PCENDC96",
+    "vintage": "2026-04-24",
+    "month": "2022-01-01",
+    "value": 3340.6,
+    "unit": "USD billion, chained 2017, seasonally adjusted annual rate",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=PCENDC96&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-04-24"
+  },
+  {
+    "series": "PCENDC96",
+    "vintage": "2026-04-24",
+    "month": "2022-02-01",
+    "value": 3328.9,
+    "unit": "USD billion, chained 2017, seasonally adjusted annual rate",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=PCENDC96&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-04-24"
+  },
+  {
+    "series": "PCENDC96",
+    "vintage": "2026-04-24",
+    "month": "2022-03-01",
+    "value": 3333.7,
+    "unit": "USD billion, chained 2017, seasonally adjusted annual rate",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=PCENDC96&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-04-24"
+  },
+  {
+    "series": "PCENDC96",
+    "vintage": "2026-04-24",
+    "month": "2022-04-01",
+    "value": 3334.7,
+    "unit": "USD billion, chained 2017, seasonally adjusted annual rate",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=PCENDC96&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-04-24"
+  },
+  {
+    "series": "PCENDC96",
+    "vintage": "2026-04-24",
+    "month": "2022-05-01",
+    "value": 3339.6,
+    "unit": "USD billion, chained 2017, seasonally adjusted annual rate",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=PCENDC96&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-04-24"
+  },
+  {
+    "series": "PCENDC96",
+    "vintage": "2026-04-24",
+    "month": "2022-06-01",
+    "value": 3330.8,
+    "unit": "USD billion, chained 2017, seasonally adjusted annual rate",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=PCENDC96&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-04-24"
+  },
+  {
+    "series": "PCENDC96",
+    "vintage": "2026-04-24",
+    "month": "2022-07-01",
+    "value": 3293.4,
+    "unit": "USD billion, chained 2017, seasonally adjusted annual rate",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=PCENDC96&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-04-24"
+  },
+  {
+    "series": "PCENDC96",
+    "vintage": "2026-04-24",
+    "month": "2022-08-01",
+    "value": 3313.4,
+    "unit": "USD billion, chained 2017, seasonally adjusted annual rate",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=PCENDC96&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-04-24"
+  },
+  {
+    "series": "PCENDC96",
+    "vintage": "2026-04-24",
+    "month": "2022-09-01",
+    "value": 3323.4,
+    "unit": "USD billion, chained 2017, seasonally adjusted annual rate",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=PCENDC96&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-04-24"
+  },
+  {
+    "series": "PCENDC96",
+    "vintage": "2026-04-24",
+    "month": "2022-10-01",
+    "value": 3319.6,
+    "unit": "USD billion, chained 2017, seasonally adjusted annual rate",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=PCENDC96&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-04-24"
+  },
+  {
+    "series": "PCENDC96",
+    "vintage": "2026-04-24",
+    "month": "2022-11-01",
+    "value": 3300.9,
+    "unit": "USD billion, chained 2017, seasonally adjusted annual rate",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=PCENDC96&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-04-24"
+  },
+  {
+    "series": "PCENDC96",
+    "vintage": "2026-04-24",
+    "month": "2022-12-01",
+    "value": 3287.3,
+    "unit": "USD billion, chained 2017, seasonally adjusted annual rate",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=PCENDC96&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-04-24"
+  },
+  {
+    "series": "PCENDC96",
+    "vintage": "2026-04-24",
+    "month": "2023-01-01",
+    "value": 3320.4,
+    "unit": "USD billion, chained 2017, seasonally adjusted annual rate",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=PCENDC96&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-04-24"
+  },
+  {
+    "series": "PCENDC96",
+    "vintage": "2026-04-24",
+    "month": "2023-02-01",
+    "value": 3332.3,
+    "unit": "USD billion, chained 2017, seasonally adjusted annual rate",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=PCENDC96&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-04-24"
+  },
+  {
+    "series": "PCENDC96",
+    "vintage": "2026-04-24",
+    "month": "2023-03-01",
+    "value": 3299.1,
+    "unit": "USD billion, chained 2017, seasonally adjusted annual rate",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=PCENDC96&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-04-24"
+  },
+  {
+    "series": "PCENDC96",
+    "vintage": "2026-04-24",
+    "month": "2023-04-01",
+    "value": 3323.0,
+    "unit": "USD billion, chained 2017, seasonally adjusted annual rate",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=PCENDC96&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-04-24"
+  },
+  {
+    "series": "PCENDC96",
+    "vintage": "2026-04-24",
+    "month": "2023-05-01",
+    "value": 3314.1,
+    "unit": "USD billion, chained 2017, seasonally adjusted annual rate",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=PCENDC96&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-04-24"
+  },
+  {
+    "series": "PCENDC96",
+    "vintage": "2026-04-24",
+    "month": "2023-06-01",
+    "value": 3329.6,
+    "unit": "USD billion, chained 2017, seasonally adjusted annual rate",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=PCENDC96&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-04-24"
+  },
+  {
+    "series": "PCENDC96",
+    "vintage": "2026-04-24",
+    "month": "2023-07-01",
+    "value": 3342.7,
+    "unit": "USD billion, chained 2017, seasonally adjusted annual rate",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=PCENDC96&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-04-24"
+  },
+  {
+    "series": "PCENDC96",
+    "vintage": "2026-04-24",
+    "month": "2023-08-01",
+    "value": 3349.1,
+    "unit": "USD billion, chained 2017, seasonally adjusted annual rate",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=PCENDC96&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-04-24"
+  },
+  {
+    "series": "PCENDC96",
+    "vintage": "2026-04-24",
+    "month": "2023-09-01",
+    "value": 3356.5,
+    "unit": "USD billion, chained 2017, seasonally adjusted annual rate",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=PCENDC96&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-04-24"
+  },
+  {
+    "series": "PCENDC96",
+    "vintage": "2026-04-24",
+    "month": "2023-10-01",
+    "value": 3366.7,
+    "unit": "USD billion, chained 2017, seasonally adjusted annual rate",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=PCENDC96&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-04-24"
+  },
+  {
+    "series": "PCENDC96",
+    "vintage": "2026-04-24",
+    "month": "2023-11-01",
+    "value": 3375.4,
+    "unit": "USD billion, chained 2017, seasonally adjusted annual rate",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=PCENDC96&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-04-24"
+  },
+  {
+    "series": "PCENDC96",
+    "vintage": "2026-04-24",
+    "month": "2023-12-01",
+    "value": 3386.2,
+    "unit": "USD billion, chained 2017, seasonally adjusted annual rate",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=PCENDC96&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-04-24"
+  },
+  {
+    "series": "PCENDC96",
+    "vintage": "2026-04-24",
+    "month": "2024-01-01",
+    "value": 3356.8,
+    "unit": "USD billion, chained 2017, seasonally adjusted annual rate",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=PCENDC96&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-04-24"
+  },
+  {
+    "series": "PCENDC96",
+    "vintage": "2026-04-24",
+    "month": "2024-02-01",
+    "value": 3348.5,
+    "unit": "USD billion, chained 2017, seasonally adjusted annual rate",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=PCENDC96&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-04-24"
+  },
+  {
+    "series": "PCENDC96",
+    "vintage": "2026-04-24",
+    "month": "2024-03-01",
+    "value": 3383.1,
+    "unit": "USD billion, chained 2017, seasonally adjusted annual rate",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=PCENDC96&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-04-24"
+  },
+  {
+    "series": "PCENDC96",
+    "vintage": "2026-04-24",
+    "month": "2024-04-01",
+    "value": 3384.9,
+    "unit": "USD billion, chained 2017, seasonally adjusted annual rate",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=PCENDC96&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-04-24"
+  },
+  {
+    "series": "PCENDC96",
+    "vintage": "2026-04-24",
+    "month": "2024-05-01",
+    "value": 3399.9,
+    "unit": "USD billion, chained 2017, seasonally adjusted annual rate",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=PCENDC96&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-04-24"
+  },
+  {
+    "series": "PCENDC96",
+    "vintage": "2026-04-24",
+    "month": "2024-06-01",
+    "value": 3409.2,
+    "unit": "USD billion, chained 2017, seasonally adjusted annual rate",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=PCENDC96&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-04-24"
+  },
+  {
+    "series": "PCENDC96",
+    "vintage": "2026-04-24",
+    "month": "2024-07-01",
+    "value": 3428.5,
+    "unit": "USD billion, chained 2017, seasonally adjusted annual rate",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=PCENDC96&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-04-24"
+  },
+  {
+    "series": "PCENDC96",
+    "vintage": "2026-04-24",
+    "month": "2024-08-01",
+    "value": 3421.8,
+    "unit": "USD billion, chained 2017, seasonally adjusted annual rate",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=PCENDC96&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-04-24"
+  },
+  {
+    "series": "PCENDC96",
+    "vintage": "2026-04-24",
+    "month": "2024-09-01",
+    "value": 3464.3,
+    "unit": "USD billion, chained 2017, seasonally adjusted annual rate",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=PCENDC96&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-04-24"
+  },
+  {
+    "series": "PCENDC96",
+    "vintage": "2026-04-24",
+    "month": "2024-10-01",
+    "value": 3459.5,
+    "unit": "USD billion, chained 2017, seasonally adjusted annual rate",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=PCENDC96&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-04-24"
+  },
+  {
+    "series": "PCENDC96",
+    "vintage": "2026-04-24",
+    "month": "2024-11-01",
+    "value": 3458.9,
+    "unit": "USD billion, chained 2017, seasonally adjusted annual rate",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=PCENDC96&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-04-24"
+  },
+  {
+    "series": "PCENDC96",
+    "vintage": "2026-04-24",
+    "month": "2024-12-01",
+    "value": 3492.2,
+    "unit": "USD billion, chained 2017, seasonally adjusted annual rate",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=PCENDC96&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-04-24"
+  },
+  {
+    "series": "PCENDC96",
+    "vintage": "2026-04-24",
+    "month": "2025-01-01",
+    "value": 3474.2,
+    "unit": "USD billion, chained 2017, seasonally adjusted annual rate",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=PCENDC96&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-04-24"
+  },
+  {
+    "series": "PCENDC96",
+    "vintage": "2026-04-24",
+    "month": "2025-02-01",
+    "value": 3489.5,
+    "unit": "USD billion, chained 2017, seasonally adjusted annual rate",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=PCENDC96&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-04-24"
+  },
+  {
+    "series": "PCENDC96",
+    "vintage": "2026-04-24",
+    "month": "2025-03-01",
+    "value": 3503.0,
+    "unit": "USD billion, chained 2017, seasonally adjusted annual rate",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=PCENDC96&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-04-24"
+  },
+  {
+    "series": "PCENDC96",
+    "vintage": "2026-04-24",
+    "month": "2025-04-01",
+    "value": 3502.5,
+    "unit": "USD billion, chained 2017, seasonally adjusted annual rate",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=PCENDC96&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-04-24"
+  },
+  {
+    "series": "PCENDC96",
+    "vintage": "2026-04-24",
+    "month": "2025-05-01",
+    "value": 3498.3,
+    "unit": "USD billion, chained 2017, seasonally adjusted annual rate",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=PCENDC96&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-04-24"
+  },
+  {
+    "series": "PCENDC96",
+    "vintage": "2026-04-24",
+    "month": "2025-06-01",
+    "value": 3522.8,
+    "unit": "USD billion, chained 2017, seasonally adjusted annual rate",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=PCENDC96&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-04-24"
+  },
+  {
+    "series": "PCENDC96",
+    "vintage": "2026-04-24",
+    "month": "2025-07-01",
+    "value": 3533.2,
+    "unit": "USD billion, chained 2017, seasonally adjusted annual rate",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=PCENDC96&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-04-24"
+  },
+  {
+    "series": "PCENDC96",
+    "vintage": "2026-04-24",
+    "month": "2025-08-01",
+    "value": 3551.6,
+    "unit": "USD billion, chained 2017, seasonally adjusted annual rate",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=PCENDC96&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-04-24"
+  },
+  {
+    "series": "PCENDC96",
+    "vintage": "2026-04-24",
+    "month": "2025-09-01",
+    "value": 3538.9,
+    "unit": "USD billion, chained 2017, seasonally adjusted annual rate",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=PCENDC96&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-04-24"
+  },
+  {
+    "series": "PCENDC96",
+    "vintage": "2026-04-24",
+    "month": "2025-10-01",
+    "value": 3544.2,
+    "unit": "USD billion, chained 2017, seasonally adjusted annual rate",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=PCENDC96&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-04-24"
+  },
+  {
+    "series": "PCENDC96",
+    "vintage": "2026-04-24",
+    "month": "2025-11-01",
+    "value": 3548.9,
+    "unit": "USD billion, chained 2017, seasonally adjusted annual rate",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=PCENDC96&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-04-24"
+  },
+  {
+    "series": "PCENDC96",
+    "vintage": "2026-04-24",
+    "month": "2025-12-01",
+    "value": 3541.1,
+    "unit": "USD billion, chained 2017, seasonally adjusted annual rate",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=PCENDC96&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-04-24"
+  },
+  {
+    "series": "PCENDC96",
+    "vintage": "2026-04-24",
+    "month": "2026-01-01",
+    "value": 3529.7,
+    "unit": "USD billion, chained 2017, seasonally adjusted annual rate",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=PCENDC96&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-04-24"
+  },
+  {
+    "series": "PCENDC96",
+    "vintage": "2026-04-24",
+    "month": "2026-02-01",
+    "value": 3521.4,
+    "unit": "USD billion, chained 2017, seasonally adjusted annual rate",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=PCENDC96&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-04-24"
+  },
+  {
+    "series": "PCENDC96",
+    "vintage": "2026-05-15",
+    "month": "2021-01-01",
+    "value": 3196.8,
+    "unit": "USD billion, chained 2017, seasonally adjusted annual rate",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=PCENDC96&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-05-15"
+  },
+  {
+    "series": "PCENDC96",
+    "vintage": "2026-05-15",
+    "month": "2021-02-01",
+    "value": 3136.7,
+    "unit": "USD billion, chained 2017, seasonally adjusted annual rate",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=PCENDC96&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-05-15"
+  },
+  {
+    "series": "PCENDC96",
+    "vintage": "2026-05-15",
+    "month": "2021-03-01",
+    "value": 3322.2,
+    "unit": "USD billion, chained 2017, seasonally adjusted annual rate",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=PCENDC96&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-05-15"
+  },
+  {
+    "series": "PCENDC96",
+    "vintage": "2026-05-15",
+    "month": "2021-04-01",
+    "value": 3323.4,
+    "unit": "USD billion, chained 2017, seasonally adjusted annual rate",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=PCENDC96&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-05-15"
+  },
+  {
+    "series": "PCENDC96",
+    "vintage": "2026-05-15",
+    "month": "2021-05-01",
+    "value": 3315.0,
+    "unit": "USD billion, chained 2017, seasonally adjusted annual rate",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=PCENDC96&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-05-15"
+  },
+  {
+    "series": "PCENDC96",
+    "vintage": "2026-05-15",
+    "month": "2021-06-01",
+    "value": 3370.5,
+    "unit": "USD billion, chained 2017, seasonally adjusted annual rate",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=PCENDC96&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-05-15"
+  },
+  {
+    "series": "PCENDC96",
+    "vintage": "2026-05-15",
+    "month": "2021-07-01",
+    "value": 3316.0,
+    "unit": "USD billion, chained 2017, seasonally adjusted annual rate",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=PCENDC96&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-05-15"
+  },
+  {
+    "series": "PCENDC96",
+    "vintage": "2026-05-15",
+    "month": "2021-08-01",
+    "value": 3358.1,
+    "unit": "USD billion, chained 2017, seasonally adjusted annual rate",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=PCENDC96&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-05-15"
+  },
+  {
+    "series": "PCENDC96",
+    "vintage": "2026-05-15",
+    "month": "2021-09-01",
+    "value": 3353.8,
+    "unit": "USD billion, chained 2017, seasonally adjusted annual rate",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=PCENDC96&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-05-15"
+  },
+  {
+    "series": "PCENDC96",
+    "vintage": "2026-05-15",
+    "month": "2021-10-01",
+    "value": 3364.3,
+    "unit": "USD billion, chained 2017, seasonally adjusted annual rate",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=PCENDC96&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-05-15"
+  },
+  {
+    "series": "PCENDC96",
+    "vintage": "2026-05-15",
+    "month": "2021-11-01",
+    "value": 3370.8,
+    "unit": "USD billion, chained 2017, seasonally adjusted annual rate",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=PCENDC96&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-05-15"
+  },
+  {
+    "series": "PCENDC96",
+    "vintage": "2026-05-15",
+    "month": "2021-12-01",
+    "value": 3344.9,
+    "unit": "USD billion, chained 2017, seasonally adjusted annual rate",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=PCENDC96&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-05-15"
+  },
+  {
+    "series": "PCENDC96",
+    "vintage": "2026-05-15",
+    "month": "2022-01-01",
+    "value": 3340.6,
+    "unit": "USD billion, chained 2017, seasonally adjusted annual rate",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=PCENDC96&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-05-15"
+  },
+  {
+    "series": "PCENDC96",
+    "vintage": "2026-05-15",
+    "month": "2022-02-01",
+    "value": 3328.9,
+    "unit": "USD billion, chained 2017, seasonally adjusted annual rate",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=PCENDC96&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-05-15"
+  },
+  {
+    "series": "PCENDC96",
+    "vintage": "2026-05-15",
+    "month": "2022-03-01",
+    "value": 3333.7,
+    "unit": "USD billion, chained 2017, seasonally adjusted annual rate",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=PCENDC96&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-05-15"
+  },
+  {
+    "series": "PCENDC96",
+    "vintage": "2026-05-15",
+    "month": "2022-04-01",
+    "value": 3334.7,
+    "unit": "USD billion, chained 2017, seasonally adjusted annual rate",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=PCENDC96&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-05-15"
+  },
+  {
+    "series": "PCENDC96",
+    "vintage": "2026-05-15",
+    "month": "2022-05-01",
+    "value": 3339.6,
+    "unit": "USD billion, chained 2017, seasonally adjusted annual rate",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=PCENDC96&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-05-15"
+  },
+  {
+    "series": "PCENDC96",
+    "vintage": "2026-05-15",
+    "month": "2022-06-01",
+    "value": 3330.8,
+    "unit": "USD billion, chained 2017, seasonally adjusted annual rate",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=PCENDC96&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-05-15"
+  },
+  {
+    "series": "PCENDC96",
+    "vintage": "2026-05-15",
+    "month": "2022-07-01",
+    "value": 3293.4,
+    "unit": "USD billion, chained 2017, seasonally adjusted annual rate",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=PCENDC96&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-05-15"
+  },
+  {
+    "series": "PCENDC96",
+    "vintage": "2026-05-15",
+    "month": "2022-08-01",
+    "value": 3313.4,
+    "unit": "USD billion, chained 2017, seasonally adjusted annual rate",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=PCENDC96&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-05-15"
+  },
+  {
+    "series": "PCENDC96",
+    "vintage": "2026-05-15",
+    "month": "2022-09-01",
+    "value": 3323.4,
+    "unit": "USD billion, chained 2017, seasonally adjusted annual rate",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=PCENDC96&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-05-15"
+  },
+  {
+    "series": "PCENDC96",
+    "vintage": "2026-05-15",
+    "month": "2022-10-01",
+    "value": 3319.6,
+    "unit": "USD billion, chained 2017, seasonally adjusted annual rate",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=PCENDC96&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-05-15"
+  },
+  {
+    "series": "PCENDC96",
+    "vintage": "2026-05-15",
+    "month": "2022-11-01",
+    "value": 3300.9,
+    "unit": "USD billion, chained 2017, seasonally adjusted annual rate",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=PCENDC96&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-05-15"
+  },
+  {
+    "series": "PCENDC96",
+    "vintage": "2026-05-15",
+    "month": "2022-12-01",
+    "value": 3287.3,
+    "unit": "USD billion, chained 2017, seasonally adjusted annual rate",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=PCENDC96&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-05-15"
+  },
+  {
+    "series": "PCENDC96",
+    "vintage": "2026-05-15",
+    "month": "2023-01-01",
+    "value": 3320.4,
+    "unit": "USD billion, chained 2017, seasonally adjusted annual rate",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=PCENDC96&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-05-15"
+  },
+  {
+    "series": "PCENDC96",
+    "vintage": "2026-05-15",
+    "month": "2023-02-01",
+    "value": 3332.3,
+    "unit": "USD billion, chained 2017, seasonally adjusted annual rate",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=PCENDC96&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-05-15"
+  },
+  {
+    "series": "PCENDC96",
+    "vintage": "2026-05-15",
+    "month": "2023-03-01",
+    "value": 3299.1,
+    "unit": "USD billion, chained 2017, seasonally adjusted annual rate",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=PCENDC96&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-05-15"
+  },
+  {
+    "series": "PCENDC96",
+    "vintage": "2026-05-15",
+    "month": "2023-04-01",
+    "value": 3323.0,
+    "unit": "USD billion, chained 2017, seasonally adjusted annual rate",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=PCENDC96&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-05-15"
+  },
+  {
+    "series": "PCENDC96",
+    "vintage": "2026-05-15",
+    "month": "2023-05-01",
+    "value": 3314.1,
+    "unit": "USD billion, chained 2017, seasonally adjusted annual rate",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=PCENDC96&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-05-15"
+  },
+  {
+    "series": "PCENDC96",
+    "vintage": "2026-05-15",
+    "month": "2023-06-01",
+    "value": 3329.6,
+    "unit": "USD billion, chained 2017, seasonally adjusted annual rate",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=PCENDC96&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-05-15"
+  },
+  {
+    "series": "PCENDC96",
+    "vintage": "2026-05-15",
+    "month": "2023-07-01",
+    "value": 3342.7,
+    "unit": "USD billion, chained 2017, seasonally adjusted annual rate",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=PCENDC96&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-05-15"
+  },
+  {
+    "series": "PCENDC96",
+    "vintage": "2026-05-15",
+    "month": "2023-08-01",
+    "value": 3349.1,
+    "unit": "USD billion, chained 2017, seasonally adjusted annual rate",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=PCENDC96&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-05-15"
+  },
+  {
+    "series": "PCENDC96",
+    "vintage": "2026-05-15",
+    "month": "2023-09-01",
+    "value": 3356.5,
+    "unit": "USD billion, chained 2017, seasonally adjusted annual rate",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=PCENDC96&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-05-15"
+  },
+  {
+    "series": "PCENDC96",
+    "vintage": "2026-05-15",
+    "month": "2023-10-01",
+    "value": 3366.7,
+    "unit": "USD billion, chained 2017, seasonally adjusted annual rate",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=PCENDC96&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-05-15"
+  },
+  {
+    "series": "PCENDC96",
+    "vintage": "2026-05-15",
+    "month": "2023-11-01",
+    "value": 3375.4,
+    "unit": "USD billion, chained 2017, seasonally adjusted annual rate",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=PCENDC96&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-05-15"
+  },
+  {
+    "series": "PCENDC96",
+    "vintage": "2026-05-15",
+    "month": "2023-12-01",
+    "value": 3386.2,
+    "unit": "USD billion, chained 2017, seasonally adjusted annual rate",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=PCENDC96&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-05-15"
+  },
+  {
+    "series": "PCENDC96",
+    "vintage": "2026-05-15",
+    "month": "2024-01-01",
+    "value": 3356.8,
+    "unit": "USD billion, chained 2017, seasonally adjusted annual rate",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=PCENDC96&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-05-15"
+  },
+  {
+    "series": "PCENDC96",
+    "vintage": "2026-05-15",
+    "month": "2024-02-01",
+    "value": 3348.5,
+    "unit": "USD billion, chained 2017, seasonally adjusted annual rate",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=PCENDC96&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-05-15"
+  },
+  {
+    "series": "PCENDC96",
+    "vintage": "2026-05-15",
+    "month": "2024-03-01",
+    "value": 3383.1,
+    "unit": "USD billion, chained 2017, seasonally adjusted annual rate",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=PCENDC96&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-05-15"
+  },
+  {
+    "series": "PCENDC96",
+    "vintage": "2026-05-15",
+    "month": "2024-04-01",
+    "value": 3384.9,
+    "unit": "USD billion, chained 2017, seasonally adjusted annual rate",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=PCENDC96&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-05-15"
+  },
+  {
+    "series": "PCENDC96",
+    "vintage": "2026-05-15",
+    "month": "2024-05-01",
+    "value": 3399.9,
+    "unit": "USD billion, chained 2017, seasonally adjusted annual rate",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=PCENDC96&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-05-15"
+  },
+  {
+    "series": "PCENDC96",
+    "vintage": "2026-05-15",
+    "month": "2024-06-01",
+    "value": 3409.2,
+    "unit": "USD billion, chained 2017, seasonally adjusted annual rate",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=PCENDC96&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-05-15"
+  },
+  {
+    "series": "PCENDC96",
+    "vintage": "2026-05-15",
+    "month": "2024-07-01",
+    "value": 3428.5,
+    "unit": "USD billion, chained 2017, seasonally adjusted annual rate",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=PCENDC96&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-05-15"
+  },
+  {
+    "series": "PCENDC96",
+    "vintage": "2026-05-15",
+    "month": "2024-08-01",
+    "value": 3421.8,
+    "unit": "USD billion, chained 2017, seasonally adjusted annual rate",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=PCENDC96&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-05-15"
+  },
+  {
+    "series": "PCENDC96",
+    "vintage": "2026-05-15",
+    "month": "2024-09-01",
+    "value": 3464.3,
+    "unit": "USD billion, chained 2017, seasonally adjusted annual rate",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=PCENDC96&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-05-15"
+  },
+  {
+    "series": "PCENDC96",
+    "vintage": "2026-05-15",
+    "month": "2024-10-01",
+    "value": 3459.5,
+    "unit": "USD billion, chained 2017, seasonally adjusted annual rate",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=PCENDC96&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-05-15"
+  },
+  {
+    "series": "PCENDC96",
+    "vintage": "2026-05-15",
+    "month": "2024-11-01",
+    "value": 3458.9,
+    "unit": "USD billion, chained 2017, seasonally adjusted annual rate",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=PCENDC96&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-05-15"
+  },
+  {
+    "series": "PCENDC96",
+    "vintage": "2026-05-15",
+    "month": "2024-12-01",
+    "value": 3492.2,
+    "unit": "USD billion, chained 2017, seasonally adjusted annual rate",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=PCENDC96&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-05-15"
+  },
+  {
+    "series": "PCENDC96",
+    "vintage": "2026-05-15",
+    "month": "2025-01-01",
+    "value": 3474.2,
+    "unit": "USD billion, chained 2017, seasonally adjusted annual rate",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=PCENDC96&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-05-15"
+  },
+  {
+    "series": "PCENDC96",
+    "vintage": "2026-05-15",
+    "month": "2025-02-01",
+    "value": 3489.5,
+    "unit": "USD billion, chained 2017, seasonally adjusted annual rate",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=PCENDC96&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-05-15"
+  },
+  {
+    "series": "PCENDC96",
+    "vintage": "2026-05-15",
+    "month": "2025-03-01",
+    "value": 3503.0,
+    "unit": "USD billion, chained 2017, seasonally adjusted annual rate",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=PCENDC96&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-05-15"
+  },
+  {
+    "series": "PCENDC96",
+    "vintage": "2026-05-15",
+    "month": "2025-04-01",
+    "value": 3502.5,
+    "unit": "USD billion, chained 2017, seasonally adjusted annual rate",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=PCENDC96&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-05-15"
+  },
+  {
+    "series": "PCENDC96",
+    "vintage": "2026-05-15",
+    "month": "2025-05-01",
+    "value": 3498.3,
+    "unit": "USD billion, chained 2017, seasonally adjusted annual rate",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=PCENDC96&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-05-15"
+  },
+  {
+    "series": "PCENDC96",
+    "vintage": "2026-05-15",
+    "month": "2025-06-01",
+    "value": 3522.8,
+    "unit": "USD billion, chained 2017, seasonally adjusted annual rate",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=PCENDC96&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-05-15"
+  },
+  {
+    "series": "PCENDC96",
+    "vintage": "2026-05-15",
+    "month": "2025-07-01",
+    "value": 3533.2,
+    "unit": "USD billion, chained 2017, seasonally adjusted annual rate",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=PCENDC96&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-05-15"
+  },
+  {
+    "series": "PCENDC96",
+    "vintage": "2026-05-15",
+    "month": "2025-08-01",
+    "value": 3551.6,
+    "unit": "USD billion, chained 2017, seasonally adjusted annual rate",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=PCENDC96&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-05-15"
+  },
+  {
+    "series": "PCENDC96",
+    "vintage": "2026-05-15",
+    "month": "2025-09-01",
+    "value": 3538.9,
+    "unit": "USD billion, chained 2017, seasonally adjusted annual rate",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=PCENDC96&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-05-15"
+  },
+  {
+    "series": "PCENDC96",
+    "vintage": "2026-05-15",
+    "month": "2025-10-01",
+    "value": 3544.2,
+    "unit": "USD billion, chained 2017, seasonally adjusted annual rate",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=PCENDC96&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-05-15"
+  },
+  {
+    "series": "PCENDC96",
+    "vintage": "2026-05-15",
+    "month": "2025-11-01",
+    "value": 3548.9,
+    "unit": "USD billion, chained 2017, seasonally adjusted annual rate",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=PCENDC96&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-05-15"
+  },
+  {
+    "series": "PCENDC96",
+    "vintage": "2026-05-15",
+    "month": "2025-12-01",
+    "value": 3541.1,
+    "unit": "USD billion, chained 2017, seasonally adjusted annual rate",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=PCENDC96&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-05-15"
+  },
+  {
+    "series": "PCENDC96",
+    "vintage": "2026-05-15",
+    "month": "2026-01-01",
+    "value": 3538.8,
+    "unit": "USD billion, chained 2017, seasonally adjusted annual rate",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=PCENDC96&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-05-15"
+  },
+  {
+    "series": "PCENDC96",
+    "vintage": "2026-05-15",
+    "month": "2026-02-01",
+    "value": 3538.8,
+    "unit": "USD billion, chained 2017, seasonally adjusted annual rate",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=PCENDC96&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-05-15"
+  },
+  {
+    "series": "PCENDC96",
+    "vintage": "2026-05-15",
+    "month": "2026-03-01",
+    "value": 3551.1,
+    "unit": "USD billion, chained 2017, seasonally adjusted annual rate",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=PCENDC96&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-05-15"
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "vintage": "2026-04-24",
+    "month": "2021-01-01",
+    "value": 159.785,
+    "unit": "Index 1982-84=100, not seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=CUUR0000SEGB&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-04-24"
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "vintage": "2026-04-24",
+    "month": "2021-02-01",
+    "value": 160.214,
+    "unit": "Index 1982-84=100, not seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=CUUR0000SEGB&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-04-24"
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "vintage": "2026-04-24",
+    "month": "2021-03-01",
+    "value": 159.962,
+    "unit": "Index 1982-84=100, not seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=CUUR0000SEGB&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-04-24"
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "vintage": "2026-04-24",
+    "month": "2021-04-01",
+    "value": 160.308,
+    "unit": "Index 1982-84=100, not seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=CUUR0000SEGB&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-04-24"
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "vintage": "2026-04-24",
+    "month": "2021-05-01",
+    "value": 159.678,
+    "unit": "Index 1982-84=100, not seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=CUUR0000SEGB&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-04-24"
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "vintage": "2026-04-24",
+    "month": "2021-06-01",
+    "value": 159.296,
+    "unit": "Index 1982-84=100, not seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=CUUR0000SEGB&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-04-24"
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "vintage": "2026-04-24",
+    "month": "2021-07-01",
+    "value": 159.111,
+    "unit": "Index 1982-84=100, not seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=CUUR0000SEGB&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-04-24"
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "vintage": "2026-04-24",
+    "month": "2021-08-01",
+    "value": 159.966,
+    "unit": "Index 1982-84=100, not seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=CUUR0000SEGB&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-04-24"
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "vintage": "2026-04-24",
+    "month": "2021-09-01",
+    "value": 159.755,
+    "unit": "Index 1982-84=100, not seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=CUUR0000SEGB&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-04-24"
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "vintage": "2026-04-24",
+    "month": "2021-10-01",
+    "value": 160.038,
+    "unit": "Index 1982-84=100, not seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=CUUR0000SEGB&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-04-24"
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "vintage": "2026-04-24",
+    "month": "2021-11-01",
+    "value": 159.359,
+    "unit": "Index 1982-84=100, not seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=CUUR0000SEGB&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-04-24"
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "vintage": "2026-04-24",
+    "month": "2021-12-01",
+    "value": 159.06,
+    "unit": "Index 1982-84=100, not seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=CUUR0000SEGB&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-04-24"
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "vintage": "2026-04-24",
+    "month": "2022-01-01",
+    "value": 160.224,
+    "unit": "Index 1982-84=100, not seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=CUUR0000SEGB&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-04-24"
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "vintage": "2026-04-24",
+    "month": "2022-02-01",
+    "value": 161.496,
+    "unit": "Index 1982-84=100, not seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=CUUR0000SEGB&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-04-24"
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "vintage": "2026-04-24",
+    "month": "2022-03-01",
+    "value": 163.175,
+    "unit": "Index 1982-84=100, not seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=CUUR0000SEGB&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-04-24"
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "vintage": "2026-04-24",
+    "month": "2022-04-01",
+    "value": 163.713,
+    "unit": "Index 1982-84=100, not seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=CUUR0000SEGB&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-04-24"
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "vintage": "2026-04-24",
+    "month": "2022-05-01",
+    "value": 164.174,
+    "unit": "Index 1982-84=100, not seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=CUUR0000SEGB&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-04-24"
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "vintage": "2026-04-24",
+    "month": "2022-06-01",
+    "value": 165.353,
+    "unit": "Index 1982-84=100, not seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=CUUR0000SEGB&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-04-24"
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "vintage": "2026-04-24",
+    "month": "2022-07-01",
+    "value": 167.052,
+    "unit": "Index 1982-84=100, not seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=CUUR0000SEGB&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-04-24"
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "vintage": "2026-04-24",
+    "month": "2022-08-01",
+    "value": 169.576,
+    "unit": "Index 1982-84=100, not seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=CUUR0000SEGB&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-04-24"
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "vintage": "2026-04-24",
+    "month": "2022-09-01",
+    "value": 170.217,
+    "unit": "Index 1982-84=100, not seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=CUUR0000SEGB&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-04-24"
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "vintage": "2026-04-24",
+    "month": "2022-10-01",
+    "value": 170.89,
+    "unit": "Index 1982-84=100, not seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=CUUR0000SEGB&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-04-24"
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "vintage": "2026-04-24",
+    "month": "2022-11-01",
+    "value": 171.226,
+    "unit": "Index 1982-84=100, not seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=CUUR0000SEGB&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-04-24"
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "vintage": "2026-04-24",
+    "month": "2022-12-01",
+    "value": 171.058,
+    "unit": "Index 1982-84=100, not seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=CUUR0000SEGB&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-04-24"
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "vintage": "2026-04-24",
+    "month": "2023-01-01",
+    "value": 171.539,
+    "unit": "Index 1982-84=100, not seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=CUUR0000SEGB&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-04-24"
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "vintage": "2026-04-24",
+    "month": "2023-02-01",
+    "value": 172.394,
+    "unit": "Index 1982-84=100, not seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=CUUR0000SEGB&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-04-24"
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "vintage": "2026-04-24",
+    "month": "2023-03-01",
+    "value": 173.801,
+    "unit": "Index 1982-84=100, not seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=CUUR0000SEGB&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-04-24"
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "vintage": "2026-04-24",
+    "month": "2023-04-01",
+    "value": 174.724,
+    "unit": "Index 1982-84=100, not seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=CUUR0000SEGB&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-04-24"
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "vintage": "2026-04-24",
+    "month": "2023-05-01",
+    "value": 176.484,
+    "unit": "Index 1982-84=100, not seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=CUUR0000SEGB&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-04-24"
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "vintage": "2026-04-24",
+    "month": "2023-06-01",
+    "value": 176.846,
+    "unit": "Index 1982-84=100, not seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=CUUR0000SEGB&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-04-24"
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "vintage": "2026-04-24",
+    "month": "2023-07-01",
+    "value": 177.651,
+    "unit": "Index 1982-84=100, not seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=CUUR0000SEGB&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-04-24"
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "vintage": "2026-04-24",
+    "month": "2023-08-01",
+    "value": 178.14,
+    "unit": "Index 1982-84=100, not seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=CUUR0000SEGB&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-04-24"
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "vintage": "2026-04-24",
+    "month": "2023-09-01",
+    "value": 178.898,
+    "unit": "Index 1982-84=100, not seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=CUUR0000SEGB&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-04-24"
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "vintage": "2026-04-24",
+    "month": "2023-10-01",
+    "value": 179.617,
+    "unit": "Index 1982-84=100, not seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=CUUR0000SEGB&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-04-24"
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "vintage": "2026-04-24",
+    "month": "2023-11-01",
+    "value": 178.553,
+    "unit": "Index 1982-84=100, not seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=CUUR0000SEGB&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-04-24"
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "vintage": "2026-04-24",
+    "month": "2023-12-01",
+    "value": 176.62,
+    "unit": "Index 1982-84=100, not seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=CUUR0000SEGB&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-04-24"
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "vintage": "2026-04-24",
+    "month": "2024-01-01",
+    "value": 177.546,
+    "unit": "Index 1982-84=100, not seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=CUUR0000SEGB&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-04-24"
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "vintage": "2026-04-24",
+    "month": "2024-02-01",
+    "value": 179.311,
+    "unit": "Index 1982-84=100, not seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=CUUR0000SEGB&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-04-24"
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "vintage": "2026-04-24",
+    "month": "2024-03-01",
+    "value": 179.706,
+    "unit": "Index 1982-84=100, not seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=CUUR0000SEGB&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-04-24"
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "vintage": "2026-04-24",
+    "month": "2024-04-01",
+    "value": 179.28,
+    "unit": "Index 1982-84=100, not seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=CUUR0000SEGB&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-04-24"
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "vintage": "2026-04-24",
+    "month": "2024-05-01",
+    "value": 178.83,
+    "unit": "Index 1982-84=100, not seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=CUUR0000SEGB&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-04-24"
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "vintage": "2026-04-24",
+    "month": "2024-06-01",
+    "value": 178.682,
+    "unit": "Index 1982-84=100, not seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=CUUR0000SEGB&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-04-24"
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "vintage": "2026-04-24",
+    "month": "2024-07-01",
+    "value": 179.079,
+    "unit": "Index 1982-84=100, not seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=CUUR0000SEGB&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-04-24"
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "vintage": "2026-04-24",
+    "month": "2024-08-01",
+    "value": 178.452,
+    "unit": "Index 1982-84=100, not seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=CUUR0000SEGB&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-04-24"
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "vintage": "2026-04-24",
+    "month": "2024-09-01",
+    "value": 179.154,
+    "unit": "Index 1982-84=100, not seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=CUUR0000SEGB&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-04-24"
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "vintage": "2026-04-24",
+    "month": "2024-10-01",
+    "value": 179.634,
+    "unit": "Index 1982-84=100, not seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=CUUR0000SEGB&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-04-24"
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "vintage": "2026-04-24",
+    "month": "2024-11-01",
+    "value": 179.444,
+    "unit": "Index 1982-84=100, not seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=CUUR0000SEGB&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-04-24"
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "vintage": "2026-04-24",
+    "month": "2024-12-01",
+    "value": 177.536,
+    "unit": "Index 1982-84=100, not seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=CUUR0000SEGB&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-04-24"
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "vintage": "2026-04-24",
+    "month": "2025-01-01",
+    "value": 178.259,
+    "unit": "Index 1982-84=100, not seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=CUUR0000SEGB&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-04-24"
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "vintage": "2026-04-24",
+    "month": "2025-02-01",
+    "value": 179.824,
+    "unit": "Index 1982-84=100, not seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=CUUR0000SEGB&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-04-24"
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "vintage": "2026-04-24",
+    "month": "2025-03-01",
+    "value": 179.746,
+    "unit": "Index 1982-84=100, not seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=CUUR0000SEGB&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-04-24"
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "vintage": "2026-04-24",
+    "month": "2025-04-01",
+    "value": 180.004,
+    "unit": "Index 1982-84=100, not seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=CUUR0000SEGB&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-04-24"
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "vintage": "2026-04-24",
+    "month": "2025-05-01",
+    "value": 179.673,
+    "unit": "Index 1982-84=100, not seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=CUUR0000SEGB&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-04-24"
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "vintage": "2026-04-24",
+    "month": "2025-06-01",
+    "value": 179.83,
+    "unit": "Index 1982-84=100, not seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=CUUR0000SEGB&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-04-24"
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "vintage": "2026-04-24",
+    "month": "2025-07-01",
+    "value": 179.777,
+    "unit": "Index 1982-84=100, not seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=CUUR0000SEGB&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-04-24"
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "vintage": "2026-04-24",
+    "month": "2025-08-01",
+    "value": 180.503,
+    "unit": "Index 1982-84=100, not seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=CUUR0000SEGB&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-04-24"
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "vintage": "2026-04-24",
+    "month": "2025-09-01",
+    "value": 181.816,
+    "unit": "Index 1982-84=100, not seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=CUUR0000SEGB&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-04-24"
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "vintage": "2026-04-24",
+    "month": "2025-11-01",
+    "value": 180.752,
+    "unit": "Index 1982-84=100, not seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=CUUR0000SEGB&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-04-24"
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "vintage": "2026-04-24",
+    "month": "2025-12-01",
+    "value": 180.246,
+    "unit": "Index 1982-84=100, not seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=CUUR0000SEGB&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-04-24"
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "vintage": "2026-04-24",
+    "month": "2026-01-01",
+    "value": 181.597,
+    "unit": "Index 1982-84=100, not seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=CUUR0000SEGB&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-04-24"
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "vintage": "2026-04-24",
+    "month": "2026-02-01",
+    "value": 182.953,
+    "unit": "Index 1982-84=100, not seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=CUUR0000SEGB&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-04-24"
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "vintage": "2026-04-24",
+    "month": "2026-03-01",
+    "value": 183.762,
+    "unit": "Index 1982-84=100, not seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=CUUR0000SEGB&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-04-24"
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "vintage": "2026-05-15",
+    "month": "2021-01-01",
+    "value": 159.785,
+    "unit": "Index 1982-84=100, not seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=CUUR0000SEGB&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-05-15"
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "vintage": "2026-05-15",
+    "month": "2021-02-01",
+    "value": 160.214,
+    "unit": "Index 1982-84=100, not seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=CUUR0000SEGB&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-05-15"
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "vintage": "2026-05-15",
+    "month": "2021-03-01",
+    "value": 159.962,
+    "unit": "Index 1982-84=100, not seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=CUUR0000SEGB&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-05-15"
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "vintage": "2026-05-15",
+    "month": "2021-04-01",
+    "value": 160.308,
+    "unit": "Index 1982-84=100, not seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=CUUR0000SEGB&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-05-15"
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "vintage": "2026-05-15",
+    "month": "2021-05-01",
+    "value": 159.678,
+    "unit": "Index 1982-84=100, not seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=CUUR0000SEGB&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-05-15"
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "vintage": "2026-05-15",
+    "month": "2021-06-01",
+    "value": 159.296,
+    "unit": "Index 1982-84=100, not seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=CUUR0000SEGB&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-05-15"
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "vintage": "2026-05-15",
+    "month": "2021-07-01",
+    "value": 159.111,
+    "unit": "Index 1982-84=100, not seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=CUUR0000SEGB&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-05-15"
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "vintage": "2026-05-15",
+    "month": "2021-08-01",
+    "value": 159.966,
+    "unit": "Index 1982-84=100, not seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=CUUR0000SEGB&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-05-15"
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "vintage": "2026-05-15",
+    "month": "2021-09-01",
+    "value": 159.755,
+    "unit": "Index 1982-84=100, not seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=CUUR0000SEGB&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-05-15"
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "vintage": "2026-05-15",
+    "month": "2021-10-01",
+    "value": 160.038,
+    "unit": "Index 1982-84=100, not seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=CUUR0000SEGB&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-05-15"
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "vintage": "2026-05-15",
+    "month": "2021-11-01",
+    "value": 159.359,
+    "unit": "Index 1982-84=100, not seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=CUUR0000SEGB&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-05-15"
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "vintage": "2026-05-15",
+    "month": "2021-12-01",
+    "value": 159.06,
+    "unit": "Index 1982-84=100, not seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=CUUR0000SEGB&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-05-15"
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "vintage": "2026-05-15",
+    "month": "2022-01-01",
+    "value": 160.224,
+    "unit": "Index 1982-84=100, not seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=CUUR0000SEGB&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-05-15"
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "vintage": "2026-05-15",
+    "month": "2022-02-01",
+    "value": 161.496,
+    "unit": "Index 1982-84=100, not seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=CUUR0000SEGB&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-05-15"
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "vintage": "2026-05-15",
+    "month": "2022-03-01",
+    "value": 163.175,
+    "unit": "Index 1982-84=100, not seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=CUUR0000SEGB&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-05-15"
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "vintage": "2026-05-15",
+    "month": "2022-04-01",
+    "value": 163.713,
+    "unit": "Index 1982-84=100, not seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=CUUR0000SEGB&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-05-15"
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "vintage": "2026-05-15",
+    "month": "2022-05-01",
+    "value": 164.174,
+    "unit": "Index 1982-84=100, not seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=CUUR0000SEGB&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-05-15"
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "vintage": "2026-05-15",
+    "month": "2022-06-01",
+    "value": 165.353,
+    "unit": "Index 1982-84=100, not seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=CUUR0000SEGB&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-05-15"
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "vintage": "2026-05-15",
+    "month": "2022-07-01",
+    "value": 167.052,
+    "unit": "Index 1982-84=100, not seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=CUUR0000SEGB&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-05-15"
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "vintage": "2026-05-15",
+    "month": "2022-08-01",
+    "value": 169.576,
+    "unit": "Index 1982-84=100, not seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=CUUR0000SEGB&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-05-15"
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "vintage": "2026-05-15",
+    "month": "2022-09-01",
+    "value": 170.217,
+    "unit": "Index 1982-84=100, not seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=CUUR0000SEGB&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-05-15"
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "vintage": "2026-05-15",
+    "month": "2022-10-01",
+    "value": 170.89,
+    "unit": "Index 1982-84=100, not seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=CUUR0000SEGB&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-05-15"
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "vintage": "2026-05-15",
+    "month": "2022-11-01",
+    "value": 171.226,
+    "unit": "Index 1982-84=100, not seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=CUUR0000SEGB&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-05-15"
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "vintage": "2026-05-15",
+    "month": "2022-12-01",
+    "value": 171.058,
+    "unit": "Index 1982-84=100, not seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=CUUR0000SEGB&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-05-15"
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "vintage": "2026-05-15",
+    "month": "2023-01-01",
+    "value": 171.539,
+    "unit": "Index 1982-84=100, not seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=CUUR0000SEGB&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-05-15"
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "vintage": "2026-05-15",
+    "month": "2023-02-01",
+    "value": 172.394,
+    "unit": "Index 1982-84=100, not seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=CUUR0000SEGB&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-05-15"
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "vintage": "2026-05-15",
+    "month": "2023-03-01",
+    "value": 173.801,
+    "unit": "Index 1982-84=100, not seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=CUUR0000SEGB&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-05-15"
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "vintage": "2026-05-15",
+    "month": "2023-04-01",
+    "value": 174.724,
+    "unit": "Index 1982-84=100, not seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=CUUR0000SEGB&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-05-15"
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "vintage": "2026-05-15",
+    "month": "2023-05-01",
+    "value": 176.484,
+    "unit": "Index 1982-84=100, not seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=CUUR0000SEGB&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-05-15"
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "vintage": "2026-05-15",
+    "month": "2023-06-01",
+    "value": 176.846,
+    "unit": "Index 1982-84=100, not seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=CUUR0000SEGB&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-05-15"
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "vintage": "2026-05-15",
+    "month": "2023-07-01",
+    "value": 177.651,
+    "unit": "Index 1982-84=100, not seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=CUUR0000SEGB&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-05-15"
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "vintage": "2026-05-15",
+    "month": "2023-08-01",
+    "value": 178.14,
+    "unit": "Index 1982-84=100, not seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=CUUR0000SEGB&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-05-15"
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "vintage": "2026-05-15",
+    "month": "2023-09-01",
+    "value": 178.898,
+    "unit": "Index 1982-84=100, not seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=CUUR0000SEGB&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-05-15"
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "vintage": "2026-05-15",
+    "month": "2023-10-01",
+    "value": 179.617,
+    "unit": "Index 1982-84=100, not seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=CUUR0000SEGB&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-05-15"
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "vintage": "2026-05-15",
+    "month": "2023-11-01",
+    "value": 178.553,
+    "unit": "Index 1982-84=100, not seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=CUUR0000SEGB&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-05-15"
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "vintage": "2026-05-15",
+    "month": "2023-12-01",
+    "value": 176.62,
+    "unit": "Index 1982-84=100, not seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=CUUR0000SEGB&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-05-15"
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "vintage": "2026-05-15",
+    "month": "2024-01-01",
+    "value": 177.546,
+    "unit": "Index 1982-84=100, not seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=CUUR0000SEGB&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-05-15"
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "vintage": "2026-05-15",
+    "month": "2024-02-01",
+    "value": 179.311,
+    "unit": "Index 1982-84=100, not seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=CUUR0000SEGB&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-05-15"
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "vintage": "2026-05-15",
+    "month": "2024-03-01",
+    "value": 179.706,
+    "unit": "Index 1982-84=100, not seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=CUUR0000SEGB&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-05-15"
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "vintage": "2026-05-15",
+    "month": "2024-04-01",
+    "value": 179.28,
+    "unit": "Index 1982-84=100, not seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=CUUR0000SEGB&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-05-15"
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "vintage": "2026-05-15",
+    "month": "2024-05-01",
+    "value": 178.83,
+    "unit": "Index 1982-84=100, not seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=CUUR0000SEGB&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-05-15"
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "vintage": "2026-05-15",
+    "month": "2024-06-01",
+    "value": 178.682,
+    "unit": "Index 1982-84=100, not seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=CUUR0000SEGB&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-05-15"
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "vintage": "2026-05-15",
+    "month": "2024-07-01",
+    "value": 179.079,
+    "unit": "Index 1982-84=100, not seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=CUUR0000SEGB&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-05-15"
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "vintage": "2026-05-15",
+    "month": "2024-08-01",
+    "value": 178.452,
+    "unit": "Index 1982-84=100, not seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=CUUR0000SEGB&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-05-15"
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "vintage": "2026-05-15",
+    "month": "2024-09-01",
+    "value": 179.154,
+    "unit": "Index 1982-84=100, not seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=CUUR0000SEGB&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-05-15"
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "vintage": "2026-05-15",
+    "month": "2024-10-01",
+    "value": 179.634,
+    "unit": "Index 1982-84=100, not seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=CUUR0000SEGB&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-05-15"
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "vintage": "2026-05-15",
+    "month": "2024-11-01",
+    "value": 179.444,
+    "unit": "Index 1982-84=100, not seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=CUUR0000SEGB&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-05-15"
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "vintage": "2026-05-15",
+    "month": "2024-12-01",
+    "value": 177.536,
+    "unit": "Index 1982-84=100, not seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=CUUR0000SEGB&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-05-15"
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "vintage": "2026-05-15",
+    "month": "2025-01-01",
+    "value": 178.259,
+    "unit": "Index 1982-84=100, not seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=CUUR0000SEGB&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-05-15"
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "vintage": "2026-05-15",
+    "month": "2025-02-01",
+    "value": 179.824,
+    "unit": "Index 1982-84=100, not seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=CUUR0000SEGB&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-05-15"
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "vintage": "2026-05-15",
+    "month": "2025-03-01",
+    "value": 179.746,
+    "unit": "Index 1982-84=100, not seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=CUUR0000SEGB&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-05-15"
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "vintage": "2026-05-15",
+    "month": "2025-04-01",
+    "value": 180.004,
+    "unit": "Index 1982-84=100, not seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=CUUR0000SEGB&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-05-15"
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "vintage": "2026-05-15",
+    "month": "2025-05-01",
+    "value": 179.673,
+    "unit": "Index 1982-84=100, not seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=CUUR0000SEGB&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-05-15"
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "vintage": "2026-05-15",
+    "month": "2025-06-01",
+    "value": 179.83,
+    "unit": "Index 1982-84=100, not seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=CUUR0000SEGB&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-05-15"
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "vintage": "2026-05-15",
+    "month": "2025-07-01",
+    "value": 179.777,
+    "unit": "Index 1982-84=100, not seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=CUUR0000SEGB&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-05-15"
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "vintage": "2026-05-15",
+    "month": "2025-08-01",
+    "value": 180.503,
+    "unit": "Index 1982-84=100, not seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=CUUR0000SEGB&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-05-15"
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "vintage": "2026-05-15",
+    "month": "2025-09-01",
+    "value": 181.816,
+    "unit": "Index 1982-84=100, not seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=CUUR0000SEGB&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-05-15"
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "vintage": "2026-05-15",
+    "month": "2025-11-01",
+    "value": 180.752,
+    "unit": "Index 1982-84=100, not seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=CUUR0000SEGB&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-05-15"
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "vintage": "2026-05-15",
+    "month": "2025-12-01",
+    "value": 180.246,
+    "unit": "Index 1982-84=100, not seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=CUUR0000SEGB&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-05-15"
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "vintage": "2026-05-15",
+    "month": "2026-01-01",
+    "value": 181.597,
+    "unit": "Index 1982-84=100, not seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=CUUR0000SEGB&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-05-15"
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "vintage": "2026-05-15",
+    "month": "2026-02-01",
+    "value": 182.953,
+    "unit": "Index 1982-84=100, not seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=CUUR0000SEGB&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-05-15"
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "vintage": "2026-05-15",
+    "month": "2026-03-01",
+    "value": 183.762,
+    "unit": "Index 1982-84=100, not seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=CUUR0000SEGB&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-05-15"
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "vintage": "2026-05-15",
+    "month": "2026-04-01",
+    "value": 184.895,
+    "unit": "Index 1982-84=100, not seasonally adjusted",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=CUUR0000SEGB&cosd=2021-01-01&coed=2026-04-01&vintage_date=2026-05-15"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "series": "CUUR0000SEGB",
+    "april_last_month": "2026-03-01",
+    "may_last_month": "2026-04-01",
+    "latest_value": 184.895,
+    "monthly_change_pct": 0.6165583744190961,
+    "new_observation_months": "2026-04-01",
+    "revised_prior_months": 0,
+    "decision": "Refresh evidence; do not apply an unvalidated global sales coefficient"
+  },
+  {
+    "series": "PCENDC96",
+    "april_last_month": "2026-02-01",
+    "may_last_month": "2026-03-01",
+    "latest_value": 3551.1,
+    "monthly_change_pct": 0.34757544930483775,
+    "new_observation_months": "2026-03-01",
+    "revised_prior_months": 2,
+    "decision": "Refresh evidence; do not apply an unvalidated global sales coefficient"
+  },
+  {
+    "series": "RSHPCS",
+    "april_last_month": "2026-03-01",
+    "may_last_month": "2026-04-01",
+    "latest_value": 40099.0,
+    "monthly_change_pct": -0.017453747568940692,
+    "new_observation_months": "2026-04-01",
+    "revised_prior_months": 4,
+    "decision": "Refresh evidence; do not apply an unvalidated global sales coefficient"
+  }
+]

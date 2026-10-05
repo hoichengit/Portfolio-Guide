@@ -1,0 +1,52 @@
+[
+  {
+    "segment": "Beauty",
+    "prior_year_sales": 3733.0,
+    "trailing4_growth": 5.5,
+    "benchmark_sales": 3938.3149999999996,
+    "holdouts": 9,
+    "trailing4_rmse": 4.950448913426381,
+    "zero_growth_rmse": 4.898979485566356,
+    "status": "Reference benchmark; not a validated final scenario"
+  },
+  {
+    "segment": "Grooming",
+    "prior_year_sales": 1683.0,
+    "trailing4_growth": 4.0,
+    "benchmark_sales": 1750.3200000000002,
+    "holdouts": 9,
+    "trailing4_rmse": 3.355137023199566,
+    "zero_growth_rmse": 3.265986323710904,
+    "status": "Reference benchmark; not a validated final scenario"
+  },
+  {
+    "segment": "Health Care",
+    "prior_year_sales": 2722.0,
+    "trailing4_growth": 4.0,
+    "benchmark_sales": 2830.88,
+    "holdouts": 9,
+    "trailing4_rmse": 2.7838821814150108,
+    "zero_growth_rmse": 3.3829638550307397,
+    "status": "Reference benchmark; not a validated final scenario"
+  },
+  {
+    "segment": "Fabric & Home Care",
+    "prior_year_sales": 7385.0,
+    "trailing4_growth": 2.75,
+    "benchmark_sales": 7588.087500000001,
+    "holdouts": 9,
+    "trailing4_rmse": 3.570714214271425,
+    "zero_growth_rmse": 2.848001248439177,
+    "status": "Reference benchmark; not a validated final scenario"
+  },
+  {
+    "segment": "Baby, Feminine & Family Care",
+    "prior_year_sales": 5093.0,
+    "trailing4_growth": 1.5,
+    "benchmark_sales": 5169.3949999999995,
+    "holdouts": 9,
+    "trailing4_rmse": 4.5146366901938455,
+    "zero_growth_rmse": 3.197221015541813,
+    "status": "Reference benchmark; not a validated final scenario"
+  }
+]

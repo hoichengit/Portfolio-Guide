@@ -1,3 +1,5 @@
+> **Archived stress experiment.** These adjustments are not the current forecast. Start with the [historical market analysis](../history_review/README.md) and [current Section 2](../../analysis/03_scenario_adjustment.md).
+
 # P&G sales sensitivity workbook
 
 **Purpose: measure what happens if quarterly sales growth is weaker than the company-guidance reference.**

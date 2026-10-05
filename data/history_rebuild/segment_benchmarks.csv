@@ -1,0 +1,6 @@
+segment,prior_year_sales,trailing4_growth,benchmark_sales,holdouts,trailing4_rmse,zero_growth_rmse,status
+Beauty,3733.0,5.5,3938.3149999999996,9,4.950448913426381,4.898979485566356,Reference benchmark; not a validated final scenario
+Grooming,1683.0,4.0,1750.3200000000002,9,3.355137023199566,3.265986323710904,Reference benchmark; not a validated final scenario
+Health Care,2722.0,4.0,2830.88,9,2.7838821814150108,3.3829638550307397,Reference benchmark; not a validated final scenario
+Fabric & Home Care,7385.0,2.75,7588.087500000001,9,3.570714214271425,2.848001248439177,Reference benchmark; not a validated final scenario
+"Baby, Feminine & Family Care",5093.0,1.5,5169.3949999999995,9,4.5146366901938455,3.197221015541813,Reference benchmark; not a validated final scenario

@@ -1,0 +1,12 @@
+{
+  "formula_results_match_independent_python": true,
+  "input_change_recalculates_summary": true,
+  "quarters": 17,
+  "market_vintages": 2,
+  "approved_forecast_coefficients": 0,
+  "native_excel_opened_without_repair": true,
+  "native_excel_input_change_recalculated": true,
+  "native_excel_input_restored_and_saved": true,
+  "restored_combined_segment_slope": 0.7705191962312545,
+  "restored_combined_segment_r_squared": 0.23188987461828586
+}
