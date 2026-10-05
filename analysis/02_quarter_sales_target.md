@@ -33,11 +33,13 @@ The same calculation uses 1% and 5% for the endpoints. No monthly allocation is 
 <details>
 <summary>🔎 Evidence: published sales → Excel calculation</summary>
 
+Red boxes identify the numbers used below. These are annotated copies; the original releases and unannotated Excel screenshot remain linked.
+
 ### ① Last year's comparison figures
 
 **FY2025 sales: $84,284 million. April–June 2025 sales: $20,889 million.** Read the 2025 columns, not the 2024 columns.
 
-![Prior-year quarterly and annual net sales](../evidence/sales_fy25.jpg)
+![Prior-year quarterly and annual net sales](../evidence/sales_fy25_boxed.jpg)
 
 [S1 · P&G release, 29 July 2025](https://www.pginvestor.com/news/news-details/2025/PG-Announces-Fourth-Quarter-and-Fiscal-Year-2025-Results/default.aspx)
 
@@ -54,27 +56,33 @@ The same calculation uses 1% and 5% for the endpoints. No monthly allocation is 
 
 **July–September 2025:**
 
-![First-quarter net sales](../evidence/sales_q1.jpg)
+![First-quarter net sales](../evidence/sales_q1_boxed.jpg)
 
 [S2 · P&G release, 24 October 2025](https://www.pginvestor.com/news/news-details/2025/PG-Announces-Fiscal-Year-2026-First-Quarter-Results/default.aspx)
 
 **October–December 2025:**
 
-![Second-quarter net sales](../evidence/sales_q2.jpg)
+![Second-quarter net sales](../evidence/sales_q2_boxed.jpg)
 
 [S3 · P&G release, 22 January 2026](https://www.pginvestor.com/news/news-details/2026/PG-Announces-Fiscal-Year-2026-Second-Quarter-Results/default.aspx)
 
 **January–March 2026:**
 
-![Third-quarter net sales](../evidence/sales_q3.jpg)
+![Third-quarter net sales](../evidence/sales_q3_boxed.jpg)
 
 [S4 · P&G release, 24 April 2026](https://www.pginvestor.com/news/news-details/2026/PG-Announces-Fiscal-Year-2026-Third-Quarter-Results/default.aspx)
 
 ### ③ Our Excel result
 
-**The shaded rows answer the question:** sales needed in April–June and growth against last year's matching quarter. Red means negative growth; green means positive growth.
+**Read the three red boxes in the Midpoint column from top to bottom:**
 
-![Real Microsoft Excel worksheet showing the quarterly calculation](../evidence/quarter_target_excel.png)
+- **$86,812.52:** full-year sales target, calculated from $84,284 × 1.03.
+- **$65,829.00:** sales already reported for July–March: $22,386 + $22,208 + $21,235.
+- **$20,983.52:** sales still needed in April–June: subtract the second box from the first.
+
+Red **boxes** mark evidence; red/green **growth figures** show negative/positive growth.
+
+![Real Microsoft Excel worksheet showing the quarterly calculation](../evidence/quarter_target_excel_boxed.jpg)
 
 [Download the workbook](../outputs/april_guidance_sample/PG_2_Quarter_Sales_Target.xlsx) · [View the full Excel screenshot](../evidence/quarter_target_excel_full.jpg)
 
@@ -84,6 +92,13 @@ The workbook contains the original inputs, source links and formulas. We built t
 
 ## Next question
 
-**Which quarterly outcome is supported by the evidence available on 24 April?** Next, assess demand, pricing, currency and costs to build our own scenarios. Keep that first forecast separate from the 15 May update.
+**Can P&G realistically achieve the required quarterly sales?**
+
+1. **Review performance:** identify how volume, pricing, product mix and currency affected recent sales.
+2. **Challenge the outlook:** use market evidence published by 24 April to assess demand and competitive pressure.
+3. **Build our forecast:** set downside, base and upside driver assumptions, explain each choice and calculate April–June sales. The company's 1% / 3% / 5% remains a comparison reference.
+4. **Update and test later:** save the April forecast, revise it with new evidence through 15 May, then compare both versions with the actual quarter when released.
+
+The next deliverable is an evidence-to-assumption table: **driver → evidence → assumption → sales impact**.
 
 [← Company guidance](01_management_guidance.md) · [Project home](../README.md)
