@@ -1,9 +1,5 @@
 # 2. Quarterly sales target: What sales are needed in April–June?
 
-[← Project home](../README.md) · [How to review](../PROJECT_GUIDE.md)
-
-`02 / QUARTERLY SALES TARGET` · `Completed analysis`
-
 **Answer: To reach 3% full-year sales growth, P&G needs $20,983.52 million in April–June — 0.45% more than the same quarter last year.**
 
 - 🎯 **Goal:** turn the annual guidance into a quarterly target we can assess.
@@ -96,13 +92,6 @@ The workbook contains the original inputs, source links and formulas. We built t
 
 ## Next question
 
-**Can P&G realistically achieve the required quarterly sales?**
-
-1. **Review performance:** identify how volume, pricing, product mix and currency affected recent sales.
-2. **Challenge the outlook:** use market evidence published by 24 April to assess demand and competitive pressure.
-3. **Build our forecast:** set downside, base and upside driver assumptions, explain each choice and calculate April–June sales. The company's 1% / 3% / 5% remains a comparison reference.
-4. **Update and test later:** save the April forecast, revise it with new evidence through 15 May, then compare both versions with the actual quarter when released.
-
-The next deliverable is an evidence-to-assumption table: **driver → evidence → assumption → sales impact**.
+👉 [**Scenario adjustment: What changes after new market evidence?**](03_scenario_adjustment.md)
 
 [← Company guidance](01_management_guidance.md) · [Project home](../README.md)

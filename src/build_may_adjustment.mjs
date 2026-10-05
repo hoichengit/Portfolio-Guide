@@ -1,0 +1,50 @@
+import fs from 'node:fs/promises';
+import {Workbook,SpreadsheetFile} from '@oai/artifact-tool';
+const root=decodeURIComponent(new URL('../',import.meta.url).pathname),out=root+'outputs/may_adjustment';
+await fs.mkdir(out,{recursive:true});
+const w=Workbook.create(),m=w.worksheets.add('Sales adjustment'),a=w.worksheets.add('Assumptions');
+const money='"$"#,##0.0;("$"#,##0.0);"$"0.0',pct='0.00%;(0.00%);0.00%';
+for(const s of [m,a]){s.showGridLines=false;s.getRange('A1:G65').format.font={name:'Arial',size:12,color:'#17324F'};s.getRange('A1:G65').format.rowHeight=26;s.getRange('A1:A65').format.columnWidth=3;s.getRange('B1:B65').format.columnWidth=39;s.getRange('C1:E65').format.columnWidth=21;s.getRange('F1:G65').format.columnWidth=4;}
+const val=(s,c,v)=>s.getRange(c).values=[[v]],f=(s,c,v)=>s.getRange(c).formulas=[[v]],band=(s,r)=>s.getRange(r).format={fill:'#17324F',font:{bold:true,color:'#FFFFFF'}};
+val(a,'B2','P&G sales scenario assumptions');a.getRange('B2').format.font={size:18,bold:true};
+val(a,'B3','Case selected:');val(a,'C3','Base');a.getRange('C3').dataValidation={rule:{type:'list',values:['Downside','Base','Upside']}};a.getRange('C3').format.fill='#FFF2CC';
+val(a,'B4','Target: April–June 2026. Review date: 15 May 2026.');
+const groups=[{r:6,title:'Annual reference growth',values:[.01,.03,.05]},{r:12,title:'Demand adjustment (quarter)',values:[-.0075,-.0025,0]},{r:18,title:'Pricing adjustment (quarter)',values:[-.0025,-.0025,-.0025]},{r:24,title:'FX / portfolio adjustment',values:[0,0,0]}];
+for(const g of groups){val(a,'B'+g.r,g.title+' — active');f(a,'C'+g.r,`=INDEX(C${g.r+2}:C${g.r+4},MATCH($C$3,B${g.r+2}:B${g.r+4},0))`);a.getRange(`B${g.r}:C${g.r}`).format.fill='#EAF0F6';for(let i=0;i<3;i++){val(a,'B'+(g.r+2+i),['Downside','Base','Upside'][i]);val(a,'C'+(g.r+2+i),g.values[i]);}a.getRange(`C${g.r+2}:C${g.r+4}`).format.font.color='#0000FF';a.getRange(`C${g.r}:C${g.r+4}`).setNumberFormat(pct);}
+val(a,'B30','Adjustments are percentage-point changes to quarterly sales growth.');
+val(a,'B31','Analyst sensitivities, not measured source-to-sales elasticities.');
+val(a,'B33','Demand: BEA March real PCE +0.2%; real disposable income -0.1%.');
+val(a,'B34','Small base reduction; larger downside; resilient upside unchanged.');
+val(a,'B36','Pricing: Unilever Home Care volume +6.2%; price -0.1%.');
+val(a,'B37','A 0.25pp pricing stress; no claim of measured P&G share loss.');
+val(a,'B39','FX: unchanged. No P&G currency-basket estimate in this review.');
+val(a,'B40','Do not add CPI again to demand or PPI directly to sales.');
+const sources=[['S1','2025-07-29','P&G FY2025 / Q4 sales','https://www.pginvestor.com/news/news-details/2025/PG-Announces-Fourth-Quarter-and-Fiscal-Year-2025-Results/default.aspx'],['S2','2026-04-24','P&G annual guidance / nine-month inputs','https://www.pginvestor.com/news/news-details/2026/PG-Announces-Fiscal-Year-2026-Third-Quarter-Results/default.aspx'],['S3','2026-04-30','BEA March 2026, page 3','https://www.bea.gov/sites/default/files/2026-04/pi0326.pdf'],['S4','2026-04-30','Unilever Q1 2026, Home Care','https://www.unilever.com/files/unilever-q1-2026-full-announcement.pdf'],['S5','2026-05-12','CPI April 2026; demand context only','https://www.bls.gov/news.release/archives/cpi_05122026.htm'],['S6','2026-05-13','PPI April 2026; cost watch only','https://www.bls.gov/news.release/archives/ppi_05132026.htm']];
+sources.forEach((x,i)=>{val(a,'B'+(43+i*3),x.slice(0,3).join(' / '));val(a,'B'+(44+i*3),x[3]);a.getRange('B'+(44+i*3)).format.font.size=10;});
+val(a,'B62','Nine-month sales: 22,386 + 22,208 + 21,235 = 65,829.');
+val(a,'B63','See PG_2_Quarter_Sales_Target.xlsx for all three dated releases.');
+val(m,'B2','P&G sales scenario adjustment');m.getRange('B2').format.font={size:18,bold:true};val(m,'B3','Case selected:');f(m,'C3',"=Assumptions!C3");m.getRange('C3').format.font.color='#008000';
+val(m,'B4','April–June 2026 sales. Amounts in USD millions.');
+m.getRange('B6:E6').values=[['Sales outlook','24 Apr reference','15 May adjusted','Change']];band(m,'B6:E6');
+val(m,'B8','Quarterly sales growth');f(m,'C8','=C9/$C$22-1');f(m,'D8','=C8+Assumptions!C12+Assumptions!C18+Assumptions!C24');f(m,'E8','=(D8-C8)*100');m.getRange('C8:D8').setNumberFormat(pct);m.getRange('E8').setNumberFormat('0.00" pp";(0.00)" pp";0.00" pp"');
+val(m,'B9','Quarterly sales');f(m,'C9','=ROUND($C$20*(1+Assumptions!C6)-$C$21,6)');f(m,'D9','=ROUND($C$22*(1+D8),6)');f(m,'E9','=ROUND(D9-C9,6)');
+val(m,'B11','Full-year sales');f(m,'C11','=C9+$C$21');f(m,'D11','=D9+$C$21');f(m,'E11','=D11-C11');
+val(m,'B12','Full-year sales growth');f(m,'C12','=C11/$C$20-1');f(m,'D12','=D11/$C$20-1');f(m,'E12','=(D12-C12)*100');m.getRange('C12:D12').setNumberFormat(pct);m.getRange('E12').setNumberFormat('0.00" pp";(0.00)" pp";0.00" pp"');
+m.getRange('C9:E9').setNumberFormat(money);m.getRange('C11:E11').setNumberFormat(money);m.getRange('B9:E9').format.fill='#EDF3FA';m.getRange('B9:E9').format.font.bold=true;
+for(const cell of ['C9','D9','E9'])m.getRange(cell).format.borders={preset:'outside',style:'medium',color:'#C62828'};
+m.getRange('B14:D14').values=[['Why sales change','Growth change (pp)','Sales impact']];band(m,'B14:D14');
+['Demand','Pricing','FX / portfolio'].forEach((label,i)=>{val(m,'B'+(15+i),label);f(m,'C'+(15+i),'=Assumptions!C'+[12,18,24][i]+'*100');f(m,'D'+(15+i),'=C'+(15+i)+'/100*$C$22');});
+val(m,'B18','Total adjustment');f(m,'C18','=SUM(C15:C17)');f(m,'D18','=SUM(D15:D17)');m.getRange('C15:C18').setNumberFormat('0.00" pp";(0.00)" pp";0.00" pp"');m.getRange('D15:D18').setNumberFormat(money);m.getRange('B18:D18').format.font.bold=true;
+m.getRange('B20:D22').values=[['FY2025 sales',84284,'S1'],['Nine-month actual sales',65829,'S2 / prior workbook'],['April–June 2025 sales',20889,'S1']];m.getRange('C20:C22').setNumberFormat(money);m.getRange('C20:C22').format.font.color='#0000FF';
+val(m,'B24','Check: adjustment explains change');f(m,'C24','=E9-D18');val(m,'B25','Check: annual sales reconciliation');f(m,'C25','=D11-$C$21-D9');m.getRange('C24:C25').setNumberFormat('0.000;(0.000);0.000');
+val(m,'B27','Company reference first; analyst adjustment second.');val(m,'B28','Edit the case and assumptions on the Assumptions sheet.');val(m,'B29','This review covers sales only; it does not forecast EPS.');
+m.getRange('E9:E11').conditionalFormats.add('cellIs',{operator:'lessThan',formula:0,format:{font:{color:'#B71C1C'}}});
+const results=[];
+for(const name of ['Downside','Base','Upside']){val(a,'C3',name);w.recalculate();const r={case:name,before:m.getRange('C9').values[0][0],after:m.getRange('D9').values[0][0],delta:m.getRange('E9').values[0][0],before_growth:m.getRange('C8').values[0][0],after_growth:m.getRange('D8').values[0][0],annual_growth:m.getRange('D12').values[0][0]};if(Math.abs(m.getRange('C24').values[0][0])>1e-6)throw Error('Bridge');results.push(r);}
+val(a,'C3','Base');val(a,'C15',0);w.recalculate();if(Math.abs(m.getRange('D9').values[0][0]-20931.2975)>1e-6)throw Error('Input change failed');val(a,'C15',-.0025);w.recalculate();
+if(Math.abs(m.getRange('D9').values[0][0]-20879.075)>1e-6)throw Error('Base failed');
+console.log((await w.inspect({kind:'match',searchTerm:'#REF!|#DIV/0!|#VALUE!|#NAME\\?|#NUM!',options:{useRegex:true,maxResults:20}})).ndjson);
+for(const [s,r,n] of [[m,'B2:E18','model'],[a,'B2:D31','assumptions']]){const im=await w.render({sheetName:s.name,range:r,scale:1.5});await fs.writeFile(out+'/'+n+'_preview.png',new Uint8Array(await im.arrayBuffer()));}
+await (await SpreadsheetFile.exportXlsx(w)).save(out+'/PG_3_Scenario_Adjustment.xlsx');
+await fs.writeFile(out+'/results.json',JSON.stringify({basis:'Guidance-anchored sales sensitivity; retrospective reconstruction',target:'2026-04-01/2026-06-30',baseline_cutoff:'2026-04-24',review_cutoff:'2026-05-15',cases:results,checks:{bridge:true,case_switch:true,input_change:true,no_actual_target_quarter_used:true},sources},null,2));
+console.log(JSON.stringify(results));

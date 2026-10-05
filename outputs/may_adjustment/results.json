@@ -1,0 +1,79 @@
+{
+  "basis": "Guidance-anchored sales sensitivity; retrospective reconstruction",
+  "target": "2026-04-01/2026-06-30",
+  "baseline_cutoff": "2026-04-24",
+  "review_cutoff": "2026-05-15",
+  "cases": [
+    {
+      "case": "Downside",
+      "before": 19297.84,
+      "after": 19088.95,
+      "delta": -208.89,
+      "before_growth": -0.07617214802048922,
+      "after_growth": -0.08617214802048923,
+      "annual_growth": 0.007521593659532089
+    },
+    {
+      "case": "Base",
+      "before": 20983.52,
+      "after": 20879.075,
+      "delta": -104.445,
+      "before_growth": 0.004524869548566235,
+      "after_growth": -0.0004751304514337652,
+      "annual_growth": 0.028760796829766067
+    },
+    {
+      "case": "Upside",
+      "before": 22669.2,
+      "after": 22616.9775,
+      "delta": -52.2225,
+      "before_growth": 0.0852218871176218,
+      "after_growth": 0.0827218871176218,
+      "annual_growth": 0.049380398414883064
+    }
+  ],
+  "checks": {
+    "bridge": true,
+    "case_switch": true,
+    "input_change": true,
+    "no_actual_target_quarter_used": true
+  },
+  "sources": [
+    [
+      "S1",
+      "2025-07-29",
+      "P&G FY2025 / Q4 sales",
+      "https://www.pginvestor.com/news/news-details/2025/PG-Announces-Fourth-Quarter-and-Fiscal-Year-2025-Results/default.aspx"
+    ],
+    [
+      "S2",
+      "2026-04-24",
+      "P&G annual guidance / nine-month inputs",
+      "https://www.pginvestor.com/news/news-details/2026/PG-Announces-Fiscal-Year-2026-Third-Quarter-Results/default.aspx"
+    ],
+    [
+      "S3",
+      "2026-04-30",
+      "BEA March 2026, page 3",
+      "https://www.bea.gov/sites/default/files/2026-04/pi0326.pdf"
+    ],
+    [
+      "S4",
+      "2026-04-30",
+      "Unilever Q1 2026, Home Care",
+      "https://www.unilever.com/files/unilever-q1-2026-full-announcement.pdf"
+    ],
+    [
+      "S5",
+      "2026-05-12",
+      "CPI April 2026; demand context only",
+      "https://www.bls.gov/news.release/archives/cpi_05122026.htm"
+    ],
+    [
+      "S6",
+      "2026-05-13",
+      "PPI April 2026; cost watch only",
+      "https://www.bls.gov/news.release/archives/ppi_05132026.htm"
+    ]
+  ]
+}
