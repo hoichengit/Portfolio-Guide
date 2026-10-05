@@ -1,5 +1,9 @@
 # 1. Management guidance: What did P&G expect on 24 April?
 
+[← Project home](../README.md) · [How to review](../PROJECT_GUIDE.md)
+
+`01 / COMPANY GUIDANCE` · `Completed analysis`
+
 **Answer: P&G expected full-year sales growth of 1%–5%; we record that range before forming our own view.**
 
 ## 🎯 Goal

@@ -1,47 +1,74 @@
-# P&G | From Company Guidance to an Independent Forecast
+![P&G financial analysis project](architecture/portfolio_cover.svg)
 
-**Can P&G deliver its outlook, and what would change our view?**
+# P&G | From Company Guidance to a Quarterly Sales Target
 
-- 📅 **Start:** the January–March results released on 24 April 2026.
-- 🎯 **Forecast:** April–June 2026 as one quarter; add nine-month actuals to show the full year. No monthly split.
-- 🔎 **Method:** separate company guidance, our assumptions and actual results.
+**I turn published financial reports into Excel analysis that explains what a company needs to deliver next.**
 
-![From guidance to forecast review](architecture/april_workflow.svg)
+`Financial research` · `Excel modelling` · `Revenue analysis` · `Reconciliation`
 
-## 1. Understand the company's outlook
+[**▶ Start with the result**](analysis/02_quarter_sales_target.md) · [**📊 Open Excel**](outputs/april_guidance_sample/PG_2_Quarter_Sales_Target.xlsx) · [**🔎 Check the evidence**](analysis/02_quarter_sales_target.md#-our-excel-result) · [**🧭 How to use this project**](PROJECT_GUIDE.md)
 
-**P&G guided to 1%–5% full-year sales growth. The midpoint is a reference, not our forecast.**
+## 🎯 The business question
 
-- [**1. Company guidance:** What did P&G expect?](analysis/01_management_guidance.md)
-- [**2. Quarterly sales target:** What sales are needed in April–June?](analysis/02_quarter_sales_target.md)
+**What must P&G sell in April–June 2026 to achieve its full-year sales guidance?**
 
-💡 **The 3% annual midpoint requires only 0.45% growth in April–June.** Open question 2 to see why.
+- **What I built:** two Excel worksheets that capture company guidance and calculate the remaining quarter's sales target.
+- **Why it matters:** a full-year growth rate can hide a very different target for the remaining quarter.
+- **Scope:** an external case study using public information available by **24 April 2026**.
 
-## 2. Build and update our own view
+## 💡 The finding in 20 seconds
 
-- **24 April:** use all information publicly available by that date to build independent downside, base and upside cases.
-- **15 May:** add new evidence, save a second version and explain each assumption change.
-- **29 July:** compare both saved forecasts with the published April–June results.
+> **3% full-year growth requires just 0.45% growth in April–June.**
+>
+> $86,812.52m annual target − $65,829.00m already reported = **$20,983.52m still needed**.
 
-This is a historical reconstruction. The first two completed sections establish the company reference and its implied quarterly sales; the revised independent forecasts are the next step.
+![Excel result with the three calculation inputs and output boxed in red](evidence/quarter_target_excel_boxed.jpg)
 
-## 3. Measure uncertainty — after the forecast is built
+**Read the red boxes from top to bottom:** annual target → sales already reported → remaining quarter. [See the calculation and original reports →](analysis/02_quarter_sales_target.md)
 
-Use sensitivity analysis to select the important drivers, then document distributions and correlations before running Monte Carlo simulations. Report ranges and threshold probabilities conditional on those assumptions, not guaranteed real-world odds.
+## 📂 Explore the analysis
 
-## 🧰 Skills demonstrated so far
+| Question | What I did | Open the output |
+|---|---|---|
+| [**1. Company guidance**](analysis/01_management_guidance.md) | Extracted the published sales and EPS ranges. Separated company guidance from calculated midpoints. | [Excel: guidance](outputs/april_guidance_sample/PG_1_Management_Guidance.xlsx) |
+| [**2. Quarterly sales target**](analysis/02_quarter_sales_target.md) | Converted annual growth into quarterly sales required. Matched the calculation to published actuals. | [Excel: sales target](outputs/april_guidance_sample/PG_2_Quarter_Sales_Target.xlsx) |
 
-| Skill | Evidence |
+Each analysis page follows **question → answer → calculation → expandable evidence**. Red boxes highlight the numbers to compare.
+
+## 🛠️ Skills you can inspect
+
+| Skill | Demonstrated in this project |
 |---|---|
-| Financial research | Locate the actual guidance and preserve its date and definition. |
-| Excel | Build linked sales calculations and reconcile annual totals to quarterly targets. |
-| Analytical judgement | Separate annual from quarterly growth, and company guidance from our own scenarios. |
+| **Financial research** | Trace figures to dated company releases and preserve reporting periods. |
+| **Excel modelling** | Link inputs, annual targets, nine-month actuals and quarterly growth through formulas. |
+| **Quality checks** | Reconcile annual sales to actuals plus the remaining quarter; check that input changes update results. |
+| **Commercial judgement** | Explain why annual growth differs from quarterly growth and why a midpoint is not an independent forecast. |
+| **Communication** | Lead with an answer and let readers expand the evidence when needed. |
 
-[📊 Download the Excel sample](outputs/april_guidance_sample/PG_1_Management_Guidance.xlsx) · [🔎 Read the analysis](analysis/01_management_guidance.md)
+## 🚀 Currently working on
+
+**Next: test whether the implied quarterly targets are realistic.**
+
+| Stage | Status | Deliverable |
+|---|---|---|
+| Company guidance + quarterly target | ✅ Ready to review | Two analysis pages and two Excel workbooks |
+| Independent scenarios as of 24 April | ◻ Next | Evidence → assumptions → downside / base / upside sales |
+| Market update through 15 May | ◻ Planned | Revised assumptions and a change log |
+| Forecast vs actual | ◻ Planned | Explain the differences after the quarter is reported |
+| Power BI presentation | ◻ Planned for this revised model | Interactive summary of the completed analysis |
+
+The 1% / 3% / 5% references describe the company guidance range. **Our independent scenarios have not been completed in this revised model.**
 
 <details>
-<summary>Project version</summary>
+<summary>📎 Sources, tools and project scope</summary>
 
-This preview replaces the previous landing page and its March-start forecast framing. Earlier models and results remain in repository history and supporting files; they are not results of the revised April-start design. Monte Carlo has not yet been run for this design.
+- **Sources:** P&G's public earnings releases; direct links appear beside each evidence image.
+- **Tools used here:** Microsoft Excel, JavaScript for workbook preparation, Markdown and GitHub for presentation.
+- **Files:** downloadable workbooks contain inputs, formulas and source references; screenshots show selected results.
+- **Method:** this is a historical reconstruction with a fixed information cutoff. Later information belongs to later review stages.
+- **Scope:** an independent portfolio case study; it is not P&G's internal budget or an official P&G publication.
+- **Version:** this April-start model replaces the earlier March-start framing. Older supporting files are not results of this revised workflow.
 
 </details>
+
+**By [Hoi Chen](https://github.com/hoichengit)** · Ask me about turning annual guidance into quarterly targets, tracing financial data and explaining forecast assumptions.

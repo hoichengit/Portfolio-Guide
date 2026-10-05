@@ -1,5 +1,9 @@
 # 2. Quarterly sales target: What sales are needed in April–June?
 
+[← Project home](../README.md) · [How to review](../PROJECT_GUIDE.md)
+
+`02 / QUARTERLY SALES TARGET` · `Completed analysis`
+
 **Answer: To reach 3% full-year sales growth, P&G needs $20,983.52 million in April–June — 0.45% more than the same quarter last year.**
 
 - 🎯 **Goal:** turn the annual guidance into a quarterly target we can assess.
