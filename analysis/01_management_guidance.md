@@ -57,7 +57,9 @@ The announcement spells out percentages in words. Match these three phrases to t
 
 **“In-line” means unchanged from the prior year: 0% growth.** The screenshot below is the actual guidance section, not the quarterly headline results at the top of the announcement.
 
-![P&G's original fiscal 2026 guidance section](../evidence/april_guidance_source.jpg)
+![Guidance excerpt with the three ranges boxed in red](../evidence/april_guidance_annotated.jpg)
+
+Red-box annotation for readability. [View the unannotated source screenshot](../evidence/april_guidance_source.jpg).
 
 [Open the original announcement](https://www.pginvestor.com/news/news-details/2026/PG-Announces-Fiscal-Year-2026-Third-Quarter-Results/default.aspx).
 
@@ -75,6 +77,6 @@ The screenshot was captured in Microsoft Excel. Source limits are numeric percen
 
 ## Next question
 
-**What April–June sales would be needed to reach that annual guidance?** The calculation method is shown above; the numerical quarterly build is the next section, using only information available by 24 April.
+👉 [**2. Quarterly sales target: What sales are needed in April–June?**](02_quarter_sales_target.md)
 
 [← Project home](../README.md)

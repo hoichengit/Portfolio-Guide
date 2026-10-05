@@ -1,0 +1,21 @@
+{
+  "as_of": "2026-04-24",
+  "nine_month_sales": 65829,
+  "prior_year_quarter_sales": 20889,
+  "implied_quarter_sales": [
+    19297.839999999997,
+    20983.520000000004,
+    22669.199999999997
+  ],
+  "implied_growth": [
+    -0.07617214802048944,
+    0.004524869548566457,
+    0.08522188711762158
+  ],
+  "reconciliation": [
+    0,
+    0,
+    0
+  ],
+  "input_change_check": "passed"
+}

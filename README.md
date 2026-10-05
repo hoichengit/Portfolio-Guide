@@ -12,7 +12,10 @@
 
 **P&G guided to 1%–5% full-year sales growth. The midpoint is a reference, not our forecast.**
 
-👉 [Read the first question and open the source-to-Excel evidence](analysis/01_management_guidance.md)
+- [**1. Company guidance:** What did P&G expect?](analysis/01_management_guidance.md)
+- [**2. Quarterly sales target:** What sales are needed in April–June?](analysis/02_quarter_sales_target.md)
+
+💡 **The 3% annual midpoint requires only 0.45% growth in April–June.** Open question 2 to see why.
 
 ## 2. Build and update our own view
 
@@ -20,18 +23,18 @@
 - **15 May:** add new evidence, save a second version and explain each assumption change.
 - **29 July:** compare both saved forecasts with the published April–June results.
 
-This is a historical reconstruction. The first completed section establishes the company reference; the revised independent forecasts are the next step.
+This is a historical reconstruction. The first two completed sections establish the company reference and its implied quarterly sales; the revised independent forecasts are the next step.
 
 ## 3. Measure uncertainty — after the forecast is built
 
 Use sensitivity analysis to select the important drivers, then document distributions and correlations before running Monte Carlo simulations. Report ranges and threshold probabilities conditional on those assumptions, not guaranteed real-world odds.
 
-## 🧰 What the first section demonstrates
+## 🧰 Skills demonstrated so far
 
 | Skill | Evidence |
 |---|---|
 | Financial research | Locate the actual guidance and preserve its date and definition. |
-| Excel | Transfer the company ranges and calculate their midpoints. |
+| Excel | Build linked sales calculations and reconcile annual totals to quarterly targets. |
 | Analytical judgement | Separate annual from quarterly growth, and company guidance from our own scenarios. |
 
 [📊 Download the Excel sample](outputs/april_guidance_sample/PG_1_Management_Guidance.xlsx) · [🔎 Read the analysis](analysis/01_management_guidance.md)
