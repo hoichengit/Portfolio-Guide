@@ -23,10 +23,11 @@
 
 - **Company history:** 17 quarters, January 2022–March 2026, across five reporting segments.
 - **Product research:** 11 categories mapped to available market data; missing product-level amounts stay missing.
-- **Result:** 18 exploratory company–market tests across two information cutoffs. No coefficient is approved for forecasting yet.
+- **Historical tests:** 18 exploratory company–market comparisons.
+- **Release-aware backtest:** 122 archived market versions; five forecasting methods tested over eight quarters. Grooming pricing improved, while several demand models failed to beat simple rules.
 - **Competitors:** optional checks for industry performance and market share; no peer coefficient enters this model.
 
-👉 [Read the questions and answers](analysis/03_scenario_adjustment.md) · [Expand original-report and Excel evidence](analysis/04_historical_matching.md) · [Download the historical analysis](outputs/history_review/PG_4_Historical_Market_Analysis.xlsx)
+👉 [See the release-aware backtest and data-gap remedies](analysis/05_release_backtest.md) · [Read the questions and answers](analysis/03_scenario_adjustment.md) · [Expand original-report and Excel evidence](analysis/04_historical_matching.md) · [Download the historical analysis](outputs/history_review/PG_4_Historical_Market_Analysis.xlsx)
 
 This historical reconstruction separates what was known on 24 April from what was known on 15 May. The previous unsupported blanket reductions have been withdrawn from the active argument. A new calibrated downside/base/upside forecast remains unfinished.
 

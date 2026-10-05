@@ -26,12 +26,18 @@ flowchart LR
 | **4. Competitors:** Must we model peers too? | No. Add them when the question concerns industry performance or market share, using comparable histories. | [When competitors help](04_historical_matching.md#4-competitors-do-we-need-a-second-sensitivity-model) |
 | **5. Timing:** Must we wait until 15 May? | No. Review each public release; 15 May is a saved checkpoint. | [Release calendar](04_historical_matching.md#5-release-timing-when-should-the-forecast-change) |
 
+## Release-aware backtest
+
+**New result:** Grooming pricing retains some value, but more information and 50/50 blending do not always improve accuracy. We replayed historical versions across eight target quarters.
+
+[6. Backtest: Do immediate updates improve the forecast?](05_release_backtest.md) · [7. Data gaps: Can model changes solve them?](05_release_backtest.md#4-data-gaps-can-adding-variables-solve-the-limitations)
+
 ## What changed?
 
 - **Kept:** the company-guidance references from [section 1](02_quarter_sales_target.md).
 - **Added:** source-linked quarterly histories, product mapping, an editable sensitivity workbook and real Excel screenshots.
 - **Removed from the active argument:** automatic demand and pricing cuts inferred from a few macro or peer observations.
-- **Still needed:** suitable regional/product demand data, timing tests and forecasts for the unobserved target months before a calibrated numerical revision.
+- **Still needed:** suitable regional/product demand data and independent confirmation beyond the historical model-development sample before a calibrated numerical revision.
 
 <details>
 <summary>📁 Earlier market commentary and stress experiment</summary>

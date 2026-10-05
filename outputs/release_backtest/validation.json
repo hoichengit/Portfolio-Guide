@@ -1,0 +1,14 @@
+{
+  "all_forecasts_match_python": true,
+  "all_scores_match_python": true,
+  "input_recalculates_example": true,
+  "input_restored": true,
+  "target_actual_mutation_does_not_change_earlier_forecast": true,
+  "native_excel_opened": true,
+  "native_input_change_forecast_before": 4.791084819615582,
+  "native_input_change_forecast_after_rounded": 6.85,
+  "native_input_restored": true,
+  "native_formula_errors": 0,
+  "native_editable_line_chart": true,
+  "all_native_excel_scores_match_python": true
+}

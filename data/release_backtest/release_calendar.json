@@ -1,0 +1,542 @@
+[
+  {
+    "series": "PCENDC96",
+    "date": "2023-12-22",
+    "source_url": "https://alfred.stlouisfed.org/series/downloaddata?seid=PCENDC96",
+    "date_type": "ALFRED vintage / revision date"
+  },
+  {
+    "series": "PCENDC96",
+    "date": "2024-01-26",
+    "source_url": "https://alfred.stlouisfed.org/series/downloaddata?seid=PCENDC96",
+    "date_type": "ALFRED vintage / revision date"
+  },
+  {
+    "series": "PCENDC96",
+    "date": "2024-02-29",
+    "source_url": "https://alfred.stlouisfed.org/series/downloaddata?seid=PCENDC96",
+    "date_type": "ALFRED vintage / revision date"
+  },
+  {
+    "series": "PCENDC96",
+    "date": "2024-03-29",
+    "source_url": "https://alfred.stlouisfed.org/series/downloaddata?seid=PCENDC96",
+    "date_type": "ALFRED vintage / revision date"
+  },
+  {
+    "series": "PCENDC96",
+    "date": "2024-04-26",
+    "source_url": "https://alfred.stlouisfed.org/series/downloaddata?seid=PCENDC96",
+    "date_type": "ALFRED vintage / revision date"
+  },
+  {
+    "series": "PCENDC96",
+    "date": "2024-05-31",
+    "source_url": "https://alfred.stlouisfed.org/series/downloaddata?seid=PCENDC96",
+    "date_type": "ALFRED vintage / revision date"
+  },
+  {
+    "series": "PCENDC96",
+    "date": "2024-06-28",
+    "source_url": "https://alfred.stlouisfed.org/series/downloaddata?seid=PCENDC96",
+    "date_type": "ALFRED vintage / revision date"
+  },
+  {
+    "series": "PCENDC96",
+    "date": "2024-07-26",
+    "source_url": "https://alfred.stlouisfed.org/series/downloaddata?seid=PCENDC96",
+    "date_type": "ALFRED vintage / revision date"
+  },
+  {
+    "series": "PCENDC96",
+    "date": "2024-08-30",
+    "source_url": "https://alfred.stlouisfed.org/series/downloaddata?seid=PCENDC96",
+    "date_type": "ALFRED vintage / revision date"
+  },
+  {
+    "series": "PCENDC96",
+    "date": "2024-09-27",
+    "source_url": "https://alfred.stlouisfed.org/series/downloaddata?seid=PCENDC96",
+    "date_type": "ALFRED vintage / revision date"
+  },
+  {
+    "series": "PCENDC96",
+    "date": "2024-10-31",
+    "source_url": "https://alfred.stlouisfed.org/series/downloaddata?seid=PCENDC96",
+    "date_type": "ALFRED vintage / revision date"
+  },
+  {
+    "series": "PCENDC96",
+    "date": "2024-11-27",
+    "source_url": "https://alfred.stlouisfed.org/series/downloaddata?seid=PCENDC96",
+    "date_type": "ALFRED vintage / revision date"
+  },
+  {
+    "series": "PCENDC96",
+    "date": "2024-12-20",
+    "source_url": "https://alfred.stlouisfed.org/series/downloaddata?seid=PCENDC96",
+    "date_type": "ALFRED vintage / revision date"
+  },
+  {
+    "series": "PCENDC96",
+    "date": "2025-01-31",
+    "source_url": "https://alfred.stlouisfed.org/series/downloaddata?seid=PCENDC96",
+    "date_type": "ALFRED vintage / revision date"
+  },
+  {
+    "series": "PCENDC96",
+    "date": "2025-02-28",
+    "source_url": "https://alfred.stlouisfed.org/series/downloaddata?seid=PCENDC96",
+    "date_type": "ALFRED vintage / revision date"
+  },
+  {
+    "series": "PCENDC96",
+    "date": "2025-03-28",
+    "source_url": "https://alfred.stlouisfed.org/series/downloaddata?seid=PCENDC96",
+    "date_type": "ALFRED vintage / revision date"
+  },
+  {
+    "series": "PCENDC96",
+    "date": "2025-04-30",
+    "source_url": "https://alfred.stlouisfed.org/series/downloaddata?seid=PCENDC96",
+    "date_type": "ALFRED vintage / revision date"
+  },
+  {
+    "series": "PCENDC96",
+    "date": "2025-05-30",
+    "source_url": "https://alfred.stlouisfed.org/series/downloaddata?seid=PCENDC96",
+    "date_type": "ALFRED vintage / revision date"
+  },
+  {
+    "series": "PCENDC96",
+    "date": "2025-06-27",
+    "source_url": "https://alfred.stlouisfed.org/series/downloaddata?seid=PCENDC96",
+    "date_type": "ALFRED vintage / revision date"
+  },
+  {
+    "series": "PCENDC96",
+    "date": "2025-07-31",
+    "source_url": "https://alfred.stlouisfed.org/series/downloaddata?seid=PCENDC96",
+    "date_type": "ALFRED vintage / revision date"
+  },
+  {
+    "series": "PCENDC96",
+    "date": "2025-08-29",
+    "source_url": "https://alfred.stlouisfed.org/series/downloaddata?seid=PCENDC96",
+    "date_type": "ALFRED vintage / revision date"
+  },
+  {
+    "series": "PCENDC96",
+    "date": "2025-09-26",
+    "source_url": "https://alfred.stlouisfed.org/series/downloaddata?seid=PCENDC96",
+    "date_type": "ALFRED vintage / revision date"
+  },
+  {
+    "series": "PCENDC96",
+    "date": "2025-12-05",
+    "source_url": "https://alfred.stlouisfed.org/series/downloaddata?seid=PCENDC96",
+    "date_type": "ALFRED vintage / revision date"
+  },
+  {
+    "series": "PCENDC96",
+    "date": "2025-12-23",
+    "source_url": "https://alfred.stlouisfed.org/series/downloaddata?seid=PCENDC96",
+    "date_type": "ALFRED vintage / revision date"
+  },
+  {
+    "series": "PCENDC96",
+    "date": "2026-01-22",
+    "source_url": "https://alfred.stlouisfed.org/series/downloaddata?seid=PCENDC96",
+    "date_type": "ALFRED vintage / revision date"
+  },
+  {
+    "series": "PCENDC96",
+    "date": "2026-02-20",
+    "source_url": "https://alfred.stlouisfed.org/series/downloaddata?seid=PCENDC96",
+    "date_type": "ALFRED vintage / revision date"
+  },
+  {
+    "series": "PCENDC96",
+    "date": "2026-03-13",
+    "source_url": "https://alfred.stlouisfed.org/series/downloaddata?seid=PCENDC96",
+    "date_type": "ALFRED vintage / revision date"
+  },
+  {
+    "series": "PCENDC96",
+    "date": "2026-04-09",
+    "source_url": "https://alfred.stlouisfed.org/series/downloaddata?seid=PCENDC96",
+    "date_type": "ALFRED vintage / revision date"
+  },
+  {
+    "series": "PCENDC96",
+    "date": "2026-04-30",
+    "source_url": "https://alfred.stlouisfed.org/series/downloaddata?seid=PCENDC96",
+    "date_type": "ALFRED vintage / revision date"
+  },
+  {
+    "series": "RSHPCS",
+    "date": "2023-12-14",
+    "source_url": "https://alfred.stlouisfed.org/series/downloaddata?seid=RSHPCS",
+    "date_type": "ALFRED vintage / revision date"
+  },
+  {
+    "series": "RSHPCS",
+    "date": "2024-01-17",
+    "source_url": "https://alfred.stlouisfed.org/series/downloaddata?seid=RSHPCS",
+    "date_type": "ALFRED vintage / revision date"
+  },
+  {
+    "series": "RSHPCS",
+    "date": "2024-02-15",
+    "source_url": "https://alfred.stlouisfed.org/series/downloaddata?seid=RSHPCS",
+    "date_type": "ALFRED vintage / revision date"
+  },
+  {
+    "series": "RSHPCS",
+    "date": "2024-03-14",
+    "source_url": "https://alfred.stlouisfed.org/series/downloaddata?seid=RSHPCS",
+    "date_type": "ALFRED vintage / revision date"
+  },
+  {
+    "series": "RSHPCS",
+    "date": "2024-04-15",
+    "source_url": "https://alfred.stlouisfed.org/series/downloaddata?seid=RSHPCS",
+    "date_type": "ALFRED vintage / revision date"
+  },
+  {
+    "series": "RSHPCS",
+    "date": "2024-04-23",
+    "source_url": "https://alfred.stlouisfed.org/series/downloaddata?seid=RSHPCS",
+    "date_type": "ALFRED vintage / revision date"
+  },
+  {
+    "series": "RSHPCS",
+    "date": "2024-05-15",
+    "source_url": "https://alfred.stlouisfed.org/series/downloaddata?seid=RSHPCS",
+    "date_type": "ALFRED vintage / revision date"
+  },
+  {
+    "series": "RSHPCS",
+    "date": "2024-06-18",
+    "source_url": "https://alfred.stlouisfed.org/series/downloaddata?seid=RSHPCS",
+    "date_type": "ALFRED vintage / revision date"
+  },
+  {
+    "series": "RSHPCS",
+    "date": "2024-07-16",
+    "source_url": "https://alfred.stlouisfed.org/series/downloaddata?seid=RSHPCS",
+    "date_type": "ALFRED vintage / revision date"
+  },
+  {
+    "series": "RSHPCS",
+    "date": "2024-08-15",
+    "source_url": "https://alfred.stlouisfed.org/series/downloaddata?seid=RSHPCS",
+    "date_type": "ALFRED vintage / revision date"
+  },
+  {
+    "series": "RSHPCS",
+    "date": "2024-09-17",
+    "source_url": "https://alfred.stlouisfed.org/series/downloaddata?seid=RSHPCS",
+    "date_type": "ALFRED vintage / revision date"
+  },
+  {
+    "series": "RSHPCS",
+    "date": "2024-10-17",
+    "source_url": "https://alfred.stlouisfed.org/series/downloaddata?seid=RSHPCS",
+    "date_type": "ALFRED vintage / revision date"
+  },
+  {
+    "series": "RSHPCS",
+    "date": "2024-11-15",
+    "source_url": "https://alfred.stlouisfed.org/series/downloaddata?seid=RSHPCS",
+    "date_type": "ALFRED vintage / revision date"
+  },
+  {
+    "series": "RSHPCS",
+    "date": "2024-12-17",
+    "source_url": "https://alfred.stlouisfed.org/series/downloaddata?seid=RSHPCS",
+    "date_type": "ALFRED vintage / revision date"
+  },
+  {
+    "series": "RSHPCS",
+    "date": "2025-01-16",
+    "source_url": "https://alfred.stlouisfed.org/series/downloaddata?seid=RSHPCS",
+    "date_type": "ALFRED vintage / revision date"
+  },
+  {
+    "series": "RSHPCS",
+    "date": "2025-02-14",
+    "source_url": "https://alfred.stlouisfed.org/series/downloaddata?seid=RSHPCS",
+    "date_type": "ALFRED vintage / revision date"
+  },
+  {
+    "series": "RSHPCS",
+    "date": "2025-03-17",
+    "source_url": "https://alfred.stlouisfed.org/series/downloaddata?seid=RSHPCS",
+    "date_type": "ALFRED vintage / revision date"
+  },
+  {
+    "series": "RSHPCS",
+    "date": "2025-04-16",
+    "source_url": "https://alfred.stlouisfed.org/series/downloaddata?seid=RSHPCS",
+    "date_type": "ALFRED vintage / revision date"
+  },
+  {
+    "series": "RSHPCS",
+    "date": "2025-04-25",
+    "source_url": "https://alfred.stlouisfed.org/series/downloaddata?seid=RSHPCS",
+    "date_type": "ALFRED vintage / revision date"
+  },
+  {
+    "series": "RSHPCS",
+    "date": "2025-05-15",
+    "source_url": "https://alfred.stlouisfed.org/series/downloaddata?seid=RSHPCS",
+    "date_type": "ALFRED vintage / revision date"
+  },
+  {
+    "series": "RSHPCS",
+    "date": "2025-06-17",
+    "source_url": "https://alfred.stlouisfed.org/series/downloaddata?seid=RSHPCS",
+    "date_type": "ALFRED vintage / revision date"
+  },
+  {
+    "series": "RSHPCS",
+    "date": "2025-07-17",
+    "source_url": "https://alfred.stlouisfed.org/series/downloaddata?seid=RSHPCS",
+    "date_type": "ALFRED vintage / revision date"
+  },
+  {
+    "series": "RSHPCS",
+    "date": "2025-08-15",
+    "source_url": "https://alfred.stlouisfed.org/series/downloaddata?seid=RSHPCS",
+    "date_type": "ALFRED vintage / revision date"
+  },
+  {
+    "series": "RSHPCS",
+    "date": "2025-09-16",
+    "source_url": "https://alfred.stlouisfed.org/series/downloaddata?seid=RSHPCS",
+    "date_type": "ALFRED vintage / revision date"
+  },
+  {
+    "series": "RSHPCS",
+    "date": "2025-11-25",
+    "source_url": "https://alfred.stlouisfed.org/series/downloaddata?seid=RSHPCS",
+    "date_type": "ALFRED vintage / revision date"
+  },
+  {
+    "series": "RSHPCS",
+    "date": "2025-12-16",
+    "source_url": "https://alfred.stlouisfed.org/series/downloaddata?seid=RSHPCS",
+    "date_type": "ALFRED vintage / revision date"
+  },
+  {
+    "series": "RSHPCS",
+    "date": "2026-01-14",
+    "source_url": "https://alfred.stlouisfed.org/series/downloaddata?seid=RSHPCS",
+    "date_type": "ALFRED vintage / revision date"
+  },
+  {
+    "series": "RSHPCS",
+    "date": "2026-02-10",
+    "source_url": "https://alfred.stlouisfed.org/series/downloaddata?seid=RSHPCS",
+    "date_type": "ALFRED vintage / revision date"
+  },
+  {
+    "series": "RSHPCS",
+    "date": "2026-03-06",
+    "source_url": "https://alfred.stlouisfed.org/series/downloaddata?seid=RSHPCS",
+    "date_type": "ALFRED vintage / revision date"
+  },
+  {
+    "series": "RSHPCS",
+    "date": "2026-04-01",
+    "source_url": "https://alfred.stlouisfed.org/series/downloaddata?seid=RSHPCS",
+    "date_type": "ALFRED vintage / revision date"
+  },
+  {
+    "series": "RSHPCS",
+    "date": "2026-04-21",
+    "source_url": "https://alfred.stlouisfed.org/series/downloaddata?seid=RSHPCS",
+    "date_type": "ALFRED vintage / revision date"
+  },
+  {
+    "series": "RSHPCS",
+    "date": "2026-05-14",
+    "source_url": "https://alfred.stlouisfed.org/series/downloaddata?seid=RSHPCS",
+    "date_type": "ALFRED vintage / revision date"
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "date": "2023-12-12",
+    "source_url": "https://alfred.stlouisfed.org/series/downloaddata?seid=CUUR0000SEGB",
+    "date_type": "ALFRED vintage / revision date"
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "date": "2024-01-11",
+    "source_url": "https://alfred.stlouisfed.org/series/downloaddata?seid=CUUR0000SEGB",
+    "date_type": "ALFRED vintage / revision date"
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "date": "2024-02-13",
+    "source_url": "https://alfred.stlouisfed.org/series/downloaddata?seid=CUUR0000SEGB",
+    "date_type": "ALFRED vintage / revision date"
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "date": "2024-03-12",
+    "source_url": "https://alfred.stlouisfed.org/series/downloaddata?seid=CUUR0000SEGB",
+    "date_type": "ALFRED vintage / revision date"
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "date": "2024-04-10",
+    "source_url": "https://alfred.stlouisfed.org/series/downloaddata?seid=CUUR0000SEGB",
+    "date_type": "ALFRED vintage / revision date"
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "date": "2024-05-15",
+    "source_url": "https://alfred.stlouisfed.org/series/downloaddata?seid=CUUR0000SEGB",
+    "date_type": "ALFRED vintage / revision date"
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "date": "2024-06-12",
+    "source_url": "https://alfred.stlouisfed.org/series/downloaddata?seid=CUUR0000SEGB",
+    "date_type": "ALFRED vintage / revision date"
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "date": "2024-07-11",
+    "source_url": "https://alfred.stlouisfed.org/series/downloaddata?seid=CUUR0000SEGB",
+    "date_type": "ALFRED vintage / revision date"
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "date": "2024-08-14",
+    "source_url": "https://alfred.stlouisfed.org/series/downloaddata?seid=CUUR0000SEGB",
+    "date_type": "ALFRED vintage / revision date"
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "date": "2024-09-11",
+    "source_url": "https://alfred.stlouisfed.org/series/downloaddata?seid=CUUR0000SEGB",
+    "date_type": "ALFRED vintage / revision date"
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "date": "2024-10-10",
+    "source_url": "https://alfred.stlouisfed.org/series/downloaddata?seid=CUUR0000SEGB",
+    "date_type": "ALFRED vintage / revision date"
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "date": "2024-11-13",
+    "source_url": "https://alfred.stlouisfed.org/series/downloaddata?seid=CUUR0000SEGB",
+    "date_type": "ALFRED vintage / revision date"
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "date": "2024-12-11",
+    "source_url": "https://alfred.stlouisfed.org/series/downloaddata?seid=CUUR0000SEGB",
+    "date_type": "ALFRED vintage / revision date"
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "date": "2025-01-15",
+    "source_url": "https://alfred.stlouisfed.org/series/downloaddata?seid=CUUR0000SEGB",
+    "date_type": "ALFRED vintage / revision date"
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "date": "2025-02-12",
+    "source_url": "https://alfred.stlouisfed.org/series/downloaddata?seid=CUUR0000SEGB",
+    "date_type": "ALFRED vintage / revision date"
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "date": "2025-03-12",
+    "source_url": "https://alfred.stlouisfed.org/series/downloaddata?seid=CUUR0000SEGB",
+    "date_type": "ALFRED vintage / revision date"
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "date": "2025-04-10",
+    "source_url": "https://alfred.stlouisfed.org/series/downloaddata?seid=CUUR0000SEGB",
+    "date_type": "ALFRED vintage / revision date"
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "date": "2025-05-13",
+    "source_url": "https://alfred.stlouisfed.org/series/downloaddata?seid=CUUR0000SEGB",
+    "date_type": "ALFRED vintage / revision date"
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "date": "2025-06-11",
+    "source_url": "https://alfred.stlouisfed.org/series/downloaddata?seid=CUUR0000SEGB",
+    "date_type": "ALFRED vintage / revision date"
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "date": "2025-07-15",
+    "source_url": "https://alfred.stlouisfed.org/series/downloaddata?seid=CUUR0000SEGB",
+    "date_type": "ALFRED vintage / revision date"
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "date": "2025-08-12",
+    "source_url": "https://alfred.stlouisfed.org/series/downloaddata?seid=CUUR0000SEGB",
+    "date_type": "ALFRED vintage / revision date"
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "date": "2025-09-11",
+    "source_url": "https://alfred.stlouisfed.org/series/downloaddata?seid=CUUR0000SEGB",
+    "date_type": "ALFRED vintage / revision date"
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "date": "2025-10-24",
+    "source_url": "https://alfred.stlouisfed.org/series/downloaddata?seid=CUUR0000SEGB",
+    "date_type": "ALFRED vintage / revision date"
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "date": "2025-12-18",
+    "source_url": "https://alfred.stlouisfed.org/series/downloaddata?seid=CUUR0000SEGB",
+    "date_type": "ALFRED vintage / revision date"
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "date": "2026-01-13",
+    "source_url": "https://alfred.stlouisfed.org/series/downloaddata?seid=CUUR0000SEGB",
+    "date_type": "ALFRED vintage / revision date"
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "date": "2026-02-13",
+    "source_url": "https://alfred.stlouisfed.org/series/downloaddata?seid=CUUR0000SEGB",
+    "date_type": "ALFRED vintage / revision date"
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "date": "2026-03-11",
+    "source_url": "https://alfred.stlouisfed.org/series/downloaddata?seid=CUUR0000SEGB",
+    "date_type": "ALFRED vintage / revision date"
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "date": "2026-04-10",
+    "source_url": "https://alfred.stlouisfed.org/series/downloaddata?seid=CUUR0000SEGB",
+    "date_type": "ALFRED vintage / revision date"
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "date": "2026-05-12",
+    "source_url": "https://alfred.stlouisfed.org/series/downloaddata?seid=CUUR0000SEGB",
+    "date_type": "ALFRED vintage / revision date"
+  }
+]

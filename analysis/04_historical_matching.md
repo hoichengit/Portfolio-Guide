@@ -19,6 +19,8 @@ flowchart LR
     G -->|Not established| I[Keep as context; no automatic cut]
 ```
 
+> **Follow-up completed:** [release-aware backtest](05_release_backtest.md) now tests historical publication timing and explicit estimates for unobserved months. The results below remain the earlier association diagnostics.
+
 ## Analysis questions
 
 - [1. Financial history: What did P&G actually report?](#1-financial-history-what-did-pg-actually-report)

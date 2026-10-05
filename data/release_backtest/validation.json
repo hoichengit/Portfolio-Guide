@@ -1,0 +1,13 @@
+{
+  "predictions": 508,
+  "release_vintages": 122,
+  "test_quarters": 8,
+  "no_future_inputs": true,
+  "actuals_joined_after_predictions": true,
+  "target_april_june_actuals_used": false,
+  "minimum_training_pairs": 8,
+  "methods": "four-quarter mean; last actual; same-quarter bridge; previous-quarter market; fixed 50/50 mean-bridge blend",
+  "unknown_month_rule": "Latest three available monthly YoY rates averaged; apply to matching prior-year levels",
+  "timing": "End-of-day ALFRED vintage events plus P&G publication dates; not an intraday execution record",
+  "selection": "Retrospective model development; these periods were examined earlier, so not an untouched confirmation sample"
+}

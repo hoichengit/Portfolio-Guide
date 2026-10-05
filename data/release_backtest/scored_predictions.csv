@@ -1,0 +1,1363 @@
+prediction_id,segment,metric,series,target_quarter,stage,cutoff,method,prediction,actual,error,squared_error,baseline_error,last_actual_error,months_observed
+1,Beauty,organic_volume_growth,PCENDC96,2024-06-30,Origin,2024-04-01,baseline,-0.5,1.0,-1.5,2.25,-1.5,-2.0,0
+1,Beauty,organic_volume_growth,PCENDC96,2024-06-30,Origin,2024-04-01,last_actual,-1.0,1.0,-2.0,4.0,-1.5,-2.0,0
+1,Beauty,organic_volume_growth,PCENDC96,2024-06-30,Origin,2024-04-01,bridge,-0.9543947302881034,1.0,-1.9543947302881035,3.8196587617779088,-1.5,-2.0,0
+1,Beauty,organic_volume_growth,PCENDC96,2024-06-30,Origin,2024-04-01,blend,-0.7271973651440518,1.0,-1.7271973651440518,2.983210738160555,-1.5,-2.0,0
+7,Beauty,organic_volume_growth,PCENDC96,2024-06-30,Pre-earnings,2024-07-29,baseline,-0.25,1.0,-1.25,1.5625,-1.25,0.0,3
+7,Beauty,organic_volume_growth,PCENDC96,2024-06-30,Pre-earnings,2024-07-29,last_actual,1.0,1.0,0.0,0.0,-1.25,0.0,3
+7,Beauty,organic_volume_growth,PCENDC96,2024-06-30,Pre-earnings,2024-07-29,bridge,-0.6321736776083222,1.0,-1.6321736776083222,2.6639909138774756,-1.25,0.0,3
+7,Beauty,organic_volume_growth,PCENDC96,2024-06-30,Pre-earnings,2024-07-29,lagged,-0.9593243953323727,1.0,-1.9593243953323727,3.838952086144568,-1.25,0.0,3
+7,Beauty,organic_volume_growth,PCENDC96,2024-06-30,Pre-earnings,2024-07-29,blend,-0.4410868388041611,1.0,-1.441086838804161,2.07673127697457,-1.25,0.0,3
+4,Beauty,organic_volume_growth,PCENDC96,2024-06-30,First month,2024-05-31,baseline,-0.25,1.0,-1.25,1.5625,-1.25,0.0,1
+4,Beauty,organic_volume_growth,PCENDC96,2024-06-30,First month,2024-05-31,last_actual,1.0,1.0,0.0,0.0,-1.25,0.0,1
+4,Beauty,organic_volume_growth,PCENDC96,2024-06-30,First month,2024-05-31,bridge,-0.617878491167723,1.0,-1.617878491167723,2.617530812183148,-1.25,0.0,1
+4,Beauty,organic_volume_growth,PCENDC96,2024-06-30,First month,2024-05-31,lagged,-0.9542200986673925,1.0,-1.9542200986673925,3.8189761940355935,-1.25,0.0,1
+4,Beauty,organic_volume_growth,PCENDC96,2024-06-30,First month,2024-05-31,blend,-0.4339392455838615,1.0,-1.4339392455838615,2.056181760025614,-1.25,0.0,1
+5,Beauty,organic_volume_growth,PCENDC96,2024-06-30,Second month,2024-06-28,baseline,-0.25,1.0,-1.25,1.5625,-1.25,0.0,2
+5,Beauty,organic_volume_growth,PCENDC96,2024-06-30,Second month,2024-06-28,last_actual,1.0,1.0,0.0,0.0,-1.25,0.0,2
+5,Beauty,organic_volume_growth,PCENDC96,2024-06-30,Second month,2024-06-28,bridge,-0.7001094757418345,1.0,-1.7001094757418345,2.890372229507175,-1.25,0.0,2
+5,Beauty,organic_volume_growth,PCENDC96,2024-06-30,Second month,2024-06-28,lagged,-0.9593243953323727,1.0,-1.9593243953323727,3.838952086144568,-1.25,0.0,2
+5,Beauty,organic_volume_growth,PCENDC96,2024-06-30,Second month,2024-06-28,blend,-0.47505473787091723,1.0,-1.4750547378709173,2.1757864797154407,-1.25,0.0,2
+66,Beauty,organic_volume_growth,PCENDC96,2024-09-30,Origin,2024-07-01,baseline,-0.25,0.0,-0.25,0.0625,-0.25,1.0,0
+66,Beauty,organic_volume_growth,PCENDC96,2024-09-30,Origin,2024-07-01,last_actual,1.0,0.0,1.0,1.0,-0.25,1.0,0
+66,Beauty,organic_volume_growth,PCENDC96,2024-09-30,Origin,2024-07-01,bridge,-0.6071972003090349,0.0,-0.6071972003090349,0.36868844006313023,-0.25,1.0,0
+66,Beauty,organic_volume_growth,PCENDC96,2024-09-30,Origin,2024-07-01,blend,-0.42859860015451745,0.0,-0.42859860015451745,0.18369676005441193,-0.25,1.0,0
+71,Beauty,organic_volume_growth,PCENDC96,2024-09-30,Pre-earnings,2024-10-17,baseline,0.25,0.0,0.25,0.0625,0.25,1.0,2
+71,Beauty,organic_volume_growth,PCENDC96,2024-09-30,Pre-earnings,2024-10-17,last_actual,1.0,0.0,1.0,1.0,0.25,1.0,2
+71,Beauty,organic_volume_growth,PCENDC96,2024-09-30,Pre-earnings,2024-10-17,bridge,-0.05149809464018218,0.0,-0.05149809464018218,0.0026520537515691603,0.25,1.0,2
+71,Beauty,organic_volume_growth,PCENDC96,2024-09-30,Pre-earnings,2024-10-17,lagged,-0.5324265342704484,0.0,-0.5324265342704484,0.28347801439524095,0.25,1.0,2
+71,Beauty,organic_volume_growth,PCENDC96,2024-09-30,Pre-earnings,2024-10-17,blend,0.09925095267990891,0.0,0.09925095267990891,0.009850751607869518,0.25,1.0,2
+69,Beauty,organic_volume_growth,PCENDC96,2024-09-30,First month,2024-08-30,baseline,0.25,0.0,0.25,0.0625,0.25,1.0,1
+69,Beauty,organic_volume_growth,PCENDC96,2024-09-30,First month,2024-08-30,last_actual,1.0,0.0,1.0,1.0,0.25,1.0,1
+69,Beauty,organic_volume_growth,PCENDC96,2024-09-30,First month,2024-08-30,bridge,-0.34776571574170945,0.0,-0.34776571574170945,0.12094099304534346,0.25,1.0,1
+69,Beauty,organic_volume_growth,PCENDC96,2024-09-30,First month,2024-08-30,lagged,-0.636785052669918,0.0,-0.636785052669918,0.40549520330383027,0.25,1.0,1
+69,Beauty,organic_volume_growth,PCENDC96,2024-09-30,First month,2024-08-30,blend,-0.04888285787085472,0.0,-0.04888285787085472,0.0023895337936221837,0.25,1.0,1
+70,Beauty,organic_volume_growth,PCENDC96,2024-09-30,Second month,2024-09-27,baseline,0.25,0.0,0.25,0.0625,0.25,1.0,2
+70,Beauty,organic_volume_growth,PCENDC96,2024-09-30,Second month,2024-09-27,last_actual,1.0,0.0,1.0,1.0,0.25,1.0,2
+70,Beauty,organic_volume_growth,PCENDC96,2024-09-30,Second month,2024-09-27,bridge,-0.05149809464018218,0.0,-0.05149809464018218,0.0026520537515691603,0.25,1.0,2
+70,Beauty,organic_volume_growth,PCENDC96,2024-09-30,Second month,2024-09-27,lagged,-0.5324265342704484,0.0,-0.5324265342704484,0.28347801439524095,0.25,1.0,2
+70,Beauty,organic_volume_growth,PCENDC96,2024-09-30,Second month,2024-09-27,blend,0.09925095267990891,0.0,0.09925095267990891,0.009850751607869518,0.25,1.0,2
+122,Beauty,organic_volume_growth,PCENDC96,2024-12-31,Origin,2024-10-01,baseline,0.25,0.0,0.25,0.0625,0.25,1.0,0
+122,Beauty,organic_volume_growth,PCENDC96,2024-12-31,Origin,2024-10-01,last_actual,1.0,0.0,1.0,1.0,0.25,1.0,0
+122,Beauty,organic_volume_growth,PCENDC96,2024-12-31,Origin,2024-10-01,bridge,-0.054264674090061416,0.0,-0.054264674090061416,0.002944654854100583,0.25,1.0,0
+122,Beauty,organic_volume_growth,PCENDC96,2024-12-31,Origin,2024-10-01,blend,0.09786766295496929,0.0,0.09786766295496929,0.009578079452267468,0.25,1.0,0
+127,Beauty,organic_volume_growth,PCENDC96,2024-12-31,Pre-earnings,2025-01-21,baseline,0.25,0.0,0.25,0.0625,0.25,0.0,2
+127,Beauty,organic_volume_growth,PCENDC96,2024-12-31,Pre-earnings,2025-01-21,last_actual,0.0,0.0,0.0,0.0,0.25,0.0,2
+127,Beauty,organic_volume_growth,PCENDC96,2024-12-31,Pre-earnings,2025-01-21,bridge,-0.04265567200747644,0.0,-0.04265567200747644,0.0018195063544094092,0.25,0.0,2
+127,Beauty,organic_volume_growth,PCENDC96,2024-12-31,Pre-earnings,2025-01-21,lagged,-0.3653295939483667,0.0,-0.3653295939483667,0.1334657122144785,0.25,0.0,2
+127,Beauty,organic_volume_growth,PCENDC96,2024-12-31,Pre-earnings,2025-01-21,blend,0.10367216399626178,0.0,0.10367216399626178,0.010747917587667797,0.25,0.0,2
+125,Beauty,organic_volume_growth,PCENDC96,2024-12-31,First month,2024-11-27,baseline,0.25,0.0,0.25,0.0625,0.25,0.0,1
+125,Beauty,organic_volume_growth,PCENDC96,2024-12-31,First month,2024-11-27,last_actual,0.0,0.0,0.0,0.0,0.25,0.0,1
+125,Beauty,organic_volume_growth,PCENDC96,2024-12-31,First month,2024-11-27,bridge,-0.032738261388907564,0.0,-0.032738261388907564,0.0010717937587684358,0.25,0.0,1
+125,Beauty,organic_volume_growth,PCENDC96,2024-12-31,First month,2024-11-27,lagged,-0.3681233356381432,0.0,-0.3681233356381432,0.13551479024135304,0.25,0.0,1
+125,Beauty,organic_volume_growth,PCENDC96,2024-12-31,First month,2024-11-27,blend,0.10863086930554622,0.0,0.10863086930554622,0.011800665766078664,0.25,0.0,1
+126,Beauty,organic_volume_growth,PCENDC96,2024-12-31,Second month,2024-12-20,baseline,0.25,0.0,0.25,0.0625,0.25,0.0,2
+126,Beauty,organic_volume_growth,PCENDC96,2024-12-31,Second month,2024-12-20,last_actual,0.0,0.0,0.0,0.0,0.25,0.0,2
+126,Beauty,organic_volume_growth,PCENDC96,2024-12-31,Second month,2024-12-20,bridge,-0.04265567200747644,0.0,-0.04265567200747644,0.0018195063544094092,0.25,0.0,2
+126,Beauty,organic_volume_growth,PCENDC96,2024-12-31,Second month,2024-12-20,lagged,-0.3653295939483667,0.0,-0.3653295939483667,0.1334657122144785,0.25,0.0,2
+126,Beauty,organic_volume_growth,PCENDC96,2024-12-31,Second month,2024-12-20,blend,0.10367216399626178,0.0,0.10367216399626178,0.010747917587667797,0.25,0.0,2
+180,Beauty,organic_volume_growth,PCENDC96,2025-03-31,Origin,2025-01-01,baseline,0.25,1.0,-0.75,0.5625,-0.75,-1.0,0
+180,Beauty,organic_volume_growth,PCENDC96,2025-03-31,Origin,2025-01-01,last_actual,0.0,1.0,-1.0,1.0,-0.75,-1.0,0
+180,Beauty,organic_volume_growth,PCENDC96,2025-03-31,Origin,2025-01-01,bridge,0.008800427755107254,1.0,-0.9911995722448927,0.9824765920184584,-0.75,-1.0,0
+180,Beauty,organic_volume_growth,PCENDC96,2025-03-31,Origin,2025-01-01,blend,0.12940021387755363,1.0,-0.8705997861224464,0.7579439875964493,-0.75,-1.0,0
+185,Beauty,organic_volume_growth,PCENDC96,2025-03-31,Pre-earnings,2025-04-23,baseline,0.5,1.0,-0.5,0.25,-0.5,-1.0,2
+185,Beauty,organic_volume_growth,PCENDC96,2025-03-31,Pre-earnings,2025-04-23,last_actual,0.0,1.0,-1.0,1.0,-0.5,-1.0,2
+185,Beauty,organic_volume_growth,PCENDC96,2025-03-31,Pre-earnings,2025-04-23,bridge,0.12967340465029653,1.0,-0.8703265953497035,0.7574683825730065,-0.5,-1.0,2
+185,Beauty,organic_volume_growth,PCENDC96,2025-03-31,Pre-earnings,2025-04-23,lagged,-0.33498587850449424,1.0,-1.3349858785044941,1.782187295806416,-0.5,-1.0,2
+185,Beauty,organic_volume_growth,PCENDC96,2025-03-31,Pre-earnings,2025-04-23,blend,0.31483670232514827,1.0,-0.6851632976748517,0.46944874448067747,-0.5,-1.0,2
+183,Beauty,organic_volume_growth,PCENDC96,2025-03-31,First month,2025-02-28,baseline,0.5,1.0,-0.5,0.25,-0.5,-1.0,1
+183,Beauty,organic_volume_growth,PCENDC96,2025-03-31,First month,2025-02-28,last_actual,0.0,1.0,-1.0,1.0,-0.5,-1.0,1
+183,Beauty,organic_volume_growth,PCENDC96,2025-03-31,First month,2025-02-28,bridge,-0.12678592362657226,1.0,-1.1267859236265723,1.2696465176829876,-0.5,-1.0,1
+183,Beauty,organic_volume_growth,PCENDC96,2025-03-31,First month,2025-02-28,lagged,-0.3408303744687638,1.0,-1.3408303744687637,1.7978260930980452,-0.5,-1.0,1
+183,Beauty,organic_volume_growth,PCENDC96,2025-03-31,First month,2025-02-28,blend,0.18660703818671387,1.0,-0.8133929618132861,0.66160811032739,-0.5,-1.0,1
+184,Beauty,organic_volume_growth,PCENDC96,2025-03-31,Second month,2025-03-28,baseline,0.5,1.0,-0.5,0.25,-0.5,-1.0,2
+184,Beauty,organic_volume_growth,PCENDC96,2025-03-31,Second month,2025-03-28,last_actual,0.0,1.0,-1.0,1.0,-0.5,-1.0,2
+184,Beauty,organic_volume_growth,PCENDC96,2025-03-31,Second month,2025-03-28,bridge,0.12967340465029653,1.0,-0.8703265953497035,0.7574683825730065,-0.5,-1.0,2
+184,Beauty,organic_volume_growth,PCENDC96,2025-03-31,Second month,2025-03-28,lagged,-0.33498587850449424,1.0,-1.3349858785044941,1.782187295806416,-0.5,-1.0,2
+184,Beauty,organic_volume_growth,PCENDC96,2025-03-31,Second month,2025-03-28,blend,0.31483670232514827,1.0,-0.6851632976748517,0.46944874448067747,-0.5,-1.0,2
+238,Beauty,organic_volume_growth,PCENDC96,2025-06-30,Origin,2025-04-01,baseline,0.5,1.0,-0.5,0.25,-0.5,-1.0,0
+238,Beauty,organic_volume_growth,PCENDC96,2025-06-30,Origin,2025-04-01,last_actual,0.0,1.0,-1.0,1.0,-0.5,-1.0,0
+238,Beauty,organic_volume_growth,PCENDC96,2025-06-30,Origin,2025-04-01,bridge,0.07905216414553329,1.0,-0.9209478358544667,0.8481449163650258,-0.5,-1.0,0
+238,Beauty,organic_volume_growth,PCENDC96,2025-06-30,Origin,2025-04-01,blend,0.28952608207276664,1.0,-0.7104739179272334,0.5047731880548731,-0.5,-1.0,0
+243,Beauty,organic_volume_growth,PCENDC96,2025-06-30,Pre-earnings,2025-07-28,baseline,0.5,1.0,-0.5,0.25,-0.5,0.0,2
+243,Beauty,organic_volume_growth,PCENDC96,2025-06-30,Pre-earnings,2025-07-28,last_actual,1.0,1.0,0.0,0.0,-0.5,0.0,2
+243,Beauty,organic_volume_growth,PCENDC96,2025-06-30,Pre-earnings,2025-07-28,bridge,0.42260037711721377,1.0,-0.5773996228827862,0.33339032450518374,-0.5,0.0,2
+243,Beauty,organic_volume_growth,PCENDC96,2025-06-30,Pre-earnings,2025-07-28,lagged,0.07196511325779231,1.0,-0.9280348867422077,0.8612487510106223,-0.5,0.0,2
+243,Beauty,organic_volume_growth,PCENDC96,2025-06-30,Pre-earnings,2025-07-28,blend,0.4613001885586069,1.0,-0.5386998114413931,0.2901974868469925,-0.5,0.0,2
+241,Beauty,organic_volume_growth,PCENDC96,2025-06-30,First month,2025-05-30,baseline,0.5,1.0,-0.5,0.25,-0.5,0.0,1
+241,Beauty,organic_volume_growth,PCENDC96,2025-06-30,First month,2025-05-30,last_actual,1.0,1.0,0.0,0.0,-0.5,0.0,1
+241,Beauty,organic_volume_growth,PCENDC96,2025-06-30,First month,2025-05-30,bridge,0.5907441464614058,1.0,-0.40925585353859417,0.16749035365560325,-0.5,0.0,1
+241,Beauty,organic_volume_growth,PCENDC96,2025-06-30,First month,2025-05-30,lagged,0.07695722141983863,1.0,-0.9230427785801614,0.8520079710889849,-0.5,0.0,1
+241,Beauty,organic_volume_growth,PCENDC96,2025-06-30,First month,2025-05-30,blend,0.5453720732307029,1.0,-0.4546279267692971,0.20668655179854936,-0.5,0.0,1
+242,Beauty,organic_volume_growth,PCENDC96,2025-06-30,Second month,2025-06-27,baseline,0.5,1.0,-0.5,0.25,-0.5,0.0,2
+242,Beauty,organic_volume_growth,PCENDC96,2025-06-30,Second month,2025-06-27,last_actual,1.0,1.0,0.0,0.0,-0.5,0.0,2
+242,Beauty,organic_volume_growth,PCENDC96,2025-06-30,Second month,2025-06-27,bridge,0.42260037711721377,1.0,-0.5773996228827862,0.33339032450518374,-0.5,0.0,2
+242,Beauty,organic_volume_growth,PCENDC96,2025-06-30,Second month,2025-06-27,lagged,0.07196511325779231,1.0,-0.9280348867422077,0.8612487510106223,-0.5,0.0,2
+242,Beauty,organic_volume_growth,PCENDC96,2025-06-30,Second month,2025-06-27,blend,0.4613001885586069,1.0,-0.5386998114413931,0.2901974868469925,-0.5,0.0,2
+298,Beauty,organic_volume_growth,PCENDC96,2025-09-30,Origin,2025-07-01,baseline,0.5,4.0,-3.5,12.25,-3.5,-3.0,0
+298,Beauty,organic_volume_growth,PCENDC96,2025-09-30,Origin,2025-07-01,last_actual,1.0,4.0,-3.0,9.0,-3.5,-3.0,0
+298,Beauty,organic_volume_growth,PCENDC96,2025-09-30,Origin,2025-07-01,bridge,0.3994329875324196,4.0,-3.6005670124675806,12.96408281126972,-3.5,-3.0,0
+298,Beauty,organic_volume_growth,PCENDC96,2025-09-30,Origin,2025-07-01,blend,0.4497164937662098,4.0,-3.5502835062337903,12.604512974635696,-3.5,-3.0,0
+303,Beauty,organic_volume_growth,PCENDC96,2025-09-30,Pre-earnings,2025-10-23,baseline,0.5,4.0,-3.5,12.25,-3.5,-3.0,2
+303,Beauty,organic_volume_growth,PCENDC96,2025-09-30,Pre-earnings,2025-10-23,last_actual,1.0,4.0,-3.0,9.0,-3.5,-3.0,2
+303,Beauty,organic_volume_growth,PCENDC96,2025-09-30,Pre-earnings,2025-10-23,bridge,0.5188474536608902,4.0,-3.4811525463391098,12.118423050883267,-3.5,-3.0,2
+303,Beauty,organic_volume_growth,PCENDC96,2025-09-30,Pre-earnings,2025-10-23,lagged,0.2442137242480492,4.0,-3.7557862757519507,14.105930549126708,-3.5,-3.0,2
+303,Beauty,organic_volume_growth,PCENDC96,2025-09-30,Pre-earnings,2025-10-23,blend,0.5094237268304451,4.0,-3.490576273169555,12.184122718814258,-3.5,-3.0,2
+301,Beauty,organic_volume_growth,PCENDC96,2025-09-30,First month,2025-08-29,baseline,0.5,4.0,-3.5,12.25,-3.5,-3.0,1
+301,Beauty,organic_volume_growth,PCENDC96,2025-09-30,First month,2025-08-29,last_actual,1.0,4.0,-3.0,9.0,-3.5,-3.0,1
+301,Beauty,organic_volume_growth,PCENDC96,2025-09-30,First month,2025-08-29,bridge,0.4802142691698761,4.0,-3.519785730830124,12.388891590955351,-3.5,-3.0,1
+301,Beauty,organic_volume_growth,PCENDC96,2025-09-30,First month,2025-08-29,lagged,0.2961385265098738,4.0,-3.703861473490126,13.718589814804448,-3.5,-3.0,1
+301,Beauty,organic_volume_growth,PCENDC96,2025-09-30,First month,2025-08-29,blend,0.49010713458493804,4.0,-3.509892865415062,12.319347926691554,-3.5,-3.0,1
+302,Beauty,organic_volume_growth,PCENDC96,2025-09-30,Second month,2025-09-26,baseline,0.5,4.0,-3.5,12.25,-3.5,-3.0,2
+302,Beauty,organic_volume_growth,PCENDC96,2025-09-30,Second month,2025-09-26,last_actual,1.0,4.0,-3.0,9.0,-3.5,-3.0,2
+302,Beauty,organic_volume_growth,PCENDC96,2025-09-30,Second month,2025-09-26,bridge,0.5188474536608902,4.0,-3.4811525463391098,12.118423050883267,-3.5,-3.0,2
+302,Beauty,organic_volume_growth,PCENDC96,2025-09-30,Second month,2025-09-26,lagged,0.2442137242480492,4.0,-3.7557862757519507,14.105930549126708,-3.5,-3.0,2
+302,Beauty,organic_volume_growth,PCENDC96,2025-09-30,Second month,2025-09-26,blend,0.5094237268304451,4.0,-3.490576273169555,12.184122718814258,-3.5,-3.0,2
+352,Beauty,organic_volume_growth,PCENDC96,2025-12-31,Origin,2025-10-01,baseline,0.5,3.0,-2.5,6.25,-2.5,-2.0,0
+352,Beauty,organic_volume_growth,PCENDC96,2025-12-31,Origin,2025-10-01,last_actual,1.0,3.0,-2.0,4.0,-2.5,-2.0,0
+352,Beauty,organic_volume_growth,PCENDC96,2025-12-31,Origin,2025-10-01,bridge,0.5243542168996502,3.0,-2.47564578310035,6.128822043382545,-2.5,-2.0,0
+352,Beauty,organic_volume_growth,PCENDC96,2025-12-31,Origin,2025-10-01,blend,0.5121771084498251,3.0,-2.487822891550175,6.189262739721074,-2.5,-2.0,0
+356,Beauty,organic_volume_growth,PCENDC96,2025-12-31,Pre-earnings,2026-01-22,baseline,1.5,3.0,-1.5,2.25,-1.5,1.0,2
+356,Beauty,organic_volume_growth,PCENDC96,2025-12-31,Pre-earnings,2026-01-22,last_actual,4.0,3.0,1.0,1.0,-1.5,1.0,2
+356,Beauty,organic_volume_growth,PCENDC96,2025-12-31,Pre-earnings,2026-01-22,bridge,0.7464731216476019,3.0,-2.253526878352398,5.078383391456703,-1.5,1.0,2
+356,Beauty,organic_volume_growth,PCENDC96,2025-12-31,Pre-earnings,2026-01-22,lagged,0.6964991744483018,3.0,-2.303500825551698,5.306116053317355,-1.5,1.0,2
+356,Beauty,organic_volume_growth,PCENDC96,2025-12-31,Pre-earnings,2026-01-22,blend,1.123236560823801,3.0,-1.876763439176199,3.522241006628474,-1.5,1.0,2
+356,Beauty,organic_volume_growth,PCENDC96,2025-12-31,First month,2026-01-22,baseline,1.5,3.0,-1.5,2.25,-1.5,1.0,2
+356,Beauty,organic_volume_growth,PCENDC96,2025-12-31,First month,2026-01-22,last_actual,4.0,3.0,1.0,1.0,-1.5,1.0,2
+356,Beauty,organic_volume_growth,PCENDC96,2025-12-31,First month,2026-01-22,bridge,0.7464731216476019,3.0,-2.253526878352398,5.078383391456703,-1.5,1.0,2
+356,Beauty,organic_volume_growth,PCENDC96,2025-12-31,First month,2026-01-22,lagged,0.6964991744483018,3.0,-2.303500825551698,5.306116053317355,-1.5,1.0,2
+356,Beauty,organic_volume_growth,PCENDC96,2025-12-31,First month,2026-01-22,blend,1.123236560823801,3.0,-1.876763439176199,3.522241006628474,-1.5,1.0,2
+356,Beauty,organic_volume_growth,PCENDC96,2025-12-31,Second month,2026-01-22,baseline,1.5,3.0,-1.5,2.25,-1.5,1.0,2
+356,Beauty,organic_volume_growth,PCENDC96,2025-12-31,Second month,2026-01-22,last_actual,4.0,3.0,1.0,1.0,-1.5,1.0,2
+356,Beauty,organic_volume_growth,PCENDC96,2025-12-31,Second month,2026-01-22,bridge,0.7464731216476019,3.0,-2.253526878352398,5.078383391456703,-1.5,1.0,2
+356,Beauty,organic_volume_growth,PCENDC96,2025-12-31,Second month,2026-01-22,lagged,0.6964991744483018,3.0,-2.303500825551698,5.306116053317355,-1.5,1.0,2
+356,Beauty,organic_volume_growth,PCENDC96,2025-12-31,Second month,2026-01-22,blend,1.123236560823801,3.0,-1.876763439176199,3.522241006628474,-1.5,1.0,2
+399,Beauty,organic_volume_growth,PCENDC96,2026-03-31,Origin,2026-01-01,baseline,1.5,5.0,-3.5,12.25,-3.5,-1.0,0
+399,Beauty,organic_volume_growth,PCENDC96,2026-03-31,Origin,2026-01-01,last_actual,4.0,5.0,-1.0,1.0,-3.5,-1.0,0
+399,Beauty,organic_volume_growth,PCENDC96,2026-03-31,Origin,2026-01-01,bridge,0.8081982546863318,5.0,-4.1918017453136684,17.57120187201472,-3.5,-1.0,0
+399,Beauty,organic_volume_growth,PCENDC96,2026-03-31,Origin,2026-01-01,blend,1.1540991273431658,5.0,-3.8459008726568342,14.7909535223026,-3.5,-1.0,0
+405,Beauty,organic_volume_growth,PCENDC96,2026-03-31,Pre-earnings,2026-04-23,baseline,2.25,5.0,-2.75,7.5625,-2.75,-2.0,2
+405,Beauty,organic_volume_growth,PCENDC96,2026-03-31,Pre-earnings,2026-04-23,last_actual,3.0,5.0,-2.0,4.0,-2.75,-2.0,2
+405,Beauty,organic_volume_growth,PCENDC96,2026-03-31,Pre-earnings,2026-04-23,bridge,-0.11247124148998922,5.0,-5.112471241489989,26.13736219506219,-2.75,-2.0,2
+405,Beauty,organic_volume_growth,PCENDC96,2026-03-31,Pre-earnings,2026-04-23,lagged,0.4936873937003958,5.0,-4.506312606299604,20.306853305694727,-2.75,-2.0,2
+405,Beauty,organic_volume_growth,PCENDC96,2026-03-31,Pre-earnings,2026-04-23,blend,1.0687643792550054,5.0,-3.9312356207449946,15.454613505814283,-2.75,-2.0,2
+403,Beauty,organic_volume_growth,PCENDC96,2026-03-31,First month,2026-03-13,baseline,2.25,5.0,-2.75,7.5625,-2.75,-2.0,1
+403,Beauty,organic_volume_growth,PCENDC96,2026-03-31,First month,2026-03-13,last_actual,3.0,5.0,-2.0,4.0,-2.75,-2.0,1
+403,Beauty,organic_volume_growth,PCENDC96,2026-03-31,First month,2026-03-13,bridge,0.38913755542012285,5.0,-4.610862444579877,21.260052482837118,-2.75,-2.0,1
+403,Beauty,organic_volume_growth,PCENDC96,2026-03-31,First month,2026-03-13,lagged,0.5160508105425461,5.0,-4.483949189457454,20.10580033363616,-2.75,-2.0,1
+403,Beauty,organic_volume_growth,PCENDC96,2026-03-31,First month,2026-03-13,blend,1.3195687777100615,5.0,-3.6804312222899385,13.54557398200661,-2.75,-2.0,1
+404,Beauty,organic_volume_growth,PCENDC96,2026-03-31,Second month,2026-04-09,baseline,2.25,5.0,-2.75,7.5625,-2.75,-2.0,2
+404,Beauty,organic_volume_growth,PCENDC96,2026-03-31,Second month,2026-04-09,last_actual,3.0,5.0,-2.0,4.0,-2.75,-2.0,2
+404,Beauty,organic_volume_growth,PCENDC96,2026-03-31,Second month,2026-04-09,bridge,-0.11247124148998922,5.0,-5.112471241489989,26.13736219506219,-2.75,-2.0,2
+404,Beauty,organic_volume_growth,PCENDC96,2026-03-31,Second month,2026-04-09,lagged,0.4936873937003958,5.0,-4.506312606299604,20.306853305694727,-2.75,-2.0,2
+404,Beauty,organic_volume_growth,PCENDC96,2026-03-31,Second month,2026-04-09,blend,1.0687643792550054,5.0,-3.9312356207449946,15.454613505814283,-2.75,-2.0,2
+8,Grooming,organic_volume_growth,PCENDC96,2024-06-30,Origin,2024-04-01,baseline,-0.75,2.0,-2.75,7.5625,-2.75,-1.0,0
+8,Grooming,organic_volume_growth,PCENDC96,2024-06-30,Origin,2024-04-01,last_actual,1.0,2.0,-1.0,1.0,-2.75,-1.0,0
+8,Grooming,organic_volume_growth,PCENDC96,2024-06-30,Origin,2024-04-01,bridge,-0.39548585224189226,2.0,-2.395485852241892,5.738352468291064,-2.75,-1.0,0
+8,Grooming,organic_volume_growth,PCENDC96,2024-06-30,Origin,2024-04-01,blend,-0.5727429261209461,2.0,-2.572742926120946,6.619006163905367,-2.75,-1.0,0
+14,Grooming,organic_volume_growth,PCENDC96,2024-06-30,Pre-earnings,2024-07-29,baseline,0.0,2.0,-2.0,4.0,-2.0,0.0,3
+14,Grooming,organic_volume_growth,PCENDC96,2024-06-30,Pre-earnings,2024-07-29,last_actual,2.0,2.0,0.0,0.0,-2.0,0.0,3
+14,Grooming,organic_volume_growth,PCENDC96,2024-06-30,Pre-earnings,2024-07-29,bridge,0.05359467403707763,2.0,-1.9464053259629224,3.78849369293683,-2.0,0.0,3
+14,Grooming,organic_volume_growth,PCENDC96,2024-06-30,Pre-earnings,2024-07-29,lagged,-0.7129797024999768,2.0,-2.7129797024999767,7.360258866176862,-2.0,0.0,3
+14,Grooming,organic_volume_growth,PCENDC96,2024-06-30,Pre-earnings,2024-07-29,blend,0.026797337018538814,2.0,-1.9732026629814612,3.89352874919713,-2.0,0.0,3
+11,Grooming,organic_volume_growth,PCENDC96,2024-06-30,First month,2024-05-31,baseline,0.0,2.0,-2.0,4.0,-2.0,0.0,1
+11,Grooming,organic_volume_growth,PCENDC96,2024-06-30,First month,2024-05-31,last_actual,2.0,2.0,0.0,0.0,-2.0,0.0,1
+11,Grooming,organic_volume_growth,PCENDC96,2024-06-30,First month,2024-05-31,bridge,0.07882510036932167,2.0,-1.9211748996306783,3.690912994970947,-2.0,0.0,1
+11,Grooming,organic_volume_growth,PCENDC96,2024-06-30,First month,2024-05-31,lagged,-0.6455901471152579,2.0,-2.645590147115258,6.999147226513333,-2.0,0.0,1
+11,Grooming,organic_volume_growth,PCENDC96,2024-06-30,First month,2024-05-31,blend,0.03941255018466083,2.0,-1.960587449815339,3.8439031483734145,-2.0,0.0,1
+12,Grooming,organic_volume_growth,PCENDC96,2024-06-30,Second month,2024-06-28,baseline,0.0,2.0,-2.0,4.0,-2.0,0.0,2
+12,Grooming,organic_volume_growth,PCENDC96,2024-06-30,Second month,2024-06-28,last_actual,2.0,2.0,0.0,0.0,-2.0,0.0,2
+12,Grooming,organic_volume_growth,PCENDC96,2024-06-30,Second month,2024-06-28,bridge,-0.14099932517570424,2.0,-2.140999325175704,4.58387811040282,-2.0,0.0,2
+12,Grooming,organic_volume_growth,PCENDC96,2024-06-30,Second month,2024-06-28,lagged,-0.7129797024999768,2.0,-2.7129797024999767,7.360258866176862,-2.0,0.0,2
+12,Grooming,organic_volume_growth,PCENDC96,2024-06-30,Second month,2024-06-28,blend,-0.07049966258785212,2.0,-2.070499662587852,4.286968852776409,-2.0,0.0,2
+72,Grooming,organic_volume_growth,PCENDC96,2024-09-30,Origin,2024-07-01,baseline,0.0,5.0,-5.0,25.0,-5.0,-3.0,0
+72,Grooming,organic_volume_growth,PCENDC96,2024-09-30,Origin,2024-07-01,last_actual,2.0,5.0,-3.0,9.0,-5.0,-3.0,0
+72,Grooming,organic_volume_growth,PCENDC96,2024-09-30,Origin,2024-07-01,bridge,0.12513681731717607,5.0,-4.874863182682824,23.764291049876512,-5.0,-3.0,0
+72,Grooming,organic_volume_growth,PCENDC96,2024-09-30,Origin,2024-07-01,blend,0.06256840865858804,5.0,-4.9374315913414115,24.378230719176184,-5.0,-3.0,0
+77,Grooming,organic_volume_growth,PCENDC96,2024-09-30,Pre-earnings,2024-10-17,baseline,0.75,5.0,-4.25,18.0625,-4.25,-3.0,2
+77,Grooming,organic_volume_growth,PCENDC96,2024-09-30,Pre-earnings,2024-10-17,last_actual,2.0,5.0,-3.0,9.0,-4.25,-3.0,2
+77,Grooming,organic_volume_growth,PCENDC96,2024-09-30,Pre-earnings,2024-10-17,bridge,1.1109871311600932,5.0,-3.889012868839907,15.124421094002402,-4.25,-3.0,2
+77,Grooming,organic_volume_growth,PCENDC96,2024-09-30,Pre-earnings,2024-10-17,lagged,0.1051990823084159,5.0,-4.894800917691584,23.959076023834374,-4.25,-3.0,2
+77,Grooming,organic_volume_growth,PCENDC96,2024-09-30,Pre-earnings,2024-10-17,blend,0.9304935655800466,5.0,-4.069506434419953,16.5608826197854,-4.25,-3.0,2
+75,Grooming,organic_volume_growth,PCENDC96,2024-09-30,First month,2024-08-30,baseline,0.75,5.0,-4.25,18.0625,-4.25,-3.0,1
+75,Grooming,organic_volume_growth,PCENDC96,2024-09-30,First month,2024-08-30,last_actual,2.0,5.0,-3.0,9.0,-4.25,-3.0,1
+75,Grooming,organic_volume_growth,PCENDC96,2024-09-30,First month,2024-08-30,bridge,0.46620951964866864,5.0,-4.533790480351332,20.55525611972436,-4.25,-3.0,1
+75,Grooming,organic_volume_growth,PCENDC96,2024-09-30,First month,2024-08-30,lagged,-0.12275990462063557,5.0,-5.122759904620636,26.242669040388822,-4.25,-3.0,1
+75,Grooming,organic_volume_growth,PCENDC96,2024-09-30,First month,2024-08-30,blend,0.6081047598243343,5.0,-4.391895240175666,19.28874380067767,-4.25,-3.0,1
+76,Grooming,organic_volume_growth,PCENDC96,2024-09-30,Second month,2024-09-27,baseline,0.75,5.0,-4.25,18.0625,-4.25,-3.0,2
+76,Grooming,organic_volume_growth,PCENDC96,2024-09-30,Second month,2024-09-27,last_actual,2.0,5.0,-3.0,9.0,-4.25,-3.0,2
+76,Grooming,organic_volume_growth,PCENDC96,2024-09-30,Second month,2024-09-27,bridge,1.1109871311600932,5.0,-3.889012868839907,15.124421094002402,-4.25,-3.0,2
+76,Grooming,organic_volume_growth,PCENDC96,2024-09-30,Second month,2024-09-27,lagged,0.1051990823084159,5.0,-4.894800917691584,23.959076023834374,-4.25,-3.0,2
+76,Grooming,organic_volume_growth,PCENDC96,2024-09-30,Second month,2024-09-27,blend,0.9304935655800466,5.0,-4.069506434419953,16.5608826197854,-4.25,-3.0,2
+128,Grooming,organic_volume_growth,PCENDC96,2024-12-31,Origin,2024-10-01,baseline,0.75,2.0,-1.25,1.5625,-1.25,0.0,0
+128,Grooming,organic_volume_growth,PCENDC96,2024-12-31,Origin,2024-10-01,last_actual,2.0,2.0,0.0,0.0,-1.25,0.0,0
+128,Grooming,organic_volume_growth,PCENDC96,2024-12-31,Origin,2024-10-01,bridge,1.104293441077027,2.0,-0.8957065589229729,0.8022902396976331,-1.25,0.0,0
+128,Grooming,organic_volume_growth,PCENDC96,2024-12-31,Origin,2024-10-01,blend,0.9271467205385135,2.0,-1.0728532794614865,1.1510141592512664,-1.25,0.0,0
+133,Grooming,organic_volume_growth,PCENDC96,2024-12-31,Pre-earnings,2025-01-21,baseline,2.5,2.0,0.5,0.25,0.5,3.0,2
+133,Grooming,organic_volume_growth,PCENDC96,2024-12-31,Pre-earnings,2025-01-21,last_actual,5.0,2.0,3.0,9.0,0.5,3.0,2
+133,Grooming,organic_volume_growth,PCENDC96,2024-12-31,Pre-earnings,2025-01-21,bridge,1.7725047673545928,2.0,-0.22749523264540716,0.05175408087638793,0.5,3.0,2
+133,Grooming,organic_volume_growth,PCENDC96,2024-12-31,Pre-earnings,2025-01-21,lagged,1.280338141437443,2.0,-0.7196618585625569,0.5179131906697138,0.5,3.0,2
+133,Grooming,organic_volume_growth,PCENDC96,2024-12-31,Pre-earnings,2025-01-21,blend,2.1362523836772964,2.0,0.13625238367729642,0.01856471205774519,0.5,3.0,2
+131,Grooming,organic_volume_growth,PCENDC96,2024-12-31,First month,2024-11-27,baseline,2.5,2.0,0.5,0.25,0.5,3.0,1
+131,Grooming,organic_volume_growth,PCENDC96,2024-12-31,First month,2024-11-27,last_actual,5.0,2.0,3.0,9.0,0.5,3.0,1
+131,Grooming,organic_volume_growth,PCENDC96,2024-12-31,First month,2024-11-27,bridge,1.7985239063621918,2.0,-0.20147609363780816,0.040592616307550844,0.5,3.0,1
+131,Grooming,organic_volume_growth,PCENDC96,2024-12-31,First month,2024-11-27,lagged,1.2671458887917266,2.0,-0.7328541112082734,0.5370751483148684,0.5,3.0,1
+131,Grooming,organic_volume_growth,PCENDC96,2024-12-31,First month,2024-11-27,blend,2.149261953181096,2.0,0.14926195318109592,0.02227913066743567,0.5,3.0,1
+132,Grooming,organic_volume_growth,PCENDC96,2024-12-31,Second month,2024-12-20,baseline,2.5,2.0,0.5,0.25,0.5,3.0,2
+132,Grooming,organic_volume_growth,PCENDC96,2024-12-31,Second month,2024-12-20,last_actual,5.0,2.0,3.0,9.0,0.5,3.0,2
+132,Grooming,organic_volume_growth,PCENDC96,2024-12-31,Second month,2024-12-20,bridge,1.7725047673545928,2.0,-0.22749523264540716,0.05175408087638793,0.5,3.0,2
+132,Grooming,organic_volume_growth,PCENDC96,2024-12-31,Second month,2024-12-20,lagged,1.280338141437443,2.0,-0.7196618585625569,0.5179131906697138,0.5,3.0,2
+132,Grooming,organic_volume_growth,PCENDC96,2024-12-31,Second month,2024-12-20,blend,2.1362523836772964,2.0,0.13625238367729642,0.01856471205774519,0.5,3.0,2
+186,Grooming,organic_volume_growth,PCENDC96,2025-03-31,Origin,2025-01-01,baseline,2.5,1.0,1.5,2.25,1.5,4.0,0
+186,Grooming,organic_volume_growth,PCENDC96,2025-03-31,Origin,2025-01-01,last_actual,5.0,1.0,4.0,16.0,1.5,4.0,0
+186,Grooming,organic_volume_growth,PCENDC96,2025-03-31,Origin,2025-01-01,bridge,1.9193924849005413,1.0,0.9193924849005413,0.845282541291592,1.5,4.0,0
+186,Grooming,organic_volume_growth,PCENDC96,2025-03-31,Origin,2025-01-01,blend,2.2096962424502706,1.0,1.2096962424502706,1.463364998998304,1.5,4.0,0
+191,Grooming,organic_volume_growth,PCENDC96,2025-03-31,Pre-earnings,2025-04-23,baseline,2.75,1.0,1.75,3.0625,1.75,1.0,2
+191,Grooming,organic_volume_growth,PCENDC96,2025-03-31,Pre-earnings,2025-04-23,last_actual,2.0,1.0,1.0,1.0,1.75,1.0,2
+191,Grooming,organic_volume_growth,PCENDC96,2025-03-31,Pre-earnings,2025-04-23,bridge,2.2807778855908527,1.0,1.2807778855908527,1.6403919922185755,1.75,1.0,2
+191,Grooming,organic_volume_growth,PCENDC96,2025-03-31,Pre-earnings,2025-04-23,lagged,1.258458316291353,1.0,0.25845831629135296,0.06680070126016105,1.75,1.0,2
+191,Grooming,organic_volume_growth,PCENDC96,2025-03-31,Pre-earnings,2025-04-23,blend,2.5153889427954264,1.0,1.5153889427954264,2.29640364794664,1.75,1.0,2
+189,Grooming,organic_volume_growth,PCENDC96,2025-03-31,First month,2025-02-28,baseline,2.75,1.0,1.75,3.0625,1.75,1.0,1
+189,Grooming,organic_volume_growth,PCENDC96,2025-03-31,First month,2025-02-28,last_actual,2.0,1.0,1.0,1.0,1.75,1.0,1
+189,Grooming,organic_volume_growth,PCENDC96,2025-03-31,First month,2025-02-28,bridge,1.5461664187994413,1.0,0.5461664187994413,0.2982977570242067,1.75,1.0,1
+189,Grooming,organic_volume_growth,PCENDC96,2025-03-31,First month,2025-02-28,lagged,1.232290584399918,1.0,0.2322905843999179,0.05395891560085538,1.75,1.0,1
+189,Grooming,organic_volume_growth,PCENDC96,2025-03-31,First month,2025-02-28,blend,2.1480832093997204,1.0,1.1480832093997204,1.3180950557055622,1.75,1.0,1
+190,Grooming,organic_volume_growth,PCENDC96,2025-03-31,Second month,2025-03-28,baseline,2.75,1.0,1.75,3.0625,1.75,1.0,2
+190,Grooming,organic_volume_growth,PCENDC96,2025-03-31,Second month,2025-03-28,last_actual,2.0,1.0,1.0,1.0,1.75,1.0,2
+190,Grooming,organic_volume_growth,PCENDC96,2025-03-31,Second month,2025-03-28,bridge,2.2807778855908527,1.0,1.2807778855908527,1.6403919922185755,1.75,1.0,2
+190,Grooming,organic_volume_growth,PCENDC96,2025-03-31,Second month,2025-03-28,lagged,1.258458316291353,1.0,0.25845831629135296,0.06680070126016105,1.75,1.0,2
+190,Grooming,organic_volume_growth,PCENDC96,2025-03-31,Second month,2025-03-28,blend,2.5153889427954264,1.0,1.5153889427954264,2.29640364794664,1.75,1.0,2
+244,Grooming,organic_volume_growth,PCENDC96,2025-06-30,Origin,2025-04-01,baseline,2.75,-1.0,3.75,14.0625,3.75,3.0,0
+244,Grooming,organic_volume_growth,PCENDC96,2025-06-30,Origin,2025-04-01,last_actual,2.0,-1.0,3.0,9.0,3.75,3.0,0
+244,Grooming,organic_volume_growth,PCENDC96,2025-06-30,Origin,2025-04-01,bridge,2.1357948437435397,-1.0,3.1357948437435397,9.833209302048571,3.75,3.0,0
+244,Grooming,organic_volume_growth,PCENDC96,2025-06-30,Origin,2025-04-01,blend,2.44289742187177,-1.0,3.44289742187177,11.85354265753128,3.75,3.0,0
+249,Grooming,organic_volume_growth,PCENDC96,2025-06-30,Pre-earnings,2025-07-28,baseline,2.5,-1.0,3.5,12.25,3.5,2.0,2
+249,Grooming,organic_volume_growth,PCENDC96,2025-06-30,Pre-earnings,2025-07-28,last_actual,1.0,-1.0,2.0,4.0,3.5,2.0,2
+249,Grooming,organic_volume_growth,PCENDC96,2025-06-30,Pre-earnings,2025-07-28,bridge,2.42663359933088,-1.0,3.42663359933088,11.7418178240633,3.5,2.0,2
+249,Grooming,organic_volume_growth,PCENDC96,2025-06-30,Pre-earnings,2025-07-28,lagged,2.0206729996181703,-1.0,3.0206729996181703,9.124465370622234,3.5,2.0,2
+249,Grooming,organic_volume_growth,PCENDC96,2025-06-30,Pre-earnings,2025-07-28,blend,2.46331679966544,-1.0,3.46331679966544,11.994563254844865,3.5,2.0,2
+247,Grooming,organic_volume_growth,PCENDC96,2025-06-30,First month,2025-05-30,baseline,2.5,-1.0,3.5,12.25,3.5,2.0,1
+247,Grooming,organic_volume_growth,PCENDC96,2025-06-30,First month,2025-05-30,last_actual,1.0,-1.0,2.0,4.0,3.5,2.0,1
+247,Grooming,organic_volume_growth,PCENDC96,2025-06-30,First month,2025-05-30,bridge,2.834369195141278,-1.0,3.834369195141278,14.702387124648371,3.5,2.0,1
+247,Grooming,organic_volume_growth,PCENDC96,2025-06-30,First month,2025-05-30,lagged,2.038309421736234,-1.0,3.038309421736234,9.231324142211168,3.5,2.0,1
+247,Grooming,organic_volume_growth,PCENDC96,2025-06-30,First month,2025-05-30,blend,2.667184597570639,-1.0,3.667184597570639,13.44824287265933,3.5,2.0,1
+248,Grooming,organic_volume_growth,PCENDC96,2025-06-30,Second month,2025-06-27,baseline,2.5,-1.0,3.5,12.25,3.5,2.0,2
+248,Grooming,organic_volume_growth,PCENDC96,2025-06-30,Second month,2025-06-27,last_actual,1.0,-1.0,2.0,4.0,3.5,2.0,2
+248,Grooming,organic_volume_growth,PCENDC96,2025-06-30,Second month,2025-06-27,bridge,2.42663359933088,-1.0,3.42663359933088,11.7418178240633,3.5,2.0,2
+248,Grooming,organic_volume_growth,PCENDC96,2025-06-30,Second month,2025-06-27,lagged,2.0206729996181703,-1.0,3.0206729996181703,9.124465370622234,3.5,2.0,2
+248,Grooming,organic_volume_growth,PCENDC96,2025-06-30,Second month,2025-06-27,blend,2.46331679966544,-1.0,3.46331679966544,11.994563254844865,3.5,2.0,2
+304,Grooming,organic_volume_growth,PCENDC96,2025-09-30,Origin,2025-07-01,baseline,2.5,1.0,1.5,2.25,1.5,0.0,0
+304,Grooming,organic_volume_growth,PCENDC96,2025-09-30,Origin,2025-07-01,last_actual,1.0,1.0,0.0,0.0,1.5,0.0,0
+304,Grooming,organic_volume_growth,PCENDC96,2025-09-30,Origin,2025-07-01,bridge,2.36999140156849,1.0,1.3699914015684902,1.876876440371596,1.5,0.0,0
+304,Grooming,organic_volume_growth,PCENDC96,2025-09-30,Origin,2025-07-01,blend,2.434995700784245,1.0,1.434995700784245,2.0592126612692665,1.5,0.0,0
+309,Grooming,organic_volume_growth,PCENDC96,2025-09-30,Pre-earnings,2025-10-23,baseline,1.75,1.0,0.75,0.5625,0.75,-2.0,2
+309,Grooming,organic_volume_growth,PCENDC96,2025-09-30,Pre-earnings,2025-10-23,last_actual,-1.0,1.0,-2.0,4.0,0.75,-2.0,2
+309,Grooming,organic_volume_growth,PCENDC96,2025-09-30,Pre-earnings,2025-10-23,bridge,1.935248836446469,1.0,0.9352488364464691,0.8746903860744742,0.75,-2.0,2
+309,Grooming,organic_volume_growth,PCENDC96,2025-09-30,Pre-earnings,2025-10-23,lagged,1.3849356697585804,1.0,0.3849356697585804,0.14817546985248686,0.75,-2.0,2
+309,Grooming,organic_volume_growth,PCENDC96,2025-09-30,Pre-earnings,2025-10-23,blend,1.8426244182232345,1.0,0.8426244182232345,0.7100159101860445,0.75,-2.0,2
+307,Grooming,organic_volume_growth,PCENDC96,2025-09-30,First month,2025-08-29,baseline,1.75,1.0,0.75,0.5625,0.75,-2.0,1
+307,Grooming,organic_volume_growth,PCENDC96,2025-09-30,First month,2025-08-29,last_actual,-1.0,1.0,-2.0,4.0,0.75,-2.0,1
+307,Grooming,organic_volume_growth,PCENDC96,2025-09-30,First month,2025-08-29,bridge,1.8023712057922385,1.0,0.8023712057922385,0.6437995518844908,0.75,-2.0,1
+307,Grooming,organic_volume_growth,PCENDC96,2025-09-30,First month,2025-08-29,lagged,1.5925674684914672,1.0,0.5925674684914672,0.351136204714386,0.75,-2.0,1
+307,Grooming,organic_volume_growth,PCENDC96,2025-09-30,First month,2025-08-29,blend,1.7761856028961192,1.0,0.7761856028961192,0.602464090143212,0.75,-2.0,1
+308,Grooming,organic_volume_growth,PCENDC96,2025-09-30,Second month,2025-09-26,baseline,1.75,1.0,0.75,0.5625,0.75,-2.0,2
+308,Grooming,organic_volume_growth,PCENDC96,2025-09-30,Second month,2025-09-26,last_actual,-1.0,1.0,-2.0,4.0,0.75,-2.0,2
+308,Grooming,organic_volume_growth,PCENDC96,2025-09-30,Second month,2025-09-26,bridge,1.935248836446469,1.0,0.9352488364464691,0.8746903860744742,0.75,-2.0,2
+308,Grooming,organic_volume_growth,PCENDC96,2025-09-30,Second month,2025-09-26,lagged,1.3849356697585804,1.0,0.3849356697585804,0.14817546985248686,0.75,-2.0,2
+308,Grooming,organic_volume_growth,PCENDC96,2025-09-30,Second month,2025-09-26,blend,1.8426244182232345,1.0,0.8426244182232345,0.7100159101860445,0.75,-2.0,2
+357,Grooming,organic_volume_growth,PCENDC96,2025-12-31,Origin,2025-10-01,baseline,1.75,-2.0,3.75,14.0625,3.75,1.0,0
+357,Grooming,organic_volume_growth,PCENDC96,2025-12-31,Origin,2025-10-01,last_actual,-1.0,-2.0,1.0,1.0,3.75,1.0,0
+357,Grooming,organic_volume_growth,PCENDC96,2025-12-31,Origin,2025-10-01,bridge,1.9464972476300062,-2.0,3.946497247630006,15.574840525551215,3.75,1.0,0
+357,Grooming,organic_volume_growth,PCENDC96,2025-12-31,Origin,2025-10-01,blend,1.848248623815003,-2.0,3.848248623815003,14.809017470694066,3.75,1.0,0
+361,Grooming,organic_volume_growth,PCENDC96,2025-12-31,Pre-earnings,2026-01-22,baseline,0.75,-2.0,2.75,7.5625,2.75,3.0,2
+361,Grooming,organic_volume_growth,PCENDC96,2025-12-31,Pre-earnings,2026-01-22,last_actual,1.0,-2.0,3.0,9.0,2.75,3.0,2
+361,Grooming,organic_volume_growth,PCENDC96,2025-12-31,Pre-earnings,2026-01-22,bridge,1.4856646108185567,-2.0,3.4856646108185565,12.149857779112878,2.75,3.0,2
+361,Grooming,organic_volume_growth,PCENDC96,2025-12-31,Pre-earnings,2026-01-22,lagged,1.1566314462185776,-2.0,3.1566314462185776,9.964322087255988,2.75,3.0,2
+361,Grooming,organic_volume_growth,PCENDC96,2025-12-31,Pre-earnings,2026-01-22,blend,1.1178323054092782,-2.0,3.1178323054092782,9.720878284653734,2.75,3.0,2
+361,Grooming,organic_volume_growth,PCENDC96,2025-12-31,First month,2026-01-22,baseline,0.75,-2.0,2.75,7.5625,2.75,3.0,2
+361,Grooming,organic_volume_growth,PCENDC96,2025-12-31,First month,2026-01-22,last_actual,1.0,-2.0,3.0,9.0,2.75,3.0,2
+361,Grooming,organic_volume_growth,PCENDC96,2025-12-31,First month,2026-01-22,bridge,1.4856646108185567,-2.0,3.4856646108185565,12.149857779112878,2.75,3.0,2
+361,Grooming,organic_volume_growth,PCENDC96,2025-12-31,First month,2026-01-22,lagged,1.1566314462185776,-2.0,3.1566314462185776,9.964322087255988,2.75,3.0,2
+361,Grooming,organic_volume_growth,PCENDC96,2025-12-31,First month,2026-01-22,blend,1.1178323054092782,-2.0,3.1178323054092782,9.720878284653734,2.75,3.0,2
+361,Grooming,organic_volume_growth,PCENDC96,2025-12-31,Second month,2026-01-22,baseline,0.75,-2.0,2.75,7.5625,2.75,3.0,2
+361,Grooming,organic_volume_growth,PCENDC96,2025-12-31,Second month,2026-01-22,last_actual,1.0,-2.0,3.0,9.0,2.75,3.0,2
+361,Grooming,organic_volume_growth,PCENDC96,2025-12-31,Second month,2026-01-22,bridge,1.4856646108185567,-2.0,3.4856646108185565,12.149857779112878,2.75,3.0,2
+361,Grooming,organic_volume_growth,PCENDC96,2025-12-31,Second month,2026-01-22,lagged,1.1566314462185776,-2.0,3.1566314462185776,9.964322087255988,2.75,3.0,2
+361,Grooming,organic_volume_growth,PCENDC96,2025-12-31,Second month,2026-01-22,blend,1.1178323054092782,-2.0,3.1178323054092782,9.720878284653734,2.75,3.0,2
+406,Grooming,organic_volume_growth,PCENDC96,2026-03-31,Origin,2026-01-01,baseline,0.75,-2.0,2.75,7.5625,2.75,3.0,0
+406,Grooming,organic_volume_growth,PCENDC96,2026-03-31,Origin,2026-01-01,last_actual,1.0,-2.0,3.0,9.0,2.75,3.0,0
+406,Grooming,organic_volume_growth,PCENDC96,2026-03-31,Origin,2026-01-01,bridge,1.5818698830502027,-2.0,3.581869883050203,12.829791859102075,2.75,3.0,0
+406,Grooming,organic_volume_growth,PCENDC96,2026-03-31,Origin,2026-01-01,blend,1.1659349415251015,-2.0,3.1659349415251015,10.023144053969547,2.75,3.0,0
+412,Grooming,organic_volume_growth,PCENDC96,2026-03-31,Pre-earnings,2026-04-23,baseline,-0.25,-2.0,1.75,3.0625,1.75,0.0,2
+412,Grooming,organic_volume_growth,PCENDC96,2026-03-31,Pre-earnings,2026-04-23,last_actual,-2.0,-2.0,0.0,0.0,1.75,0.0,2
+412,Grooming,organic_volume_growth,PCENDC96,2026-03-31,Pre-earnings,2026-04-23,bridge,-0.31936930583691203,-2.0,1.680630694163088,2.8245195301631028,1.75,0.0,2
+412,Grooming,organic_volume_growth,PCENDC96,2026-03-31,Pre-earnings,2026-04-23,lagged,0.2669652832651339,-2.0,2.266965283265134,5.139131595529369,1.75,0.0,2
+412,Grooming,organic_volume_growth,PCENDC96,2026-03-31,Pre-earnings,2026-04-23,blend,-0.284684652918456,-2.0,1.7153153470815439,2.9423067399334775,1.75,0.0,2
+410,Grooming,organic_volume_growth,PCENDC96,2026-03-31,First month,2026-03-13,baseline,-0.25,-2.0,1.75,3.0625,1.75,0.0,1
+410,Grooming,organic_volume_growth,PCENDC96,2026-03-31,First month,2026-03-13,last_actual,-2.0,-2.0,0.0,0.0,1.75,0.0,1
+410,Grooming,organic_volume_growth,PCENDC96,2026-03-31,First month,2026-03-13,bridge,0.4142883003236906,-2.0,2.4142883003236904,5.8287879970798535,1.75,0.0,1
+410,Grooming,organic_volume_growth,PCENDC96,2026-03-31,First month,2026-03-13,lagged,0.2918076419587168,-2.0,2.291807641958717,5.252382267740374,1.75,0.0,1
+410,Grooming,organic_volume_growth,PCENDC96,2026-03-31,First month,2026-03-13,blend,0.08214415016184529,-2.0,2.082144150161845,4.335324262053192,1.75,0.0,1
+411,Grooming,organic_volume_growth,PCENDC96,2026-03-31,Second month,2026-04-09,baseline,-0.25,-2.0,1.75,3.0625,1.75,0.0,2
+411,Grooming,organic_volume_growth,PCENDC96,2026-03-31,Second month,2026-04-09,last_actual,-2.0,-2.0,0.0,0.0,1.75,0.0,2
+411,Grooming,organic_volume_growth,PCENDC96,2026-03-31,Second month,2026-04-09,bridge,-0.31936930583691203,-2.0,1.680630694163088,2.8245195301631028,1.75,0.0,2
+411,Grooming,organic_volume_growth,PCENDC96,2026-03-31,Second month,2026-04-09,lagged,0.2669652832651339,-2.0,2.266965283265134,5.139131595529369,1.75,0.0,2
+411,Grooming,organic_volume_growth,PCENDC96,2026-03-31,Second month,2026-04-09,blend,-0.284684652918456,-2.0,1.7153153470815439,2.9423067399334775,1.75,0.0,2
+15,Health Care,organic_volume_growth,PCENDC96,2024-06-30,Origin,2024-04-01,baseline,-1.0,1.0,-2.0,4.0,-2.0,-5.0,0
+15,Health Care,organic_volume_growth,PCENDC96,2024-06-30,Origin,2024-04-01,last_actual,-4.0,1.0,-5.0,25.0,-2.0,-5.0,0
+15,Health Care,organic_volume_growth,PCENDC96,2024-06-30,Origin,2024-04-01,bridge,1.5158211155840142,1.0,0.5158211155840142,0.26607142328233696,-2.0,-5.0,0
+15,Health Care,organic_volume_growth,PCENDC96,2024-06-30,Origin,2024-04-01,blend,0.2579105577920071,1.0,-0.7420894422079929,0.55069674023657,-2.0,-5.0,0
+21,Health Care,organic_volume_growth,PCENDC96,2024-06-30,Pre-earnings,2024-07-29,baseline,-2.25,1.0,-3.25,10.5625,-3.25,-5.0,3
+21,Health Care,organic_volume_growth,PCENDC96,2024-06-30,Pre-earnings,2024-07-29,last_actual,-4.0,1.0,-5.0,25.0,-3.25,-5.0,3
+21,Health Care,organic_volume_growth,PCENDC96,2024-06-30,Pre-earnings,2024-07-29,bridge,0.8016010145270209,1.0,-0.19839898547297907,0.03936215743670736,-3.25,-5.0,3
+21,Health Care,organic_volume_growth,PCENDC96,2024-06-30,Pre-earnings,2024-07-29,lagged,-1.6919987135099235,1.0,-2.6919987135099235,7.246857073539083,-3.25,-5.0,3
+21,Health Care,organic_volume_growth,PCENDC96,2024-06-30,Pre-earnings,2024-07-29,blend,-0.7241994927364895,1.0,-1.7241994927364894,2.9728638907527674,-3.25,-5.0,3
+18,Health Care,organic_volume_growth,PCENDC96,2024-06-30,First month,2024-05-31,baseline,-2.25,1.0,-3.25,10.5625,-3.25,-5.0,1
+18,Health Care,organic_volume_growth,PCENDC96,2024-06-30,First month,2024-05-31,last_actual,-4.0,1.0,-5.0,25.0,-3.25,-5.0,1
+18,Health Care,organic_volume_growth,PCENDC96,2024-06-30,First month,2024-05-31,bridge,0.7890483532752302,1.0,-0.21095164672476985,0.0445005972558921,-3.25,-5.0,1
+18,Health Care,organic_volume_growth,PCENDC96,2024-06-30,First month,2024-05-31,lagged,-1.7317782199092338,1.0,-2.7317782199092338,7.4626122427704615,-3.25,-5.0,1
+18,Health Care,organic_volume_growth,PCENDC96,2024-06-30,First month,2024-05-31,blend,-0.7304758233623849,1.0,-1.730475823362385,2.994546575241724,-3.25,-5.0,1
+19,Health Care,organic_volume_growth,PCENDC96,2024-06-30,Second month,2024-06-28,baseline,-2.25,1.0,-3.25,10.5625,-3.25,-5.0,2
+19,Health Care,organic_volume_growth,PCENDC96,2024-06-30,Second month,2024-06-28,last_actual,-4.0,1.0,-5.0,25.0,-3.25,-5.0,2
+19,Health Care,organic_volume_growth,PCENDC96,2024-06-30,Second month,2024-06-28,bridge,0.5919839587119449,1.0,-0.40801604128805513,0.1664770899483759,-3.25,-5.0,2
+19,Health Care,organic_volume_growth,PCENDC96,2024-06-30,Second month,2024-06-28,lagged,-1.6919987135099235,1.0,-2.6919987135099235,7.246857073539083,-3.25,-5.0,2
+19,Health Care,organic_volume_growth,PCENDC96,2024-06-30,Second month,2024-06-28,blend,-0.8290080206440276,1.0,-1.8290080206440276,3.3452703395801837,-3.25,-5.0,2
+78,Health Care,organic_volume_growth,PCENDC96,2024-09-30,Origin,2024-07-01,baseline,-2.25,-1.0,-1.25,1.5625,-1.25,-3.0,0
+78,Health Care,organic_volume_growth,PCENDC96,2024-09-30,Origin,2024-07-01,last_actual,-4.0,-1.0,-3.0,9.0,-1.25,-3.0,0
+78,Health Care,organic_volume_growth,PCENDC96,2024-09-30,Origin,2024-07-01,bridge,0.8786663582772996,-1.0,1.8786663582772996,3.529387285722891,-1.25,-3.0,0
+78,Health Care,organic_volume_growth,PCENDC96,2024-09-30,Origin,2024-07-01,blend,-0.6856668208613502,-1.0,0.3143331791386498,0.09880534750741049,-1.25,-3.0,0
+83,Health Care,organic_volume_growth,PCENDC96,2024-09-30,Pre-earnings,2024-10-17,baseline,-1.25,-1.0,-0.25,0.0625,-0.25,2.0,2
+83,Health Care,organic_volume_growth,PCENDC96,2024-09-30,Pre-earnings,2024-10-17,last_actual,1.0,-1.0,2.0,4.0,-0.25,2.0,2
+83,Health Care,organic_volume_growth,PCENDC96,2024-09-30,Pre-earnings,2024-10-17,bridge,1.3133904696276901,-1.0,2.31339046962769,5.351775464964224,-0.25,2.0,2
+83,Health Care,organic_volume_growth,PCENDC96,2024-09-30,Pre-earnings,2024-10-17,lagged,-1.5138939802681648,-1.0,-0.5138939802681648,0.26408702295585695,-0.25,2.0,2
+83,Health Care,organic_volume_growth,PCENDC96,2024-09-30,Pre-earnings,2024-10-17,blend,0.031695234813845063,-1.0,1.031695234813845,1.064395057537595,-0.25,2.0,2
+81,Health Care,organic_volume_growth,PCENDC96,2024-09-30,First month,2024-08-30,baseline,-1.25,-1.0,-0.25,0.0625,-0.25,2.0,1
+81,Health Care,organic_volume_growth,PCENDC96,2024-09-30,First month,2024-08-30,last_actual,1.0,-1.0,2.0,4.0,-0.25,2.0,1
+81,Health Care,organic_volume_growth,PCENDC96,2024-09-30,First month,2024-08-30,bridge,0.9663914898906372,-1.0,1.9663914898906372,3.86669549151432,-0.25,2.0,1
+81,Health Care,organic_volume_growth,PCENDC96,2024-09-30,First month,2024-08-30,lagged,-1.3602527744348238,-1.0,-0.36025277443482384,0.12978206148798807,-0.25,2.0,1
+81,Health Care,organic_volume_growth,PCENDC96,2024-09-30,First month,2024-08-30,blend,-0.14180425505468142,-1.0,0.8581957449453186,0.7364999366422503,-0.25,2.0,1
+82,Health Care,organic_volume_growth,PCENDC96,2024-09-30,Second month,2024-09-27,baseline,-1.25,-1.0,-0.25,0.0625,-0.25,2.0,2
+82,Health Care,organic_volume_growth,PCENDC96,2024-09-30,Second month,2024-09-27,last_actual,1.0,-1.0,2.0,4.0,-0.25,2.0,2
+82,Health Care,organic_volume_growth,PCENDC96,2024-09-30,Second month,2024-09-27,bridge,1.3133904696276901,-1.0,2.31339046962769,5.351775464964224,-0.25,2.0,2
+82,Health Care,organic_volume_growth,PCENDC96,2024-09-30,Second month,2024-09-27,lagged,-1.5138939802681648,-1.0,-0.5138939802681648,0.26408702295585695,-0.25,2.0,2
+82,Health Care,organic_volume_growth,PCENDC96,2024-09-30,Second month,2024-09-27,blend,0.031695234813845063,-1.0,1.031695234813845,1.064395057537595,-0.25,2.0,2
+134,Health Care,organic_volume_growth,PCENDC96,2024-12-31,Origin,2024-10-01,baseline,-1.25,0.0,-1.25,1.5625,-1.25,1.0,0
+134,Health Care,organic_volume_growth,PCENDC96,2024-12-31,Origin,2024-10-01,last_actual,1.0,0.0,1.0,1.0,-1.25,1.0,0
+134,Health Care,organic_volume_growth,PCENDC96,2024-12-31,Origin,2024-10-01,bridge,1.30779674308814,0.0,1.30779674308814,1.7103323212319468,-1.25,1.0,0
+134,Health Care,organic_volume_growth,PCENDC96,2024-12-31,Origin,2024-10-01,blend,0.028898371544070045,0.0,0.028898371544070045,0.0008351158778991173,-1.25,1.0,0
+139,Health Care,organic_volume_growth,PCENDC96,2024-12-31,Pre-earnings,2025-01-21,baseline,-2.0,0.0,-2.0,4.0,-2.0,-1.0,2
+139,Health Care,organic_volume_growth,PCENDC96,2024-12-31,Pre-earnings,2025-01-21,last_actual,-1.0,0.0,-1.0,1.0,-2.0,-1.0,2
+139,Health Care,organic_volume_growth,PCENDC96,2024-12-31,Pre-earnings,2025-01-21,bridge,0.920180308359474,0.0,0.920180308359474,0.8467317998925366,-2.0,-1.0,2
+139,Health Care,organic_volume_growth,PCENDC96,2024-12-31,Pre-earnings,2025-01-21,lagged,-1.5356651400713268,0.0,-1.5356651400713268,2.3582674224302878,-2.0,-1.0,2
+139,Health Care,organic_volume_growth,PCENDC96,2024-12-31,Pre-earnings,2025-01-21,blend,-0.539909845820263,0.0,-0.539909845820263,0.2915026416136602,-2.0,-1.0,2
+137,Health Care,organic_volume_growth,PCENDC96,2024-12-31,First month,2024-11-27,baseline,-2.0,0.0,-2.0,4.0,-2.0,-1.0,1
+137,Health Care,organic_volume_growth,PCENDC96,2024-12-31,First month,2024-11-27,last_actual,-1.0,0.0,-1.0,1.0,-2.0,-1.0,1
+137,Health Care,organic_volume_growth,PCENDC96,2024-12-31,First month,2024-11-27,bridge,0.9389323413869497,0.0,0.9389323413869497,0.8815939417023795,-2.0,-1.0,1
+137,Health Care,organic_volume_growth,PCENDC96,2024-12-31,First month,2024-11-27,lagged,-1.532028320554002,0.0,-1.532028320554002,2.347110774979516,-2.0,-1.0,1
+137,Health Care,organic_volume_growth,PCENDC96,2024-12-31,First month,2024-11-27,blend,-0.5305338293065252,0.0,-0.5305338293065252,0.28146614403864517,-2.0,-1.0,1
+138,Health Care,organic_volume_growth,PCENDC96,2024-12-31,Second month,2024-12-20,baseline,-2.0,0.0,-2.0,4.0,-2.0,-1.0,2
+138,Health Care,organic_volume_growth,PCENDC96,2024-12-31,Second month,2024-12-20,last_actual,-1.0,0.0,-1.0,1.0,-2.0,-1.0,2
+138,Health Care,organic_volume_growth,PCENDC96,2024-12-31,Second month,2024-12-20,bridge,0.920180308359474,0.0,0.920180308359474,0.8467317998925366,-2.0,-1.0,2
+138,Health Care,organic_volume_growth,PCENDC96,2024-12-31,Second month,2024-12-20,lagged,-1.5356651400713268,0.0,-1.5356651400713268,2.3582674224302878,-2.0,-1.0,2
+138,Health Care,organic_volume_growth,PCENDC96,2024-12-31,Second month,2024-12-20,blend,-0.539909845820263,0.0,-0.539909845820263,0.2915026416136602,-2.0,-1.0,2
+192,Health Care,organic_volume_growth,PCENDC96,2025-03-31,Origin,2025-01-01,baseline,-2.0,-1.0,-1.0,1.0,-1.0,0.0,0
+192,Health Care,organic_volume_growth,PCENDC96,2025-03-31,Origin,2025-01-01,last_actual,-1.0,-1.0,0.0,0.0,-1.0,0.0,0
+192,Health Care,organic_volume_growth,PCENDC96,2025-03-31,Origin,2025-01-01,bridge,1.009839733329773,-1.0,2.0098397333297733,4.039455753671094,-1.0,0.0,0
+192,Health Care,organic_volume_growth,PCENDC96,2025-03-31,Origin,2025-01-01,blend,-0.49508013333511347,-1.0,0.5049198666648865,0.2549440717528868,-1.0,0.0,0
+197,Health Care,organic_volume_growth,PCENDC96,2025-03-31,Pre-earnings,2025-04-23,baseline,-1.0,-1.0,0.0,0.0,0.0,1.0,2
+197,Health Care,organic_volume_growth,PCENDC96,2025-03-31,Pre-earnings,2025-04-23,last_actual,0.0,-1.0,1.0,1.0,0.0,1.0,2
+197,Health Care,organic_volume_growth,PCENDC96,2025-03-31,Pre-earnings,2025-04-23,bridge,1.0667698535846202,-1.0,2.06676985358462,4.271537627686192,0.0,1.0,2
+197,Health Care,organic_volume_growth,PCENDC96,2025-03-31,Pre-earnings,2025-04-23,lagged,-1.244779935233656,-1.0,-0.24477993523365593,0.05991721669299279,0.0,1.0,2
+197,Health Care,organic_volume_growth,PCENDC96,2025-03-31,Pre-earnings,2025-04-23,blend,0.03338492679231009,-1.0,1.03338492679231,1.067884406921548,0.0,1.0,2
+195,Health Care,organic_volume_growth,PCENDC96,2025-03-31,First month,2025-02-28,baseline,-1.0,-1.0,0.0,0.0,0.0,1.0,1
+195,Health Care,organic_volume_growth,PCENDC96,2025-03-31,First month,2025-02-28,last_actual,0.0,-1.0,1.0,1.0,0.0,1.0,1
+195,Health Care,organic_volume_growth,PCENDC96,2025-03-31,First month,2025-02-28,bridge,0.643578923336062,-1.0,1.643578923336062,2.7013516772345287,0.0,1.0,1
+195,Health Care,organic_volume_growth,PCENDC96,2025-03-31,First month,2025-02-28,lagged,-1.2400330177644647,-1.0,-0.24003301776446473,0.05761584961711584,0.0,1.0,1
+195,Health Care,organic_volume_growth,PCENDC96,2025-03-31,First month,2025-02-28,blend,-0.17821053833196898,-1.0,0.821789461668031,0.6753379193086322,0.0,1.0,1
+196,Health Care,organic_volume_growth,PCENDC96,2025-03-31,Second month,2025-03-28,baseline,-1.0,-1.0,0.0,0.0,0.0,1.0,2
+196,Health Care,organic_volume_growth,PCENDC96,2025-03-31,Second month,2025-03-28,last_actual,0.0,-1.0,1.0,1.0,0.0,1.0,2
+196,Health Care,organic_volume_growth,PCENDC96,2025-03-31,Second month,2025-03-28,bridge,1.0667698535846202,-1.0,2.06676985358462,4.271537627686192,0.0,1.0,2
+196,Health Care,organic_volume_growth,PCENDC96,2025-03-31,Second month,2025-03-28,lagged,-1.244779935233656,-1.0,-0.24477993523365593,0.05991721669299279,0.0,1.0,2
+196,Health Care,organic_volume_growth,PCENDC96,2025-03-31,Second month,2025-03-28,blend,0.03338492679231009,-1.0,1.03338492679231,1.067884406921548,0.0,1.0,2
+250,Health Care,organic_volume_growth,PCENDC96,2025-06-30,Origin,2025-04-01,baseline,-1.0,-2.0,1.0,1.0,1.0,2.0,0
+250,Health Care,organic_volume_growth,PCENDC96,2025-06-30,Origin,2025-04-01,last_actual,0.0,-2.0,2.0,4.0,1.0,2.0,0
+250,Health Care,organic_volume_growth,PCENDC96,2025-06-30,Origin,2025-04-01,bridge,0.9830662628090181,-2.0,2.983066262809018,8.898684328309361,1.0,2.0,0
+250,Health Care,organic_volume_growth,PCENDC96,2025-06-30,Origin,2025-04-01,blend,-0.00846686859549095,-2.0,1.991533131404509,3.9662042134818494,1.0,2.0,0
+255,Health Care,organic_volume_growth,PCENDC96,2025-06-30,Pre-earnings,2025-07-28,baseline,-0.25,-2.0,1.75,3.0625,1.75,1.0,2
+255,Health Care,organic_volume_growth,PCENDC96,2025-06-30,Pre-earnings,2025-07-28,last_actual,-1.0,-2.0,1.0,1.0,1.75,1.0,2
+255,Health Care,organic_volume_growth,PCENDC96,2025-06-30,Pre-earnings,2025-07-28,bridge,0.9071725230703338,-2.0,2.907172523070334,8.45165207889513,1.75,1.0,2
+255,Health Care,organic_volume_growth,PCENDC96,2025-06-30,Pre-earnings,2025-07-28,lagged,-1.3494131516897498,-2.0,0.6505868483102502,0.42326324719426445,1.75,1.0,2
+255,Health Care,organic_volume_growth,PCENDC96,2025-06-30,Pre-earnings,2025-07-28,blend,0.3285862615351669,-2.0,2.328586261535167,5.422313977410325,1.75,1.0,2
+253,Health Care,organic_volume_growth,PCENDC96,2025-06-30,First month,2025-05-30,baseline,-0.25,-2.0,1.75,3.0625,1.75,1.0,1
+253,Health Care,organic_volume_growth,PCENDC96,2025-06-30,First month,2025-05-30,last_actual,-1.0,-2.0,1.0,1.0,1.75,1.0,1
+253,Health Care,organic_volume_growth,PCENDC96,2025-06-30,First month,2025-05-30,bridge,1.1165981204557909,-2.0,3.116598120455791,9.713183844428569,1.75,1.0,1
+253,Health Care,organic_volume_growth,PCENDC96,2025-06-30,First month,2025-05-30,lagged,-1.3524628276333428,-2.0,0.6475371723666572,0.41930438959660593,1.75,1.0,1
+253,Health Care,organic_volume_growth,PCENDC96,2025-06-30,First month,2025-05-30,blend,0.43329906022789544,-2.0,2.4332990602278954,5.920944316505959,1.75,1.0,1
+254,Health Care,organic_volume_growth,PCENDC96,2025-06-30,Second month,2025-06-27,baseline,-0.25,-2.0,1.75,3.0625,1.75,1.0,2
+254,Health Care,organic_volume_growth,PCENDC96,2025-06-30,Second month,2025-06-27,last_actual,-1.0,-2.0,1.0,1.0,1.75,1.0,2
+254,Health Care,organic_volume_growth,PCENDC96,2025-06-30,Second month,2025-06-27,bridge,0.9071725230703338,-2.0,2.907172523070334,8.45165207889513,1.75,1.0,2
+254,Health Care,organic_volume_growth,PCENDC96,2025-06-30,Second month,2025-06-27,lagged,-1.3494131516897498,-2.0,0.6505868483102502,0.42326324719426445,1.75,1.0,2
+254,Health Care,organic_volume_growth,PCENDC96,2025-06-30,Second month,2025-06-27,blend,0.3285862615351669,-2.0,2.328586261535167,5.422313977410325,1.75,1.0,2
+310,Health Care,organic_volume_growth,PCENDC96,2025-09-30,Origin,2025-07-01,baseline,-0.25,-2.0,1.75,3.0625,1.75,1.0,0
+310,Health Care,organic_volume_growth,PCENDC96,2025-09-30,Origin,2025-07-01,last_actual,-1.0,-2.0,1.0,1.0,1.75,1.0,0
+310,Health Care,organic_volume_growth,PCENDC96,2025-09-30,Origin,2025-07-01,bridge,0.8778869522128161,-2.0,2.8778869522128163,8.282233309716773,1.75,1.0,0
+310,Health Care,organic_volume_growth,PCENDC96,2025-09-30,Origin,2025-07-01,blend,0.31394347610640805,-2.0,2.313943476106408,5.354334410615407,1.75,1.0,0
+315,Health Care,organic_volume_growth,PCENDC96,2025-09-30,Pre-earnings,2025-10-23,baseline,-1.0,-2.0,1.0,1.0,1.0,0.0,2
+315,Health Care,organic_volume_growth,PCENDC96,2025-09-30,Pre-earnings,2025-10-23,last_actual,-2.0,-2.0,0.0,0.0,1.0,0.0,2
+315,Health Care,organic_volume_growth,PCENDC96,2025-09-30,Pre-earnings,2025-10-23,bridge,0.404155266198291,-2.0,2.4041552661982912,5.779962543988977,1.0,0.0,2
+315,Health Care,organic_volume_growth,PCENDC96,2025-09-30,Pre-earnings,2025-10-23,lagged,-1.4435307467679195,-2.0,0.5564692532320805,0.3096580297926694,1.0,0.0,2
+315,Health Care,organic_volume_growth,PCENDC96,2025-09-30,Pre-earnings,2025-10-23,blend,-0.2979223669008545,-2.0,1.7020776330991456,2.8970682690963896,1.0,0.0,2
+313,Health Care,organic_volume_growth,PCENDC96,2025-09-30,First month,2025-08-29,baseline,-1.0,-2.0,1.0,1.0,1.0,0.0,1
+313,Health Care,organic_volume_growth,PCENDC96,2025-09-30,First month,2025-08-29,last_actual,-2.0,-2.0,0.0,0.0,1.0,0.0,1
+313,Health Care,organic_volume_growth,PCENDC96,2025-09-30,First month,2025-08-29,bridge,0.4048445504848184,-2.0,2.4048445504848184,5.783277311996528,1.0,0.0,1
+313,Health Care,organic_volume_growth,PCENDC96,2025-09-30,First month,2025-08-29,lagged,-1.5025624896185983,-2.0,0.4974375103814017,0.24744407673444713,1.0,0.0,1
+313,Health Care,organic_volume_growth,PCENDC96,2025-09-30,First month,2025-08-29,blend,-0.2975777247575908,-2.0,1.7024222752424092,2.8982416032415412,1.0,0.0,1
+314,Health Care,organic_volume_growth,PCENDC96,2025-09-30,Second month,2025-09-26,baseline,-1.0,-2.0,1.0,1.0,1.0,0.0,2
+314,Health Care,organic_volume_growth,PCENDC96,2025-09-30,Second month,2025-09-26,last_actual,-2.0,-2.0,0.0,0.0,1.0,0.0,2
+314,Health Care,organic_volume_growth,PCENDC96,2025-09-30,Second month,2025-09-26,bridge,0.404155266198291,-2.0,2.4041552661982912,5.779962543988977,1.0,0.0,2
+314,Health Care,organic_volume_growth,PCENDC96,2025-09-30,Second month,2025-09-26,lagged,-1.4435307467679195,-2.0,0.5564692532320805,0.3096580297926694,1.0,0.0,2
+314,Health Care,organic_volume_growth,PCENDC96,2025-09-30,Second month,2025-09-26,blend,-0.2979223669008545,-2.0,1.7020776330991456,2.8970682690963896,1.0,0.0,2
+362,Health Care,organic_volume_growth,PCENDC96,2025-12-31,Origin,2025-10-01,baseline,-1.0,-1.0,0.0,0.0,0.0,-1.0,0
+362,Health Care,organic_volume_growth,PCENDC96,2025-12-31,Origin,2025-10-01,last_actual,-2.0,-1.0,-1.0,1.0,0.0,-1.0,0
+362,Health Care,organic_volume_growth,PCENDC96,2025-12-31,Origin,2025-10-01,bridge,0.4089953942944158,-1.0,1.4089953942944158,1.9852680211428761,0.0,-1.0,0
+362,Health Care,organic_volume_growth,PCENDC96,2025-12-31,Origin,2025-10-01,blend,-0.2955023028527921,-1.0,0.7044976971472079,0.49631700528571904,0.0,-1.0,0
+366,Health Care,organic_volume_growth,PCENDC96,2025-12-31,Pre-earnings,2026-01-22,baseline,-1.25,-1.0,-0.25,0.0625,-0.25,-1.0,2
+366,Health Care,organic_volume_growth,PCENDC96,2025-12-31,Pre-earnings,2026-01-22,last_actual,-2.0,-1.0,-1.0,1.0,-0.25,-1.0,2
+366,Health Care,organic_volume_growth,PCENDC96,2025-12-31,Pre-earnings,2026-01-22,bridge,-0.016822074379190033,-1.0,0.98317792562081,0.9666388334280389,-0.25,-1.0,2
+366,Health Care,organic_volume_growth,PCENDC96,2025-12-31,Pre-earnings,2026-01-22,lagged,-1.4779466336250273,-1.0,-0.4779466336250273,0.2284329845934961,-0.25,-1.0,2
+366,Health Care,organic_volume_growth,PCENDC96,2025-12-31,Pre-earnings,2026-01-22,blend,-0.633411037189595,-1.0,0.366588962810405,0.13438746765440848,-0.25,-1.0,2
+366,Health Care,organic_volume_growth,PCENDC96,2025-12-31,First month,2026-01-22,baseline,-1.25,-1.0,-0.25,0.0625,-0.25,-1.0,2
+366,Health Care,organic_volume_growth,PCENDC96,2025-12-31,First month,2026-01-22,last_actual,-2.0,-1.0,-1.0,1.0,-0.25,-1.0,2
+366,Health Care,organic_volume_growth,PCENDC96,2025-12-31,First month,2026-01-22,bridge,-0.016822074379190033,-1.0,0.98317792562081,0.9666388334280389,-0.25,-1.0,2
+366,Health Care,organic_volume_growth,PCENDC96,2025-12-31,First month,2026-01-22,lagged,-1.4779466336250273,-1.0,-0.4779466336250273,0.2284329845934961,-0.25,-1.0,2
+366,Health Care,organic_volume_growth,PCENDC96,2025-12-31,First month,2026-01-22,blend,-0.633411037189595,-1.0,0.366588962810405,0.13438746765440848,-0.25,-1.0,2
+366,Health Care,organic_volume_growth,PCENDC96,2025-12-31,Second month,2026-01-22,baseline,-1.25,-1.0,-0.25,0.0625,-0.25,-1.0,2
+366,Health Care,organic_volume_growth,PCENDC96,2025-12-31,Second month,2026-01-22,last_actual,-2.0,-1.0,-1.0,1.0,-0.25,-1.0,2
+366,Health Care,organic_volume_growth,PCENDC96,2025-12-31,Second month,2026-01-22,bridge,-0.016822074379190033,-1.0,0.98317792562081,0.9666388334280389,-0.25,-1.0,2
+366,Health Care,organic_volume_growth,PCENDC96,2025-12-31,Second month,2026-01-22,lagged,-1.4779466336250273,-1.0,-0.4779466336250273,0.2284329845934961,-0.25,-1.0,2
+366,Health Care,organic_volume_growth,PCENDC96,2025-12-31,Second month,2026-01-22,blend,-0.633411037189595,-1.0,0.366588962810405,0.13438746765440848,-0.25,-1.0,2
+413,Health Care,organic_volume_growth,PCENDC96,2026-03-31,Origin,2026-01-01,baseline,-1.25,-2.0,0.75,0.5625,0.75,0.0,0
+413,Health Care,organic_volume_growth,PCENDC96,2026-03-31,Origin,2026-01-01,last_actual,-2.0,-2.0,0.0,0.0,0.75,0.0,0
+413,Health Care,organic_volume_growth,PCENDC96,2026-03-31,Origin,2026-01-01,bridge,0.017141402599286426,-2.0,2.0171414025992864,4.068859438080216,0.75,0.0,0
+413,Health Care,organic_volume_growth,PCENDC96,2026-03-31,Origin,2026-01-01,blend,-0.6164292987003568,-2.0,1.3835707012996432,1.9142678854947865,0.75,0.0,0
+419,Health Care,organic_volume_growth,PCENDC96,2026-03-31,Pre-earnings,2026-04-23,baseline,-1.5,-2.0,0.5,0.25,0.5,1.0,2
+419,Health Care,organic_volume_growth,PCENDC96,2026-03-31,Pre-earnings,2026-04-23,last_actual,-1.0,-2.0,1.0,1.0,0.5,1.0,2
+419,Health Care,organic_volume_growth,PCENDC96,2026-03-31,Pre-earnings,2026-04-23,bridge,-0.6570158308450886,-2.0,1.3429841691549114,1.8036064786007076,0.5,1.0,2
+419,Health Care,organic_volume_growth,PCENDC96,2026-03-31,Pre-earnings,2026-04-23,lagged,-1.2586903384762755,-2.0,0.7413096615237245,0.5495400142684189,0.5,1.0,2
+419,Health Care,organic_volume_growth,PCENDC96,2026-03-31,Pre-earnings,2026-04-23,blend,-1.0785079154225443,-2.0,0.9214920845774557,0.8491476619389048,0.5,1.0,2
+417,Health Care,organic_volume_growth,PCENDC96,2026-03-31,First month,2026-03-13,baseline,-1.5,-2.0,0.5,0.25,0.5,1.0,1
+417,Health Care,organic_volume_growth,PCENDC96,2026-03-31,First month,2026-03-13,last_actual,-1.0,-2.0,1.0,1.0,0.5,1.0,1
+417,Health Care,organic_volume_growth,PCENDC96,2026-03-31,First month,2026-03-13,bridge,-0.38694370163467484,-2.0,1.6130562983653252,2.601950621696045,0.5,1.0,1
+417,Health Care,organic_volume_growth,PCENDC96,2026-03-31,First month,2026-03-13,lagged,-1.266469939897277,-2.0,0.733530060102723,0.5380663490743045,0.5,1.0,1
+417,Health Care,organic_volume_growth,PCENDC96,2026-03-31,First month,2026-03-13,blend,-0.9434718508173374,-2.0,1.0565281491826626,1.1162517300153425,0.5,1.0,1
+418,Health Care,organic_volume_growth,PCENDC96,2026-03-31,Second month,2026-04-09,baseline,-1.5,-2.0,0.5,0.25,0.5,1.0,2
+418,Health Care,organic_volume_growth,PCENDC96,2026-03-31,Second month,2026-04-09,last_actual,-1.0,-2.0,1.0,1.0,0.5,1.0,2
+418,Health Care,organic_volume_growth,PCENDC96,2026-03-31,Second month,2026-04-09,bridge,-0.6570158308450886,-2.0,1.3429841691549114,1.8036064786007076,0.5,1.0,2
+418,Health Care,organic_volume_growth,PCENDC96,2026-03-31,Second month,2026-04-09,lagged,-1.2586903384762755,-2.0,0.7413096615237245,0.5495400142684189,0.5,1.0,2
+418,Health Care,organic_volume_growth,PCENDC96,2026-03-31,Second month,2026-04-09,blend,-1.0785079154225443,-2.0,0.9214920845774557,0.8491476619389048,0.5,1.0,2
+22,Fabric & Home Care,organic_volume_growth,PCENDC96,2024-06-30,Origin,2024-04-01,baseline,-1.5,3.0,-4.5,20.25,-4.5,-2.0,0
+22,Fabric & Home Care,organic_volume_growth,PCENDC96,2024-06-30,Origin,2024-04-01,last_actual,1.0,3.0,-2.0,4.0,-4.5,-2.0,0
+22,Fabric & Home Care,organic_volume_growth,PCENDC96,2024-06-30,Origin,2024-04-01,bridge,0.5251968468221015,3.0,-2.4748031531778985,6.124650646979268,-4.5,-2.0,0
+22,Fabric & Home Care,organic_volume_growth,PCENDC96,2024-06-30,Origin,2024-04-01,blend,-0.4874015765889492,3.0,-3.4874015765889492,12.161969756395088,-4.5,-2.0,0
+28,Fabric & Home Care,organic_volume_growth,PCENDC96,2024-06-30,Pre-earnings,2024-07-29,baseline,0.0,3.0,-3.0,9.0,-3.0,-2.0,3
+28,Fabric & Home Care,organic_volume_growth,PCENDC96,2024-06-30,Pre-earnings,2024-07-29,last_actual,1.0,3.0,-2.0,4.0,-3.0,-2.0,3
+28,Fabric & Home Care,organic_volume_growth,PCENDC96,2024-06-30,Pre-earnings,2024-07-29,bridge,0.7857818661203062,3.0,-2.214218133879694,4.902761944401673,-3.0,-2.0,3
+28,Fabric & Home Care,organic_volume_growth,PCENDC96,2024-06-30,Pre-earnings,2024-07-29,lagged,-1.0931399028677002,3.0,-4.0931399028677005,16.75379426444781,-3.0,-2.0,3
+28,Fabric & Home Care,organic_volume_growth,PCENDC96,2024-06-30,Pre-earnings,2024-07-29,blend,0.3928909330601531,3.0,-2.607109066939847,6.7970176869199594,-3.0,-2.0,3
+25,Fabric & Home Care,organic_volume_growth,PCENDC96,2024-06-30,First month,2024-05-31,baseline,0.0,3.0,-3.0,9.0,-3.0,-2.0,1
+25,Fabric & Home Care,organic_volume_growth,PCENDC96,2024-06-30,First month,2024-05-31,last_actual,1.0,3.0,-2.0,4.0,-3.0,-2.0,1
+25,Fabric & Home Care,organic_volume_growth,PCENDC96,2024-06-30,First month,2024-05-31,bridge,0.8152143867129462,3.0,-2.184785613287054,4.773288176026088,-3.0,-2.0,1
+25,Fabric & Home Care,organic_volume_growth,PCENDC96,2024-06-30,First month,2024-05-31,lagged,-0.9636539346674469,3.0,-3.963653934667447,15.710552513804734,-3.0,-2.0,1
+25,Fabric & Home Care,organic_volume_growth,PCENDC96,2024-06-30,First month,2024-05-31,blend,0.4076071933564731,3.0,-2.592392806643527,6.720500463937102,-3.0,-2.0,1
+26,Fabric & Home Care,organic_volume_growth,PCENDC96,2024-06-30,Second month,2024-06-28,baseline,0.0,3.0,-3.0,9.0,-3.0,-2.0,2
+26,Fabric & Home Care,organic_volume_growth,PCENDC96,2024-06-30,Second month,2024-06-28,last_actual,1.0,3.0,-2.0,4.0,-3.0,-2.0,2
+26,Fabric & Home Care,organic_volume_growth,PCENDC96,2024-06-30,Second month,2024-06-28,bridge,0.3943912188287815,3.0,-2.6056087811712185,6.789197120516563,-3.0,-2.0,2
+26,Fabric & Home Care,organic_volume_growth,PCENDC96,2024-06-30,Second month,2024-06-28,lagged,-1.0931399028677002,3.0,-4.0931399028677005,16.75379426444781,-3.0,-2.0,2
+26,Fabric & Home Care,organic_volume_growth,PCENDC96,2024-06-30,Second month,2024-06-28,blend,0.19719560941439074,3.0,-2.8028043905856093,7.855712451885968,-3.0,-2.0,2
+84,Fabric & Home Care,organic_volume_growth,PCENDC96,2024-09-30,Origin,2024-07-01,baseline,0.0,1.0,-1.0,1.0,-1.0,0.0,0
+84,Fabric & Home Care,organic_volume_growth,PCENDC96,2024-09-30,Origin,2024-07-01,last_actual,1.0,1.0,0.0,0.0,-1.0,0.0,0
+84,Fabric & Home Care,organic_volume_growth,PCENDC96,2024-09-30,Origin,2024-07-01,bridge,0.9296759526815404,1.0,-0.07032404731845965,0.0049454716312489514,-1.0,0.0,0
+84,Fabric & Home Care,organic_volume_growth,PCENDC96,2024-09-30,Origin,2024-07-01,blend,0.4648379763407702,1.0,-0.5351620236592298,0.28639839156704205,-1.0,0.0,0
+89,Fabric & Home Care,organic_volume_growth,PCENDC96,2024-09-30,Pre-earnings,2024-10-17,baseline,1.25,1.0,0.25,0.0625,0.25,2.0,2
+89,Fabric & Home Care,organic_volume_growth,PCENDC96,2024-09-30,Pre-earnings,2024-10-17,last_actual,3.0,1.0,2.0,4.0,0.25,2.0,2
+89,Fabric & Home Care,organic_volume_growth,PCENDC96,2024-09-30,Pre-earnings,2024-10-17,bridge,2.430139548516208,1.0,1.430139548516208,2.0452991282301434,0.25,2.0,2
+89,Fabric & Home Care,organic_volume_growth,PCENDC96,2024-09-30,Pre-earnings,2024-10-17,lagged,0.24122270832065418,1.0,-0.7587772916793458,0.5757429783682431,0.25,2.0,2
+89,Fabric & Home Care,organic_volume_growth,PCENDC96,2024-09-30,Pre-earnings,2024-10-17,blend,1.840069774258104,1.0,0.840069774258104,0.7057172256220619,0.25,2.0,2
+87,Fabric & Home Care,organic_volume_growth,PCENDC96,2024-09-30,First month,2024-08-30,baseline,1.25,1.0,0.25,0.0625,0.25,2.0,1
+87,Fabric & Home Care,organic_volume_growth,PCENDC96,2024-09-30,First month,2024-08-30,last_actual,3.0,1.0,2.0,4.0,0.25,2.0,1
+87,Fabric & Home Care,organic_volume_growth,PCENDC96,2024-09-30,First month,2024-08-30,bridge,1.3651231878332744,1.0,0.36512318783327435,0.13331494229353255,0.25,2.0,1
+87,Fabric & Home Care,organic_volume_growth,PCENDC96,2024-09-30,First month,2024-08-30,lagged,-0.13644130548462474,1.0,-1.1364413054846247,1.2914988408115982,0.25,2.0,1
+87,Fabric & Home Care,organic_volume_growth,PCENDC96,2024-09-30,First month,2024-08-30,blend,1.3075615939166372,1.0,0.3075615939166372,0.09459413405254243,0.25,2.0,1
+88,Fabric & Home Care,organic_volume_growth,PCENDC96,2024-09-30,Second month,2024-09-27,baseline,1.25,1.0,0.25,0.0625,0.25,2.0,2
+88,Fabric & Home Care,organic_volume_growth,PCENDC96,2024-09-30,Second month,2024-09-27,last_actual,3.0,1.0,2.0,4.0,0.25,2.0,2
+88,Fabric & Home Care,organic_volume_growth,PCENDC96,2024-09-30,Second month,2024-09-27,bridge,2.430139548516208,1.0,1.430139548516208,2.0452991282301434,0.25,2.0,2
+88,Fabric & Home Care,organic_volume_growth,PCENDC96,2024-09-30,Second month,2024-09-27,lagged,0.24122270832065418,1.0,-0.7587772916793458,0.5757429783682431,0.25,2.0,2
+88,Fabric & Home Care,organic_volume_growth,PCENDC96,2024-09-30,Second month,2024-09-27,blend,1.840069774258104,1.0,0.840069774258104,0.7057172256220619,0.25,2.0,2
+140,Fabric & Home Care,organic_volume_growth,PCENDC96,2024-12-31,Origin,2024-10-01,baseline,1.25,2.0,-0.75,0.5625,-0.75,1.0,0
+140,Fabric & Home Care,organic_volume_growth,PCENDC96,2024-12-31,Origin,2024-10-01,last_actual,3.0,2.0,1.0,1.0,-0.75,1.0,0
+140,Fabric & Home Care,organic_volume_growth,PCENDC96,2024-12-31,Origin,2024-10-01,bridge,2.4178308348386848,2.0,0.4178308348386848,0.17458260654199229,-0.75,1.0,0
+140,Fabric & Home Care,organic_volume_growth,PCENDC96,2024-12-31,Origin,2024-10-01,blend,1.8339154174193424,2.0,-0.1660845825806576,0.027584088570991278,-0.75,1.0,0
+145,Fabric & Home Care,organic_volume_growth,PCENDC96,2024-12-31,Pre-earnings,2025-01-21,baseline,1.5,2.0,-0.5,0.25,-0.5,-1.0,2
+145,Fabric & Home Care,organic_volume_growth,PCENDC96,2024-12-31,Pre-earnings,2025-01-21,last_actual,1.0,2.0,-1.0,1.0,-0.5,-1.0,2
+145,Fabric & Home Care,organic_volume_growth,PCENDC96,2024-12-31,Pre-earnings,2025-01-21,bridge,2.1873298971079045,2.0,0.18732989710790449,0.03509249035045808,-0.5,-1.0,2
+145,Fabric & Home Care,organic_volume_growth,PCENDC96,2024-12-31,Pre-earnings,2025-01-21,lagged,0.8935236847165529,2.0,-1.1064763152834471,1.2242898362832344,-0.5,-1.0,2
+145,Fabric & Home Care,organic_volume_growth,PCENDC96,2024-12-31,Pre-earnings,2025-01-21,blend,1.8436649485539522,2.0,-0.15633505144604776,0.0244406483106384,-0.5,-1.0,2
+143,Fabric & Home Care,organic_volume_growth,PCENDC96,2024-12-31,First month,2024-11-27,baseline,1.5,2.0,-0.5,0.25,-0.5,-1.0,1
+143,Fabric & Home Care,organic_volume_growth,PCENDC96,2024-12-31,First month,2024-11-27,last_actual,1.0,2.0,-1.0,1.0,-0.5,-1.0,1
+143,Fabric & Home Care,organic_volume_growth,PCENDC96,2024-12-31,First month,2024-11-27,bridge,2.2305609907159862,2.0,0.23056099071598624,0.05315837043993709,-0.5,-1.0,1
+143,Fabric & Home Care,organic_volume_growth,PCENDC96,2024-12-31,First month,2024-11-27,lagged,0.8752127183009586,2.0,-1.1247872816990414,1.2651464290719188,-0.5,-1.0,1
+143,Fabric & Home Care,organic_volume_growth,PCENDC96,2024-12-31,First month,2024-11-27,blend,1.8652804953579931,2.0,-0.13471950464200688,0.018149344930987715,-0.5,-1.0,1
+144,Fabric & Home Care,organic_volume_growth,PCENDC96,2024-12-31,Second month,2024-12-20,baseline,1.5,2.0,-0.5,0.25,-0.5,-1.0,2
+144,Fabric & Home Care,organic_volume_growth,PCENDC96,2024-12-31,Second month,2024-12-20,last_actual,1.0,2.0,-1.0,1.0,-0.5,-1.0,2
+144,Fabric & Home Care,organic_volume_growth,PCENDC96,2024-12-31,Second month,2024-12-20,bridge,2.1873298971079045,2.0,0.18732989710790449,0.03509249035045808,-0.5,-1.0,2
+144,Fabric & Home Care,organic_volume_growth,PCENDC96,2024-12-31,Second month,2024-12-20,lagged,0.8935236847165529,2.0,-1.1064763152834471,1.2242898362832344,-0.5,-1.0,2
+144,Fabric & Home Care,organic_volume_growth,PCENDC96,2024-12-31,Second month,2024-12-20,blend,1.8436649485539522,2.0,-0.15633505144604776,0.0244406483106384,-0.5,-1.0,2
+198,Fabric & Home Care,organic_volume_growth,PCENDC96,2025-03-31,Origin,2025-01-01,baseline,1.5,0.0,1.5,2.25,1.5,1.0,0
+198,Fabric & Home Care,organic_volume_growth,PCENDC96,2025-03-31,Origin,2025-01-01,last_actual,1.0,0.0,1.0,1.0,1.5,1.0,0
+198,Fabric & Home Care,organic_volume_growth,PCENDC96,2025-03-31,Origin,2025-01-01,bridge,2.4063926304345102,0.0,2.4063926304345102,5.790725491809521,1.5,1.0,0
+198,Fabric & Home Care,organic_volume_growth,PCENDC96,2025-03-31,Origin,2025-01-01,blend,1.9531963152172551,0.0,1.9531963152172551,3.814975845778263,1.5,1.0,0
+203,Fabric & Home Care,organic_volume_growth,PCENDC96,2025-03-31,Pre-earnings,2025-04-23,baseline,1.75,0.0,1.75,3.0625,1.75,2.0,2
+203,Fabric & Home Care,organic_volume_growth,PCENDC96,2025-03-31,Pre-earnings,2025-04-23,last_actual,2.0,0.0,2.0,4.0,1.75,2.0,2
+203,Fabric & Home Care,organic_volume_growth,PCENDC96,2025-03-31,Pre-earnings,2025-04-23,bridge,2.863970510248471,0.0,2.863970510248471,8.202327083572888,1.75,2.0,2
+203,Fabric & Home Care,organic_volume_growth,PCENDC96,2025-03-31,Pre-earnings,2025-04-23,lagged,0.880826268499562,0.0,0.880826268499562,0.7758549152788625,1.75,2.0,2
+203,Fabric & Home Care,organic_volume_growth,PCENDC96,2025-03-31,Pre-earnings,2025-04-23,blend,2.3069852551242356,0.0,2.3069852551242356,5.322180967360635,1.75,2.0,2
+201,Fabric & Home Care,organic_volume_growth,PCENDC96,2025-03-31,First month,2025-02-28,baseline,1.75,0.0,1.75,3.0625,1.75,2.0,1
+201,Fabric & Home Care,organic_volume_growth,PCENDC96,2025-03-31,First month,2025-02-28,last_actual,2.0,0.0,2.0,4.0,1.75,2.0,1
+201,Fabric & Home Care,organic_volume_growth,PCENDC96,2025-03-31,First month,2025-02-28,bridge,1.7809355198489043,0.0,1.7809355198489043,3.171731325859487,1.75,2.0,1
+201,Fabric & Home Care,organic_volume_growth,PCENDC96,2025-03-31,First month,2025-02-28,lagged,0.8443521716258457,0.0,0.8443521716258457,0.7129305897292817,1.75,2.0,1
+201,Fabric & Home Care,organic_volume_growth,PCENDC96,2025-03-31,First month,2025-02-28,blend,1.7654677599244522,0.0,1.7654677599244522,3.116876411332663,1.75,2.0,1
+202,Fabric & Home Care,organic_volume_growth,PCENDC96,2025-03-31,Second month,2025-03-28,baseline,1.75,0.0,1.75,3.0625,1.75,2.0,2
+202,Fabric & Home Care,organic_volume_growth,PCENDC96,2025-03-31,Second month,2025-03-28,last_actual,2.0,0.0,2.0,4.0,1.75,2.0,2
+202,Fabric & Home Care,organic_volume_growth,PCENDC96,2025-03-31,Second month,2025-03-28,bridge,2.863970510248471,0.0,2.863970510248471,8.202327083572888,1.75,2.0,2
+202,Fabric & Home Care,organic_volume_growth,PCENDC96,2025-03-31,Second month,2025-03-28,lagged,0.880826268499562,0.0,0.880826268499562,0.7758549152788625,1.75,2.0,2
+202,Fabric & Home Care,organic_volume_growth,PCENDC96,2025-03-31,Second month,2025-03-28,blend,2.3069852551242356,0.0,2.3069852551242356,5.322180967360635,1.75,2.0,2
+256,Fabric & Home Care,organic_volume_growth,PCENDC96,2025-06-30,Origin,2025-04-01,baseline,1.75,0.0,1.75,3.0625,1.75,2.0,0
+256,Fabric & Home Care,organic_volume_growth,PCENDC96,2025-06-30,Origin,2025-04-01,last_actual,2.0,0.0,2.0,4.0,1.75,2.0,0
+256,Fabric & Home Care,organic_volume_growth,PCENDC96,2025-06-30,Origin,2025-04-01,bridge,2.6501317667470907,0.0,2.6501317667470907,7.023198381122056,1.75,2.0,0
+256,Fabric & Home Care,organic_volume_growth,PCENDC96,2025-06-30,Origin,2025-04-01,blend,2.2000658833735454,0.0,2.2000658833735454,4.840289891184218,1.75,2.0,0
+261,Fabric & Home Care,organic_volume_growth,PCENDC96,2025-06-30,Pre-earnings,2025-07-28,baseline,1.5,0.0,1.5,2.25,1.5,0.0,2
+261,Fabric & Home Care,organic_volume_growth,PCENDC96,2025-06-30,Pre-earnings,2025-07-28,last_actual,0.0,0.0,0.0,0.0,1.5,0.0,2
+261,Fabric & Home Care,organic_volume_growth,PCENDC96,2025-06-30,Pre-earnings,2025-07-28,bridge,2.9000225501798145,0.0,2.9000225501798145,8.410130791551435,1.5,0.0,2
+261,Fabric & Home Care,organic_volume_growth,PCENDC96,2025-06-30,Pre-earnings,2025-07-28,lagged,1.85476609160881,0.0,1.85476609160881,3.4401572545818206,1.5,0.0,2
+261,Fabric & Home Care,organic_volume_growth,PCENDC96,2025-06-30,Pre-earnings,2025-07-28,blend,2.2000112750899072,0.0,2.2000112750899072,4.840049610522719,1.5,0.0,2
+259,Fabric & Home Care,organic_volume_growth,PCENDC96,2025-06-30,First month,2025-05-30,baseline,1.5,0.0,1.5,2.25,1.5,0.0,1
+259,Fabric & Home Care,organic_volume_growth,PCENDC96,2025-06-30,First month,2025-05-30,last_actual,0.0,0.0,0.0,0.0,1.5,0.0,1
+259,Fabric & Home Care,organic_volume_growth,PCENDC96,2025-06-30,First month,2025-05-30,bridge,3.48232319459882,0.0,3.48232319459882,12.12657483164093,1.5,0.0,1
+259,Fabric & Home Care,organic_volume_growth,PCENDC96,2025-06-30,First month,2025-05-30,lagged,1.8789551405078706,0.0,1.8789551405078706,3.530472420040952,1.5,0.0,1
+259,Fabric & Home Care,organic_volume_growth,PCENDC96,2025-06-30,First month,2025-05-30,blend,2.49116159729941,0.0,2.49116159729941,6.205886103859347,1.5,0.0,1
+260,Fabric & Home Care,organic_volume_growth,PCENDC96,2025-06-30,Second month,2025-06-27,baseline,1.5,0.0,1.5,2.25,1.5,0.0,2
+260,Fabric & Home Care,organic_volume_growth,PCENDC96,2025-06-30,Second month,2025-06-27,last_actual,0.0,0.0,0.0,0.0,1.5,0.0,2
+260,Fabric & Home Care,organic_volume_growth,PCENDC96,2025-06-30,Second month,2025-06-27,bridge,2.9000225501798145,0.0,2.9000225501798145,8.410130791551435,1.5,0.0,2
+260,Fabric & Home Care,organic_volume_growth,PCENDC96,2025-06-30,Second month,2025-06-27,lagged,1.85476609160881,0.0,1.85476609160881,3.4401572545818206,1.5,0.0,2
+260,Fabric & Home Care,organic_volume_growth,PCENDC96,2025-06-30,Second month,2025-06-27,blend,2.2000112750899072,0.0,2.2000112750899072,4.840049610522719,1.5,0.0,2
+316,Fabric & Home Care,organic_volume_growth,PCENDC96,2025-09-30,Origin,2025-07-01,baseline,1.5,-2.0,3.5,12.25,3.5,2.0,0
+316,Fabric & Home Care,organic_volume_growth,PCENDC96,2025-09-30,Origin,2025-07-01,last_actual,0.0,-2.0,2.0,4.0,3.5,2.0,0
+316,Fabric & Home Care,organic_volume_growth,PCENDC96,2025-09-30,Origin,2025-07-01,bridge,2.8189886518334895,-2.0,4.8189886518334895,23.222651626499953,3.5,2.0,0
+316,Fabric & Home Care,organic_volume_growth,PCENDC96,2025-09-30,Origin,2025-07-01,blend,2.1594943259167447,-2.0,4.159494325916745,17.301393047333594,3.5,2.0,0
+321,Fabric & Home Care,organic_volume_growth,PCENDC96,2025-09-30,Pre-earnings,2025-10-23,baseline,0.75,-2.0,2.75,7.5625,2.75,2.0,2
+321,Fabric & Home Care,organic_volume_growth,PCENDC96,2025-09-30,Pre-earnings,2025-10-23,last_actual,0.0,-2.0,2.0,4.0,2.75,2.0,2
+321,Fabric & Home Care,organic_volume_growth,PCENDC96,2025-09-30,Pre-earnings,2025-10-23,bridge,2.4120767670588483,-2.0,4.412076767058848,19.466421398420458,2.75,2.0,2
+321,Fabric & Home Care,organic_volume_growth,PCENDC96,2025-09-30,Pre-earnings,2025-10-23,lagged,1.2662134877592783,-2.0,3.2662134877592783,10.668150547620629,2.75,2.0,2
+321,Fabric & Home Care,organic_volume_growth,PCENDC96,2025-09-30,Pre-earnings,2025-10-23,blend,1.5810383835294242,-2.0,3.581038383529424,12.82383590431103,2.75,2.0,2
+319,Fabric & Home Care,organic_volume_growth,PCENDC96,2025-09-30,First month,2025-08-29,baseline,0.75,-2.0,2.75,7.5625,2.75,2.0,1
+319,Fabric & Home Care,organic_volume_growth,PCENDC96,2025-09-30,First month,2025-08-29,last_actual,0.0,-2.0,2.0,4.0,2.75,2.0,1
+319,Fabric & Home Care,organic_volume_growth,PCENDC96,2025-09-30,First month,2025-08-29,bridge,2.3235617872796848,-2.0,4.323561787279685,18.6931865284251,2.75,2.0,1
+319,Fabric & Home Care,organic_volume_growth,PCENDC96,2025-09-30,First month,2025-08-29,lagged,1.7107939542692656,-2.0,3.7107939542692656,13.769991771041333,2.75,2.0,1
+319,Fabric & Home Care,organic_volume_growth,PCENDC96,2025-09-30,First month,2025-08-29,blend,1.5367808936398424,-2.0,3.5367808936398424,12.508819089615843,2.75,2.0,1
+320,Fabric & Home Care,organic_volume_growth,PCENDC96,2025-09-30,Second month,2025-09-26,baseline,0.75,-2.0,2.75,7.5625,2.75,2.0,2
+320,Fabric & Home Care,organic_volume_growth,PCENDC96,2025-09-30,Second month,2025-09-26,last_actual,0.0,-2.0,2.0,4.0,2.75,2.0,2
+320,Fabric & Home Care,organic_volume_growth,PCENDC96,2025-09-30,Second month,2025-09-26,bridge,2.4120767670588483,-2.0,4.412076767058848,19.466421398420458,2.75,2.0,2
+320,Fabric & Home Care,organic_volume_growth,PCENDC96,2025-09-30,Second month,2025-09-26,lagged,1.2662134877592783,-2.0,3.2662134877592783,10.668150547620629,2.75,2.0,2
+320,Fabric & Home Care,organic_volume_growth,PCENDC96,2025-09-30,Second month,2025-09-26,blend,1.5810383835294242,-2.0,3.581038383529424,12.82383590431103,2.75,2.0,2
+367,Fabric & Home Care,organic_volume_growth,PCENDC96,2025-12-31,Origin,2025-10-01,baseline,0.75,0.0,0.75,0.5625,0.75,0.0,0
+367,Fabric & Home Care,organic_volume_growth,PCENDC96,2025-12-31,Origin,2025-10-01,last_actual,0.0,0.0,0.0,0.0,0.75,0.0,0
+367,Fabric & Home Care,organic_volume_growth,PCENDC96,2025-12-31,Origin,2025-10-01,bridge,2.4285877078383784,0.0,2.4285877078383784,5.8980382546636685,0.75,0.0,0
+367,Fabric & Home Care,organic_volume_growth,PCENDC96,2025-12-31,Origin,2025-10-01,blend,1.5892938539191892,0.0,1.5892938539191892,2.5258549541053092,0.75,0.0,0
+371,Fabric & Home Care,organic_volume_growth,PCENDC96,2025-12-31,Pre-earnings,2026-01-22,baseline,0.0,0.0,0.0,0.0,0.0,-2.0,2
+371,Fabric & Home Care,organic_volume_growth,PCENDC96,2025-12-31,Pre-earnings,2026-01-22,last_actual,-2.0,0.0,-2.0,4.0,0.0,-2.0,2
+371,Fabric & Home Care,organic_volume_growth,PCENDC96,2025-12-31,Pre-earnings,2026-01-22,bridge,1.4067000771691376,0.0,1.4067000771691376,1.9788051071076576,0.0,-2.0,2
+371,Fabric & Home Care,organic_volume_growth,PCENDC96,2025-12-31,Pre-earnings,2026-01-22,lagged,0.5558817396924889,0.0,0.5558817396924889,0.309004508523548,0.0,-2.0,2
+371,Fabric & Home Care,organic_volume_growth,PCENDC96,2025-12-31,Pre-earnings,2026-01-22,blend,0.7033500385845688,0.0,0.7033500385845688,0.4947012767769144,0.0,-2.0,2
+371,Fabric & Home Care,organic_volume_growth,PCENDC96,2025-12-31,First month,2026-01-22,baseline,0.0,0.0,0.0,0.0,0.0,-2.0,2
+371,Fabric & Home Care,organic_volume_growth,PCENDC96,2025-12-31,First month,2026-01-22,last_actual,-2.0,0.0,-2.0,4.0,0.0,-2.0,2
+371,Fabric & Home Care,organic_volume_growth,PCENDC96,2025-12-31,First month,2026-01-22,bridge,1.4067000771691376,0.0,1.4067000771691376,1.9788051071076576,0.0,-2.0,2
+371,Fabric & Home Care,organic_volume_growth,PCENDC96,2025-12-31,First month,2026-01-22,lagged,0.5558817396924889,0.0,0.5558817396924889,0.309004508523548,0.0,-2.0,2
+371,Fabric & Home Care,organic_volume_growth,PCENDC96,2025-12-31,First month,2026-01-22,blend,0.7033500385845688,0.0,0.7033500385845688,0.4947012767769144,0.0,-2.0,2
+371,Fabric & Home Care,organic_volume_growth,PCENDC96,2025-12-31,Second month,2026-01-22,baseline,0.0,0.0,0.0,0.0,0.0,-2.0,2
+371,Fabric & Home Care,organic_volume_growth,PCENDC96,2025-12-31,Second month,2026-01-22,last_actual,-2.0,0.0,-2.0,4.0,0.0,-2.0,2
+371,Fabric & Home Care,organic_volume_growth,PCENDC96,2025-12-31,Second month,2026-01-22,bridge,1.4067000771691376,0.0,1.4067000771691376,1.9788051071076576,0.0,-2.0,2
+371,Fabric & Home Care,organic_volume_growth,PCENDC96,2025-12-31,Second month,2026-01-22,lagged,0.5558817396924889,0.0,0.5558817396924889,0.309004508523548,0.0,-2.0,2
+371,Fabric & Home Care,organic_volume_growth,PCENDC96,2025-12-31,Second month,2026-01-22,blend,0.7033500385845688,0.0,0.7033500385845688,0.4947012767769144,0.0,-2.0,2
+420,Fabric & Home Care,organic_volume_growth,PCENDC96,2026-03-31,Origin,2026-01-01,baseline,0.0,2.0,-2.0,4.0,-2.0,-4.0,0
+420,Fabric & Home Care,organic_volume_growth,PCENDC96,2026-03-31,Origin,2026-01-01,last_actual,-2.0,2.0,-4.0,16.0,-2.0,-4.0,0
+420,Fabric & Home Care,organic_volume_growth,PCENDC96,2026-03-31,Origin,2026-01-01,bridge,1.5366287359190367,2.0,-0.4633712640809633,0.21471292837598982,-2.0,-4.0,0
+420,Fabric & Home Care,organic_volume_growth,PCENDC96,2026-03-31,Origin,2026-01-01,blend,0.7683143679595184,2.0,-1.2316856320404816,1.5170494961749608,-2.0,-4.0,0
+426,Fabric & Home Care,organic_volume_growth,PCENDC96,2026-03-31,Pre-earnings,2026-04-23,baseline,-0.5,2.0,-2.5,6.25,-2.5,-2.0,2
+426,Fabric & Home Care,organic_volume_growth,PCENDC96,2026-03-31,Pre-earnings,2026-04-23,last_actual,0.0,2.0,-2.0,4.0,-2.5,-2.0,2
+426,Fabric & Home Care,organic_volume_growth,PCENDC96,2026-03-31,Pre-earnings,2026-04-23,bridge,-0.8631385685498445,2.0,-2.8631385685498447,8.197562462717654,-2.5,-2.0,2
+426,Fabric & Home Care,organic_volume_growth,PCENDC96,2026-03-31,Pre-earnings,2026-04-23,lagged,-0.27776290208868937,2.0,-2.277762902088689,5.1882038381314874,-2.5,-2.0,2
+426,Fabric & Home Care,organic_volume_growth,PCENDC96,2026-03-31,Pre-earnings,2026-04-23,blend,-0.6815692842749222,2.0,-2.6815692842749224,7.190813826366719,-2.5,-2.0,2
+424,Fabric & Home Care,organic_volume_growth,PCENDC96,2026-03-31,First month,2026-03-13,baseline,-0.5,2.0,-2.5,6.25,-2.5,-2.0,1
+424,Fabric & Home Care,organic_volume_growth,PCENDC96,2026-03-31,First month,2026-03-13,last_actual,0.0,2.0,-2.0,4.0,-2.5,-2.0,1
+424,Fabric & Home Care,organic_volume_growth,PCENDC96,2026-03-31,First month,2026-03-13,bridge,0.17545866920588482,2.0,-1.8245413307941152,3.328951067775961,-2.5,-2.0,1
+424,Fabric & Home Care,organic_volume_growth,PCENDC96,2026-03-31,First month,2026-03-13,lagged,-0.2412157896355822,2.0,-2.241215789635582,5.023048215711846,-2.5,-2.0,1
+424,Fabric & Home Care,organic_volume_growth,PCENDC96,2026-03-31,First month,2026-03-13,blend,-0.1622706653970576,2.0,-2.162270665397058,4.675414430436635,-2.5,-2.0,1
+425,Fabric & Home Care,organic_volume_growth,PCENDC96,2026-03-31,Second month,2026-04-09,baseline,-0.5,2.0,-2.5,6.25,-2.5,-2.0,2
+425,Fabric & Home Care,organic_volume_growth,PCENDC96,2026-03-31,Second month,2026-04-09,last_actual,0.0,2.0,-2.0,4.0,-2.5,-2.0,2
+425,Fabric & Home Care,organic_volume_growth,PCENDC96,2026-03-31,Second month,2026-04-09,bridge,-0.8631385685498445,2.0,-2.8631385685498447,8.197562462717654,-2.5,-2.0,2
+425,Fabric & Home Care,organic_volume_growth,PCENDC96,2026-03-31,Second month,2026-04-09,lagged,-0.27776290208868937,2.0,-2.277762902088689,5.1882038381314874,-2.5,-2.0,2
+425,Fabric & Home Care,organic_volume_growth,PCENDC96,2026-03-31,Second month,2026-04-09,blend,-0.6815692842749222,2.0,-2.6815692842749224,7.190813826366719,-2.5,-2.0,2
+29,"Baby, Feminine & Family Care",organic_volume_growth,PCENDC96,2024-06-30,Origin,2024-04-01,baseline,-2.25,-1.0,-1.25,1.5625,-1.25,-1.0,0
+29,"Baby, Feminine & Family Care",organic_volume_growth,PCENDC96,2024-06-30,Origin,2024-04-01,last_actual,-2.0,-1.0,-1.0,1.0,-1.25,-1.0,0
+29,"Baby, Feminine & Family Care",organic_volume_growth,PCENDC96,2024-06-30,Origin,2024-04-01,bridge,-0.9754692712061739,-1.0,0.024530728793826118,0.0006017566551562497,-1.25,-1.0,0
+29,"Baby, Feminine & Family Care",organic_volume_growth,PCENDC96,2024-06-30,Origin,2024-04-01,blend,-1.612734635603087,-1.0,-0.6127346356030869,0.3754437336676477,-1.25,-1.0,0
+35,"Baby, Feminine & Family Care",organic_volume_growth,PCENDC96,2024-06-30,Pre-earnings,2024-07-29,baseline,-2.0,-1.0,-1.0,1.0,-1.0,-2.0,3
+35,"Baby, Feminine & Family Care",organic_volume_growth,PCENDC96,2024-06-30,Pre-earnings,2024-07-29,last_actual,-3.0,-1.0,-2.0,4.0,-1.0,-2.0,3
+35,"Baby, Feminine & Family Care",organic_volume_growth,PCENDC96,2024-06-30,Pre-earnings,2024-07-29,bridge,-1.192528100784102,-1.0,-0.19252810078410199,0.03706706959153333,-1.0,-2.0,3
+35,"Baby, Feminine & Family Care",organic_volume_growth,PCENDC96,2024-06-30,Pre-earnings,2024-07-29,lagged,-1.9819458162818995,-1.0,-0.9819458162818995,0.9642175861135259,-1.0,-2.0,3
+35,"Baby, Feminine & Family Care",organic_volume_growth,PCENDC96,2024-06-30,Pre-earnings,2024-07-29,blend,-1.596264050392051,-1.0,-0.5962640503920511,0.35553081778993445,-1.0,-2.0,3
+32,"Baby, Feminine & Family Care",organic_volume_growth,PCENDC96,2024-06-30,First month,2024-05-31,baseline,-2.0,-1.0,-1.0,1.0,-1.0,-2.0,1
+32,"Baby, Feminine & Family Care",organic_volume_growth,PCENDC96,2024-06-30,First month,2024-05-31,last_actual,-3.0,-1.0,-2.0,4.0,-1.0,-2.0,1
+32,"Baby, Feminine & Family Care",organic_volume_growth,PCENDC96,2024-06-30,First month,2024-05-31,bridge,-1.1907148859549483,-1.0,-0.19071488595494834,0.03637216772480895,-1.0,-2.0,1
+32,"Baby, Feminine & Family Care",organic_volume_growth,PCENDC96,2024-06-30,First month,2024-05-31,lagged,-1.9012502900033152,-1.0,-0.9012502900033152,0.8122520852310599,-1.0,-2.0,1
+32,"Baby, Feminine & Family Care",organic_volume_growth,PCENDC96,2024-06-30,First month,2024-05-31,blend,-1.5953574429774742,-1.0,-0.5953574429774742,0.3544504849086764,-1.0,-2.0,1
+33,"Baby, Feminine & Family Care",organic_volume_growth,PCENDC96,2024-06-30,Second month,2024-06-28,baseline,-2.0,-1.0,-1.0,1.0,-1.0,-2.0,2
+33,"Baby, Feminine & Family Care",organic_volume_growth,PCENDC96,2024-06-30,Second month,2024-06-28,last_actual,-3.0,-1.0,-2.0,4.0,-1.0,-2.0,2
+33,"Baby, Feminine & Family Care",organic_volume_growth,PCENDC96,2024-06-30,Second month,2024-06-28,bridge,-1.3621860783662458,-1.0,-0.36218607836624583,0.13117875536232038,-1.0,-2.0,2
+33,"Baby, Feminine & Family Care",organic_volume_growth,PCENDC96,2024-06-30,Second month,2024-06-28,lagged,-1.9819458162818995,-1.0,-0.9819458162818995,0.9642175861135259,-1.0,-2.0,2
+33,"Baby, Feminine & Family Care",organic_volume_growth,PCENDC96,2024-06-30,Second month,2024-06-28,blend,-1.681093039183123,-1.0,-0.6810930391831229,0.463887728023703,-1.0,-2.0,2
+90,"Baby, Feminine & Family Care",organic_volume_growth,PCENDC96,2024-09-30,Origin,2024-07-01,baseline,-2.0,-1.0,-1.0,1.0,-1.0,-2.0,0
+90,"Baby, Feminine & Family Care",organic_volume_growth,PCENDC96,2024-09-30,Origin,2024-07-01,last_actual,-3.0,-1.0,-2.0,4.0,-1.0,-2.0,0
+90,"Baby, Feminine & Family Care",organic_volume_growth,PCENDC96,2024-09-30,Origin,2024-07-01,bridge,-1.1301536422196254,-1.0,-0.13015364221962544,0.016939970583034265,-1.0,-2.0,0
+90,"Baby, Feminine & Family Care",organic_volume_growth,PCENDC96,2024-09-30,Origin,2024-07-01,blend,-1.5650768211098127,-1.0,-0.5650768211098127,0.31931181375557127,-1.0,-2.0,0
+95,"Baby, Feminine & Family Care",organic_volume_growth,PCENDC96,2024-09-30,Pre-earnings,2024-10-17,baseline,-2.25,-1.0,-1.25,1.5625,-1.25,0.0,2
+95,"Baby, Feminine & Family Care",organic_volume_growth,PCENDC96,2024-09-30,Pre-earnings,2024-10-17,last_actual,-1.0,-1.0,0.0,0.0,-1.25,0.0,2
+95,"Baby, Feminine & Family Care",organic_volume_growth,PCENDC96,2024-09-30,Pre-earnings,2024-10-17,bridge,-0.65149635980123,-1.0,0.34850364019877,0.12145478723179375,-1.25,0.0,2
+95,"Baby, Feminine & Family Care",organic_volume_growth,PCENDC96,2024-09-30,Pre-earnings,2024-10-17,lagged,-1.4935540091487056,-1.0,-0.4935540091487056,0.2435955599467606,-1.25,0.0,2
+95,"Baby, Feminine & Family Care",organic_volume_growth,PCENDC96,2024-09-30,Pre-earnings,2024-10-17,blend,-1.450748179900615,-1.0,-0.450748179900615,0.20317392168371717,-1.25,0.0,2
+93,"Baby, Feminine & Family Care",organic_volume_growth,PCENDC96,2024-09-30,First month,2024-08-30,baseline,-2.25,-1.0,-1.25,1.5625,-1.25,0.0,1
+93,"Baby, Feminine & Family Care",organic_volume_growth,PCENDC96,2024-09-30,First month,2024-08-30,last_actual,-1.0,-1.0,0.0,0.0,-1.25,0.0,1
+93,"Baby, Feminine & Family Care",organic_volume_growth,PCENDC96,2024-09-30,First month,2024-08-30,bridge,-1.05444419971653,-1.0,-0.05444419971652992,0.0029641708827733964,-1.25,0.0,1
+93,"Baby, Feminine & Family Care",organic_volume_growth,PCENDC96,2024-09-30,First month,2024-08-30,lagged,-1.634269137958092,-1.0,-0.634269137958092,0.4022973393661012,-1.25,0.0,1
+93,"Baby, Feminine & Family Care",organic_volume_growth,PCENDC96,2024-09-30,First month,2024-08-30,blend,-1.6522220998582648,-1.0,-0.6522220998582648,0.4253936675435244,-1.25,0.0,1
+94,"Baby, Feminine & Family Care",organic_volume_growth,PCENDC96,2024-09-30,Second month,2024-09-27,baseline,-2.25,-1.0,-1.25,1.5625,-1.25,0.0,2
+94,"Baby, Feminine & Family Care",organic_volume_growth,PCENDC96,2024-09-30,Second month,2024-09-27,last_actual,-1.0,-1.0,0.0,0.0,-1.25,0.0,2
+94,"Baby, Feminine & Family Care",organic_volume_growth,PCENDC96,2024-09-30,Second month,2024-09-27,bridge,-0.65149635980123,-1.0,0.34850364019877,0.12145478723179375,-1.25,0.0,2
+94,"Baby, Feminine & Family Care",organic_volume_growth,PCENDC96,2024-09-30,Second month,2024-09-27,lagged,-1.4935540091487056,-1.0,-0.4935540091487056,0.2435955599467606,-1.25,0.0,2
+94,"Baby, Feminine & Family Care",organic_volume_growth,PCENDC96,2024-09-30,Second month,2024-09-27,blend,-1.450748179900615,-1.0,-0.450748179900615,0.20317392168371717,-1.25,0.0,2
+146,"Baby, Feminine & Family Care",organic_volume_growth,PCENDC96,2024-12-31,Origin,2024-10-01,baseline,-2.25,4.0,-6.25,39.0625,-6.25,-5.0,0
+146,"Baby, Feminine & Family Care",organic_volume_growth,PCENDC96,2024-12-31,Origin,2024-10-01,last_actual,-1.0,4.0,-5.0,25.0,-6.25,-5.0,0
+146,"Baby, Feminine & Family Care",organic_volume_growth,PCENDC96,2024-12-31,Origin,2024-10-01,bridge,-0.6564806389758671,4.0,-4.656480638975867,21.682811941157098,-6.25,-5.0,0
+146,"Baby, Feminine & Family Care",organic_volume_growth,PCENDC96,2024-12-31,Origin,2024-10-01,blend,-1.4532403194879335,4.0,-5.453240319487934,29.737829982088865,-6.25,-5.0,0
+151,"Baby, Feminine & Family Care",organic_volume_growth,PCENDC96,2024-12-31,Pre-earnings,2025-01-21,baseline,-1.75,4.0,-5.75,33.0625,-5.75,-5.0,2
+151,"Baby, Feminine & Family Care",organic_volume_growth,PCENDC96,2024-12-31,Pre-earnings,2025-01-21,last_actual,-1.0,4.0,-5.0,25.0,-5.75,-5.0,2
+151,"Baby, Feminine & Family Care",organic_volume_growth,PCENDC96,2024-12-31,Pre-earnings,2025-01-21,bridge,-0.7106041913153709,4.0,-4.710604191315371,22.189791847237938,-5.75,-5.0,2
+151,"Baby, Feminine & Family Care",organic_volume_growth,PCENDC96,2024-12-31,Pre-earnings,2025-01-21,lagged,-1.1316047440645387,4.0,-5.131604744064539,26.333367249305685,-5.75,-5.0,2
+151,"Baby, Feminine & Family Care",organic_volume_growth,PCENDC96,2024-12-31,Pre-earnings,2025-01-21,blend,-1.2303020956576853,4.0,-5.230302095657685,27.356060011841176,-5.75,-5.0,2
+149,"Baby, Feminine & Family Care",organic_volume_growth,PCENDC96,2024-12-31,First month,2024-11-27,baseline,-1.75,4.0,-5.75,33.0625,-5.75,-5.0,1
+149,"Baby, Feminine & Family Care",organic_volume_growth,PCENDC96,2024-12-31,First month,2024-11-27,last_actual,-1.0,4.0,-5.0,25.0,-5.75,-5.0,1
+149,"Baby, Feminine & Family Care",organic_volume_growth,PCENDC96,2024-12-31,First month,2024-11-27,bridge,-0.6929742291699581,4.0,-4.692974229169958,22.02400711565336,-5.75,-5.0,1
+149,"Baby, Feminine & Family Care",organic_volume_growth,PCENDC96,2024-12-31,First month,2024-11-27,lagged,-1.1413582044172308,4.0,-5.141358204417231,26.433564186128375,-5.75,-5.0,1
+149,"Baby, Feminine & Family Care",organic_volume_growth,PCENDC96,2024-12-31,First month,2024-11-27,blend,-1.221487114584979,4.0,-5.2214871145849795,27.263927687776974,-5.75,-5.0,1
+150,"Baby, Feminine & Family Care",organic_volume_growth,PCENDC96,2024-12-31,Second month,2024-12-20,baseline,-1.75,4.0,-5.75,33.0625,-5.75,-5.0,2
+150,"Baby, Feminine & Family Care",organic_volume_growth,PCENDC96,2024-12-31,Second month,2024-12-20,last_actual,-1.0,4.0,-5.0,25.0,-5.75,-5.0,2
+150,"Baby, Feminine & Family Care",organic_volume_growth,PCENDC96,2024-12-31,Second month,2024-12-20,bridge,-0.7106041913153709,4.0,-4.710604191315371,22.189791847237938,-5.75,-5.0,2
+150,"Baby, Feminine & Family Care",organic_volume_growth,PCENDC96,2024-12-31,Second month,2024-12-20,lagged,-1.1316047440645387,4.0,-5.131604744064539,26.333367249305685,-5.75,-5.0,2
+150,"Baby, Feminine & Family Care",organic_volume_growth,PCENDC96,2024-12-31,Second month,2024-12-20,blend,-1.2303020956576853,4.0,-5.230302095657685,27.356060011841176,-5.75,-5.0,2
+204,"Baby, Feminine & Family Care",organic_volume_growth,PCENDC96,2025-03-31,Origin,2025-01-01,baseline,-1.75,-2.0,0.25,0.0625,0.25,1.0,0
+204,"Baby, Feminine & Family Care",organic_volume_growth,PCENDC96,2025-03-31,Origin,2025-01-01,last_actual,-1.0,-2.0,1.0,1.0,0.25,1.0,0
+204,"Baby, Feminine & Family Care",organic_volume_growth,PCENDC96,2025-03-31,Origin,2025-01-01,bridge,-0.6205254361343506,-2.0,1.3794745638656494,1.9029500723523236,0.25,1.0,0
+204,"Baby, Feminine & Family Care",organic_volume_growth,PCENDC96,2025-03-31,Origin,2025-01-01,blend,-1.1852627180671753,-2.0,0.8147372819328247,0.663796838571287,0.25,1.0,0
+209,"Baby, Feminine & Family Care",organic_volume_growth,PCENDC96,2025-03-31,Pre-earnings,2025-04-23,baseline,-0.25,-2.0,1.75,3.0625,1.75,6.0,2
+209,"Baby, Feminine & Family Care",organic_volume_growth,PCENDC96,2025-03-31,Pre-earnings,2025-04-23,last_actual,4.0,-2.0,6.0,36.0,1.75,6.0,2
+209,"Baby, Feminine & Family Care",organic_volume_growth,PCENDC96,2025-03-31,Pre-earnings,2025-04-23,bridge,0.30748074855830065,-2.0,2.3074807485583007,5.324467404967176,1.75,6.0,2
+209,"Baby, Feminine & Family Care",organic_volume_growth,PCENDC96,2025-03-31,Pre-earnings,2025-04-23,lagged,-0.3922173655768293,-2.0,1.6077826344231707,2.584964999552711,1.75,6.0,2
+209,"Baby, Feminine & Family Care",organic_volume_growth,PCENDC96,2025-03-31,Pre-earnings,2025-04-23,blend,0.028740374279150327,-2.0,2.0287403742791503,4.115787506230307,1.75,6.0,2
+207,"Baby, Feminine & Family Care",organic_volume_growth,PCENDC96,2025-03-31,First month,2025-02-28,baseline,-0.25,-2.0,1.75,3.0625,1.75,6.0,1
+207,"Baby, Feminine & Family Care",organic_volume_growth,PCENDC96,2025-03-31,First month,2025-02-28,last_actual,4.0,-2.0,6.0,36.0,1.75,6.0,1
+207,"Baby, Feminine & Family Care",organic_volume_growth,PCENDC96,2025-03-31,First month,2025-02-28,bridge,-0.25183918655743875,-2.0,1.7481608134425612,3.0560662296561576,1.75,6.0,1
+207,"Baby, Feminine & Family Care",organic_volume_growth,PCENDC96,2025-03-31,First month,2025-02-28,lagged,-0.41810754980586884,-2.0,1.5818924501941312,2.502383723981192,1.75,6.0,1
+207,"Baby, Feminine & Family Care",organic_volume_growth,PCENDC96,2025-03-31,First month,2025-02-28,blend,-0.2509195932787194,-2.0,1.7490804067212806,3.0592822691762804,1.75,6.0,1
+208,"Baby, Feminine & Family Care",organic_volume_growth,PCENDC96,2025-03-31,Second month,2025-03-28,baseline,-0.25,-2.0,1.75,3.0625,1.75,6.0,2
+208,"Baby, Feminine & Family Care",organic_volume_growth,PCENDC96,2025-03-31,Second month,2025-03-28,last_actual,4.0,-2.0,6.0,36.0,1.75,6.0,2
+208,"Baby, Feminine & Family Care",organic_volume_growth,PCENDC96,2025-03-31,Second month,2025-03-28,bridge,0.30748074855830065,-2.0,2.3074807485583007,5.324467404967176,1.75,6.0,2
+208,"Baby, Feminine & Family Care",organic_volume_growth,PCENDC96,2025-03-31,Second month,2025-03-28,lagged,-0.3922173655768293,-2.0,1.6077826344231707,2.584964999552711,1.75,6.0,2
+208,"Baby, Feminine & Family Care",organic_volume_growth,PCENDC96,2025-03-31,Second month,2025-03-28,blend,0.028740374279150327,-2.0,2.0287403742791503,4.115787506230307,1.75,6.0,2
+262,"Baby, Feminine & Family Care",organic_volume_growth,PCENDC96,2025-06-30,Origin,2025-04-01,baseline,-0.25,0.0,-0.25,0.0625,-0.25,4.0,0
+262,"Baby, Feminine & Family Care",organic_volume_growth,PCENDC96,2025-06-30,Origin,2025-04-01,last_actual,4.0,0.0,4.0,16.0,-0.25,4.0,0
+262,"Baby, Feminine & Family Care",organic_volume_growth,PCENDC96,2025-06-30,Origin,2025-04-01,bridge,0.1978812393593845,0.0,0.1978812393593845,0.039156984890406026,-0.25,4.0,0
+262,"Baby, Feminine & Family Care",organic_volume_growth,PCENDC96,2025-06-30,Origin,2025-04-01,blend,-0.026059380320307746,0.0,-0.026059380320307746,0.0006790913026784426,-0.25,4.0,0
+267,"Baby, Feminine & Family Care",organic_volume_growth,PCENDC96,2025-06-30,Pre-earnings,2025-07-28,baseline,0.0,0.0,0.0,0.0,0.0,-2.0,2
+267,"Baby, Feminine & Family Care",organic_volume_growth,PCENDC96,2025-06-30,Pre-earnings,2025-07-28,last_actual,-2.0,0.0,-2.0,4.0,0.0,-2.0,2
+267,"Baby, Feminine & Family Care",organic_volume_growth,PCENDC96,2025-06-30,Pre-earnings,2025-07-28,bridge,0.17174082499338006,0.0,0.17174082499338006,0.029494910969406797,0.0,-2.0,2
+267,"Baby, Feminine & Family Care",organic_volume_growth,PCENDC96,2025-06-30,Pre-earnings,2025-07-28,lagged,0.13210904342015128,0.0,0.13210904342015128,0.017452799353387418,0.0,-2.0,2
+267,"Baby, Feminine & Family Care",organic_volume_growth,PCENDC96,2025-06-30,Pre-earnings,2025-07-28,blend,0.08587041249669003,0.0,0.08587041249669003,0.007373727742351699,0.0,-2.0,2
+265,"Baby, Feminine & Family Care",organic_volume_growth,PCENDC96,2025-06-30,First month,2025-05-30,baseline,0.0,0.0,0.0,0.0,0.0,-2.0,1
+265,"Baby, Feminine & Family Care",organic_volume_growth,PCENDC96,2025-06-30,First month,2025-05-30,last_actual,-2.0,0.0,-2.0,4.0,0.0,-2.0,1
+265,"Baby, Feminine & Family Care",organic_volume_growth,PCENDC96,2025-06-30,First month,2025-05-30,bridge,0.4537596958802612,0.0,0.4537596958802612,0.20589786160534715,0.0,-2.0,1
+265,"Baby, Feminine & Family Care",organic_volume_growth,PCENDC96,2025-06-30,First month,2025-05-30,lagged,0.1485360801392317,0.0,0.1485360801392317,0.022062967103128262,0.0,-2.0,1
+265,"Baby, Feminine & Family Care",organic_volume_growth,PCENDC96,2025-06-30,First month,2025-05-30,blend,0.2268798479401306,0.0,0.2268798479401306,0.05147446540133679,0.0,-2.0,1
+266,"Baby, Feminine & Family Care",organic_volume_growth,PCENDC96,2025-06-30,Second month,2025-06-27,baseline,0.0,0.0,0.0,0.0,0.0,-2.0,2
+266,"Baby, Feminine & Family Care",organic_volume_growth,PCENDC96,2025-06-30,Second month,2025-06-27,last_actual,-2.0,0.0,-2.0,4.0,0.0,-2.0,2
+266,"Baby, Feminine & Family Care",organic_volume_growth,PCENDC96,2025-06-30,Second month,2025-06-27,bridge,0.17174082499338006,0.0,0.17174082499338006,0.029494910969406797,0.0,-2.0,2
+266,"Baby, Feminine & Family Care",organic_volume_growth,PCENDC96,2025-06-30,Second month,2025-06-27,lagged,0.13210904342015128,0.0,0.13210904342015128,0.017452799353387418,0.0,-2.0,2
+266,"Baby, Feminine & Family Care",organic_volume_growth,PCENDC96,2025-06-30,Second month,2025-06-27,blend,0.08587041249669003,0.0,0.08587041249669003,0.007373727742351699,0.0,-2.0,2
+322,"Baby, Feminine & Family Care",organic_volume_growth,PCENDC96,2025-09-30,Origin,2025-07-01,baseline,0.0,0.0,0.0,0.0,0.0,-2.0,0
+322,"Baby, Feminine & Family Care",organic_volume_growth,PCENDC96,2025-09-30,Origin,2025-07-01,last_actual,-2.0,0.0,-2.0,4.0,0.0,-2.0,0
+322,"Baby, Feminine & Family Care",organic_volume_growth,PCENDC96,2025-09-30,Origin,2025-07-01,bridge,0.1323689417478855,0.0,0.1323689417478855,0.017521536739455102,0.0,-2.0,0
+322,"Baby, Feminine & Family Care",organic_volume_growth,PCENDC96,2025-09-30,Origin,2025-07-01,blend,0.06618447087394275,0.0,0.06618447087394275,0.0043803841848637755,0.0,-2.0,0
+327,"Baby, Feminine & Family Care",organic_volume_growth,PCENDC96,2025-09-30,Pre-earnings,2025-10-23,baseline,0.25,0.0,0.25,0.0625,0.25,0.0,2
+327,"Baby, Feminine & Family Care",organic_volume_growth,PCENDC96,2025-09-30,Pre-earnings,2025-10-23,last_actual,0.0,0.0,0.0,0.0,0.25,0.0,2
+327,"Baby, Feminine & Family Care",organic_volume_growth,PCENDC96,2025-09-30,Pre-earnings,2025-10-23,bridge,0.20972199509481637,0.0,0.20972199509481637,0.04398331522655018,0.25,0.0,2
+327,"Baby, Feminine & Family Care",organic_volume_growth,PCENDC96,2025-09-30,Pre-earnings,2025-10-23,lagged,0.026717189765547822,0.0,0.026717189765547822,0.0007138082289682932,0.25,0.0,2
+327,"Baby, Feminine & Family Care",organic_volume_growth,PCENDC96,2025-09-30,Pre-earnings,2025-10-23,blend,0.22986099754740819,0.0,0.22986099754740819,0.052836078193489594,0.25,0.0,2
+325,"Baby, Feminine & Family Care",organic_volume_growth,PCENDC96,2025-09-30,First month,2025-08-29,baseline,0.25,0.0,0.25,0.0625,0.25,0.0,1
+325,"Baby, Feminine & Family Care",organic_volume_growth,PCENDC96,2025-09-30,First month,2025-08-29,last_actual,0.0,0.0,0.0,0.0,0.25,0.0,1
+325,"Baby, Feminine & Family Care",organic_volume_growth,PCENDC96,2025-09-30,First month,2025-08-29,bridge,0.08731905924638461,0.0,0.08731905924638461,0.007624618107673626,0.25,0.0,1
+325,"Baby, Feminine & Family Care",organic_volume_growth,PCENDC96,2025-09-30,First month,2025-08-29,lagged,0.2527125595585762,0.0,0.2527125595585762,0.06386363775864692,0.25,0.0,1
+325,"Baby, Feminine & Family Care",organic_volume_growth,PCENDC96,2025-09-30,First month,2025-08-29,blend,0.1686595296231923,0.0,0.1686595296231923,0.02844603693271648,0.25,0.0,1
+326,"Baby, Feminine & Family Care",organic_volume_growth,PCENDC96,2025-09-30,Second month,2025-09-26,baseline,0.25,0.0,0.25,0.0625,0.25,0.0,2
+326,"Baby, Feminine & Family Care",organic_volume_growth,PCENDC96,2025-09-30,Second month,2025-09-26,last_actual,0.0,0.0,0.0,0.0,0.25,0.0,2
+326,"Baby, Feminine & Family Care",organic_volume_growth,PCENDC96,2025-09-30,Second month,2025-09-26,bridge,0.20972199509481637,0.0,0.20972199509481637,0.04398331522655018,0.25,0.0,2
+326,"Baby, Feminine & Family Care",organic_volume_growth,PCENDC96,2025-09-30,Second month,2025-09-26,lagged,0.026717189765547822,0.0,0.026717189765547822,0.0007138082289682932,0.25,0.0,2
+326,"Baby, Feminine & Family Care",organic_volume_growth,PCENDC96,2025-09-30,Second month,2025-09-26,blend,0.22986099754740819,0.0,0.22986099754740819,0.052836078193489594,0.25,0.0,2
+372,"Baby, Feminine & Family Care",organic_volume_growth,PCENDC96,2025-12-31,Origin,2025-10-01,baseline,0.25,-5.0,5.25,27.5625,5.25,5.0,0
+372,"Baby, Feminine & Family Care",organic_volume_growth,PCENDC96,2025-12-31,Origin,2025-10-01,last_actual,0.0,-5.0,5.0,25.0,5.25,5.0,0
+372,"Baby, Feminine & Family Care",organic_volume_growth,PCENDC96,2025-12-31,Origin,2025-10-01,bridge,0.21882921675803368,-5.0,5.218829216758033,27.23617839368727,5.25,5.0,0
+372,"Baby, Feminine & Family Care",organic_volume_growth,PCENDC96,2025-12-31,Origin,2025-10-01,blend,0.23441460837901684,-5.0,5.234414608379017,27.399096292411652,5.25,5.0,0
+376,"Baby, Feminine & Family Care",organic_volume_growth,PCENDC96,2025-12-31,Pre-earnings,2026-01-22,baseline,0.5,-5.0,5.5,30.25,5.5,5.0,2
+376,"Baby, Feminine & Family Care",organic_volume_growth,PCENDC96,2025-12-31,Pre-earnings,2026-01-22,last_actual,0.0,-5.0,5.0,25.0,5.5,5.0,2
+376,"Baby, Feminine & Family Care",organic_volume_growth,PCENDC96,2025-12-31,Pre-earnings,2026-01-22,bridge,-0.09205093533365583,-5.0,4.907949064666344,24.087964021359237,5.5,5.0,2
+376,"Baby, Feminine & Family Care",organic_volume_growth,PCENDC96,2025-12-31,Pre-earnings,2026-01-22,lagged,-0.1727858751716309,-5.0,4.8272141248283695,23.301996206942523,5.5,5.0,2
+376,"Baby, Feminine & Family Care",organic_volume_growth,PCENDC96,2025-12-31,Pre-earnings,2026-01-22,blend,0.2039745323331721,-5.0,5.203974532333172,27.081350933172256,5.5,5.0,2
+376,"Baby, Feminine & Family Care",organic_volume_growth,PCENDC96,2025-12-31,First month,2026-01-22,baseline,0.5,-5.0,5.5,30.25,5.5,5.0,2
+376,"Baby, Feminine & Family Care",organic_volume_growth,PCENDC96,2025-12-31,First month,2026-01-22,last_actual,0.0,-5.0,5.0,25.0,5.5,5.0,2
+376,"Baby, Feminine & Family Care",organic_volume_growth,PCENDC96,2025-12-31,First month,2026-01-22,bridge,-0.09205093533365583,-5.0,4.907949064666344,24.087964021359237,5.5,5.0,2
+376,"Baby, Feminine & Family Care",organic_volume_growth,PCENDC96,2025-12-31,First month,2026-01-22,lagged,-0.1727858751716309,-5.0,4.8272141248283695,23.301996206942523,5.5,5.0,2
+376,"Baby, Feminine & Family Care",organic_volume_growth,PCENDC96,2025-12-31,First month,2026-01-22,blend,0.2039745323331721,-5.0,5.203974532333172,27.081350933172256,5.5,5.0,2
+376,"Baby, Feminine & Family Care",organic_volume_growth,PCENDC96,2025-12-31,Second month,2026-01-22,baseline,0.5,-5.0,5.5,30.25,5.5,5.0,2
+376,"Baby, Feminine & Family Care",organic_volume_growth,PCENDC96,2025-12-31,Second month,2026-01-22,last_actual,0.0,-5.0,5.0,25.0,5.5,5.0,2
+376,"Baby, Feminine & Family Care",organic_volume_growth,PCENDC96,2025-12-31,Second month,2026-01-22,bridge,-0.09205093533365583,-5.0,4.907949064666344,24.087964021359237,5.5,5.0,2
+376,"Baby, Feminine & Family Care",organic_volume_growth,PCENDC96,2025-12-31,Second month,2026-01-22,lagged,-0.1727858751716309,-5.0,4.8272141248283695,23.301996206942523,5.5,5.0,2
+376,"Baby, Feminine & Family Care",organic_volume_growth,PCENDC96,2025-12-31,Second month,2026-01-22,blend,0.2039745323331721,-5.0,5.203974532333172,27.081350933172256,5.5,5.0,2
+427,"Baby, Feminine & Family Care",organic_volume_growth,PCENDC96,2026-03-31,Origin,2026-01-01,baseline,0.5,3.0,-2.5,6.25,-2.5,-3.0,0
+427,"Baby, Feminine & Family Care",organic_volume_growth,PCENDC96,2026-03-31,Origin,2026-01-01,last_actual,0.0,3.0,-3.0,9.0,-2.5,-3.0,0
+427,"Baby, Feminine & Family Care",organic_volume_growth,PCENDC96,2026-03-31,Origin,2026-01-01,bridge,-0.012125748278006832,3.0,-3.012125748278007,9.072901523439343,-2.5,-3.0,0
+427,"Baby, Feminine & Family Care",organic_volume_growth,PCENDC96,2026-03-31,Origin,2026-01-01,blend,0.24393712586099658,3.0,-2.7560628741390034,7.595882566207345,-2.5,-3.0,0
+433,"Baby, Feminine & Family Care",organic_volume_growth,PCENDC96,2026-03-31,Pre-earnings,2026-04-23,baseline,-1.75,3.0,-4.75,22.5625,-4.75,-8.0,2
+433,"Baby, Feminine & Family Care",organic_volume_growth,PCENDC96,2026-03-31,Pre-earnings,2026-04-23,last_actual,-5.0,3.0,-8.0,64.0,-4.75,-8.0,2
+433,"Baby, Feminine & Family Care",organic_volume_growth,PCENDC96,2026-03-31,Pre-earnings,2026-04-23,bridge,-1.7054345876478785,3.0,-4.705434587647878,22.141114658632958,-4.75,-8.0,2
+433,"Baby, Feminine & Family Care",organic_volume_growth,PCENDC96,2026-03-31,Pre-earnings,2026-04-23,lagged,-1.29990519454328,3.0,-4.29990519454328,18.489184682060284,-4.75,-8.0,2
+433,"Baby, Feminine & Family Care",organic_volume_growth,PCENDC96,2026-03-31,Pre-earnings,2026-04-23,blend,-1.7277172938239391,3.0,-4.72771729382394,22.351310810321955,-4.75,-8.0,2
+431,"Baby, Feminine & Family Care",organic_volume_growth,PCENDC96,2026-03-31,First month,2026-03-13,baseline,-1.75,3.0,-4.75,22.5625,-4.75,-8.0,1
+431,"Baby, Feminine & Family Care",organic_volume_growth,PCENDC96,2026-03-31,First month,2026-03-13,last_actual,-5.0,3.0,-8.0,64.0,-4.75,-8.0,1
+431,"Baby, Feminine & Family Care",organic_volume_growth,PCENDC96,2026-03-31,First month,2026-03-13,bridge,-1.1195365169123324,3.0,-4.119536516912333,16.970581114174195,-4.75,-8.0,1
+431,"Baby, Feminine & Family Care",organic_volume_growth,PCENDC96,2026-03-31,First month,2026-03-13,lagged,-1.273006832057768,3.0,-4.273006832057768,18.258587386812362,-4.75,-8.0,1
+431,"Baby, Feminine & Family Care",organic_volume_growth,PCENDC96,2026-03-31,First month,2026-03-13,blend,-1.4347682584561663,3.0,-4.434768258456167,19.667169506210342,-4.75,-8.0,1
+432,"Baby, Feminine & Family Care",organic_volume_growth,PCENDC96,2026-03-31,Second month,2026-04-09,baseline,-1.75,3.0,-4.75,22.5625,-4.75,-8.0,2
+432,"Baby, Feminine & Family Care",organic_volume_growth,PCENDC96,2026-03-31,Second month,2026-04-09,last_actual,-5.0,3.0,-8.0,64.0,-4.75,-8.0,2
+432,"Baby, Feminine & Family Care",organic_volume_growth,PCENDC96,2026-03-31,Second month,2026-04-09,bridge,-1.7054345876478785,3.0,-4.705434587647878,22.141114658632958,-4.75,-8.0,2
+432,"Baby, Feminine & Family Care",organic_volume_growth,PCENDC96,2026-03-31,Second month,2026-04-09,lagged,-1.29990519454328,3.0,-4.29990519454328,18.489184682060284,-4.75,-8.0,2
+432,"Baby, Feminine & Family Care",organic_volume_growth,PCENDC96,2026-03-31,Second month,2026-04-09,blend,-1.7277172938239391,3.0,-4.72771729382394,22.351310810321955,-4.75,-8.0,2
+36,Beauty,price_contribution,CUUR0000SEGB,2024-06-30,Origin,2024-04-01,baseline,6.75,3.0,3.75,14.0625,3.75,1.0,0
+36,Beauty,price_contribution,CUUR0000SEGB,2024-06-30,Origin,2024-04-01,last_actual,4.0,3.0,1.0,1.0,3.75,1.0,0
+36,Beauty,price_contribution,CUUR0000SEGB,2024-06-30,Origin,2024-04-01,bridge,5.541415823020849,3.0,2.5414158230208486,6.458794385500737,3.75,1.0,0
+36,Beauty,price_contribution,CUUR0000SEGB,2024-06-30,Origin,2024-04-01,blend,6.145707911510424,3.0,3.1457079115104243,9.895478264539275,3.75,1.0,0
+42,Beauty,price_contribution,CUUR0000SEGB,2024-06-30,Pre-earnings,2024-07-29,baseline,5.75,3.0,2.75,7.5625,2.75,1.0,3
+42,Beauty,price_contribution,CUUR0000SEGB,2024-06-30,Pre-earnings,2024-07-29,last_actual,4.0,3.0,1.0,1.0,2.75,1.0,3
+42,Beauty,price_contribution,CUUR0000SEGB,2024-06-30,Pre-earnings,2024-07-29,bridge,3.7722463109458673,3.0,0.7722463109458673,0.5963643647695012,2.75,1.0,3
+42,Beauty,price_contribution,CUUR0000SEGB,2024-06-30,Pre-earnings,2024-07-29,lagged,6.170715652142095,3.0,3.1707156521420954,10.053437746738874,2.75,1.0,3
+42,Beauty,price_contribution,CUUR0000SEGB,2024-06-30,Pre-earnings,2024-07-29,blend,4.761123155472934,3.0,1.7611231554729336,3.101554768742943,2.75,1.0,3
+39,Beauty,price_contribution,CUUR0000SEGB,2024-06-30,First month,2024-05-15,baseline,5.75,3.0,2.75,7.5625,2.75,1.0,1
+39,Beauty,price_contribution,CUUR0000SEGB,2024-06-30,First month,2024-05-15,last_actual,4.0,3.0,1.0,1.0,2.75,1.0,1
+39,Beauty,price_contribution,CUUR0000SEGB,2024-06-30,First month,2024-05-15,bridge,4.905842043233129,3.0,1.905842043233129,3.6322338937550276,2.75,1.0,1
+39,Beauty,price_contribution,CUUR0000SEGB,2024-06-30,First month,2024-05-15,lagged,6.170715652142095,3.0,3.1707156521420954,10.053437746738874,2.75,1.0,1
+39,Beauty,price_contribution,CUUR0000SEGB,2024-06-30,First month,2024-05-15,blend,5.3279210216165644,3.0,2.3279210216165644,5.419216282884309,2.75,1.0,1
+40,Beauty,price_contribution,CUUR0000SEGB,2024-06-30,Second month,2024-06-12,baseline,5.75,3.0,2.75,7.5625,2.75,1.0,2
+40,Beauty,price_contribution,CUUR0000SEGB,2024-06-30,Second month,2024-06-12,last_actual,4.0,3.0,1.0,1.0,2.75,1.0,2
+40,Beauty,price_contribution,CUUR0000SEGB,2024-06-30,Second month,2024-06-12,bridge,4.142491430856618,3.0,1.1424914308566176,1.3052866695808014,2.75,1.0,2
+40,Beauty,price_contribution,CUUR0000SEGB,2024-06-30,Second month,2024-06-12,lagged,6.170715652142095,3.0,3.1707156521420954,10.053437746738874,2.75,1.0,2
+40,Beauty,price_contribution,CUUR0000SEGB,2024-06-30,Second month,2024-06-12,blend,4.946245715428309,3.0,1.9462457154283088,3.7878723848230496,2.75,1.0,2
+96,Beauty,price_contribution,CUUR0000SEGB,2024-09-30,Origin,2024-07-01,baseline,5.75,1.0,4.75,22.5625,4.75,3.0,0
+96,Beauty,price_contribution,CUUR0000SEGB,2024-09-30,Origin,2024-07-01,last_actual,4.0,1.0,3.0,9.0,4.75,3.0,0
+96,Beauty,price_contribution,CUUR0000SEGB,2024-09-30,Origin,2024-07-01,bridge,4.3931887089537,1.0,3.3931887089536996,11.513729614570876,4.75,3.0,0
+96,Beauty,price_contribution,CUUR0000SEGB,2024-09-30,Origin,2024-07-01,blend,5.07159435447685,1.0,4.07159435447685,16.577880587407755,4.75,3.0,0
+102,Beauty,price_contribution,CUUR0000SEGB,2024-09-30,Pre-earnings,2024-10-17,baseline,4.5,1.0,3.5,12.25,3.5,2.0,3
+102,Beauty,price_contribution,CUUR0000SEGB,2024-09-30,Pre-earnings,2024-10-17,last_actual,3.0,1.0,2.0,4.0,3.5,2.0,3
+102,Beauty,price_contribution,CUUR0000SEGB,2024-09-30,Pre-earnings,2024-10-17,bridge,2.478264245636176,1.0,1.478264245636176,2.1852651799262928,3.5,2.0,3
+102,Beauty,price_contribution,CUUR0000SEGB,2024-09-30,Pre-earnings,2024-10-17,lagged,4.8248595991166745,1.0,3.8248595991166745,14.629550952954968,3.5,2.0,3
+102,Beauty,price_contribution,CUUR0000SEGB,2024-09-30,Pre-earnings,2024-10-17,blend,3.489132122818088,1.0,2.489132122818088,6.19577872484488,3.5,2.0,3
+99,Beauty,price_contribution,CUUR0000SEGB,2024-09-30,First month,2024-08-14,baseline,4.5,1.0,3.5,12.25,3.5,2.0,1
+99,Beauty,price_contribution,CUUR0000SEGB,2024-09-30,First month,2024-08-14,last_actual,3.0,1.0,2.0,4.0,3.5,2.0,1
+99,Beauty,price_contribution,CUUR0000SEGB,2024-09-30,First month,2024-08-14,bridge,2.9793871220577883,1.0,1.9793871220577883,3.9179733789682136,3.5,2.0,1
+99,Beauty,price_contribution,CUUR0000SEGB,2024-09-30,First month,2024-08-14,lagged,4.8248595991166745,1.0,3.8248595991166745,14.629550952954968,3.5,2.0,1
+99,Beauty,price_contribution,CUUR0000SEGB,2024-09-30,First month,2024-08-14,blend,3.7396935610288944,1.0,2.7396935610288944,7.505920808343184,3.5,2.0,1
+100,Beauty,price_contribution,CUUR0000SEGB,2024-09-30,Second month,2024-09-11,baseline,4.5,1.0,3.5,12.25,3.5,2.0,2
+100,Beauty,price_contribution,CUUR0000SEGB,2024-09-30,Second month,2024-09-11,last_actual,3.0,1.0,2.0,4.0,3.5,2.0,2
+100,Beauty,price_contribution,CUUR0000SEGB,2024-09-30,Second month,2024-09-11,bridge,2.6262575462079227,1.0,1.6262575462079227,2.6447136065982138,3.5,2.0,2
+100,Beauty,price_contribution,CUUR0000SEGB,2024-09-30,Second month,2024-09-11,lagged,4.8248595991166745,1.0,3.8248595991166745,14.629550952954968,3.5,2.0,2
+100,Beauty,price_contribution,CUUR0000SEGB,2024-09-30,Second month,2024-09-11,blend,3.563128773103961,1.0,2.563128773103961,6.569629107513417,3.5,2.0,2
+152,Beauty,price_contribution,CUUR0000SEGB,2024-12-31,Origin,2024-10-01,baseline,4.5,2.0,2.5,6.25,2.5,1.0,0
+152,Beauty,price_contribution,CUUR0000SEGB,2024-12-31,Origin,2024-10-01,last_actual,3.0,2.0,1.0,1.0,2.5,1.0,0
+152,Beauty,price_contribution,CUUR0000SEGB,2024-12-31,Origin,2024-10-01,bridge,2.7282069367937667,2.0,0.7282069367937667,0.530285342794561,2.5,1.0,0
+152,Beauty,price_contribution,CUUR0000SEGB,2024-12-31,Origin,2024-10-01,blend,3.614103468396883,2.0,1.6141034683968831,2.605330006690848,2.5,1.0,0
+158,Beauty,price_contribution,CUUR0000SEGB,2024-12-31,Pre-earnings,2025-01-21,baseline,3.0,2.0,1.0,1.0,1.0,-1.0,3
+158,Beauty,price_contribution,CUUR0000SEGB,2024-12-31,Pre-earnings,2025-01-21,last_actual,1.0,2.0,-1.0,1.0,1.0,-1.0,3
+158,Beauty,price_contribution,CUUR0000SEGB,2024-12-31,Pre-earnings,2025-01-21,bridge,1.9622322389847817,2.0,-0.03776776101521828,0.001426403772102642,1.0,-1.0,3
+158,Beauty,price_contribution,CUUR0000SEGB,2024-12-31,Pre-earnings,2025-01-21,lagged,2.8547722288428496,2.0,0.8547722288428496,0.7306355632009729,1.0,-1.0,3
+158,Beauty,price_contribution,CUUR0000SEGB,2024-12-31,Pre-earnings,2025-01-21,blend,2.4811161194923907,2.0,0.48111611949239075,0.23147272043541642,1.0,-1.0,3
+155,Beauty,price_contribution,CUUR0000SEGB,2024-12-31,First month,2024-11-13,baseline,3.0,2.0,1.0,1.0,1.0,-1.0,1
+155,Beauty,price_contribution,CUUR0000SEGB,2024-12-31,First month,2024-11-13,last_actual,1.0,2.0,-1.0,1.0,1.0,-1.0,1
+155,Beauty,price_contribution,CUUR0000SEGB,2024-12-31,First month,2024-11-13,bridge,1.7161252065739998,2.0,-0.2838747934260002,0.08058489834265428,1.0,-1.0,1
+155,Beauty,price_contribution,CUUR0000SEGB,2024-12-31,First month,2024-11-13,lagged,2.8547722288428496,2.0,0.8547722288428496,0.7306355632009729,1.0,-1.0,1
+155,Beauty,price_contribution,CUUR0000SEGB,2024-12-31,First month,2024-11-13,blend,2.358062603287,2.0,0.3580626032869998,0.12820882787266338,1.0,-1.0,1
+156,Beauty,price_contribution,CUUR0000SEGB,2024-12-31,Second month,2024-12-11,baseline,3.0,2.0,1.0,1.0,1.0,-1.0,2
+156,Beauty,price_contribution,CUUR0000SEGB,2024-12-31,Second month,2024-12-11,last_actual,1.0,2.0,-1.0,1.0,1.0,-1.0,2
+156,Beauty,price_contribution,CUUR0000SEGB,2024-12-31,Second month,2024-12-11,bridge,1.8698966865817503,2.0,-0.13010331341824966,0.016926872162407302,1.0,-1.0,2
+156,Beauty,price_contribution,CUUR0000SEGB,2024-12-31,Second month,2024-12-11,lagged,2.8547722288428496,2.0,0.8547722288428496,0.7306355632009729,1.0,-1.0,2
+156,Beauty,price_contribution,CUUR0000SEGB,2024-12-31,Second month,2024-12-11,blend,2.434948343290875,2.0,0.4349483432908752,0.189180061331477,1.0,-1.0,2
+210,Beauty,price_contribution,CUUR0000SEGB,2025-03-31,Origin,2025-01-01,baseline,3.0,3.0,0.0,0.0,0.0,-2.0,0
+210,Beauty,price_contribution,CUUR0000SEGB,2025-03-31,Origin,2025-01-01,last_actual,1.0,3.0,-2.0,4.0,0.0,-2.0,0
+210,Beauty,price_contribution,CUUR0000SEGB,2025-03-31,Origin,2025-01-01,bridge,1.8473354874583545,3.0,-1.1526645125416455,1.3286354784728691,0.0,-2.0,0
+210,Beauty,price_contribution,CUUR0000SEGB,2025-03-31,Origin,2025-01-01,blend,2.4236677437291774,3.0,-0.5763322562708226,0.33215886961821717,0.0,-2.0,0
+216,Beauty,price_contribution,CUUR0000SEGB,2025-03-31,Pre-earnings,2025-04-23,baseline,2.5,3.0,-0.5,0.25,-0.5,-1.0,3
+216,Beauty,price_contribution,CUUR0000SEGB,2025-03-31,Pre-earnings,2025-04-23,last_actual,2.0,3.0,-1.0,1.0,-0.5,-1.0,3
+216,Beauty,price_contribution,CUUR0000SEGB,2025-03-31,Pre-earnings,2025-04-23,bridge,1.8743494336186357,3.0,-1.1256505663813643,1.2670891975946863,-0.5,-1.0,3
+216,Beauty,price_contribution,CUUR0000SEGB,2025-03-31,Pre-earnings,2025-04-23,lagged,2.5502018782027696,3.0,-0.44979812179723044,0.20231835037231616,-0.5,-1.0,3
+216,Beauty,price_contribution,CUUR0000SEGB,2025-03-31,Pre-earnings,2025-04-23,blend,2.187174716809318,3.0,-0.8128252831906821,0.6606849409940126,-0.5,-1.0,3
+213,Beauty,price_contribution,CUUR0000SEGB,2025-03-31,First month,2025-02-12,baseline,2.5,3.0,-0.5,0.25,-0.5,-1.0,1
+213,Beauty,price_contribution,CUUR0000SEGB,2025-03-31,First month,2025-02-12,last_actual,2.0,3.0,-1.0,1.0,-0.5,-1.0,1
+213,Beauty,price_contribution,CUUR0000SEGB,2025-03-31,First month,2025-02-12,bridge,2.0719686929905974,3.0,-0.9280313070094026,0.8612421067895801,-0.5,-1.0,1
+213,Beauty,price_contribution,CUUR0000SEGB,2025-03-31,First month,2025-02-12,lagged,2.5502018782027696,3.0,-0.44979812179723044,0.20231835037231616,-0.5,-1.0,1
+213,Beauty,price_contribution,CUUR0000SEGB,2025-03-31,First month,2025-02-12,blend,2.2859843464952987,3.0,-0.7140156535047013,0.5098183534497457,-0.5,-1.0,1
+214,Beauty,price_contribution,CUUR0000SEGB,2025-03-31,Second month,2025-03-12,baseline,2.5,3.0,-0.5,0.25,-0.5,-1.0,2
+214,Beauty,price_contribution,CUUR0000SEGB,2025-03-31,Second month,2025-03-12,last_actual,2.0,3.0,-1.0,1.0,-0.5,-1.0,2
+214,Beauty,price_contribution,CUUR0000SEGB,2025-03-31,Second month,2025-03-12,bridge,1.992118925834394,3.0,-1.007881074165606,1.0158242596612157,-0.5,-1.0,2
+214,Beauty,price_contribution,CUUR0000SEGB,2025-03-31,Second month,2025-03-12,lagged,2.5502018782027696,3.0,-0.44979812179723044,0.20231835037231616,-0.5,-1.0,2
+214,Beauty,price_contribution,CUUR0000SEGB,2025-03-31,Second month,2025-03-12,blend,2.246059462917197,3.0,-0.7539405370828032,0.5684263334567057,-0.5,-1.0,2
+268,Beauty,price_contribution,CUUR0000SEGB,2025-06-30,Origin,2025-04-01,baseline,2.5,1.0,1.5,2.25,1.5,1.0,0
+268,Beauty,price_contribution,CUUR0000SEGB,2025-06-30,Origin,2025-04-01,last_actual,2.0,1.0,1.0,1.0,1.5,1.0,0
+268,Beauty,price_contribution,CUUR0000SEGB,2025-06-30,Origin,2025-04-01,bridge,2.028166027106931,1.0,1.028166027106931,1.0571253792968505,1.5,1.0,0
+268,Beauty,price_contribution,CUUR0000SEGB,2025-06-30,Origin,2025-04-01,blend,2.2640830135534653,1.0,1.2640830135534653,1.5979058651544102,1.5,1.0,0
+274,Beauty,price_contribution,CUUR0000SEGB,2025-06-30,Pre-earnings,2025-07-28,baseline,2.25,1.0,1.25,1.5625,1.25,2.0,3
+274,Beauty,price_contribution,CUUR0000SEGB,2025-06-30,Pre-earnings,2025-07-28,last_actual,3.0,1.0,2.0,4.0,1.25,2.0,3
+274,Beauty,price_contribution,CUUR0000SEGB,2025-06-30,Pre-earnings,2025-07-28,bridge,2.344592831076318,1.0,1.344592831076318,1.8079298813818279,1.25,2.0,3
+274,Beauty,price_contribution,CUUR0000SEGB,2025-06-30,Pre-earnings,2025-07-28,lagged,2.5882025161488516,1.0,1.5882025161488516,2.522387232301543,1.25,2.0,3
+274,Beauty,price_contribution,CUUR0000SEGB,2025-06-30,Pre-earnings,2025-07-28,blend,2.2972964155381588,1.0,1.2972964155381588,1.6829779897681552,1.25,2.0,3
+271,Beauty,price_contribution,CUUR0000SEGB,2025-06-30,First month,2025-05-13,baseline,2.25,1.0,1.25,1.5625,1.25,2.0,1
+271,Beauty,price_contribution,CUUR0000SEGB,2025-06-30,First month,2025-05-13,last_actual,3.0,1.0,2.0,4.0,1.25,2.0,1
+271,Beauty,price_contribution,CUUR0000SEGB,2025-06-30,First month,2025-05-13,bridge,2.1567999937249547,1.0,1.1567999937249547,1.3381862254820551,1.25,2.0,1
+271,Beauty,price_contribution,CUUR0000SEGB,2025-06-30,First month,2025-05-13,lagged,2.5882025161488516,1.0,1.5882025161488516,2.522387232301543,1.25,2.0,1
+271,Beauty,price_contribution,CUUR0000SEGB,2025-06-30,First month,2025-05-13,blend,2.203399996862477,1.0,1.2033999968624771,1.4481715524486098,1.25,2.0,1
+272,Beauty,price_contribution,CUUR0000SEGB,2025-06-30,Second month,2025-06-11,baseline,2.25,1.0,1.25,1.5625,1.25,2.0,2
+272,Beauty,price_contribution,CUUR0000SEGB,2025-06-30,Second month,2025-06-11,last_actual,3.0,1.0,2.0,4.0,1.25,2.0,2
+272,Beauty,price_contribution,CUUR0000SEGB,2025-06-30,Second month,2025-06-11,bridge,2.2437408211233656,1.0,1.2437408211233656,1.5468912301286237,1.25,2.0,2
+272,Beauty,price_contribution,CUUR0000SEGB,2025-06-30,Second month,2025-06-11,lagged,2.5882025161488516,1.0,1.5882025161488516,2.522387232301543,1.25,2.0,2
+272,Beauty,price_contribution,CUUR0000SEGB,2025-06-30,Second month,2025-06-11,blend,2.246870410561683,1.0,1.2468704105616828,1.5546858207342593,1.25,2.0,2
+328,Beauty,price_contribution,CUUR0000SEGB,2025-09-30,Origin,2025-07-01,baseline,2.25,2.0,0.25,0.0625,0.25,1.0,0
+328,Beauty,price_contribution,CUUR0000SEGB,2025-09-30,Origin,2025-07-01,last_actual,3.0,2.0,1.0,1.0,0.25,1.0,0
+328,Beauty,price_contribution,CUUR0000SEGB,2025-09-30,Origin,2025-07-01,bridge,2.1622529107138493,2.0,0.16225291071384929,0.02632600703511635,0.25,1.0,0
+328,Beauty,price_contribution,CUUR0000SEGB,2025-09-30,Origin,2025-07-01,blend,2.206126455356925,2.0,0.20612645535692486,0.04248811559801034,0.25,1.0,0
+333,Beauty,price_contribution,CUUR0000SEGB,2025-09-30,Pre-earnings,2025-10-23,baseline,1.75,2.0,-0.25,0.0625,-0.25,-1.0,2
+333,Beauty,price_contribution,CUUR0000SEGB,2025-09-30,Pre-earnings,2025-10-23,last_actual,1.0,2.0,-1.0,1.0,-0.25,-1.0,2
+333,Beauty,price_contribution,CUUR0000SEGB,2025-09-30,Pre-earnings,2025-10-23,bridge,2.363310974911859,2.0,0.36331097491185904,0.13199486449140546,-0.25,-1.0,2
+333,Beauty,price_contribution,CUUR0000SEGB,2025-09-30,Pre-earnings,2025-10-23,lagged,2.467973897379318,2.0,0.46797389737931816,0.2189995686283886,-0.25,-1.0,2
+333,Beauty,price_contribution,CUUR0000SEGB,2025-09-30,Pre-earnings,2025-10-23,blend,2.0566554874559295,2.0,0.05665548745592952,0.0032098442588689873,-0.25,-1.0,2
+331,Beauty,price_contribution,CUUR0000SEGB,2025-09-30,First month,2025-08-12,baseline,1.75,2.0,-0.25,0.0625,-0.25,-1.0,1
+331,Beauty,price_contribution,CUUR0000SEGB,2025-09-30,First month,2025-08-12,last_actual,1.0,2.0,-1.0,1.0,-0.25,-1.0,1
+331,Beauty,price_contribution,CUUR0000SEGB,2025-09-30,First month,2025-08-12,bridge,2.0949097738119185,2.0,0.09490977381191845,0.009007865165029522,-0.25,-1.0,1
+331,Beauty,price_contribution,CUUR0000SEGB,2025-09-30,First month,2025-08-12,lagged,2.467973897379318,2.0,0.46797389737931816,0.2189995686283886,-0.25,-1.0,1
+331,Beauty,price_contribution,CUUR0000SEGB,2025-09-30,First month,2025-08-12,blend,1.9224548869059592,2.0,-0.07754511309404077,0.006013244564767574,-0.25,-1.0,1
+332,Beauty,price_contribution,CUUR0000SEGB,2025-09-30,Second month,2025-09-11,baseline,1.75,2.0,-0.25,0.0625,-0.25,-1.0,2
+332,Beauty,price_contribution,CUUR0000SEGB,2025-09-30,Second month,2025-09-11,last_actual,1.0,2.0,-1.0,1.0,-0.25,-1.0,2
+332,Beauty,price_contribution,CUUR0000SEGB,2025-09-30,Second month,2025-09-11,bridge,2.363310974911859,2.0,0.36331097491185904,0.13199486449140546,-0.25,-1.0,2
+332,Beauty,price_contribution,CUUR0000SEGB,2025-09-30,Second month,2025-09-11,lagged,2.467973897379318,2.0,0.46797389737931816,0.2189995686283886,-0.25,-1.0,2
+332,Beauty,price_contribution,CUUR0000SEGB,2025-09-30,Second month,2025-09-11,blend,2.0566554874559295,2.0,0.05665548745592952,0.0032098442588689873,-0.25,-1.0,2
+377,Beauty,price_contribution,CUUR0000SEGB,2025-12-31,Origin,2025-10-01,baseline,1.75,2.0,-0.25,0.0625,-0.25,-1.0,0
+377,Beauty,price_contribution,CUUR0000SEGB,2025-12-31,Origin,2025-10-01,last_actual,1.0,2.0,-1.0,1.0,-0.25,-1.0,0
+377,Beauty,price_contribution,CUUR0000SEGB,2025-12-31,Origin,2025-10-01,bridge,2.337689014495552,2.0,0.337689014495552,0.11403387051097713,-0.25,-1.0,0
+377,Beauty,price_contribution,CUUR0000SEGB,2025-12-31,Origin,2025-10-01,blend,2.043844507247776,2.0,0.04384450724777622,0.0019223408158003015,-0.25,-1.0,0
+381,Beauty,price_contribution,CUUR0000SEGB,2025-12-31,Pre-earnings,2026-01-22,baseline,2.0,2.0,0.0,0.0,0.0,0.0,2
+381,Beauty,price_contribution,CUUR0000SEGB,2025-12-31,Pre-earnings,2026-01-22,last_actual,2.0,2.0,0.0,0.0,0.0,0.0,2
+381,Beauty,price_contribution,CUUR0000SEGB,2025-12-31,Pre-earnings,2026-01-22,bridge,2.6762212536847363,2.0,0.6762212536847363,0.4572751839349565,0.0,0.0,2
+381,Beauty,price_contribution,CUUR0000SEGB,2025-12-31,Pre-earnings,2026-01-22,lagged,2.7874157946272975,2.0,0.7874157946272975,0.6200236336285383,0.0,0.0,2
+381,Beauty,price_contribution,CUUR0000SEGB,2025-12-31,Pre-earnings,2026-01-22,blend,2.338110626842368,2.0,0.33811062684236814,0.11431879598373912,0.0,0.0,2
+379,Beauty,price_contribution,CUUR0000SEGB,2025-12-31,First month,2025-12-18,baseline,2.0,2.0,0.0,0.0,0.0,0.0,1
+379,Beauty,price_contribution,CUUR0000SEGB,2025-12-31,First month,2025-12-18,last_actual,2.0,2.0,0.0,0.0,0.0,0.0,1
+379,Beauty,price_contribution,CUUR0000SEGB,2025-12-31,First month,2025-12-18,bridge,2.5114758261255097,2.0,0.5114758261255097,0.2616075207107726,0.0,0.0,1
+379,Beauty,price_contribution,CUUR0000SEGB,2025-12-31,First month,2025-12-18,lagged,2.7874157946272975,2.0,0.7874157946272975,0.6200236336285383,0.0,0.0,1
+379,Beauty,price_contribution,CUUR0000SEGB,2025-12-31,First month,2025-12-18,blend,2.255737913062755,2.0,0.25573791306275506,0.06540188017769327,0.0,0.0,1
+380,Beauty,price_contribution,CUUR0000SEGB,2025-12-31,Second month,2026-01-13,baseline,2.0,2.0,0.0,0.0,0.0,0.0,2
+380,Beauty,price_contribution,CUUR0000SEGB,2025-12-31,Second month,2026-01-13,last_actual,2.0,2.0,0.0,0.0,0.0,0.0,2
+380,Beauty,price_contribution,CUUR0000SEGB,2025-12-31,Second month,2026-01-13,bridge,2.6762212536847363,2.0,0.6762212536847363,0.4572751839349565,0.0,0.0,2
+380,Beauty,price_contribution,CUUR0000SEGB,2025-12-31,Second month,2026-01-13,lagged,2.7874157946272975,2.0,0.7874157946272975,0.6200236336285383,0.0,0.0,2
+380,Beauty,price_contribution,CUUR0000SEGB,2025-12-31,Second month,2026-01-13,blend,2.338110626842368,2.0,0.33811062684236814,0.11431879598373912,0.0,0.0,2
+434,Beauty,price_contribution,CUUR0000SEGB,2026-03-31,Origin,2026-01-01,baseline,2.0,1.0,1.0,1.0,1.0,1.0,0
+434,Beauty,price_contribution,CUUR0000SEGB,2026-03-31,Origin,2026-01-01,last_actual,2.0,1.0,1.0,1.0,1.0,1.0,0
+434,Beauty,price_contribution,CUUR0000SEGB,2026-03-31,Origin,2026-01-01,bridge,2.634251690519293,1.0,1.6342516905192932,2.6707785879651675,1.0,1.0,0
+434,Beauty,price_contribution,CUUR0000SEGB,2026-03-31,Origin,2026-01-01,blend,2.3171258452596466,1.0,1.3171258452596466,1.7348204922509385,1.0,1.0,0
+440,Beauty,price_contribution,CUUR0000SEGB,2026-03-31,Pre-earnings,2026-04-23,baseline,2.0,1.0,1.0,1.0,1.0,1.0,3
+440,Beauty,price_contribution,CUUR0000SEGB,2026-03-31,Pre-earnings,2026-04-23,last_actual,2.0,1.0,1.0,1.0,1.0,1.0,3
+440,Beauty,price_contribution,CUUR0000SEGB,2026-03-31,Pre-earnings,2026-04-23,bridge,3.4086429001516585,1.0,2.4086429001516585,5.801560620450992,1.0,1.0,3
+440,Beauty,price_contribution,CUUR0000SEGB,2026-03-31,Pre-earnings,2026-04-23,blend,2.7043214500758292,1.0,1.7043214500758292,2.9047116051885773,1.0,1.0,3
+437,Beauty,price_contribution,CUUR0000SEGB,2026-03-31,First month,2026-02-13,baseline,2.0,1.0,1.0,1.0,1.0,1.0,1
+437,Beauty,price_contribution,CUUR0000SEGB,2026-03-31,First month,2026-02-13,last_actual,2.0,1.0,1.0,1.0,1.0,1.0,1
+437,Beauty,price_contribution,CUUR0000SEGB,2026-03-31,First month,2026-02-13,bridge,3.0264149692423663,1.0,2.0264149692423663,4.10635762756954,1.0,1.0,1
+437,Beauty,price_contribution,CUUR0000SEGB,2026-03-31,First month,2026-02-13,blend,2.513207484621183,1.0,1.5132074846211832,2.2897968915135682,1.0,1.0,1
+438,Beauty,price_contribution,CUUR0000SEGB,2026-03-31,Second month,2026-03-11,baseline,2.0,1.0,1.0,1.0,1.0,1.0,2
+438,Beauty,price_contribution,CUUR0000SEGB,2026-03-31,Second month,2026-03-11,last_actual,2.0,1.0,1.0,1.0,1.0,1.0,2
+438,Beauty,price_contribution,CUUR0000SEGB,2026-03-31,Second month,2026-03-11,bridge,3.24566927486551,1.0,2.24566927486551,5.043030492074985,1.0,1.0,2
+438,Beauty,price_contribution,CUUR0000SEGB,2026-03-31,Second month,2026-03-11,blend,2.6228346374327547,1.0,1.6228346374327547,2.6335922604515005,1.0,1.0,2
+43,Grooming,price_contribution,CUUR0000SEGB,2024-06-30,Origin,2024-04-01,baseline,8.75,5.0,3.75,14.0625,3.75,2.0,0
+43,Grooming,price_contribution,CUUR0000SEGB,2024-06-30,Origin,2024-04-01,last_actual,7.0,5.0,2.0,4.0,3.75,2.0,0
+43,Grooming,price_contribution,CUUR0000SEGB,2024-06-30,Origin,2024-04-01,bridge,7.136084098929,5.0,2.1360840989290004,4.562855277697319,3.75,2.0,0
+43,Grooming,price_contribution,CUUR0000SEGB,2024-06-30,Origin,2024-04-01,blend,7.9430420494645,5.0,2.9430420494645,8.661496504916206,3.75,2.0,0
+49,Grooming,price_contribution,CUUR0000SEGB,2024-06-30,Pre-earnings,2024-07-29,baseline,8.75,5.0,3.75,14.0625,3.75,5.0,3
+49,Grooming,price_contribution,CUUR0000SEGB,2024-06-30,Pre-earnings,2024-07-29,last_actual,10.0,5.0,5.0,25.0,3.75,5.0,3
+49,Grooming,price_contribution,CUUR0000SEGB,2024-06-30,Pre-earnings,2024-07-29,bridge,6.325936820156368,5.0,1.3259368201563682,1.758108451046381,3.75,5.0,3
+49,Grooming,price_contribution,CUUR0000SEGB,2024-06-30,Pre-earnings,2024-07-29,lagged,8.063197929354388,5.0,3.063197929354388,9.383181554401009,3.75,5.0,3
+49,Grooming,price_contribution,CUUR0000SEGB,2024-06-30,Pre-earnings,2024-07-29,blend,7.537968410078184,5.0,2.537968410078184,6.4412836505547855,3.75,5.0,3
+46,Grooming,price_contribution,CUUR0000SEGB,2024-06-30,First month,2024-05-15,baseline,8.75,5.0,3.75,14.0625,3.75,5.0,1
+46,Grooming,price_contribution,CUUR0000SEGB,2024-06-30,First month,2024-05-15,last_actual,10.0,5.0,5.0,25.0,3.75,5.0,1
+46,Grooming,price_contribution,CUUR0000SEGB,2024-06-30,First month,2024-05-15,bridge,7.263636781429946,5.0,2.2636367814299456,5.1240514782425235,3.75,5.0,1
+46,Grooming,price_contribution,CUUR0000SEGB,2024-06-30,First month,2024-05-15,lagged,8.063197929354388,5.0,3.063197929354388,9.383181554401009,3.75,5.0,1
+46,Grooming,price_contribution,CUUR0000SEGB,2024-06-30,First month,2024-05-15,blend,8.006818390714972,5.0,3.0068183907149724,9.040956834741776,3.75,5.0,1
+47,Grooming,price_contribution,CUUR0000SEGB,2024-06-30,Second month,2024-06-12,baseline,8.75,5.0,3.75,14.0625,3.75,5.0,2
+47,Grooming,price_contribution,CUUR0000SEGB,2024-06-30,Second month,2024-06-12,last_actual,10.0,5.0,5.0,25.0,3.75,5.0,2
+47,Grooming,price_contribution,CUUR0000SEGB,2024-06-30,Second month,2024-06-12,bridge,6.632200177289459,5.0,1.6322001772894588,2.664077418743741,3.75,5.0,2
+47,Grooming,price_contribution,CUUR0000SEGB,2024-06-30,Second month,2024-06-12,lagged,8.063197929354388,5.0,3.063197929354388,9.383181554401009,3.75,5.0,2
+47,Grooming,price_contribution,CUUR0000SEGB,2024-06-30,Second month,2024-06-12,blend,7.691100088644729,5.0,2.6911000886447294,7.24201968710367,3.75,5.0,2
+103,Grooming,price_contribution,CUUR0000SEGB,2024-09-30,Origin,2024-07-01,baseline,8.75,1.0,7.75,60.0625,7.75,9.0,0
+103,Grooming,price_contribution,CUUR0000SEGB,2024-09-30,Origin,2024-07-01,last_actual,10.0,1.0,9.0,81.0,7.75,9.0,0
+103,Grooming,price_contribution,CUUR0000SEGB,2024-09-30,Origin,2024-07-01,bridge,6.83957465945049,1.0,5.83957465945049,34.1006322032963,7.75,9.0,0
+103,Grooming,price_contribution,CUUR0000SEGB,2024-09-30,Origin,2024-07-01,blend,7.794787329725245,1.0,6.794787329725245,46.169134856194724,7.75,9.0,0
+109,Grooming,price_contribution,CUUR0000SEGB,2024-09-30,Pre-earnings,2024-10-17,baseline,7.75,1.0,6.75,45.5625,6.75,4.0,3
+109,Grooming,price_contribution,CUUR0000SEGB,2024-09-30,Pre-earnings,2024-10-17,last_actual,5.0,1.0,4.0,16.0,6.75,4.0,3
+109,Grooming,price_contribution,CUUR0000SEGB,2024-09-30,Pre-earnings,2024-10-17,bridge,5.000360388340623,1.0,4.000360388340623,16.00288323660474,6.75,4.0,3
+109,Grooming,price_contribution,CUUR0000SEGB,2024-09-30,Pre-earnings,2024-10-17,lagged,6.4207978419349745,1.0,5.4207978419349745,29.385049243126875,6.75,4.0,3
+109,Grooming,price_contribution,CUUR0000SEGB,2024-09-30,Pre-earnings,2024-10-17,blend,6.375180194170312,1.0,5.375180194170312,28.892562119800793,6.75,4.0,3
+106,Grooming,price_contribution,CUUR0000SEGB,2024-09-30,First month,2024-08-14,baseline,7.75,1.0,6.75,45.5625,6.75,4.0,1
+106,Grooming,price_contribution,CUUR0000SEGB,2024-09-30,First month,2024-08-14,last_actual,5.0,1.0,4.0,16.0,6.75,4.0,1
+106,Grooming,price_contribution,CUUR0000SEGB,2024-09-30,First month,2024-08-14,bridge,5.441421395300162,1.0,4.441421395300162,19.726224010630034,6.75,4.0,1
+106,Grooming,price_contribution,CUUR0000SEGB,2024-09-30,First month,2024-08-14,lagged,6.4207978419349745,1.0,5.4207978419349745,29.385049243126875,6.75,4.0,1
+106,Grooming,price_contribution,CUUR0000SEGB,2024-09-30,First month,2024-08-14,blend,6.59571069765008,1.0,5.59571069765008,31.311978211795548,6.75,4.0,1
+107,Grooming,price_contribution,CUUR0000SEGB,2024-09-30,Second month,2024-09-11,baseline,7.75,1.0,6.75,45.5625,6.75,4.0,2
+107,Grooming,price_contribution,CUUR0000SEGB,2024-09-30,Second month,2024-09-11,last_actual,5.0,1.0,4.0,16.0,6.75,4.0,2
+107,Grooming,price_contribution,CUUR0000SEGB,2024-09-30,Second month,2024-09-11,bridge,5.130616014744162,1.0,4.130616014744162,17.061988661260944,6.75,4.0,2
+107,Grooming,price_contribution,CUUR0000SEGB,2024-09-30,Second month,2024-09-11,lagged,6.4207978419349745,1.0,5.4207978419349745,29.385049243126875,6.75,4.0,2
+107,Grooming,price_contribution,CUUR0000SEGB,2024-09-30,Second month,2024-09-11,blend,6.4403080073720815,1.0,5.4403080073720815,29.59695121507679,6.75,4.0,2
+159,Grooming,price_contribution,CUUR0000SEGB,2024-12-31,Origin,2024-10-01,baseline,7.75,1.0,6.75,45.5625,6.75,4.0,0
+159,Grooming,price_contribution,CUUR0000SEGB,2024-12-31,Origin,2024-10-01,last_actual,5.0,1.0,4.0,16.0,6.75,4.0,0
+159,Grooming,price_contribution,CUUR0000SEGB,2024-12-31,Origin,2024-10-01,bridge,5.220346304432378,1.0,4.220346304432378,17.811322929336033,6.75,4.0,0
+159,Grooming,price_contribution,CUUR0000SEGB,2024-12-31,Origin,2024-10-01,blend,6.4851731522161895,1.0,5.4851731522161895,30.087124509793288,6.75,4.0,0
+165,Grooming,price_contribution,CUUR0000SEGB,2024-12-31,Pre-earnings,2025-01-21,baseline,5.75,1.0,4.75,22.5625,4.75,0.0,3
+165,Grooming,price_contribution,CUUR0000SEGB,2024-12-31,Pre-earnings,2025-01-21,last_actual,1.0,1.0,0.0,0.0,4.75,0.0,3
+165,Grooming,price_contribution,CUUR0000SEGB,2024-12-31,Pre-earnings,2025-01-21,bridge,3.6531013534293297,1.0,2.6531013534293297,7.0389467915685415,4.75,0.0,3
+165,Grooming,price_contribution,CUUR0000SEGB,2024-12-31,Pre-earnings,2025-01-21,lagged,3.655378772956199,1.0,2.655378772956199,7.051036427866368,4.75,0.0,3
+165,Grooming,price_contribution,CUUR0000SEGB,2024-12-31,Pre-earnings,2025-01-21,blend,4.701550676714665,1.0,3.701550676714665,13.701477412286794,4.75,0.0,3
+162,Grooming,price_contribution,CUUR0000SEGB,2024-12-31,First month,2024-11-13,baseline,5.75,1.0,4.75,22.5625,4.75,0.0,1
+162,Grooming,price_contribution,CUUR0000SEGB,2024-12-31,First month,2024-11-13,last_actual,1.0,1.0,0.0,0.0,4.75,0.0,1
+162,Grooming,price_contribution,CUUR0000SEGB,2024-12-31,First month,2024-11-13,bridge,3.392006158494888,1.0,2.392006158494888,5.721693462277472,4.75,0.0,1
+162,Grooming,price_contribution,CUUR0000SEGB,2024-12-31,First month,2024-11-13,lagged,3.655378772956199,1.0,2.655378772956199,7.051036427866368,4.75,0.0,1
+162,Grooming,price_contribution,CUUR0000SEGB,2024-12-31,First month,2024-11-13,blend,4.571003079247444,1.0,3.5710030792474443,12.752062991994729,4.75,0.0,1
+163,Grooming,price_contribution,CUUR0000SEGB,2024-12-31,Second month,2024-12-11,baseline,5.75,1.0,4.75,22.5625,4.75,0.0,2
+163,Grooming,price_contribution,CUUR0000SEGB,2024-12-31,Second month,2024-12-11,last_actual,1.0,1.0,0.0,0.0,4.75,0.0,2
+163,Grooming,price_contribution,CUUR0000SEGB,2024-12-31,Second month,2024-12-11,bridge,3.55514247424619,1.0,2.55514247424619,6.528753063696941,4.75,0.0,2
+163,Grooming,price_contribution,CUUR0000SEGB,2024-12-31,Second month,2024-12-11,lagged,3.655378772956199,1.0,2.655378772956199,7.051036427866368,4.75,0.0,2
+163,Grooming,price_contribution,CUUR0000SEGB,2024-12-31,Second month,2024-12-11,blend,4.6525712371230945,1.0,3.6525712371230945,13.341276642258933,4.75,0.0,2
+217,Grooming,price_contribution,CUUR0000SEGB,2025-03-31,Origin,2025-01-01,baseline,5.75,2.0,3.75,14.0625,3.75,-1.0,0
+217,Grooming,price_contribution,CUUR0000SEGB,2025-03-31,Origin,2025-01-01,last_actual,1.0,2.0,-1.0,1.0,3.75,-1.0,0
+217,Grooming,price_contribution,CUUR0000SEGB,2025-03-31,Origin,2025-01-01,bridge,3.531207275705233,2.0,1.531207275705233,2.3445957211726416,3.75,-1.0,0
+217,Grooming,price_contribution,CUUR0000SEGB,2025-03-31,Origin,2025-01-01,blend,4.6406036378526165,2.0,2.6406036378526165,6.972787572240472,3.75,-1.0,0
+223,Grooming,price_contribution,CUUR0000SEGB,2025-03-31,Pre-earnings,2025-04-23,baseline,4.25,2.0,2.25,5.0625,2.25,-1.0,3
+223,Grooming,price_contribution,CUUR0000SEGB,2025-03-31,Pre-earnings,2025-04-23,last_actual,1.0,2.0,-1.0,1.0,2.25,-1.0,3
+223,Grooming,price_contribution,CUUR0000SEGB,2025-03-31,Pre-earnings,2025-04-23,bridge,2.8739624326862616,2.0,0.8739624326862616,0.7638103337468883,2.25,-1.0,3
+223,Grooming,price_contribution,CUUR0000SEGB,2025-03-31,Pre-earnings,2025-04-23,lagged,2.7466545874297217,2.0,0.7466545874297217,0.557493072929848,2.25,-1.0,3
+223,Grooming,price_contribution,CUUR0000SEGB,2025-03-31,Pre-earnings,2025-04-23,blend,3.561981216343131,2.0,1.5619812163431308,2.4397853202087663,2.25,-1.0,3
+220,Grooming,price_contribution,CUUR0000SEGB,2025-03-31,First month,2025-02-12,baseline,4.25,2.0,2.25,5.0625,2.25,-1.0,1
+220,Grooming,price_contribution,CUUR0000SEGB,2025-03-31,First month,2025-02-12,last_actual,1.0,2.0,-1.0,1.0,2.25,-1.0,1
+220,Grooming,price_contribution,CUUR0000SEGB,2025-03-31,First month,2025-02-12,bridge,3.1106327280466983,2.0,1.1106327280466983,1.2335050566084513,2.25,-1.0,1
+220,Grooming,price_contribution,CUUR0000SEGB,2025-03-31,First month,2025-02-12,lagged,2.7466545874297217,2.0,0.7466545874297217,0.557493072929848,2.25,-1.0,1
+220,Grooming,price_contribution,CUUR0000SEGB,2025-03-31,First month,2025-02-12,blend,3.680316364023349,2.0,1.6803163640233492,2.8234630832046483,2.25,-1.0,1
+221,Grooming,price_contribution,CUUR0000SEGB,2025-03-31,Second month,2025-03-12,baseline,4.25,2.0,2.25,5.0625,2.25,-1.0,2
+221,Grooming,price_contribution,CUUR0000SEGB,2025-03-31,Second month,2025-03-12,last_actual,1.0,2.0,-1.0,1.0,2.25,-1.0,2
+221,Grooming,price_contribution,CUUR0000SEGB,2025-03-31,Second month,2025-03-12,bridge,3.015004052798247,2.0,1.015004052798247,1.0302332271968664,2.25,-1.0,2
+221,Grooming,price_contribution,CUUR0000SEGB,2025-03-31,Second month,2025-03-12,lagged,2.7466545874297217,2.0,0.7466545874297217,0.557493072929848,2.25,-1.0,2
+221,Grooming,price_contribution,CUUR0000SEGB,2025-03-31,Second month,2025-03-12,blend,3.6325020263991235,2.0,1.6325020263991235,2.6650628661972444,2.25,-1.0,2
+275,Grooming,price_contribution,CUUR0000SEGB,2025-06-30,Origin,2025-04-01,baseline,4.25,4.0,0.25,0.0625,0.25,-3.0,0
+275,Grooming,price_contribution,CUUR0000SEGB,2025-06-30,Origin,2025-04-01,last_actual,1.0,4.0,-3.0,9.0,0.25,-3.0,0
+275,Grooming,price_contribution,CUUR0000SEGB,2025-06-30,Origin,2025-04-01,bridge,3.058174329481661,4.0,-0.9418256705183392,0.8870355936473192,0.25,-3.0,0
+275,Grooming,price_contribution,CUUR0000SEGB,2025-06-30,Origin,2025-04-01,blend,3.6540871647408304,4.0,-0.3459128352591696,0.11965568959703742,0.25,-3.0,0
+281,Grooming,price_contribution,CUUR0000SEGB,2025-06-30,Pre-earnings,2025-07-28,baseline,2.25,4.0,-1.75,3.0625,-1.75,-2.0,3
+281,Grooming,price_contribution,CUUR0000SEGB,2025-06-30,Pre-earnings,2025-07-28,last_actual,2.0,4.0,-2.0,4.0,-1.75,-2.0,3
+281,Grooming,price_contribution,CUUR0000SEGB,2025-06-30,Pre-earnings,2025-07-28,bridge,3.0019634010158756,4.0,-0.9980365989841244,0.996077052911798,-1.75,-2.0,3
+281,Grooming,price_contribution,CUUR0000SEGB,2025-06-30,Pre-earnings,2025-07-28,lagged,2.440758428185088,4.0,-1.559241571814912,2.4312342792758375,-1.75,-2.0,3
+281,Grooming,price_contribution,CUUR0000SEGB,2025-06-30,Pre-earnings,2025-07-28,blend,2.6259817005079378,4.0,-1.3740182994920622,1.8879262873390583,-1.75,-2.0,3
+278,Grooming,price_contribution,CUUR0000SEGB,2025-06-30,First month,2025-05-13,baseline,2.25,4.0,-1.75,3.0625,-1.75,-2.0,1
+278,Grooming,price_contribution,CUUR0000SEGB,2025-06-30,First month,2025-05-13,last_actual,2.0,4.0,-2.0,4.0,-1.75,-2.0,1
+278,Grooming,price_contribution,CUUR0000SEGB,2025-06-30,First month,2025-05-13,bridge,2.7589001693555617,4.0,-1.2410998306444383,1.5403287896256534,-1.75,-2.0,1
+278,Grooming,price_contribution,CUUR0000SEGB,2025-06-30,First month,2025-05-13,lagged,2.440758428185088,4.0,-1.559241571814912,2.4312342792758375,-1.75,-2.0,1
+278,Grooming,price_contribution,CUUR0000SEGB,2025-06-30,First month,2025-05-13,blend,2.5044500846777806,4.0,-1.4955499153222194,2.2366695492202977,-1.75,-2.0,1
+279,Grooming,price_contribution,CUUR0000SEGB,2025-06-30,Second month,2025-06-11,baseline,2.25,4.0,-1.75,3.0625,-1.75,-2.0,2
+279,Grooming,price_contribution,CUUR0000SEGB,2025-06-30,Second month,2025-06-11,last_actual,2.0,4.0,-2.0,4.0,-1.75,-2.0,2
+279,Grooming,price_contribution,CUUR0000SEGB,2025-06-30,Second month,2025-06-11,bridge,2.8714290536768567,4.0,-1.1285709463231433,1.273672380884715,-1.75,-2.0,2
+279,Grooming,price_contribution,CUUR0000SEGB,2025-06-30,Second month,2025-06-11,lagged,2.440758428185088,4.0,-1.559241571814912,2.4312342792758375,-1.75,-2.0,2
+279,Grooming,price_contribution,CUUR0000SEGB,2025-06-30,Second month,2025-06-11,blend,2.5607145268384284,4.0,-1.4392854731615716,2.071542673253929,-1.75,-2.0,2
+334,Grooming,price_contribution,CUUR0000SEGB,2025-09-30,Origin,2025-07-01,baseline,2.25,4.0,-1.75,3.0625,-1.75,-2.0,0
+334,Grooming,price_contribution,CUUR0000SEGB,2025-09-30,Origin,2025-07-01,last_actual,2.0,4.0,-2.0,4.0,-1.75,-2.0,0
+334,Grooming,price_contribution,CUUR0000SEGB,2025-09-30,Origin,2025-07-01,bridge,2.7659579658295366,4.0,-1.2340420341704634,1.5228597420995753,-1.75,-2.0,0
+334,Grooming,price_contribution,CUUR0000SEGB,2025-09-30,Origin,2025-07-01,blend,2.5079789829147683,4.0,-1.4920210170852317,2.226126715424049,-1.75,-2.0,0
+339,Grooming,price_contribution,CUUR0000SEGB,2025-09-30,Pre-earnings,2025-10-23,baseline,2.0,4.0,-2.0,4.0,-2.0,0.0,2
+339,Grooming,price_contribution,CUUR0000SEGB,2025-09-30,Pre-earnings,2025-10-23,last_actual,4.0,4.0,0.0,0.0,-2.0,0.0,2
+339,Grooming,price_contribution,CUUR0000SEGB,2025-09-30,Pre-earnings,2025-10-23,bridge,3.4359233226547916,4.0,-0.5640766773452084,0.31818249792481035,-2.0,0.0,2
+339,Grooming,price_contribution,CUUR0000SEGB,2025-09-30,Pre-earnings,2025-10-23,lagged,3.052668181682311,4.0,-0.9473318183176889,0.8974375739970987,-2.0,0.0,2
+339,Grooming,price_contribution,CUUR0000SEGB,2025-09-30,Pre-earnings,2025-10-23,blend,2.717961661327396,4.0,-1.2820383386726042,1.643622301826411,-2.0,0.0,2
+337,Grooming,price_contribution,CUUR0000SEGB,2025-09-30,First month,2025-08-12,baseline,2.0,4.0,-2.0,4.0,-2.0,0.0,1
+337,Grooming,price_contribution,CUUR0000SEGB,2025-09-30,First month,2025-08-12,last_actual,4.0,4.0,0.0,0.0,-2.0,0.0,1
+337,Grooming,price_contribution,CUUR0000SEGB,2025-09-30,First month,2025-08-12,bridge,3.1122535075431683,4.0,-0.8877464924568317,0.7880938348694075,-2.0,0.0,1
+337,Grooming,price_contribution,CUUR0000SEGB,2025-09-30,First month,2025-08-12,lagged,3.052668181682311,4.0,-0.9473318183176889,0.8974375739970987,-2.0,0.0,1
+337,Grooming,price_contribution,CUUR0000SEGB,2025-09-30,First month,2025-08-12,blend,2.556126753771584,4.0,-1.4438732462284158,2.0847699511741835,-2.0,0.0,1
+338,Grooming,price_contribution,CUUR0000SEGB,2025-09-30,Second month,2025-09-11,baseline,2.0,4.0,-2.0,4.0,-2.0,0.0,2
+338,Grooming,price_contribution,CUUR0000SEGB,2025-09-30,Second month,2025-09-11,last_actual,4.0,4.0,0.0,0.0,-2.0,0.0,2
+338,Grooming,price_contribution,CUUR0000SEGB,2025-09-30,Second month,2025-09-11,bridge,3.4359233226547916,4.0,-0.5640766773452084,0.31818249792481035,-2.0,0.0,2
+338,Grooming,price_contribution,CUUR0000SEGB,2025-09-30,Second month,2025-09-11,lagged,3.052668181682311,4.0,-0.9473318183176889,0.8974375739970987,-2.0,0.0,2
+338,Grooming,price_contribution,CUUR0000SEGB,2025-09-30,Second month,2025-09-11,blend,2.717961661327396,4.0,-1.2820383386726042,1.643622301826411,-2.0,0.0,2
+382,Grooming,price_contribution,CUUR0000SEGB,2025-12-31,Origin,2025-10-01,baseline,2.0,2.0,0.0,0.0,0.0,2.0,0
+382,Grooming,price_contribution,CUUR0000SEGB,2025-12-31,Origin,2025-10-01,last_actual,4.0,2.0,2.0,4.0,0.0,2.0,0
+382,Grooming,price_contribution,CUUR0000SEGB,2025-12-31,Origin,2025-10-01,bridge,3.4050253417338516,2.0,1.4050253417338516,1.9740962109143265,0.0,2.0,0
+382,Grooming,price_contribution,CUUR0000SEGB,2025-12-31,Origin,2025-10-01,blend,2.702512670866926,2.0,0.702512670866926,0.49352405272858196,0.0,2.0,0
+386,Grooming,price_contribution,CUUR0000SEGB,2025-12-31,Pre-earnings,2026-01-22,baseline,2.75,2.0,0.75,0.5625,0.75,2.0,2
+386,Grooming,price_contribution,CUUR0000SEGB,2025-12-31,Pre-earnings,2026-01-22,last_actual,4.0,2.0,2.0,4.0,0.75,2.0,2
+386,Grooming,price_contribution,CUUR0000SEGB,2025-12-31,Pre-earnings,2026-01-22,bridge,3.9249129755221874,2.0,1.9249129755221874,3.7052899633336813,0.75,2.0,2
+386,Grooming,price_contribution,CUUR0000SEGB,2025-12-31,Pre-earnings,2026-01-22,lagged,3.727981622625208,2.0,1.727981622625208,2.985920488130447,0.75,2.0,2
+386,Grooming,price_contribution,CUUR0000SEGB,2025-12-31,Pre-earnings,2026-01-22,blend,3.3374564877610937,2.0,1.3374564877610937,1.7887898566542406,0.75,2.0,2
+384,Grooming,price_contribution,CUUR0000SEGB,2025-12-31,First month,2025-12-18,baseline,2.75,2.0,0.75,0.5625,0.75,2.0,1
+384,Grooming,price_contribution,CUUR0000SEGB,2025-12-31,First month,2025-12-18,last_actual,4.0,2.0,2.0,4.0,0.75,2.0,1
+384,Grooming,price_contribution,CUUR0000SEGB,2025-12-31,First month,2025-12-18,bridge,3.7300827824451797,2.0,1.7300827824451797,2.993186434113255,0.75,2.0,1
+384,Grooming,price_contribution,CUUR0000SEGB,2025-12-31,First month,2025-12-18,lagged,3.727981622625208,2.0,1.727981622625208,2.985920488130447,0.75,2.0,1
+384,Grooming,price_contribution,CUUR0000SEGB,2025-12-31,First month,2025-12-18,blend,3.24004139122259,2.0,1.24004139122259,1.5377026519452566,0.75,2.0,1
+385,Grooming,price_contribution,CUUR0000SEGB,2025-12-31,Second month,2026-01-13,baseline,2.75,2.0,0.75,0.5625,0.75,2.0,2
+385,Grooming,price_contribution,CUUR0000SEGB,2025-12-31,Second month,2026-01-13,last_actual,4.0,2.0,2.0,4.0,0.75,2.0,2
+385,Grooming,price_contribution,CUUR0000SEGB,2025-12-31,Second month,2026-01-13,bridge,3.9249129755221874,2.0,1.9249129755221874,3.7052899633336813,0.75,2.0,2
+385,Grooming,price_contribution,CUUR0000SEGB,2025-12-31,Second month,2026-01-13,lagged,3.727981622625208,2.0,1.727981622625208,2.985920488130447,0.75,2.0,2
+385,Grooming,price_contribution,CUUR0000SEGB,2025-12-31,Second month,2026-01-13,blend,3.3374564877610937,2.0,1.3374564877610937,1.7887898566542406,0.75,2.0,2
+441,Grooming,price_contribution,CUUR0000SEGB,2026-03-31,Origin,2026-01-01,baseline,2.75,3.0,-0.25,0.0625,-0.25,1.0,0
+441,Grooming,price_contribution,CUUR0000SEGB,2026-03-31,Origin,2026-01-01,last_actual,4.0,3.0,1.0,1.0,-0.25,1.0,0
+441,Grooming,price_contribution,CUUR0000SEGB,2026-03-31,Origin,2026-01-01,bridge,3.8752791968126608,3.0,0.8752791968126608,0.7661136723730165,-0.25,1.0,0
+441,Grooming,price_contribution,CUUR0000SEGB,2026-03-31,Origin,2026-01-01,blend,3.3126395984063306,3.0,0.3126395984063306,0.09774351849167168,-0.25,1.0,0
+447,Grooming,price_contribution,CUUR0000SEGB,2026-03-31,Pre-earnings,2026-04-23,baseline,3.0,3.0,0.0,0.0,0.0,-1.0,3
+447,Grooming,price_contribution,CUUR0000SEGB,2026-03-31,Pre-earnings,2026-04-23,last_actual,2.0,3.0,-1.0,1.0,0.0,-1.0,3
+447,Grooming,price_contribution,CUUR0000SEGB,2026-03-31,Pre-earnings,2026-04-23,bridge,4.791084819615582,3.0,1.7910848196155822,3.2079848310573826,0.0,-1.0,3
+447,Grooming,price_contribution,CUUR0000SEGB,2026-03-31,Pre-earnings,2026-04-23,blend,3.895542409807791,3.0,0.8955424098077911,0.8019962077643457,0.0,-1.0,3
+444,Grooming,price_contribution,CUUR0000SEGB,2026-03-31,First month,2026-02-13,baseline,3.0,3.0,0.0,0.0,0.0,-1.0,1
+444,Grooming,price_contribution,CUUR0000SEGB,2026-03-31,First month,2026-02-13,last_actual,2.0,3.0,-1.0,1.0,0.0,-1.0,1
+444,Grooming,price_contribution,CUUR0000SEGB,2026-03-31,First month,2026-02-13,bridge,4.339056847235527,3.0,1.3390568472355273,1.7930732401283502,0.0,-1.0,1
+444,Grooming,price_contribution,CUUR0000SEGB,2026-03-31,First month,2026-02-13,blend,3.6695284236177637,3.0,0.6695284236177637,0.44826831003208756,0.0,-1.0,1
+445,Grooming,price_contribution,CUUR0000SEGB,2026-03-31,Second month,2026-03-11,baseline,3.0,3.0,0.0,0.0,0.0,-1.0,2
+445,Grooming,price_contribution,CUUR0000SEGB,2026-03-31,Second month,2026-03-11,last_actual,2.0,3.0,-1.0,1.0,0.0,-1.0,2
+445,Grooming,price_contribution,CUUR0000SEGB,2026-03-31,Second month,2026-03-11,bridge,4.598349984109782,3.0,1.598349984109782,2.55472267170374,0.0,-1.0,2
+445,Grooming,price_contribution,CUUR0000SEGB,2026-03-31,Second month,2026-03-11,blend,3.799174992054891,3.0,0.799174992054891,0.638680667925935,0.0,-1.0,2
+50,Beauty,organic_sales_growth,RSHPCS,2024-06-30,Origin,2024-04-01,baseline,6.0,3.0,3.0,9.0,3.0,-2.0,0
+50,Beauty,organic_sales_growth,RSHPCS,2024-06-30,Origin,2024-04-01,last_actual,1.0,3.0,-2.0,4.0,3.0,-2.0,0
+50,Beauty,organic_sales_growth,RSHPCS,2024-06-30,Origin,2024-04-01,bridge,3.99821031631611,3.0,0.99821031631611,0.9964238355999084,3.0,-2.0,0
+50,Beauty,organic_sales_growth,RSHPCS,2024-06-30,Origin,2024-04-01,blend,4.999105158158055,3.0,1.9991051581580548,3.9964214333741412,3.0,-2.0,0
+57,Beauty,organic_sales_growth,RSHPCS,2024-06-30,Pre-earnings,2024-07-29,baseline,5.0,3.0,2.0,4.0,2.0,0.0,3
+57,Beauty,organic_sales_growth,RSHPCS,2024-06-30,Pre-earnings,2024-07-29,last_actual,3.0,3.0,0.0,0.0,2.0,0.0,3
+57,Beauty,organic_sales_growth,RSHPCS,2024-06-30,Pre-earnings,2024-07-29,bridge,1.122816095532949,3.0,-1.877183904467051,3.523819411190163,2.0,0.0,3
+57,Beauty,organic_sales_growth,RSHPCS,2024-06-30,Pre-earnings,2024-07-29,lagged,4.509690769950732,3.0,1.5096907699507316,2.279166220874433,2.0,0.0,3
+57,Beauty,organic_sales_growth,RSHPCS,2024-06-30,Pre-earnings,2024-07-29,blend,3.0614080477664745,3.0,0.06140804776647446,0.003770948330489609,2.0,0.0,3
+54,Beauty,organic_sales_growth,RSHPCS,2024-06-30,First month,2024-05-15,baseline,5.0,3.0,2.0,4.0,2.0,0.0,1
+54,Beauty,organic_sales_growth,RSHPCS,2024-06-30,First month,2024-05-15,last_actual,3.0,3.0,0.0,0.0,2.0,0.0,1
+54,Beauty,organic_sales_growth,RSHPCS,2024-06-30,First month,2024-05-15,bridge,1.3727968826128945,3.0,-1.6272031173871055,2.6477899852343145,2.0,0.0,1
+54,Beauty,organic_sales_growth,RSHPCS,2024-06-30,First month,2024-05-15,lagged,4.5149673522679725,3.0,1.5149673522679725,2.295126078437831,2.0,0.0,1
+54,Beauty,organic_sales_growth,RSHPCS,2024-06-30,First month,2024-05-15,blend,3.186398441306447,3.0,0.186398441306447,0.03474437892147297,2.0,0.0,1
+55,Beauty,organic_sales_growth,RSHPCS,2024-06-30,Second month,2024-06-18,baseline,5.0,3.0,2.0,4.0,2.0,0.0,2
+55,Beauty,organic_sales_growth,RSHPCS,2024-06-30,Second month,2024-06-18,last_actual,3.0,3.0,0.0,0.0,2.0,0.0,2
+55,Beauty,organic_sales_growth,RSHPCS,2024-06-30,Second month,2024-06-18,bridge,1.0386877985361496,3.0,-1.9613122014638504,3.8467455516109754,2.0,0.0,2
+55,Beauty,organic_sales_growth,RSHPCS,2024-06-30,Second month,2024-06-18,lagged,4.513262146837988,3.0,1.513262146837988,2.289962325052717,2.0,0.0,2
+55,Beauty,organic_sales_growth,RSHPCS,2024-06-30,Second month,2024-06-18,blend,3.019343899268075,3.0,0.019343899268074782,0.0003741864388934241,2.0,0.0,2
+110,Beauty,organic_sales_growth,RSHPCS,2024-09-30,Origin,2024-07-01,baseline,5.0,-2.0,7.0,49.0,7.0,5.0,0
+110,Beauty,organic_sales_growth,RSHPCS,2024-09-30,Origin,2024-07-01,last_actual,3.0,-2.0,5.0,25.0,7.0,5.0,0
+110,Beauty,organic_sales_growth,RSHPCS,2024-09-30,Origin,2024-07-01,bridge,1.241059016698786,-2.0,3.2410590166987863,10.504463549724504,7.0,5.0,0
+110,Beauty,organic_sales_growth,RSHPCS,2024-09-30,Origin,2024-07-01,blend,3.120529508349393,-2.0,5.120529508349393,26.21982244587688,7.0,5.0,0
+115,Beauty,organic_sales_growth,RSHPCS,2024-09-30,Pre-earnings,2024-10-17,baseline,3.0,-2.0,5.0,25.0,5.0,5.0,3
+115,Beauty,organic_sales_growth,RSHPCS,2024-09-30,Pre-earnings,2024-10-17,last_actual,3.0,-2.0,5.0,25.0,5.0,5.0,3
+115,Beauty,organic_sales_growth,RSHPCS,2024-09-30,Pre-earnings,2024-10-17,bridge,3.550909557634802,-2.0,5.550909557634802,30.812596917041397,5.0,5.0,3
+115,Beauty,organic_sales_growth,RSHPCS,2024-09-30,Pre-earnings,2024-10-17,lagged,3.799855105152131,-2.0,5.799855105152131,33.638319240759245,5.0,5.0,3
+115,Beauty,organic_sales_growth,RSHPCS,2024-09-30,Pre-earnings,2024-10-17,blend,3.275454778817401,-2.0,5.2754547788174015,27.83042312334736,5.0,5.0,3
+113,Beauty,organic_sales_growth,RSHPCS,2024-09-30,First month,2024-08-15,baseline,3.0,-2.0,5.0,25.0,5.0,5.0,1
+113,Beauty,organic_sales_growth,RSHPCS,2024-09-30,First month,2024-08-15,last_actual,3.0,-2.0,5.0,25.0,5.0,5.0,1
+113,Beauty,organic_sales_growth,RSHPCS,2024-09-30,First month,2024-08-15,bridge,2.7166111310393575,-2.0,4.7166111310393575,22.246420561444367,5.0,5.0,1
+113,Beauty,organic_sales_growth,RSHPCS,2024-09-30,First month,2024-08-15,lagged,3.8805051237587698,-2.0,5.88050512375877,34.58034051055314,5.0,5.0,1
+113,Beauty,organic_sales_growth,RSHPCS,2024-09-30,First month,2024-08-15,blend,2.8583055655196787,-2.0,4.858305565519679,23.603132967959485,5.0,5.0,1
+114,Beauty,organic_sales_growth,RSHPCS,2024-09-30,Second month,2024-09-17,baseline,3.0,-2.0,5.0,25.0,5.0,5.0,2
+114,Beauty,organic_sales_growth,RSHPCS,2024-09-30,Second month,2024-09-17,last_actual,3.0,-2.0,5.0,25.0,5.0,5.0,2
+114,Beauty,organic_sales_growth,RSHPCS,2024-09-30,Second month,2024-09-17,bridge,3.3524298746419388,-2.0,5.352429874641938,28.648505562959514,5.0,5.0,2
+114,Beauty,organic_sales_growth,RSHPCS,2024-09-30,Second month,2024-09-17,lagged,3.8326199309099835,-2.0,5.832619930909983,34.019455258448374,5.0,5.0,2
+114,Beauty,organic_sales_growth,RSHPCS,2024-09-30,Second month,2024-09-17,blend,3.176214937320969,-2.0,5.176214937320969,26.793201077344726,5.0,5.0,2
+166,Beauty,organic_sales_growth,RSHPCS,2024-12-31,Origin,2024-10-01,baseline,3.0,2.0,1.0,1.0,1.0,1.0,0
+166,Beauty,organic_sales_growth,RSHPCS,2024-12-31,Origin,2024-10-01,last_actual,3.0,2.0,1.0,1.0,1.0,1.0,0
+166,Beauty,organic_sales_growth,RSHPCS,2024-12-31,Origin,2024-10-01,bridge,3.1092203030152543,2.0,1.1092203030152543,1.2303696806212525,1.0,1.0,0
+166,Beauty,organic_sales_growth,RSHPCS,2024-12-31,Origin,2024-10-01,blend,3.054610151507627,2.0,1.0546101515076272,1.1122025716629402,1.0,1.0,0
+172,Beauty,organic_sales_growth,RSHPCS,2024-12-31,Pre-earnings,2025-01-21,baseline,1.25,2.0,-0.75,0.5625,-0.75,-4.0,3
+172,Beauty,organic_sales_growth,RSHPCS,2024-12-31,Pre-earnings,2025-01-21,last_actual,-2.0,2.0,-4.0,16.0,-0.75,-4.0,3
+172,Beauty,organic_sales_growth,RSHPCS,2024-12-31,Pre-earnings,2025-01-21,bridge,1.992676949607022,2.0,-0.007323050392977981,5.3627067058094964e-05,-0.75,-4.0,3
+172,Beauty,organic_sales_growth,RSHPCS,2024-12-31,Pre-earnings,2025-01-21,lagged,3.169345357392285,2.0,1.169345357392285,1.3673685648548906,-0.75,-4.0,3
+172,Beauty,organic_sales_growth,RSHPCS,2024-12-31,Pre-earnings,2025-01-21,blend,1.621338474803511,2.0,-0.3786615251964891,0.14338455066413136,-0.75,-4.0,3
+169,Beauty,organic_sales_growth,RSHPCS,2024-12-31,First month,2024-11-15,baseline,1.25,2.0,-0.75,0.5625,-0.75,-4.0,1
+169,Beauty,organic_sales_growth,RSHPCS,2024-12-31,First month,2024-11-15,last_actual,-2.0,2.0,-4.0,16.0,-0.75,-4.0,1
+169,Beauty,organic_sales_growth,RSHPCS,2024-12-31,First month,2024-11-15,bridge,2.2761167283304395,2.0,0.27611672833043954,0.07624044766390575,-0.75,-4.0,1
+169,Beauty,organic_sales_growth,RSHPCS,2024-12-31,First month,2024-11-15,lagged,3.1906445067063087,2.0,1.1906445067063087,1.4176343413499093,-0.75,-4.0,1
+169,Beauty,organic_sales_growth,RSHPCS,2024-12-31,First month,2024-11-15,blend,1.7630583641652198,2.0,-0.23694163583478023,0.05614133879206161,-0.75,-4.0,1
+170,Beauty,organic_sales_growth,RSHPCS,2024-12-31,Second month,2024-12-17,baseline,1.25,2.0,-0.75,0.5625,-0.75,-4.0,2
+170,Beauty,organic_sales_growth,RSHPCS,2024-12-31,Second month,2024-12-17,last_actual,-2.0,2.0,-4.0,16.0,-0.75,-4.0,2
+170,Beauty,organic_sales_growth,RSHPCS,2024-12-31,Second month,2024-12-17,bridge,1.8726476883302465,2.0,-0.12735231166975347,0.016218611287630025,-0.75,-4.0,2
+170,Beauty,organic_sales_growth,RSHPCS,2024-12-31,Second month,2024-12-17,lagged,3.169427985671417,2.0,1.1694279856714171,1.3675618136715082,-0.75,-4.0,2
+170,Beauty,organic_sales_growth,RSHPCS,2024-12-31,Second month,2024-12-17,blend,1.5613238441651234,2.0,-0.4386761558348766,0.19243676969806497,-0.75,-4.0,2
+224,Beauty,organic_sales_growth,RSHPCS,2025-03-31,Origin,2025-01-01,baseline,1.25,2.0,-0.75,0.5625,-0.75,-4.0,0
+224,Beauty,organic_sales_growth,RSHPCS,2025-03-31,Origin,2025-01-01,last_actual,-2.0,2.0,-4.0,16.0,-0.75,-4.0,0
+224,Beauty,organic_sales_growth,RSHPCS,2025-03-31,Origin,2025-01-01,bridge,2.2922706801253954,2.0,0.29227068012539537,0.08542215046096117,-0.75,-4.0,0
+224,Beauty,organic_sales_growth,RSHPCS,2025-03-31,Origin,2025-01-01,blend,1.7711353400626977,2.0,-0.22886465993730232,0.052379032568217035,-0.75,-4.0,0
+230,Beauty,organic_sales_growth,RSHPCS,2025-03-31,Pre-earnings,2025-04-23,baseline,1.5,2.0,-0.5,0.25,-0.5,0.0,3
+230,Beauty,organic_sales_growth,RSHPCS,2025-03-31,Pre-earnings,2025-04-23,last_actual,2.0,2.0,0.0,0.0,-0.5,0.0,3
+230,Beauty,organic_sales_growth,RSHPCS,2025-03-31,Pre-earnings,2025-04-23,bridge,3.8648601982073387,2.0,1.8648601982073387,3.4777035588579146,-0.5,0.0,3
+230,Beauty,organic_sales_growth,RSHPCS,2025-03-31,Pre-earnings,2025-04-23,lagged,2.283228411837131,2.0,0.2832284118371309,0.08021833327178342,-0.5,0.0,3
+230,Beauty,organic_sales_growth,RSHPCS,2025-03-31,Pre-earnings,2025-04-23,blend,2.6824300991036694,2.0,0.6824300991036694,0.46571084016264397,-0.5,0.0,3
+227,Beauty,organic_sales_growth,RSHPCS,2025-03-31,First month,2025-02-14,baseline,1.5,2.0,-0.5,0.25,-0.5,0.0,1
+227,Beauty,organic_sales_growth,RSHPCS,2025-03-31,First month,2025-02-14,last_actual,2.0,2.0,0.0,0.0,-0.5,0.0,1
+227,Beauty,organic_sales_growth,RSHPCS,2025-03-31,First month,2025-02-14,bridge,2.8827525623256713,2.0,0.8827525623256713,0.7792520862925383,-0.5,0.0,1
+227,Beauty,organic_sales_growth,RSHPCS,2025-03-31,First month,2025-02-14,lagged,2.240242661047057,2.0,0.24024266104705694,0.05771653618697109,-0.5,0.0,1
+227,Beauty,organic_sales_growth,RSHPCS,2025-03-31,First month,2025-02-14,blend,2.1913762811628357,2.0,0.19137628116283567,0.03662488099171673,-0.5,0.0,1
+228,Beauty,organic_sales_growth,RSHPCS,2025-03-31,Second month,2025-03-17,baseline,1.5,2.0,-0.5,0.25,-0.5,0.0,2
+228,Beauty,organic_sales_growth,RSHPCS,2025-03-31,Second month,2025-03-17,last_actual,2.0,2.0,0.0,0.0,-0.5,0.0,2
+228,Beauty,organic_sales_growth,RSHPCS,2025-03-31,Second month,2025-03-17,bridge,3.560922941453755,2.0,1.560922941453755,2.436480429156643,-0.5,0.0,2
+228,Beauty,organic_sales_growth,RSHPCS,2025-03-31,Second month,2025-03-17,lagged,2.2983380637692137,2.0,0.2983380637692137,0.08900560029356341,-0.5,0.0,2
+228,Beauty,organic_sales_growth,RSHPCS,2025-03-31,Second month,2025-03-17,blend,2.5304614707268778,2.0,0.5304614707268778,0.2813893719257222,-0.5,0.0,2
+282,Beauty,organic_sales_growth,RSHPCS,2025-06-30,Origin,2025-04-01,baseline,1.5,1.0,0.5,0.25,0.5,1.0,0
+282,Beauty,organic_sales_growth,RSHPCS,2025-06-30,Origin,2025-04-01,last_actual,2.0,1.0,1.0,1.0,0.5,1.0,0
+282,Beauty,organic_sales_growth,RSHPCS,2025-06-30,Origin,2025-04-01,bridge,3.4678304305049714,1.0,2.4678304305049714,6.090187033726353,0.5,1.0,0
+282,Beauty,organic_sales_growth,RSHPCS,2025-06-30,Origin,2025-04-01,blend,2.4839152152524857,1.0,1.4839152152524857,2.202004366057831,0.5,1.0,0
+289,Beauty,organic_sales_growth,RSHPCS,2025-06-30,Pre-earnings,2025-07-28,baseline,1.25,1.0,0.25,0.0625,0.25,1.0,3
+289,Beauty,organic_sales_growth,RSHPCS,2025-06-30,Pre-earnings,2025-07-28,last_actual,2.0,1.0,1.0,1.0,0.25,1.0,3
+289,Beauty,organic_sales_growth,RSHPCS,2025-06-30,Pre-earnings,2025-07-28,bridge,4.170680866218208,1.0,3.170680866218208,10.053217155402248,0.25,1.0,3
+289,Beauty,organic_sales_growth,RSHPCS,2025-06-30,Pre-earnings,2025-07-28,lagged,4.0133259861250625,1.0,3.0133259861250625,9.080133498656581,0.25,1.0,3
+289,Beauty,organic_sales_growth,RSHPCS,2025-06-30,Pre-earnings,2025-07-28,blend,2.710340433109104,1.0,1.710340433109104,2.925264397127838,0.25,1.0,3
+286,Beauty,organic_sales_growth,RSHPCS,2025-06-30,First month,2025-05-15,baseline,1.25,1.0,0.25,0.0625,0.25,1.0,1
+286,Beauty,organic_sales_growth,RSHPCS,2025-06-30,First month,2025-05-15,last_actual,2.0,1.0,1.0,1.0,0.25,1.0,1
+286,Beauty,organic_sales_growth,RSHPCS,2025-06-30,First month,2025-05-15,bridge,4.279032949877683,1.0,3.279032949877683,10.752057086383541,0.25,1.0,1
+286,Beauty,organic_sales_growth,RSHPCS,2025-06-30,First month,2025-05-15,lagged,3.997104722663432,1.0,2.997104722663432,8.982636718611447,0.25,1.0,1
+286,Beauty,organic_sales_growth,RSHPCS,2025-06-30,First month,2025-05-15,blend,2.7645164749388416,1.0,1.7645164749388416,3.1135183903305954,0.25,1.0,1
+287,Beauty,organic_sales_growth,RSHPCS,2025-06-30,Second month,2025-06-17,baseline,1.25,1.0,0.25,0.0625,0.25,1.0,2
+287,Beauty,organic_sales_growth,RSHPCS,2025-06-30,Second month,2025-06-17,last_actual,2.0,1.0,1.0,1.0,0.25,1.0,2
+287,Beauty,organic_sales_growth,RSHPCS,2025-06-30,Second month,2025-06-17,bridge,4.188610227249959,1.0,3.188610227249959,10.167235181323035,0.25,1.0,2
+287,Beauty,organic_sales_growth,RSHPCS,2025-06-30,Second month,2025-06-17,lagged,4.010526183163521,1.0,3.0105261831635213,9.06326789951312,0.25,1.0,2
+287,Beauty,organic_sales_growth,RSHPCS,2025-06-30,Second month,2025-06-17,blend,2.7193051136249795,1.0,1.7193051136249795,2.9560100737370036,0.25,1.0,2
+340,Beauty,organic_sales_growth,RSHPCS,2025-09-30,Origin,2025-07-01,baseline,1.25,6.0,-4.75,22.5625,-4.75,-4.0,0
+340,Beauty,organic_sales_growth,RSHPCS,2025-09-30,Origin,2025-07-01,last_actual,2.0,6.0,-4.0,16.0,-4.75,-4.0,0
+340,Beauty,organic_sales_growth,RSHPCS,2025-09-30,Origin,2025-07-01,bridge,4.282575398397324,6.0,-1.7174246016026764,2.9495472621901118,-4.75,-4.0,0
+340,Beauty,organic_sales_growth,RSHPCS,2025-09-30,Origin,2025-07-01,blend,2.766287699198662,6.0,-3.233712300801338,10.456895244353884,-4.75,-4.0,0
+345,Beauty,organic_sales_growth,RSHPCS,2025-09-30,Pre-earnings,2025-10-23,baseline,0.75,6.0,-5.25,27.5625,-5.25,-5.0,2
+345,Beauty,organic_sales_growth,RSHPCS,2025-09-30,Pre-earnings,2025-10-23,last_actual,1.0,6.0,-5.0,25.0,-5.25,-5.0,2
+345,Beauty,organic_sales_growth,RSHPCS,2025-09-30,Pre-earnings,2025-10-23,bridge,3.1355711671769617,6.0,-2.8644288328230383,8.204952538307953,-5.25,-5.0,2
+345,Beauty,organic_sales_growth,RSHPCS,2025-09-30,Pre-earnings,2025-10-23,lagged,4.18411312576303,6.0,-1.8158868742369698,3.2974451400261127,-5.25,-5.0,2
+345,Beauty,organic_sales_growth,RSHPCS,2025-09-30,Pre-earnings,2025-10-23,blend,1.9427855835884809,6.0,-4.057214416411519,16.46098882073746,-5.25,-5.0,2
+343,Beauty,organic_sales_growth,RSHPCS,2025-09-30,First month,2025-08-15,baseline,0.75,6.0,-5.25,27.5625,-5.25,-5.0,1
+343,Beauty,organic_sales_growth,RSHPCS,2025-09-30,First month,2025-08-15,last_actual,1.0,6.0,-5.0,25.0,-5.25,-5.0,1
+343,Beauty,organic_sales_growth,RSHPCS,2025-09-30,First month,2025-08-15,bridge,3.4190040973199998,6.0,-2.5809959026800002,6.661539849650949,-5.25,-5.0,1
+343,Beauty,organic_sales_growth,RSHPCS,2025-09-30,First month,2025-08-15,lagged,4.1795767389055705,6.0,-1.8204232610944295,3.3139408495336777,-5.25,-5.0,1
+343,Beauty,organic_sales_growth,RSHPCS,2025-09-30,First month,2025-08-15,blend,2.08450204866,6.0,-3.91549795134,15.331124206947736,-5.25,-5.0,1
+344,Beauty,organic_sales_growth,RSHPCS,2025-09-30,Second month,2025-09-16,baseline,0.75,6.0,-5.25,27.5625,-5.25,-5.0,2
+344,Beauty,organic_sales_growth,RSHPCS,2025-09-30,Second month,2025-09-16,last_actual,1.0,6.0,-5.0,25.0,-5.25,-5.0,2
+344,Beauty,organic_sales_growth,RSHPCS,2025-09-30,Second month,2025-09-16,bridge,3.1355711671769617,6.0,-2.8644288328230383,8.204952538307953,-5.25,-5.0,2
+344,Beauty,organic_sales_growth,RSHPCS,2025-09-30,Second month,2025-09-16,lagged,4.18411312576303,6.0,-1.8158868742369698,3.2974451400261127,-5.25,-5.0,2
+344,Beauty,organic_sales_growth,RSHPCS,2025-09-30,Second month,2025-09-16,blend,1.9427855835884809,6.0,-4.057214416411519,16.46098882073746,-5.25,-5.0,2
+387,Beauty,organic_sales_growth,RSHPCS,2025-12-31,Origin,2025-10-01,baseline,0.75,4.0,-3.25,10.5625,-3.25,-3.0,0
+387,Beauty,organic_sales_growth,RSHPCS,2025-12-31,Origin,2025-10-01,last_actual,1.0,4.0,-3.0,9.0,-3.25,-3.0,0
+387,Beauty,organic_sales_growth,RSHPCS,2025-12-31,Origin,2025-10-01,bridge,3.34284824724948,4.0,-0.65715175275052,0.4318484261430805,-3.25,-3.0,0
+387,Beauty,organic_sales_growth,RSHPCS,2025-12-31,Origin,2025-10-01,blend,2.04642412362474,4.0,-1.9535758763752602,3.816458704755366,-3.25,-3.0,0
+392,Beauty,organic_sales_growth,RSHPCS,2025-12-31,Pre-earnings,2026-01-22,baseline,2.75,4.0,-1.25,1.5625,-1.25,2.0,2
+392,Beauty,organic_sales_growth,RSHPCS,2025-12-31,Pre-earnings,2026-01-22,last_actual,6.0,4.0,2.0,4.0,-1.25,2.0,2
+392,Beauty,organic_sales_growth,RSHPCS,2025-12-31,Pre-earnings,2026-01-22,bridge,3.450815705394759,4.0,-0.549184294605241,0.30160338944105614,-1.25,2.0,2
+392,Beauty,organic_sales_growth,RSHPCS,2025-12-31,Pre-earnings,2026-01-22,lagged,3.614025310106624,4.0,-0.3859746898933758,0.14897646123828762,-1.25,2.0,2
+392,Beauty,organic_sales_growth,RSHPCS,2025-12-31,Pre-earnings,2026-01-22,blend,3.1004078526973795,4.0,-0.8995921473026205,0.8092660314885396,-1.25,2.0,2
+390,Beauty,organic_sales_growth,RSHPCS,2025-12-31,First month,2025-12-16,baseline,2.75,4.0,-1.25,1.5625,-1.25,2.0,1
+390,Beauty,organic_sales_growth,RSHPCS,2025-12-31,First month,2025-12-16,last_actual,6.0,4.0,2.0,4.0,-1.25,2.0,1
+390,Beauty,organic_sales_growth,RSHPCS,2025-12-31,First month,2025-12-16,bridge,3.3293161418949415,4.0,-0.6706838581050585,0.4498168375226862,-1.25,2.0,1
+390,Beauty,organic_sales_growth,RSHPCS,2025-12-31,First month,2025-12-16,lagged,3.6111606427024996,4.0,-0.3888393572975004,0.15119604578353318,-1.25,2.0,1
+390,Beauty,organic_sales_growth,RSHPCS,2025-12-31,First month,2025-12-16,blend,3.0396580709474708,4.0,-0.9603419290525292,0.9222566206963331,-1.25,2.0,1
+391,Beauty,organic_sales_growth,RSHPCS,2025-12-31,Second month,2026-01-14,baseline,2.75,4.0,-1.25,1.5625,-1.25,2.0,2
+391,Beauty,organic_sales_growth,RSHPCS,2025-12-31,Second month,2026-01-14,last_actual,6.0,4.0,2.0,4.0,-1.25,2.0,2
+391,Beauty,organic_sales_growth,RSHPCS,2025-12-31,Second month,2026-01-14,bridge,3.450815705394759,4.0,-0.549184294605241,0.30160338944105614,-1.25,2.0,2
+391,Beauty,organic_sales_growth,RSHPCS,2025-12-31,Second month,2026-01-14,lagged,3.614025310106624,4.0,-0.3859746898933758,0.14897646123828762,-1.25,2.0,2
+391,Beauty,organic_sales_growth,RSHPCS,2025-12-31,Second month,2026-01-14,blend,3.1004078526973795,4.0,-0.8995921473026205,0.8092660314885396,-1.25,2.0,2
+448,Beauty,organic_sales_growth,RSHPCS,2026-03-31,Origin,2026-01-01,baseline,2.75,7.0,-4.25,18.0625,-4.25,-1.0,0
+448,Beauty,organic_sales_growth,RSHPCS,2026-03-31,Origin,2026-01-01,last_actual,6.0,7.0,-1.0,1.0,-4.25,-1.0,0
+448,Beauty,organic_sales_growth,RSHPCS,2026-03-31,Origin,2026-01-01,bridge,3.358939912804712,7.0,-3.641060087195288,13.257318558566556,-4.25,-1.0,0
+448,Beauty,organic_sales_growth,RSHPCS,2026-03-31,Origin,2026-01-01,blend,3.054469956402356,7.0,-3.945530043597644,15.567207324931626,-4.25,-1.0,0
+455,Beauty,organic_sales_growth,RSHPCS,2026-03-31,Pre-earnings,2026-04-23,baseline,3.25,7.0,-3.75,14.0625,-3.75,-3.0,3
+455,Beauty,organic_sales_growth,RSHPCS,2026-03-31,Pre-earnings,2026-04-23,last_actual,4.0,7.0,-3.0,9.0,-3.75,-3.0,3
+455,Beauty,organic_sales_growth,RSHPCS,2026-03-31,Pre-earnings,2026-04-23,bridge,2.488529051934432,7.0,-4.511470948065568,20.35337011523964,-3.75,-3.0,3
+455,Beauty,organic_sales_growth,RSHPCS,2026-03-31,Pre-earnings,2026-04-23,lagged,3.3869430550000343,7.0,-3.6130569449999657,13.054180487812484,-3.75,-3.0,3
+455,Beauty,organic_sales_growth,RSHPCS,2026-03-31,Pre-earnings,2026-04-23,blend,2.869264525967216,7.0,-4.130735474032784,17.06297555643285,-3.75,-3.0,3
+452,Beauty,organic_sales_growth,RSHPCS,2026-03-31,First month,2026-03-06,baseline,3.25,7.0,-3.75,14.0625,-3.75,-3.0,1
+452,Beauty,organic_sales_growth,RSHPCS,2026-03-31,First month,2026-03-06,last_actual,4.0,7.0,-3.0,9.0,-3.75,-3.0,1
+452,Beauty,organic_sales_growth,RSHPCS,2026-03-31,First month,2026-03-06,bridge,2.9509245070127745,7.0,-4.0490754929872255,16.39501234790974,-3.75,-3.0,1
+452,Beauty,organic_sales_growth,RSHPCS,2026-03-31,First month,2026-03-06,lagged,3.396971523573983,7.0,-3.603028476426017,12.981814201936785,-3.75,-3.0,1
+452,Beauty,organic_sales_growth,RSHPCS,2026-03-31,First month,2026-03-06,blend,3.1004622535063873,7.0,-3.8995377464936127,15.206394636328483,-3.75,-3.0,1
+453,Beauty,organic_sales_growth,RSHPCS,2026-03-31,Second month,2026-04-01,baseline,3.25,7.0,-3.75,14.0625,-3.75,-3.0,2
+453,Beauty,organic_sales_growth,RSHPCS,2026-03-31,Second month,2026-04-01,last_actual,4.0,7.0,-3.0,9.0,-3.75,-3.0,2
+453,Beauty,organic_sales_growth,RSHPCS,2026-03-31,Second month,2026-04-01,bridge,2.707811415181695,7.0,-4.292188584818305,18.422882847644566,-3.75,-3.0,2
+453,Beauty,organic_sales_growth,RSHPCS,2026-03-31,Second month,2026-04-01,lagged,3.39454078045199,7.0,-3.60545921954801,12.999336183823747,-3.75,-3.0,2
+453,Beauty,organic_sales_growth,RSHPCS,2026-03-31,Second month,2026-04-01,blend,2.9789057075908474,7.0,-4.021094292409153,16.169199308445464,-3.75,-3.0,2
+58,Health Care,organic_sales_growth,RSHPCS,2024-06-30,Origin,2024-04-01,baseline,6.5,4.0,2.5,6.25,2.5,-2.0,0
+58,Health Care,organic_sales_growth,RSHPCS,2024-06-30,Origin,2024-04-01,last_actual,2.0,4.0,-2.0,4.0,2.5,-2.0,0
+58,Health Care,organic_sales_growth,RSHPCS,2024-06-30,Origin,2024-04-01,bridge,8.67465104957645,4.0,4.67465104957645,21.85236243530621,2.5,-2.0,0
+58,Health Care,organic_sales_growth,RSHPCS,2024-06-30,Origin,2024-04-01,blend,7.587325524788225,4.0,3.587325524788225,12.868904420797115,2.5,-2.0,0
+65,Health Care,organic_sales_growth,RSHPCS,2024-06-30,Pre-earnings,2024-07-29,baseline,4.75,4.0,0.75,0.5625,0.75,-2.0,3
+65,Health Care,organic_sales_growth,RSHPCS,2024-06-30,Pre-earnings,2024-07-29,last_actual,2.0,4.0,-2.0,4.0,0.75,-2.0,3
+65,Health Care,organic_sales_growth,RSHPCS,2024-06-30,Pre-earnings,2024-07-29,bridge,7.688431484496908,4.0,3.688431484496908,13.604526815828065,0.75,-2.0,3
+65,Health Care,organic_sales_growth,RSHPCS,2024-06-30,Pre-earnings,2024-07-29,lagged,9.376646327522165,4.0,5.376646327522165,28.908325731257584,0.75,-2.0,3
+65,Health Care,organic_sales_growth,RSHPCS,2024-06-30,Pre-earnings,2024-07-29,blend,6.219215742248454,4.0,2.219215742248454,4.924918510643357,0.75,-2.0,3
+62,Health Care,organic_sales_growth,RSHPCS,2024-06-30,First month,2024-05-15,baseline,4.75,4.0,0.75,0.5625,0.75,-2.0,1
+62,Health Care,organic_sales_growth,RSHPCS,2024-06-30,First month,2024-05-15,last_actual,2.0,4.0,-2.0,4.0,0.75,-2.0,1
+62,Health Care,organic_sales_growth,RSHPCS,2024-06-30,First month,2024-05-15,bridge,7.682598603807676,4.0,3.6825986038076763,13.561532476766248,0.75,-2.0,1
+62,Health Care,organic_sales_growth,RSHPCS,2024-06-30,First month,2024-05-15,lagged,9.399879322732243,4.0,5.399879322732243,29.15869670007123,0.75,-2.0,1
+62,Health Care,organic_sales_growth,RSHPCS,2024-06-30,First month,2024-05-15,blend,6.216299301903838,4.0,2.216299301903838,4.91198259561944,0.75,-2.0,1
+63,Health Care,organic_sales_growth,RSHPCS,2024-06-30,Second month,2024-06-18,baseline,4.75,4.0,0.75,0.5625,0.75,-2.0,2
+63,Health Care,organic_sales_growth,RSHPCS,2024-06-30,Second month,2024-06-18,last_actual,2.0,4.0,-2.0,4.0,0.75,-2.0,2
+63,Health Care,organic_sales_growth,RSHPCS,2024-06-30,Second month,2024-06-18,bridge,7.67889159393566,4.0,3.67889159393566,13.53424335993046,0.75,-2.0,2
+63,Health Care,organic_sales_growth,RSHPCS,2024-06-30,Second month,2024-06-18,lagged,9.397383521112802,4.0,5.397383521112802,29.131748873980033,0.75,-2.0,2
+63,Health Care,organic_sales_growth,RSHPCS,2024-06-30,Second month,2024-06-18,blend,6.21444579696783,4.0,2.21444579696783,4.903770187708488,0.75,-2.0,2
+116,Health Care,organic_sales_growth,RSHPCS,2024-09-30,Origin,2024-07-01,baseline,4.75,4.0,0.75,0.5625,0.75,-2.0,0
+116,Health Care,organic_sales_growth,RSHPCS,2024-09-30,Origin,2024-07-01,last_actual,2.0,4.0,-2.0,4.0,0.75,-2.0,0
+116,Health Care,organic_sales_growth,RSHPCS,2024-09-30,Origin,2024-07-01,bridge,7.678086375002041,4.0,3.6780863750020414,13.528319381975658,0.75,-2.0,0
+116,Health Care,organic_sales_growth,RSHPCS,2024-09-30,Origin,2024-07-01,blend,6.214043187501021,4.0,2.214043187501021,4.901987236119682,0.75,-2.0,0
+121,Health Care,organic_sales_growth,RSHPCS,2024-09-30,Pre-earnings,2024-10-17,baseline,4.5,4.0,0.5,0.25,0.5,0.0,3
+121,Health Care,organic_sales_growth,RSHPCS,2024-09-30,Pre-earnings,2024-10-17,last_actual,4.0,4.0,0.0,0.0,0.5,0.0,3
+121,Health Care,organic_sales_growth,RSHPCS,2024-09-30,Pre-earnings,2024-10-17,bridge,7.095870979977274,4.0,3.095870979977274,9.584417124665448,0.5,0.0,3
+121,Health Care,organic_sales_growth,RSHPCS,2024-09-30,Pre-earnings,2024-10-17,lagged,7.7061246046476946,4.0,3.7061246046476946,13.735359585175031,0.5,0.0,3
+121,Health Care,organic_sales_growth,RSHPCS,2024-09-30,Pre-earnings,2024-10-17,blend,5.797935489988637,4.0,1.797935489988637,3.2325720261606805,0.5,0.0,3
+119,Health Care,organic_sales_growth,RSHPCS,2024-09-30,First month,2024-08-15,baseline,4.5,4.0,0.5,0.25,0.5,0.0,1
+119,Health Care,organic_sales_growth,RSHPCS,2024-09-30,First month,2024-08-15,last_actual,4.0,4.0,0.0,0.0,0.5,0.0,1
+119,Health Care,organic_sales_growth,RSHPCS,2024-09-30,First month,2024-08-15,bridge,6.682669262076683,4.0,2.6826692620766828,7.196714369691054,0.5,0.0,1
+119,Health Care,organic_sales_growth,RSHPCS,2024-09-30,First month,2024-08-15,lagged,7.8385423960265355,4.0,3.8385423960265355,14.734407726093135,0.5,0.0,1
+119,Health Care,organic_sales_growth,RSHPCS,2024-09-30,First month,2024-08-15,blend,5.591334631038341,4.0,1.5913346310383414,2.532345907941934,0.5,0.0,1
+120,Health Care,organic_sales_growth,RSHPCS,2024-09-30,Second month,2024-09-17,baseline,4.5,4.0,0.5,0.25,0.5,0.0,2
+120,Health Care,organic_sales_growth,RSHPCS,2024-09-30,Second month,2024-09-17,last_actual,4.0,4.0,0.0,0.0,0.5,0.0,2
+120,Health Care,organic_sales_growth,RSHPCS,2024-09-30,Second month,2024-09-17,bridge,7.000791528010131,4.0,3.000791528010131,9.004749794577378,0.5,0.0,2
+120,Health Care,organic_sales_growth,RSHPCS,2024-09-30,Second month,2024-09-17,lagged,7.748169855253563,4.0,3.748169855253563,14.048777263831514,0.5,0.0,2
+120,Health Care,organic_sales_growth,RSHPCS,2024-09-30,Second month,2024-09-17,blend,5.750395764005066,4.0,1.7503957640050656,3.0638853306468774,0.5,0.0,2
+173,Health Care,organic_sales_growth,RSHPCS,2024-12-31,Origin,2024-10-01,baseline,4.5,3.0,1.5,2.25,1.5,1.0,0
+173,Health Care,organic_sales_growth,RSHPCS,2024-12-31,Origin,2024-10-01,last_actual,4.0,3.0,1.0,1.0,1.5,1.0,0
+173,Health Care,organic_sales_growth,RSHPCS,2024-12-31,Origin,2024-10-01,bridge,6.888417035348825,3.0,3.8884170353488248,15.119787040790943,1.5,1.0,0
+173,Health Care,organic_sales_growth,RSHPCS,2024-12-31,Origin,2024-10-01,blend,5.694208517674412,3.0,2.6942085176744124,7.258759536709355,1.5,1.0,0
+179,Health Care,organic_sales_growth,RSHPCS,2024-12-31,Pre-earnings,2025-01-21,baseline,3.0,3.0,0.0,0.0,0.0,1.0,3
+179,Health Care,organic_sales_growth,RSHPCS,2024-12-31,Pre-earnings,2025-01-21,last_actual,4.0,3.0,1.0,1.0,0.0,1.0,3
+179,Health Care,organic_sales_growth,RSHPCS,2024-12-31,Pre-earnings,2025-01-21,bridge,6.292254401853317,3.0,3.2922544018533166,10.83893904652254,0.0,1.0,3
+179,Health Care,organic_sales_growth,RSHPCS,2024-12-31,Pre-earnings,2025-01-21,lagged,6.139322472118318,3.0,3.1393224721183177,9.855345583947067,0.0,1.0,3
+179,Health Care,organic_sales_growth,RSHPCS,2024-12-31,Pre-earnings,2025-01-21,blend,4.646127200926658,3.0,1.6461272009266583,2.709734761630635,0.0,1.0,3
+176,Health Care,organic_sales_growth,RSHPCS,2024-12-31,First month,2024-11-15,baseline,3.0,3.0,0.0,0.0,0.0,1.0,1
+176,Health Care,organic_sales_growth,RSHPCS,2024-12-31,First month,2024-11-15,last_actual,4.0,3.0,1.0,1.0,0.0,1.0,1
+176,Health Care,organic_sales_growth,RSHPCS,2024-12-31,First month,2024-11-15,bridge,6.447493177364675,3.0,3.4474931773646746,11.88520920797598,0.0,1.0,1
+176,Health Care,organic_sales_growth,RSHPCS,2024-12-31,First month,2024-11-15,lagged,6.142906437701377,3.0,3.1429064377013773,9.877860876144762,0.0,1.0,1
+176,Health Care,organic_sales_growth,RSHPCS,2024-12-31,First month,2024-11-15,blend,4.723746588682337,3.0,1.7237465886823369,2.9713023019939935,0.0,1.0,1
+177,Health Care,organic_sales_growth,RSHPCS,2024-12-31,Second month,2024-12-17,baseline,3.0,3.0,0.0,0.0,0.0,1.0,2
+177,Health Care,organic_sales_growth,RSHPCS,2024-12-31,Second month,2024-12-17,last_actual,4.0,3.0,1.0,1.0,0.0,1.0,2
+177,Health Care,organic_sales_growth,RSHPCS,2024-12-31,Second month,2024-12-17,bridge,6.245700890931792,3.0,3.2457008909317917,10.534574273395426,0.0,1.0,2
+177,Health Care,organic_sales_growth,RSHPCS,2024-12-31,Second month,2024-12-17,lagged,6.142576987860061,3.0,3.1425769878600613,9.875790124627617,0.0,1.0,2
+177,Health Care,organic_sales_growth,RSHPCS,2024-12-31,Second month,2024-12-17,blend,4.622850445465896,3.0,1.6228504454658959,2.6336435683488566,0.0,1.0,2
+231,Health Care,organic_sales_growth,RSHPCS,2025-03-31,Origin,2025-01-01,baseline,3.0,4.0,-1.0,1.0,-1.0,0.0,0
+231,Health Care,organic_sales_growth,RSHPCS,2025-03-31,Origin,2025-01-01,last_actual,4.0,4.0,0.0,0.0,-1.0,0.0,0
+231,Health Care,organic_sales_growth,RSHPCS,2025-03-31,Origin,2025-01-01,bridge,6.445790464111299,4.0,2.4457904641112993,5.981890994337765,-1.0,0.0,0
+231,Health Care,organic_sales_growth,RSHPCS,2025-03-31,Origin,2025-01-01,blend,4.72289523205565,4.0,0.7228952320556497,0.5225775165287916,-1.0,0.0,0
+237,Health Care,organic_sales_growth,RSHPCS,2025-03-31,Pre-earnings,2025-04-23,baseline,3.25,4.0,-0.75,0.5625,-0.75,-1.0,3
+237,Health Care,organic_sales_growth,RSHPCS,2025-03-31,Pre-earnings,2025-04-23,last_actual,3.0,4.0,-1.0,1.0,-0.75,-1.0,3
+237,Health Care,organic_sales_growth,RSHPCS,2025-03-31,Pre-earnings,2025-04-23,bridge,7.00349375429755,4.0,3.0034937542975504,9.020974732104394,-0.75,-1.0,3
+237,Health Care,organic_sales_growth,RSHPCS,2025-03-31,Pre-earnings,2025-04-23,lagged,5.87050386320386,4.0,1.8705038632038598,3.4987847022605636,-0.75,-1.0,3
+237,Health Care,organic_sales_growth,RSHPCS,2025-03-31,Pre-earnings,2025-04-23,blend,5.126746877148776,4.0,1.1267468771487756,1.269558525164518,-0.75,-1.0,3
+234,Health Care,organic_sales_growth,RSHPCS,2025-03-31,First month,2025-02-14,baseline,3.25,4.0,-0.75,0.5625,-0.75,-1.0,1
+234,Health Care,organic_sales_growth,RSHPCS,2025-03-31,First month,2025-02-14,last_actual,3.0,4.0,-1.0,1.0,-0.75,-1.0,1
+234,Health Care,organic_sales_growth,RSHPCS,2025-03-31,First month,2025-02-14,bridge,6.3665771376172575,4.0,2.3665771376172575,5.600687348292692,-0.75,-1.0,1
+234,Health Care,organic_sales_growth,RSHPCS,2025-03-31,First month,2025-02-14,lagged,5.859101432675744,4.0,1.859101432675744,3.456258136977004,-0.75,-1.0,1
+234,Health Care,organic_sales_growth,RSHPCS,2025-03-31,First month,2025-02-14,blend,4.808288568808629,4.0,0.8082885688086288,0.6533304104667014,-0.75,-1.0,1
+235,Health Care,organic_sales_growth,RSHPCS,2025-03-31,Second month,2025-03-17,baseline,3.25,4.0,-0.75,0.5625,-0.75,-1.0,2
+235,Health Care,organic_sales_growth,RSHPCS,2025-03-31,Second month,2025-03-17,last_actual,3.0,4.0,-1.0,1.0,-0.75,-1.0,2
+235,Health Care,organic_sales_growth,RSHPCS,2025-03-31,Second month,2025-03-17,bridge,6.814227536660778,4.0,2.814227536660778,7.919876628099789,-0.75,-1.0,2
+235,Health Care,organic_sales_growth,RSHPCS,2025-03-31,Second month,2025-03-17,lagged,5.861336313745061,4.0,1.8613363137450607,3.464572872866051,-0.75,-1.0,2
+235,Health Care,organic_sales_growth,RSHPCS,2025-03-31,Second month,2025-03-17,blend,5.0321137683303885,4.0,1.0321137683303885,1.0652588307771549,-0.75,-1.0,2
+290,Health Care,organic_sales_growth,RSHPCS,2025-06-30,Origin,2025-04-01,baseline,3.25,2.0,1.25,1.5625,1.25,1.0,0
+290,Health Care,organic_sales_growth,RSHPCS,2025-06-30,Origin,2025-04-01,last_actual,3.0,2.0,1.0,1.0,1.25,1.0,0
+290,Health Care,organic_sales_growth,RSHPCS,2025-06-30,Origin,2025-04-01,bridge,6.753869719715681,2.0,4.753869719715681,22.599277312029646,1.25,1.0,0
+290,Health Care,organic_sales_growth,RSHPCS,2025-06-30,Origin,2025-04-01,blend,5.00193485985784,2.0,3.0019348598578404,9.011612902829711,1.25,1.0,0
+297,Health Care,organic_sales_growth,RSHPCS,2025-06-30,Pre-earnings,2025-07-28,baseline,3.75,2.0,1.75,3.0625,1.75,2.0,3
+297,Health Care,organic_sales_growth,RSHPCS,2025-06-30,Pre-earnings,2025-07-28,last_actual,4.0,2.0,2.0,4.0,1.75,2.0,3
+297,Health Care,organic_sales_growth,RSHPCS,2025-06-30,Pre-earnings,2025-07-28,bridge,6.96236013179808,2.0,4.96236013179808,24.62501807765906,1.75,2.0,3
+297,Health Care,organic_sales_growth,RSHPCS,2025-06-30,Pre-earnings,2025-07-28,lagged,5.48789585039796,2.0,3.48789585039796,12.165417463223308,1.75,2.0,3
+297,Health Care,organic_sales_growth,RSHPCS,2025-06-30,Pre-earnings,2025-07-28,blend,5.35618006589904,2.0,3.35618006589904,11.263944634738085,1.75,2.0,3
+294,Health Care,organic_sales_growth,RSHPCS,2025-06-30,First month,2025-05-15,baseline,3.75,2.0,1.75,3.0625,1.75,2.0,1
+294,Health Care,organic_sales_growth,RSHPCS,2025-06-30,First month,2025-05-15,last_actual,4.0,2.0,2.0,4.0,1.75,2.0,1
+294,Health Care,organic_sales_growth,RSHPCS,2025-06-30,First month,2025-05-15,bridge,7.019464266589143,2.0,5.019464266589143,25.19502152356528,1.75,2.0,1
+294,Health Care,organic_sales_growth,RSHPCS,2025-06-30,First month,2025-05-15,lagged,5.489210689438005,2.0,3.4892106894380053,12.17459123528844,1.75,2.0,1
+294,Health Care,organic_sales_growth,RSHPCS,2025-06-30,First month,2025-05-15,blend,5.3847321332945715,2.0,3.3847321332945715,11.45641161415682,1.75,2.0,1
+295,Health Care,organic_sales_growth,RSHPCS,2025-06-30,Second month,2025-06-17,baseline,3.75,2.0,1.75,3.0625,1.75,2.0,2
+295,Health Care,organic_sales_growth,RSHPCS,2025-06-30,Second month,2025-06-17,last_actual,4.0,2.0,2.0,4.0,1.75,2.0,2
+295,Health Care,organic_sales_growth,RSHPCS,2025-06-30,Second month,2025-06-17,bridge,6.9692314660383445,2.0,4.9692314660383445,24.693261363065595,1.75,2.0,2
+295,Health Care,organic_sales_growth,RSHPCS,2025-06-30,Second month,2025-06-17,lagged,5.486089696329102,2.0,3.4860896963291017,12.152821370851928,1.75,2.0,2
+295,Health Care,organic_sales_growth,RSHPCS,2025-06-30,Second month,2025-06-17,blend,5.359615733019172,2.0,3.3596157330191723,11.28701787354995,1.75,2.0,2
+346,Health Care,organic_sales_growth,RSHPCS,2025-09-30,Origin,2025-07-01,baseline,3.75,1.0,2.75,7.5625,2.75,3.0,0
+346,Health Care,organic_sales_growth,RSHPCS,2025-09-30,Origin,2025-07-01,last_actual,4.0,1.0,3.0,9.0,2.75,3.0,0
+346,Health Care,organic_sales_growth,RSHPCS,2025-09-30,Origin,2025-07-01,bridge,7.01903666359559,1.0,6.01903666359559,36.22880235770793,2.75,3.0,0
+346,Health Care,organic_sales_growth,RSHPCS,2025-09-30,Origin,2025-07-01,blend,5.3845183317977945,1.0,4.3845183317977945,19.224001001870914,2.75,3.0,0
+351,Health Care,organic_sales_growth,RSHPCS,2025-09-30,Pre-earnings,2025-10-23,baseline,3.25,1.0,2.25,5.0625,2.25,1.0,2
+351,Health Care,organic_sales_growth,RSHPCS,2025-09-30,Pre-earnings,2025-10-23,last_actual,2.0,1.0,1.0,1.0,2.25,1.0,2
+351,Health Care,organic_sales_growth,RSHPCS,2025-09-30,Pre-earnings,2025-10-23,bridge,6.145248006543553,1.0,5.145248006543553,26.473577048840404,2.25,1.0,2
+351,Health Care,organic_sales_growth,RSHPCS,2025-09-30,Pre-earnings,2025-10-23,lagged,4.816404346284656,1.0,3.8164043462846564,14.564942134340416,2.25,1.0,2
+351,Health Care,organic_sales_growth,RSHPCS,2025-09-30,Pre-earnings,2025-10-23,blend,4.697624003271777,1.0,3.697624003271777,13.6724232695716,2.25,1.0,2
+349,Health Care,organic_sales_growth,RSHPCS,2025-09-30,First month,2025-08-15,baseline,3.25,1.0,2.25,5.0625,2.25,1.0,1
+349,Health Care,organic_sales_growth,RSHPCS,2025-09-30,First month,2025-08-15,last_actual,2.0,1.0,1.0,1.0,2.25,1.0,1
+349,Health Care,organic_sales_growth,RSHPCS,2025-09-30,First month,2025-08-15,bridge,6.156758532244142,1.0,5.156758532244142,26.592158559872757,2.25,1.0,1
+349,Health Care,organic_sales_growth,RSHPCS,2025-09-30,First month,2025-08-15,lagged,4.818732424548409,1.0,3.8187324245484087,14.582717330297367,2.25,1.0,1
+349,Health Care,organic_sales_growth,RSHPCS,2025-09-30,First month,2025-08-15,blend,4.703379266122071,1.0,3.703379266122071,13.715017988742849,2.25,1.0,1
+350,Health Care,organic_sales_growth,RSHPCS,2025-09-30,Second month,2025-09-16,baseline,3.25,1.0,2.25,5.0625,2.25,1.0,2
+350,Health Care,organic_sales_growth,RSHPCS,2025-09-30,Second month,2025-09-16,last_actual,2.0,1.0,1.0,1.0,2.25,1.0,2
+350,Health Care,organic_sales_growth,RSHPCS,2025-09-30,Second month,2025-09-16,bridge,6.145248006543553,1.0,5.145248006543553,26.473577048840404,2.25,1.0,2
+350,Health Care,organic_sales_growth,RSHPCS,2025-09-30,Second month,2025-09-16,lagged,4.816404346284656,1.0,3.8164043462846564,14.564942134340416,2.25,1.0,2
+350,Health Care,organic_sales_growth,RSHPCS,2025-09-30,Second month,2025-09-16,blend,4.697624003271777,1.0,3.697624003271777,13.6724232695716,2.25,1.0,2
+393,Health Care,organic_sales_growth,RSHPCS,2025-12-31,Origin,2025-10-01,baseline,3.25,3.0,0.25,0.0625,0.25,-1.0,0
+393,Health Care,organic_sales_growth,RSHPCS,2025-12-31,Origin,2025-10-01,last_actual,2.0,3.0,-1.0,1.0,0.25,-1.0,0
+393,Health Care,organic_sales_growth,RSHPCS,2025-12-31,Origin,2025-10-01,bridge,6.152974093054213,3.0,3.1529740930542127,9.941245631471036,0.25,-1.0,0
+393,Health Care,organic_sales_growth,RSHPCS,2025-12-31,Origin,2025-10-01,blend,4.701487046527106,3.0,1.701487046527106,2.895058169499534,0.25,-1.0,0
+398,Health Care,organic_sales_growth,RSHPCS,2025-12-31,Pre-earnings,2026-01-22,baseline,2.5,3.0,-0.5,0.25,-0.5,-2.0,2
+398,Health Care,organic_sales_growth,RSHPCS,2025-12-31,Pre-earnings,2026-01-22,last_actual,1.0,3.0,-2.0,4.0,-0.5,-2.0,2
+398,Health Care,organic_sales_growth,RSHPCS,2025-12-31,Pre-earnings,2026-01-22,bridge,5.778558720382089,3.0,2.7785587203820894,7.720388562611354,-0.5,-2.0,2
+398,Health Care,organic_sales_growth,RSHPCS,2025-12-31,Pre-earnings,2026-01-22,lagged,4.822615799618982,3.0,1.8226157996189816,3.3219283530207395,-0.5,-2.0,2
+398,Health Care,organic_sales_growth,RSHPCS,2025-12-31,Pre-earnings,2026-01-22,blend,4.139279360191045,3.0,1.1392793601910451,1.2979574605573172,-0.5,-2.0,2
+396,Health Care,organic_sales_growth,RSHPCS,2025-12-31,First month,2025-12-16,baseline,2.5,3.0,-0.5,0.25,-0.5,-2.0,1
+396,Health Care,organic_sales_growth,RSHPCS,2025-12-31,First month,2025-12-16,last_actual,1.0,3.0,-2.0,4.0,-0.5,-2.0,1
+396,Health Care,organic_sales_growth,RSHPCS,2025-12-31,First month,2025-12-16,bridge,5.7928117160580985,3.0,2.7928117160580985,7.799797281351381,-0.5,-2.0,1
+396,Health Care,organic_sales_growth,RSHPCS,2025-12-31,First month,2025-12-16,lagged,4.824835260166543,3.0,1.8248352601665427,3.330023726747094,-0.5,-2.0,1
+396,Health Care,organic_sales_growth,RSHPCS,2025-12-31,First month,2025-12-16,blend,4.146405858029049,3.0,1.1464058580290493,1.3142463913233207,-0.5,-2.0,1
+397,Health Care,organic_sales_growth,RSHPCS,2025-12-31,Second month,2026-01-14,baseline,2.5,3.0,-0.5,0.25,-0.5,-2.0,2
+397,Health Care,organic_sales_growth,RSHPCS,2025-12-31,Second month,2026-01-14,last_actual,1.0,3.0,-2.0,4.0,-0.5,-2.0,2
+397,Health Care,organic_sales_growth,RSHPCS,2025-12-31,Second month,2026-01-14,bridge,5.778558720382089,3.0,2.7785587203820894,7.720388562611354,-0.5,-2.0,2
+397,Health Care,organic_sales_growth,RSHPCS,2025-12-31,Second month,2026-01-14,lagged,4.822615799618982,3.0,1.8226157996189816,3.3219283530207395,-0.5,-2.0,2
+397,Health Care,organic_sales_growth,RSHPCS,2025-12-31,Second month,2026-01-14,blend,4.139279360191045,3.0,1.1392793601910451,1.2979574605573172,-0.5,-2.0,2
+456,Health Care,organic_sales_growth,RSHPCS,2026-03-31,Origin,2026-01-01,baseline,2.5,2.0,0.5,0.25,0.5,-1.0,0
+456,Health Care,organic_sales_growth,RSHPCS,2026-03-31,Origin,2026-01-01,last_actual,1.0,2.0,-1.0,1.0,0.5,-1.0,0
+456,Health Care,organic_sales_growth,RSHPCS,2026-03-31,Origin,2026-01-01,bridge,5.789412739834382,2.0,3.7894127398343818,14.359648912819116,0.5,-1.0,0
+456,Health Care,organic_sales_growth,RSHPCS,2026-03-31,Origin,2026-01-01,blend,4.144706369917191,2.0,2.1447063699171913,4.599765413163376,0.5,-1.0,0
+463,Health Care,organic_sales_growth,RSHPCS,2026-03-31,Pre-earnings,2026-04-23,baseline,2.5,2.0,0.5,0.25,0.5,1.0,3
+463,Health Care,organic_sales_growth,RSHPCS,2026-03-31,Pre-earnings,2026-04-23,last_actual,3.0,2.0,1.0,1.0,0.5,1.0,3
+463,Health Care,organic_sales_growth,RSHPCS,2026-03-31,Pre-earnings,2026-04-23,bridge,5.777252777864083,2.0,3.777252777864083,14.267638547881933,0.5,1.0,3
+463,Health Care,organic_sales_growth,RSHPCS,2026-03-31,Pre-earnings,2026-04-23,lagged,4.885406810339768,2.0,2.8854068103397683,8.325572461155115,0.5,1.0,3
+463,Health Care,organic_sales_growth,RSHPCS,2026-03-31,Pre-earnings,2026-04-23,blend,4.138626388932042,2.0,2.1386263889320416,4.573722831436504,0.5,1.0,3
+460,Health Care,organic_sales_growth,RSHPCS,2026-03-31,First month,2026-03-06,baseline,2.5,2.0,0.5,0.25,0.5,1.0,1
+460,Health Care,organic_sales_growth,RSHPCS,2026-03-31,First month,2026-03-06,last_actual,3.0,2.0,1.0,1.0,0.5,1.0,1
+460,Health Care,organic_sales_growth,RSHPCS,2026-03-31,First month,2026-03-06,bridge,5.67823475712004,2.0,3.67823475712004,13.529410928485921,0.5,1.0,1
+460,Health Care,organic_sales_growth,RSHPCS,2026-03-31,First month,2026-03-06,lagged,4.8806909018557665,2.0,2.8806909018557665,8.29838007203459,0.5,1.0,1
+460,Health Care,organic_sales_growth,RSHPCS,2026-03-31,First month,2026-03-06,blend,4.0891173785600206,2.0,2.0891173785600206,4.364411421401492,0.5,1.0,1
+461,Health Care,organic_sales_growth,RSHPCS,2026-03-31,Second month,2026-04-01,baseline,2.5,2.0,0.5,0.25,0.5,1.0,2
+461,Health Care,organic_sales_growth,RSHPCS,2026-03-31,Second month,2026-04-01,last_actual,3.0,2.0,1.0,1.0,0.5,1.0,2
+461,Health Care,organic_sales_growth,RSHPCS,2026-03-31,Second month,2026-04-01,bridge,5.725117220798552,2.0,3.725117220798552,13.876498308689927,0.5,1.0,2
+461,Health Care,organic_sales_growth,RSHPCS,2026-03-31,Second month,2026-04-01,lagged,4.880786421575472,2.0,2.880786421575472,8.298930406733612,0.5,1.0,2
+461,Health Care,organic_sales_growth,RSHPCS,2026-03-31,Second month,2026-04-01,blend,4.112558610399276,2.0,2.112558610399276,4.46290388237212,0.5,1.0,2
