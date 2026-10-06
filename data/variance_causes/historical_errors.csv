@@ -1,0 +1,41 @@
+metric,quarter,published,historical_forecast,actual,actual_minus_forecast,selected_method
+Baby / Feminine / Family volume,2024-09-30,2024-10-18,-2.0072610213353066,-1.0,1.0072610213353066,Market model
+Baby / Feminine / Family volume,2024-12-31,2025-01-22,-1.862489404553953,4.0,5.862489404553953,Market model
+Baby / Feminine / Family volume,2025-03-31,2025-04-24,-1.7923250922589065,-2.0,-0.20767490774109354,Market model
+Baby / Feminine / Family volume,2025-06-30,2025-07-29,-1.410079311365218,0.0,1.410079311365218,Market model
+Baby / Feminine / Family volume,2025-09-30,2025-10-24,-1.416490729360728,0.0,1.416490729360728,Market model
+Baby / Feminine / Family volume,2025-12-31,2026-01-23,-1.3014838120852832,-5.0,-3.698516187914717,Market model
+Baby / Feminine / Family volume,2026-03-31,2026-04-24,-1.2622665186845357,3.0,4.262266518684536,Market model
+Beauty organic sales,2024-09-30,2024-10-18,2.9547911480433524,-2.0,-4.954791148043352,Market model
+Beauty organic sales,2024-12-31,2025-01-22,3.2578599650684525,2.0,-1.2578599650684525,Market model
+Beauty organic sales,2025-03-31,2025-04-24,3.4413529741365867,2.0,-1.4413529741365867,Market model
+Beauty organic sales,2025-06-30,2025-07-29,3.4546356196306878,1.0,-2.4546356196306878,Market model
+Beauty organic sales,2025-09-30,2025-10-24,2.754872364812679,6.0,3.245127635187321,Market model
+Beauty organic sales,2025-12-31,2026-01-23,2.9949193448101177,4.0,1.0050806551898823,Market model
+Beauty organic sales,2026-03-31,2026-04-24,3.3130558414026603,7.0,3.6869441585973397,Market model
+Beauty volume,2024-09-30,2024-10-18,1.0,0.0,-1.0,Last actual
+Beauty volume,2024-12-31,2025-01-22,1.0,0.0,-1.0,Last actual
+Beauty volume,2025-03-31,2025-04-24,0.0,1.0,1.0,Last actual
+Beauty volume,2025-06-30,2025-07-29,0.0,1.0,1.0,Last actual
+Beauty volume,2025-09-30,2025-10-24,1.0,4.0,3.0,Last actual
+Beauty volume,2025-12-31,2026-01-23,1.0,3.0,2.0,Last actual
+Beauty volume,2026-03-31,2026-04-24,4.0,5.0,1.0,Last actual
+Beauty pricing,2024-09-30,2024-10-18,2.7604172900995416,1.0,-1.7604172900995416,Market model
+Beauty pricing,2024-12-31,2025-01-22,3.3161339469800235,2.0,-1.3161339469800235,Market model
+Beauty pricing,2025-03-31,2025-04-24,2.982675510990578,3.0,0.017324489009422184,Market model
+Beauty pricing,2025-06-30,2025-07-29,2.727734917264711,1.0,-1.7277349172647112,Market model
+Beauty pricing,2025-09-30,2025-10-24,2.4381824403154813,2.0,-0.43818244031548126,Market model
+Beauty pricing,2025-12-31,2026-01-23,3.7386979218094685,2.0,-1.7386979218094685,Market model
+Fabric & Home volume,2024-09-30,2024-10-18,0.0,1.0,1.0,Four-quarter mean
+Fabric & Home volume,2024-12-31,2025-01-22,1.25,2.0,0.75,Four-quarter mean
+Fabric & Home volume,2025-03-31,2025-04-24,1.5,0.0,-1.5,Four-quarter mean
+Fabric & Home volume,2025-06-30,2025-07-29,1.75,0.0,-1.75,Four-quarter mean
+Fabric & Home volume,2025-09-30,2025-10-24,1.5,-2.0,-3.5,Four-quarter mean
+Fabric & Home volume,2025-12-31,2026-01-23,0.75,0.0,-0.75,Four-quarter mean
+Fabric & Home volume,2026-03-31,2026-04-24,0.0,2.0,2.0,Four-quarter mean
+Health Care pricing,2024-09-30,2024-10-18,1.661008339494534,1.0,-0.6610083394945341,Market model
+Health Care pricing,2024-12-31,2025-01-22,1.4309943136780892,1.0,-0.43099431367808916,Market model
+Health Care pricing,2025-03-31,2025-04-24,1.511623375822945,1.0,-0.5116233758229449,Market model
+Health Care pricing,2025-06-30,2025-07-29,1.5776597079802979,1.0,-0.5776597079802979,Market model
+Health Care pricing,2025-09-30,2025-10-24,1.4914903531780526,1.0,-0.49149035317805256,Market model
+Health Care pricing,2025-12-31,2026-01-23,1.8021374109908532,1.0,-0.8021374109908532,Market model

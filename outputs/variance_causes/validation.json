@@ -1,0 +1,7 @@
+{
+  "financial_bridge": true,
+  "core_cost_bridge": true,
+  "simulation_counts_checked": true,
+  "calibration_matches_python": true,
+  "input_change_checked_and_restored": true
+}

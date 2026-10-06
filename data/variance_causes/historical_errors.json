@@ -1,0 +1,362 @@
+[
+  {
+    "metric": "Baby / Feminine / Family volume",
+    "quarter": "2024-09-30",
+    "published": "2024-10-18",
+    "historical_forecast": -2.0072610213353066,
+    "actual": -1.0,
+    "actual_minus_forecast": 1.0072610213353066,
+    "selected_method": "Market model"
+  },
+  {
+    "metric": "Baby / Feminine / Family volume",
+    "quarter": "2024-12-31",
+    "published": "2025-01-22",
+    "historical_forecast": -1.862489404553953,
+    "actual": 4.0,
+    "actual_minus_forecast": 5.862489404553953,
+    "selected_method": "Market model"
+  },
+  {
+    "metric": "Baby / Feminine / Family volume",
+    "quarter": "2025-03-31",
+    "published": "2025-04-24",
+    "historical_forecast": -1.7923250922589065,
+    "actual": -2.0,
+    "actual_minus_forecast": -0.20767490774109354,
+    "selected_method": "Market model"
+  },
+  {
+    "metric": "Baby / Feminine / Family volume",
+    "quarter": "2025-06-30",
+    "published": "2025-07-29",
+    "historical_forecast": -1.410079311365218,
+    "actual": 0.0,
+    "actual_minus_forecast": 1.410079311365218,
+    "selected_method": "Market model"
+  },
+  {
+    "metric": "Baby / Feminine / Family volume",
+    "quarter": "2025-09-30",
+    "published": "2025-10-24",
+    "historical_forecast": -1.416490729360728,
+    "actual": 0.0,
+    "actual_minus_forecast": 1.416490729360728,
+    "selected_method": "Market model"
+  },
+  {
+    "metric": "Baby / Feminine / Family volume",
+    "quarter": "2025-12-31",
+    "published": "2026-01-23",
+    "historical_forecast": -1.3014838120852832,
+    "actual": -5.0,
+    "actual_minus_forecast": -3.698516187914717,
+    "selected_method": "Market model"
+  },
+  {
+    "metric": "Baby / Feminine / Family volume",
+    "quarter": "2026-03-31",
+    "published": "2026-04-24",
+    "historical_forecast": -1.2622665186845357,
+    "actual": 3.0,
+    "actual_minus_forecast": 4.262266518684536,
+    "selected_method": "Market model"
+  },
+  {
+    "metric": "Beauty organic sales",
+    "quarter": "2024-09-30",
+    "published": "2024-10-18",
+    "historical_forecast": 2.9547911480433524,
+    "actual": -2.0,
+    "actual_minus_forecast": -4.954791148043352,
+    "selected_method": "Market model"
+  },
+  {
+    "metric": "Beauty organic sales",
+    "quarter": "2024-12-31",
+    "published": "2025-01-22",
+    "historical_forecast": 3.2578599650684525,
+    "actual": 2.0,
+    "actual_minus_forecast": -1.2578599650684525,
+    "selected_method": "Market model"
+  },
+  {
+    "metric": "Beauty organic sales",
+    "quarter": "2025-03-31",
+    "published": "2025-04-24",
+    "historical_forecast": 3.4413529741365867,
+    "actual": 2.0,
+    "actual_minus_forecast": -1.4413529741365867,
+    "selected_method": "Market model"
+  },
+  {
+    "metric": "Beauty organic sales",
+    "quarter": "2025-06-30",
+    "published": "2025-07-29",
+    "historical_forecast": 3.4546356196306878,
+    "actual": 1.0,
+    "actual_minus_forecast": -2.4546356196306878,
+    "selected_method": "Market model"
+  },
+  {
+    "metric": "Beauty organic sales",
+    "quarter": "2025-09-30",
+    "published": "2025-10-24",
+    "historical_forecast": 2.754872364812679,
+    "actual": 6.0,
+    "actual_minus_forecast": 3.245127635187321,
+    "selected_method": "Market model"
+  },
+  {
+    "metric": "Beauty organic sales",
+    "quarter": "2025-12-31",
+    "published": "2026-01-23",
+    "historical_forecast": 2.9949193448101177,
+    "actual": 4.0,
+    "actual_minus_forecast": 1.0050806551898823,
+    "selected_method": "Market model"
+  },
+  {
+    "metric": "Beauty organic sales",
+    "quarter": "2026-03-31",
+    "published": "2026-04-24",
+    "historical_forecast": 3.3130558414026603,
+    "actual": 7.0,
+    "actual_minus_forecast": 3.6869441585973397,
+    "selected_method": "Market model"
+  },
+  {
+    "metric": "Beauty volume",
+    "quarter": "2024-09-30",
+    "published": "2024-10-18",
+    "historical_forecast": 1.0,
+    "actual": 0.0,
+    "actual_minus_forecast": -1.0,
+    "selected_method": "Last actual"
+  },
+  {
+    "metric": "Beauty volume",
+    "quarter": "2024-12-31",
+    "published": "2025-01-22",
+    "historical_forecast": 1.0,
+    "actual": 0.0,
+    "actual_minus_forecast": -1.0,
+    "selected_method": "Last actual"
+  },
+  {
+    "metric": "Beauty volume",
+    "quarter": "2025-03-31",
+    "published": "2025-04-24",
+    "historical_forecast": 0.0,
+    "actual": 1.0,
+    "actual_minus_forecast": 1.0,
+    "selected_method": "Last actual"
+  },
+  {
+    "metric": "Beauty volume",
+    "quarter": "2025-06-30",
+    "published": "2025-07-29",
+    "historical_forecast": 0.0,
+    "actual": 1.0,
+    "actual_minus_forecast": 1.0,
+    "selected_method": "Last actual"
+  },
+  {
+    "metric": "Beauty volume",
+    "quarter": "2025-09-30",
+    "published": "2025-10-24",
+    "historical_forecast": 1.0,
+    "actual": 4.0,
+    "actual_minus_forecast": 3.0,
+    "selected_method": "Last actual"
+  },
+  {
+    "metric": "Beauty volume",
+    "quarter": "2025-12-31",
+    "published": "2026-01-23",
+    "historical_forecast": 1.0,
+    "actual": 3.0,
+    "actual_minus_forecast": 2.0,
+    "selected_method": "Last actual"
+  },
+  {
+    "metric": "Beauty volume",
+    "quarter": "2026-03-31",
+    "published": "2026-04-24",
+    "historical_forecast": 4.0,
+    "actual": 5.0,
+    "actual_minus_forecast": 1.0,
+    "selected_method": "Last actual"
+  },
+  {
+    "metric": "Beauty pricing",
+    "quarter": "2024-09-30",
+    "published": "2024-10-18",
+    "historical_forecast": 2.7604172900995416,
+    "actual": 1.0,
+    "actual_minus_forecast": -1.7604172900995416,
+    "selected_method": "Market model"
+  },
+  {
+    "metric": "Beauty pricing",
+    "quarter": "2024-12-31",
+    "published": "2025-01-22",
+    "historical_forecast": 3.3161339469800235,
+    "actual": 2.0,
+    "actual_minus_forecast": -1.3161339469800235,
+    "selected_method": "Market model"
+  },
+  {
+    "metric": "Beauty pricing",
+    "quarter": "2025-03-31",
+    "published": "2025-04-24",
+    "historical_forecast": 2.982675510990578,
+    "actual": 3.0,
+    "actual_minus_forecast": 0.017324489009422184,
+    "selected_method": "Market model"
+  },
+  {
+    "metric": "Beauty pricing",
+    "quarter": "2025-06-30",
+    "published": "2025-07-29",
+    "historical_forecast": 2.727734917264711,
+    "actual": 1.0,
+    "actual_minus_forecast": -1.7277349172647112,
+    "selected_method": "Market model"
+  },
+  {
+    "metric": "Beauty pricing",
+    "quarter": "2025-09-30",
+    "published": "2025-10-24",
+    "historical_forecast": 2.4381824403154813,
+    "actual": 2.0,
+    "actual_minus_forecast": -0.43818244031548126,
+    "selected_method": "Market model"
+  },
+  {
+    "metric": "Beauty pricing",
+    "quarter": "2025-12-31",
+    "published": "2026-01-23",
+    "historical_forecast": 3.7386979218094685,
+    "actual": 2.0,
+    "actual_minus_forecast": -1.7386979218094685,
+    "selected_method": "Market model"
+  },
+  {
+    "metric": "Fabric & Home volume",
+    "quarter": "2024-09-30",
+    "published": "2024-10-18",
+    "historical_forecast": 0.0,
+    "actual": 1.0,
+    "actual_minus_forecast": 1.0,
+    "selected_method": "Four-quarter mean"
+  },
+  {
+    "metric": "Fabric & Home volume",
+    "quarter": "2024-12-31",
+    "published": "2025-01-22",
+    "historical_forecast": 1.25,
+    "actual": 2.0,
+    "actual_minus_forecast": 0.75,
+    "selected_method": "Four-quarter mean"
+  },
+  {
+    "metric": "Fabric & Home volume",
+    "quarter": "2025-03-31",
+    "published": "2025-04-24",
+    "historical_forecast": 1.5,
+    "actual": 0.0,
+    "actual_minus_forecast": -1.5,
+    "selected_method": "Four-quarter mean"
+  },
+  {
+    "metric": "Fabric & Home volume",
+    "quarter": "2025-06-30",
+    "published": "2025-07-29",
+    "historical_forecast": 1.75,
+    "actual": 0.0,
+    "actual_minus_forecast": -1.75,
+    "selected_method": "Four-quarter mean"
+  },
+  {
+    "metric": "Fabric & Home volume",
+    "quarter": "2025-09-30",
+    "published": "2025-10-24",
+    "historical_forecast": 1.5,
+    "actual": -2.0,
+    "actual_minus_forecast": -3.5,
+    "selected_method": "Four-quarter mean"
+  },
+  {
+    "metric": "Fabric & Home volume",
+    "quarter": "2025-12-31",
+    "published": "2026-01-23",
+    "historical_forecast": 0.75,
+    "actual": 0.0,
+    "actual_minus_forecast": -0.75,
+    "selected_method": "Four-quarter mean"
+  },
+  {
+    "metric": "Fabric & Home volume",
+    "quarter": "2026-03-31",
+    "published": "2026-04-24",
+    "historical_forecast": 0.0,
+    "actual": 2.0,
+    "actual_minus_forecast": 2.0,
+    "selected_method": "Four-quarter mean"
+  },
+  {
+    "metric": "Health Care pricing",
+    "quarter": "2024-09-30",
+    "published": "2024-10-18",
+    "historical_forecast": 1.661008339494534,
+    "actual": 1.0,
+    "actual_minus_forecast": -0.6610083394945341,
+    "selected_method": "Market model"
+  },
+  {
+    "metric": "Health Care pricing",
+    "quarter": "2024-12-31",
+    "published": "2025-01-22",
+    "historical_forecast": 1.4309943136780892,
+    "actual": 1.0,
+    "actual_minus_forecast": -0.43099431367808916,
+    "selected_method": "Market model"
+  },
+  {
+    "metric": "Health Care pricing",
+    "quarter": "2025-03-31",
+    "published": "2025-04-24",
+    "historical_forecast": 1.511623375822945,
+    "actual": 1.0,
+    "actual_minus_forecast": -0.5116233758229449,
+    "selected_method": "Market model"
+  },
+  {
+    "metric": "Health Care pricing",
+    "quarter": "2025-06-30",
+    "published": "2025-07-29",
+    "historical_forecast": 1.5776597079802979,
+    "actual": 1.0,
+    "actual_minus_forecast": -0.5776597079802979,
+    "selected_method": "Market model"
+  },
+  {
+    "metric": "Health Care pricing",
+    "quarter": "2025-09-30",
+    "published": "2025-10-24",
+    "historical_forecast": 1.4914903531780526,
+    "actual": 1.0,
+    "actual_minus_forecast": -0.49149035317805256,
+    "selected_method": "Market model"
+  },
+  {
+    "metric": "Health Care pricing",
+    "quarter": "2025-12-31",
+    "published": "2026-01-23",
+    "historical_forecast": 1.8021374109908532,
+    "actual": 1.0,
+    "actual_minus_forecast": -0.8021374109908532,
+    "selected_method": "Market model"
+  }
+]

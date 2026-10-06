@@ -1,0 +1,128 @@
+[
+  {
+    "quarter": "2021-03-31",
+    "pricing": 2.0,
+    "volume": 2.0,
+    "organic_sales": 7.0
+  },
+  {
+    "quarter": "2021-06-30",
+    "pricing": 4.0,
+    "volume": 1.0,
+    "organic_sales": 6.0
+  },
+  {
+    "quarter": "2021-09-30",
+    "pricing": 2.0,
+    "volume": 0.0,
+    "organic_sales": 2.0
+  },
+  {
+    "quarter": "2021-12-31",
+    "pricing": 2.0,
+    "volume": 1.0,
+    "organic_sales": 2.0
+  },
+  {
+    "quarter": "2022-03-31",
+    "pricing": 4.0,
+    "volume": -1.0,
+    "organic_sales": 3.0
+  },
+  {
+    "quarter": "2022-06-30",
+    "pricing": 6.0,
+    "volume": -2.0,
+    "organic_sales": 0.0
+  },
+  {
+    "quarter": "2022-09-30",
+    "pricing": 7.0,
+    "volume": -1.0,
+    "organic_sales": 4.0
+  },
+  {
+    "quarter": "2022-12-31",
+    "pricing": 9.0,
+    "volume": -4.0,
+    "organic_sales": 3.0
+  },
+  {
+    "quarter": "2023-03-31",
+    "pricing": 8.0,
+    "volume": 0.0,
+    "organic_sales": 7.0
+  },
+  {
+    "quarter": "2023-06-30",
+    "pricing": 8.0,
+    "volume": -1.0,
+    "organic_sales": 11.0
+  },
+  {
+    "quarter": "2023-09-30",
+    "pricing": 7.0,
+    "volume": 0.0,
+    "organic_sales": 5.0
+  },
+  {
+    "quarter": "2023-12-31",
+    "pricing": 4.0,
+    "volume": -1.0,
+    "organic_sales": 1.0
+  },
+  {
+    "quarter": "2024-03-31",
+    "pricing": 4.0,
+    "volume": 1.0,
+    "organic_sales": 3.0
+  },
+  {
+    "quarter": "2024-06-30",
+    "pricing": 3.0,
+    "volume": 1.0,
+    "organic_sales": 3.0
+  },
+  {
+    "quarter": "2024-09-30",
+    "pricing": 1.0,
+    "volume": 0.0,
+    "organic_sales": -2.0
+  },
+  {
+    "quarter": "2024-12-31",
+    "pricing": 2.0,
+    "volume": 0.0,
+    "organic_sales": 2.0
+  },
+  {
+    "quarter": "2025-03-31",
+    "pricing": 3.0,
+    "volume": 1.0,
+    "organic_sales": 2.0
+  },
+  {
+    "quarter": "2025-06-30",
+    "pricing": 1.0,
+    "volume": 1.0,
+    "organic_sales": 1.0
+  },
+  {
+    "quarter": "2025-09-30",
+    "pricing": 2.0,
+    "volume": 4.0,
+    "organic_sales": 6.0
+  },
+  {
+    "quarter": "2025-12-31",
+    "pricing": 2.0,
+    "volume": 3.0,
+    "organic_sales": 4.0
+  },
+  {
+    "quarter": "2026-03-31",
+    "pricing": 1.0,
+    "volume": 5.0,
+    "organic_sales": 7.0
+  }
+]

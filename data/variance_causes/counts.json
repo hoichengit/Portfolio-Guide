@@ -1,0 +1,44 @@
+[
+  {
+    "metric": "Baby / Feminine / Family volume",
+    "below": 22345,
+    "near": 28029,
+    "above": 49626,
+    "draws": 100000
+  },
+  {
+    "metric": "Beauty organic sales",
+    "below": 49598,
+    "near": 30009,
+    "above": 20393,
+    "draws": 100000
+  },
+  {
+    "metric": "Beauty volume",
+    "below": 10042,
+    "near": 45291,
+    "above": 44667,
+    "draws": 100000
+  },
+  {
+    "metric": "Beauty pricing",
+    "below": 57943,
+    "near": 40144,
+    "above": 1913,
+    "draws": 100000
+  },
+  {
+    "metric": "Fabric & Home volume",
+    "below": 48629,
+    "near": 41656,
+    "above": 9715,
+    "draws": 100000
+  },
+  {
+    "metric": "Health Care pricing",
+    "below": 30593,
+    "near": 64514,
+    "above": 4893,
+    "draws": 100000
+  }
+]

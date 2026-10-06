@@ -1,0 +1,37 @@
+[
+  {
+    "metric": "Net sales",
+    "prior": 20889,
+    "actual": 21203,
+    "change": 314,
+    "change_pct": 0.015031834937048183
+  },
+  {
+    "metric": "Cost of products sold",
+    "prior": 10631,
+    "actual": 10920,
+    "change": 289,
+    "change_pct": 0.027184648668986844
+  },
+  {
+    "metric": "Gross profit",
+    "prior": 10258,
+    "actual": 10283,
+    "change": 25,
+    "change_pct": 0.0024371222460519704
+  },
+  {
+    "metric": "SG&A",
+    "prior": 5903,
+    "actual": 6334,
+    "change": 431,
+    "change_pct": 0.07301372183635446
+  },
+  {
+    "metric": "Operating income",
+    "prior": 4355,
+    "actual": 3949,
+    "change": -406,
+    "change_pct": -0.09322617680826639
+  }
+]

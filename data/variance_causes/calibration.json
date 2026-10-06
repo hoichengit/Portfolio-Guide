@@ -1,0 +1,74 @@
+[
+  {
+    "metric": "Baby / Feminine / Family volume",
+    "forecast": -1.652062168789822,
+    "bias": 0.9650215618265658,
+    "historical_sd": 3.0826182898680554,
+    "sd": 3.0826182898680554,
+    "sd_floor": 1.0,
+    "n": 6,
+    "df": 5,
+    "shrink": 0.5,
+    "method": "Market model"
+  },
+  {
+    "metric": "Beauty organic sales",
+    "forecast": 3.289568967374506,
+    "bias": -0.9764052360836457,
+    "historical_sd": 2.830397103427252,
+    "sd": 2.830397103427252,
+    "sd_floor": 1.0,
+    "n": 6,
+    "df": 5,
+    "shrink": 0.5,
+    "method": "Market model"
+  },
+  {
+    "metric": "Beauty volume",
+    "forecast": 5.0,
+    "bias": 0.8333333333333334,
+    "historical_sd": 1.602081978759722,
+    "sd": 1.602081978759722,
+    "sd_floor": 1.0,
+    "n": 6,
+    "df": 5,
+    "shrink": 0.5,
+    "method": "Last actual"
+  },
+  {
+    "metric": "Beauty pricing",
+    "forecast": 4.308198652998944,
+    "bias": -1.1606403379099672,
+    "historical_sd": 0.7680109418924421,
+    "sd": 1.0,
+    "sd_floor": 1.0,
+    "n": 6,
+    "df": 5,
+    "shrink": 0.5,
+    "method": "Market model"
+  },
+  {
+    "metric": "Fabric & Home volume",
+    "forecast": 0.0,
+    "bias": -0.9583333333333334,
+    "historical_sd": 1.6838695515587503,
+    "sd": 1.6838695515587503,
+    "sd_floor": 1.0,
+    "n": 6,
+    "df": 5,
+    "shrink": 0.5,
+    "method": "Four-quarter mean"
+  },
+  {
+    "metric": "Health Care pricing",
+    "forecast": 2.6809914443502034,
+    "bias": -0.5791522501907953,
+    "historical_sd": 0.13462582232866335,
+    "sd": 1.0,
+    "sd_floor": 1.0,
+    "n": 6,
+    "df": 5,
+    "shrink": 0.5,
+    "method": "Market model"
+  }
+]

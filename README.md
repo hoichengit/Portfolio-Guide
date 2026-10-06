@@ -44,7 +44,9 @@ This historical reconstruction separates what was known on 24 April from what wa
 
 👉 [**Did the forecast work? See predictions, actuals and error explanations**](analysis/08_april24_forecast_vs_actual.md) · [**Download the Excel comparison**](outputs/april24_forecast/PG_8_April24_Forecast_vs_Actual.xlsx)
 
-The dated point forecasts are now evaluated. A reconciled company-wide downside/base/upside model remains unfinished; these separate metric predictions must not be added together. Uncertainty ranges and Monte Carlo remain future work.
+👉 [**Why did the forecast miss? Business evidence and Monte Carlo outcomes**](analysis/09_variance_causes_and_risk.md) · [**Download the causes and simulation analysis**](outputs/variance_causes/PG_9_Variance_Causes_and_Monte_Carlo.xlsx)
+
+The dated point forecasts are now evaluated. A 100,000-draw simulation explores six separate metrics with assumption sensitivities. A reconciled company-wide downside/base/upside model remains unfinished; these metric predictions must not be added together.
 
 ## 🧰 Skills demonstrated so far
 
@@ -61,6 +63,6 @@ The dated point forecasts are now evaluated. A reconciled company-wide downside/
 <details>
 <summary>Project version</summary>
 
-This preview replaces the previous landing page and its March-start forecast framing. Earlier models and results remain in repository history and supporting files; they are not results of the revised April-start design. Monte Carlo has not yet been run for this design.
+This version uses the April-start forecast framing. Earlier models remain in repository history and supporting files. The current Monte Carlo is a retrospective uncertainty illustration with explicit assumptions, not a validated probability model.
 
 </details>

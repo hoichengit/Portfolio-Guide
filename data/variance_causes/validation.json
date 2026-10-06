@@ -1,0 +1,9 @@
+{
+  "financial_reconciliation": true,
+  "cost_driver_sums": true,
+  "probabilities_sum_to_one": true,
+  "no_target_actual_in_calibration": true,
+  "common_history_n": 6,
+  "draws": 100000,
+  "seed": 20260424
+}

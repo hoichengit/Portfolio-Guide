@@ -1,0 +1,30 @@
+[
+  {
+    "series": "PCENDC96",
+    "forecast_growth": 1.3039748661953787,
+    "later_growth": 2.2929415789273655,
+    "difference": 0.9889667127319868,
+    "vintage": "2026-08-01"
+  },
+  {
+    "series": "RSHPCS",
+    "forecast_growth": 1.7837994246906463,
+    "later_growth": 2.3335773008118954,
+    "difference": 0.5497778761212491,
+    "vintage": "2026-08-01"
+  },
+  {
+    "series": "CUUR0000SEGB02",
+    "forecast_growth": 1.578877328393169,
+    "later_growth": 2.644536352525484,
+    "difference": 1.065659024132315,
+    "vintage": "2026-08-01"
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "forecast_growth": 2.183289558800894,
+    "later_growth": 2.6822636221587537,
+    "difference": 0.4989740633578599,
+    "vintage": "2026-08-01"
+  }
+]

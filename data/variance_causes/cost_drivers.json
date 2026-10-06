@@ -1,0 +1,52 @@
+[
+  {
+    "measure": "Core gross margin",
+    "driver": "Productivity",
+    "basis_points": 160
+  },
+  {
+    "measure": "Core gross margin",
+    "driver": "Net tariffs / recoveries",
+    "basis_points": 40
+  },
+  {
+    "measure": "Core gross margin",
+    "driver": "Other / rounding",
+    "basis_points": 20
+  },
+  {
+    "measure": "Core gross margin",
+    "driver": "Pricing",
+    "basis_points": 10
+  },
+  {
+    "measure": "Core gross margin",
+    "driver": "Product mix",
+    "basis_points": -120
+  },
+  {
+    "measure": "Core gross margin",
+    "driver": "Product / pack investment",
+    "basis_points": -70
+  },
+  {
+    "measure": "Core gross margin",
+    "driver": "Commodities",
+    "basis_points": -40
+  },
+  {
+    "measure": "Core SG&A ratio",
+    "driver": "Reinvestment, mainly marketing",
+    "basis_points": 410
+  },
+  {
+    "measure": "Core SG&A ratio",
+    "driver": "Other / rounding",
+    "basis_points": 20
+  },
+  {
+    "measure": "Core SG&A ratio",
+    "driver": "Productivity",
+    "basis_points": -300
+  }
+]

@@ -1,0 +1,132 @@
+{
+  "seed": 20260424,
+  "draws": 100000,
+  "distribution": "Multivariate Student t",
+  "df": 5,
+  "correlation_shrinkage": 0.5,
+  "common_quarters": [
+    "2024-09-30",
+    "2024-12-31",
+    "2025-03-31",
+    "2025-06-30",
+    "2025-09-30",
+    "2025-12-31"
+  ],
+  "calibration_cutoff": "2026-04-24",
+  "target": "2026-06-30",
+  "historical_error_sign": "actual minus forecast",
+  "formula": "frozen point + historical mean error + max(historical SD, configured floor) * unit-variance correlated t innovation",
+  "scope": "Six separate measures; not an additive revenue model or probabilities of causal explanations.",
+  "limitations": [
+    "Only six common historical quarters; 100000 draws do not add historical evidence.",
+    "Models were selected using this same small historical evaluation sample; optimism is possible.",
+    "Origin timing differs from the April 24 post-report timing.",
+    "Distribution and 50% correlation shrinkage are analyst assumptions, not validated parameters.",
+    "The April\u2013June outcome is not used to calibrate the simulation; this design is retrospective.",
+    "Bias adjustment is a new sensitivity layer, not a revision to the frozen point forecasts.",
+    "The SD floor is an analyst risk assumption, not an estimate established by the six historical observations. The no-floor case is reported separately."
+  ],
+  "correlation": [
+    [
+      1.0,
+      -0.20616442573009927,
+      -0.5523830278565551,
+      0.0507979312847515,
+      0.25480226995400473,
+      0.8304052212916222
+    ],
+    [
+      -0.20616442573009927,
+      1.0,
+      0.8355547529096716,
+      0.4255249737368459,
+      -0.7203760556875716,
+      0.09373039321891119
+    ],
+    [
+      -0.5523830278565551,
+      0.8355547529096715,
+      0.9999999999999999,
+      0.3864381457992721,
+      -0.9050929772780577,
+      -0.16715849473734365
+    ],
+    [
+      0.0507979312847515,
+      0.42552497373684584,
+      0.3864381457992721,
+      1.0,
+      -0.55457848530954,
+      0.5744782140982169
+    ],
+    [
+      0.25480226995400473,
+      -0.7203760556875716,
+      -0.9050929772780577,
+      -0.5545784853095401,
+      1.0,
+      -0.18899684239869197
+    ],
+    [
+      0.8304052212916222,
+      0.09373039321891119,
+      -0.16715849473734368,
+      0.5744782140982169,
+      -0.18899684239869197,
+      1.0
+    ]
+  ],
+  "used_correlation": [
+    [
+      1.0,
+      -0.10308221286504964,
+      -0.27619151392827757,
+      0.02539896564237575,
+      0.12740113497700237,
+      0.4152026106458111
+    ],
+    [
+      -0.10308221286504964,
+      1.0,
+      0.4177773764548358,
+      0.21276248686842295,
+      -0.3601880278437858,
+      0.046865196609455595
+    ],
+    [
+      -0.27619151392827757,
+      0.41777737645483576,
+      1.0,
+      0.19321907289963605,
+      -0.45254648863902885,
+      -0.08357924736867182
+    ],
+    [
+      0.02539896564237575,
+      0.21276248686842292,
+      0.19321907289963605,
+      1.0,
+      -0.27728924265477,
+      0.28723910704910843
+    ],
+    [
+      0.12740113497700237,
+      -0.3601880278437858,
+      -0.45254648863902885,
+      -0.27728924265477006,
+      1.0,
+      -0.09449842119934598
+    ],
+    [
+      0.4152026106458111,
+      0.046865196609455595,
+      -0.08357924736867184,
+      0.28723910704910843,
+      -0.09449842119934598,
+      1.0
+    ]
+  ],
+  "max_monte_carlo_standard_error": 0.0015811388300841895,
+  "original_forecast_sha256": "91bb43524c36543cc09038c99449f6048961d25dd81716527b191a84d0fea55e",
+  "minimum_sd_pp": 1.0
+}
