@@ -1,0 +1,443 @@
+[
+  {
+    "metric": "Baby / Feminine / Family volume",
+    "method": "Last actual",
+    "n": 8,
+    "mae": 3.5,
+    "rmse": 4.444097208657794
+  },
+  {
+    "metric": "Baby / Feminine / Family volume",
+    "method": "Four-quarter mean",
+    "n": 8,
+    "mae": 2.53125,
+    "rmse": 3.3830921506810894
+  },
+  {
+    "metric": "Baby / Feminine / Family volume",
+    "method": "Recent two mean",
+    "n": 8,
+    "mae": 2.9375,
+    "rmse": 3.495532863527391
+  },
+  {
+    "metric": "Baby / Feminine / Family volume",
+    "method": "Prior-year quarter",
+    "n": 8,
+    "mae": 3.25,
+    "rmse": 4.330127018922194
+  },
+  {
+    "metric": "Baby / Feminine / Family volume",
+    "method": "Market level",
+    "n": 8,
+    "mae": 2.3440180073707646,
+    "rmse": 3.0053830527362826
+  },
+  {
+    "metric": "Baby / Feminine / Family volume",
+    "method": "Anchored market change",
+    "n": 8,
+    "mae": 3.5333701863699734,
+    "rmse": 4.500455582949742
+  },
+  {
+    "metric": "Baby / Feminine / Family volume",
+    "method": "Half last + market",
+    "n": 8,
+    "mae": 2.9220090036853823,
+    "rmse": 3.5637983964118995
+  },
+  {
+    "metric": "Baby / Feminine / Family volume",
+    "method": "Market bias correction",
+    "n": 8,
+    "mae": 2.3779610906752073,
+    "rmse": 3.150806391566025
+  },
+  {
+    "metric": "Baby / Feminine / Family volume",
+    "method": "Rolling selection",
+    "n": 8,
+    "mae": 2.4804054313299306,
+    "rmse": 3.372881322784609
+  },
+  {
+    "metric": "Beauty organic sales",
+    "method": "Last actual",
+    "n": 8,
+    "mae": 2.5,
+    "rmse": 3.1622776601683795
+  },
+  {
+    "metric": "Beauty organic sales",
+    "method": "Four-quarter mean",
+    "n": 8,
+    "mae": 2.34375,
+    "rmse": 3.0220543509341455
+  },
+  {
+    "metric": "Beauty organic sales",
+    "method": "Recent two mean",
+    "n": 8,
+    "mae": 2.1875,
+    "rmse": 2.6867731575255847
+  },
+  {
+    "metric": "Beauty organic sales",
+    "method": "Prior-year quarter",
+    "n": 8,
+    "mae": 4.25,
+    "rmse": 5.1478150704935
+  },
+  {
+    "metric": "Beauty organic sales",
+    "method": "Market level",
+    "n": 8,
+    "mae": 2.057707178591073,
+    "rmse": 2.5663451389306893
+  },
+  {
+    "metric": "Beauty organic sales",
+    "method": "Anchored market change",
+    "n": 8,
+    "mae": 2.5370074214990233,
+    "rmse": 3.1856093758697064
+  },
+  {
+    "metric": "Beauty organic sales",
+    "method": "Half last + market",
+    "n": 8,
+    "mae": 2.0477110391976625,
+    "rmse": 2.6288607228869143
+  },
+  {
+    "metric": "Beauty organic sales",
+    "method": "Market bias correction",
+    "n": 8,
+    "mae": 1.8727829679423122,
+    "rmse": 2.4510991019983437
+  },
+  {
+    "metric": "Beauty organic sales",
+    "method": "Rolling selection",
+    "n": 8,
+    "mae": 2.020335559875764,
+    "rmse": 2.5974118696993647
+  },
+  {
+    "metric": "Beauty volume",
+    "method": "Last actual",
+    "n": 8,
+    "mae": 1.0,
+    "rmse": 1.4142135623730951
+  },
+  {
+    "metric": "Beauty volume",
+    "method": "Four-quarter mean",
+    "n": 8,
+    "mae": 1.3125,
+    "rmse": 1.741048534648015
+  },
+  {
+    "metric": "Beauty volume",
+    "method": "Recent two mean",
+    "n": 8,
+    "mae": 1.125,
+    "rmse": 1.3693063937629153
+  },
+  {
+    "metric": "Beauty volume",
+    "method": "Prior-year quarter",
+    "n": 8,
+    "mae": 1.75,
+    "rmse": 2.3979157616563596
+  },
+  {
+    "metric": "Beauty volume",
+    "method": "Market level",
+    "n": 8,
+    "mae": 2.2319513898531964,
+    "rmse": 2.722196423568727
+  },
+  {
+    "metric": "Beauty volume",
+    "method": "Anchored market change",
+    "n": 8,
+    "mae": 1.066578682708755,
+    "rmse": 1.4440917147045238
+  },
+  {
+    "metric": "Beauty volume",
+    "method": "Half last + market",
+    "n": 8,
+    "mae": 1.4190357970087508,
+    "rmse": 1.9021729887715928
+  },
+  {
+    "metric": "Beauty volume",
+    "method": "Market bias correction",
+    "n": 8,
+    "mae": 1.5920448636498117,
+    "rmse": 2.1025217643432605
+  },
+  {
+    "metric": "Beauty volume",
+    "method": "Rolling selection",
+    "n": 8,
+    "mae": 1.2404367347154268,
+    "rmse": 1.4889621653685627
+  },
+  {
+    "metric": "Beauty pricing",
+    "method": "Last actual",
+    "n": 8,
+    "mae": 1.125,
+    "rmse": 1.2747548783981961
+  },
+  {
+    "metric": "Beauty pricing",
+    "method": "Four-quarter mean",
+    "n": 8,
+    "mae": 1.28125,
+    "rmse": 1.7207374872420256
+  },
+  {
+    "metric": "Beauty pricing",
+    "method": "Recent two mean",
+    "n": 8,
+    "mae": 1.0,
+    "rmse": 1.2747548783981961
+  },
+  {
+    "metric": "Beauty pricing",
+    "method": "Prior-year quarter",
+    "n": 8,
+    "mae": 2.375,
+    "rmse": 3.0618621784789726
+  },
+  {
+    "metric": "Beauty pricing",
+    "method": "Market level",
+    "n": 8,
+    "mae": 1.5123573544529996,
+    "rmse": 1.6873705638367564
+  },
+  {
+    "metric": "Beauty pricing",
+    "method": "Anchored market change",
+    "n": 8,
+    "mae": 1.1355434367763628,
+    "rmse": 1.2841073235587688
+  },
+  {
+    "metric": "Beauty pricing",
+    "method": "Half last + market",
+    "n": 8,
+    "mae": 1.1012298462289745,
+    "rmse": 1.3610521642032087
+  },
+  {
+    "metric": "Beauty pricing",
+    "method": "Market bias correction",
+    "n": 8,
+    "mae": 1.1022734692563143,
+    "rmse": 1.224373710669759
+  },
+  {
+    "metric": "Beauty pricing",
+    "method": "Rolling selection",
+    "n": 8,
+    "mae": 1.125,
+    "rmse": 1.2747548783981961
+  },
+  {
+    "metric": "Fabric & Home volume",
+    "method": "Last actual",
+    "n": 8,
+    "mae": 1.625,
+    "rmse": 1.7677669529663689
+  },
+  {
+    "metric": "Fabric & Home volume",
+    "method": "Four-quarter mean",
+    "n": 8,
+    "mae": 1.53125,
+    "rmse": 1.8853878911247945
+  },
+  {
+    "metric": "Fabric & Home volume",
+    "method": "Recent two mean",
+    "n": 8,
+    "mae": 1.4375,
+    "rmse": 1.6677080080157918
+  },
+  {
+    "metric": "Fabric & Home volume",
+    "method": "Prior-year quarter",
+    "n": 8,
+    "mae": 2.25,
+    "rmse": 2.598076211353316
+  },
+  {
+    "metric": "Fabric & Home volume",
+    "method": "Market level",
+    "n": 8,
+    "mae": 1.5707025434412483,
+    "rmse": 1.9951428348494153
+  },
+  {
+    "metric": "Fabric & Home volume",
+    "method": "Anchored market change",
+    "n": 8,
+    "mae": 1.7053217228107747,
+    "rmse": 1.8744496207393615
+  },
+  {
+    "metric": "Fabric & Home volume",
+    "method": "Half last + market",
+    "n": 8,
+    "mae": 1.3489633619559447,
+    "rmse": 1.6403628598894304
+  },
+  {
+    "metric": "Fabric & Home volume",
+    "method": "Market bias correction",
+    "n": 8,
+    "mae": 1.5181483751445686,
+    "rmse": 1.8466277125579154
+  },
+  {
+    "metric": "Fabric & Home volume",
+    "method": "Rolling selection",
+    "n": 8,
+    "mae": 1.8730106812388165,
+    "rmse": 2.0811439696866585
+  },
+  {
+    "metric": "Health Care pricing",
+    "method": "Last actual",
+    "n": 8,
+    "mae": 0.5,
+    "rmse": 0.8660254037844386
+  },
+  {
+    "metric": "Health Care pricing",
+    "method": "Four-quarter mean",
+    "n": 8,
+    "mae": 1.34375,
+    "rmse": 1.8434851504690781
+  },
+  {
+    "metric": "Health Care pricing",
+    "method": "Recent two mean",
+    "n": 8,
+    "mae": 0.75,
+    "rmse": 1.1989578808281798
+  },
+  {
+    "metric": "Health Care pricing",
+    "method": "Prior-year quarter",
+    "n": 8,
+    "mae": 2.25,
+    "rmse": 2.9154759474226504
+  },
+  {
+    "metric": "Health Care pricing",
+    "method": "Market level",
+    "n": 8,
+    "mae": 0.7823999554006036,
+    "rmse": 0.9972194233169287
+  },
+  {
+    "metric": "Health Care pricing",
+    "method": "Anchored market change",
+    "n": 8,
+    "mae": 0.47063085726096776,
+    "rmse": 0.8353933665959176
+  },
+  {
+    "metric": "Health Care pricing",
+    "method": "Half last + market",
+    "n": 8,
+    "mae": 0.6411999777003018,
+    "rmse": 0.8832710880919138
+  },
+  {
+    "metric": "Health Care pricing",
+    "method": "Market bias correction",
+    "n": 8,
+    "mae": 0.5618504248356058,
+    "rmse": 0.8341900013933529
+  },
+  {
+    "metric": "Health Care pricing",
+    "method": "Rolling selection",
+    "n": 8,
+    "mae": 0.6641962198468574,
+    "rmse": 0.9263138176712374
+  },
+  {
+    "metric": "All six measures",
+    "method": "Last actual",
+    "n": 48,
+    "mae": 1.7083333333333333,
+    "rmse": 2.4916527312876755
+  },
+  {
+    "metric": "All six measures",
+    "method": "Four-quarter mean",
+    "n": 48,
+    "mae": 1.7239583333333333,
+    "rmse": 2.3637342454965897
+  },
+  {
+    "metric": "All six measures",
+    "method": "Recent two mean",
+    "n": 48,
+    "mae": 1.5729166666666667,
+    "rmse": 2.127449568536624
+  },
+  {
+    "metric": "All six measures",
+    "method": "Prior-year quarter",
+    "n": 48,
+    "mae": 2.6875,
+    "rmse": 3.5502347340234652
+  },
+  {
+    "metric": "All six measures",
+    "method": "Market level",
+    "n": 48,
+    "mae": 1.7498560715183142,
+    "rmse": 2.267563632465187
+  },
+  {
+    "metric": "All six measures",
+    "method": "Anchored market change",
+    "n": 48,
+    "mae": 1.7414087179043094,
+    "rmse": 2.5281081037761024
+  },
+  {
+    "metric": "All six measures",
+    "method": "Half last + market",
+    "n": 48,
+    "mae": 1.5800248376295027,
+    "rmse": 2.1814846210269945
+  },
+  {
+    "metric": "All six measures",
+    "method": "Market bias correction",
+    "n": 48,
+    "mae": 1.5041768652506367,
+    "rmse": 2.0801067017935346
+  },
+  {
+    "metric": "All six measures",
+    "method": "Rolling selection",
+    "n": 48,
+    "mae": 1.5672307711677993,
+    "rmse": 2.127365455193945
+  }
+]

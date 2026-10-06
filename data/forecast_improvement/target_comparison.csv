@@ -1,0 +1,7 @@
+metric,method,old_forecast,new_forecast,actual,old_error,new_error,last,four
+Baby / Feminine / Family volume,Four-quarter mean,-1.652062168789822,-0.5,-1.0,0.652062168789822,0.5,3.0,-0.5
+Beauty organic sales,Market bias correction,3.289568967374506,3.8392820319313055,4.0,0.7104310326254941,0.16071796806869454,7.0,4.5
+Beauty volume,Last actual,5.0,5.0,3.0,2.0,2.0,5.0,3.25
+Beauty pricing,Recent two mean,4.308198652998944,1.5,1.0,3.308198652998944,0.5,1.0,1.5
+Fabric & Home volume,Half last + market,0.0,0.6790497883522549,1.0,1.0,0.32095021164774507,2.0,0.0
+Health Care pricing,Last actual,2.6809914443502034,2.0,2.0,0.6809914443502034,0.0,2.0,1.25

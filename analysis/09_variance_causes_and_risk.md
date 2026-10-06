@@ -1,5 +1,7 @@
 # P&G | Why did the forecast miss?
 
+**Follow-up:** [Revised forecasts and simulation tests](11_forecast_improvement.md). This page preserves the original investigation and simulation.
+
 **The largest miss came from our Beauty pricing model. The profit decline had a different explanation: higher operating costs and investment.**
 
 - 🔎 **Investigate:** volume, net pricing, product mix, countries, competitors, advertising, inventory and costs.

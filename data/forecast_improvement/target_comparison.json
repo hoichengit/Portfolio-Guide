@@ -1,0 +1,68 @@
+[
+  {
+    "metric": "Baby / Feminine / Family volume",
+    "method": "Four-quarter mean",
+    "old_forecast": -1.652062168789822,
+    "new_forecast": -0.5,
+    "actual": -1.0,
+    "old_error": 0.652062168789822,
+    "new_error": 0.5,
+    "last": 3.0,
+    "four": -0.5
+  },
+  {
+    "metric": "Beauty organic sales",
+    "method": "Market bias correction",
+    "old_forecast": 3.289568967374506,
+    "new_forecast": 3.8392820319313055,
+    "actual": 4.0,
+    "old_error": 0.7104310326254941,
+    "new_error": 0.16071796806869454,
+    "last": 7.0,
+    "four": 4.5
+  },
+  {
+    "metric": "Beauty volume",
+    "method": "Last actual",
+    "old_forecast": 5.0,
+    "new_forecast": 5.0,
+    "actual": 3.0,
+    "old_error": 2.0,
+    "new_error": 2.0,
+    "last": 5.0,
+    "four": 3.25
+  },
+  {
+    "metric": "Beauty pricing",
+    "method": "Recent two mean",
+    "old_forecast": 4.308198652998944,
+    "new_forecast": 1.5,
+    "actual": 1.0,
+    "old_error": 3.308198652998944,
+    "new_error": 0.5,
+    "last": 1.0,
+    "four": 1.5
+  },
+  {
+    "metric": "Fabric & Home volume",
+    "method": "Half last + market",
+    "old_forecast": 0.0,
+    "new_forecast": 0.6790497883522549,
+    "actual": 1.0,
+    "old_error": 1.0,
+    "new_error": 0.32095021164774507,
+    "last": 2.0,
+    "four": 0.0
+  },
+  {
+    "metric": "Health Care pricing",
+    "method": "Last actual",
+    "old_forecast": 2.6809914443502034,
+    "new_forecast": 2.0,
+    "actual": 2.0,
+    "old_error": 0.6809914443502034,
+    "new_error": 0.0,
+    "last": 2.0,
+    "four": 1.25
+  }
+]

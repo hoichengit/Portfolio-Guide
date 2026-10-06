@@ -1,0 +1,64 @@
+metric,method,n,mae,rmse
+Baby / Feminine / Family volume,Last actual,8,3.5,4.444097208657794
+Baby / Feminine / Family volume,Four-quarter mean,8,2.53125,3.3830921506810894
+Baby / Feminine / Family volume,Recent two mean,8,2.9375,3.495532863527391
+Baby / Feminine / Family volume,Prior-year quarter,8,3.25,4.330127018922194
+Baby / Feminine / Family volume,Market level,8,2.3440180073707646,3.0053830527362826
+Baby / Feminine / Family volume,Anchored market change,8,3.5333701863699734,4.500455582949742
+Baby / Feminine / Family volume,Half last + market,8,2.9220090036853823,3.5637983964118995
+Baby / Feminine / Family volume,Market bias correction,8,2.3779610906752073,3.150806391566025
+Baby / Feminine / Family volume,Rolling selection,8,2.4804054313299306,3.372881322784609
+Beauty organic sales,Last actual,8,2.5,3.1622776601683795
+Beauty organic sales,Four-quarter mean,8,2.34375,3.0220543509341455
+Beauty organic sales,Recent two mean,8,2.1875,2.6867731575255847
+Beauty organic sales,Prior-year quarter,8,4.25,5.1478150704935
+Beauty organic sales,Market level,8,2.057707178591073,2.5663451389306893
+Beauty organic sales,Anchored market change,8,2.5370074214990233,3.1856093758697064
+Beauty organic sales,Half last + market,8,2.0477110391976625,2.6288607228869143
+Beauty organic sales,Market bias correction,8,1.8727829679423122,2.4510991019983437
+Beauty organic sales,Rolling selection,8,2.020335559875764,2.5974118696993647
+Beauty volume,Last actual,8,1.0,1.4142135623730951
+Beauty volume,Four-quarter mean,8,1.3125,1.741048534648015
+Beauty volume,Recent two mean,8,1.125,1.3693063937629153
+Beauty volume,Prior-year quarter,8,1.75,2.3979157616563596
+Beauty volume,Market level,8,2.2319513898531964,2.722196423568727
+Beauty volume,Anchored market change,8,1.066578682708755,1.4440917147045238
+Beauty volume,Half last + market,8,1.4190357970087508,1.9021729887715928
+Beauty volume,Market bias correction,8,1.5920448636498117,2.1025217643432605
+Beauty volume,Rolling selection,8,1.2404367347154268,1.4889621653685627
+Beauty pricing,Last actual,8,1.125,1.2747548783981961
+Beauty pricing,Four-quarter mean,8,1.28125,1.7207374872420256
+Beauty pricing,Recent two mean,8,1.0,1.2747548783981961
+Beauty pricing,Prior-year quarter,8,2.375,3.0618621784789726
+Beauty pricing,Market level,8,1.5123573544529996,1.6873705638367564
+Beauty pricing,Anchored market change,8,1.1355434367763628,1.2841073235587688
+Beauty pricing,Half last + market,8,1.1012298462289745,1.3610521642032087
+Beauty pricing,Market bias correction,8,1.1022734692563143,1.224373710669759
+Beauty pricing,Rolling selection,8,1.125,1.2747548783981961
+Fabric & Home volume,Last actual,8,1.625,1.7677669529663689
+Fabric & Home volume,Four-quarter mean,8,1.53125,1.8853878911247945
+Fabric & Home volume,Recent two mean,8,1.4375,1.6677080080157918
+Fabric & Home volume,Prior-year quarter,8,2.25,2.598076211353316
+Fabric & Home volume,Market level,8,1.5707025434412483,1.9951428348494153
+Fabric & Home volume,Anchored market change,8,1.7053217228107747,1.8744496207393615
+Fabric & Home volume,Half last + market,8,1.3489633619559447,1.6403628598894304
+Fabric & Home volume,Market bias correction,8,1.5181483751445686,1.8466277125579154
+Fabric & Home volume,Rolling selection,8,1.8730106812388165,2.0811439696866585
+Health Care pricing,Last actual,8,0.5,0.8660254037844386
+Health Care pricing,Four-quarter mean,8,1.34375,1.8434851504690781
+Health Care pricing,Recent two mean,8,0.75,1.1989578808281798
+Health Care pricing,Prior-year quarter,8,2.25,2.9154759474226504
+Health Care pricing,Market level,8,0.7823999554006036,0.9972194233169287
+Health Care pricing,Anchored market change,8,0.47063085726096776,0.8353933665959176
+Health Care pricing,Half last + market,8,0.6411999777003018,0.8832710880919138
+Health Care pricing,Market bias correction,8,0.5618504248356058,0.8341900013933529
+Health Care pricing,Rolling selection,8,0.6641962198468574,0.9263138176712374
+All six measures,Last actual,48,1.7083333333333333,2.4916527312876755
+All six measures,Four-quarter mean,48,1.7239583333333333,2.3637342454965897
+All six measures,Recent two mean,48,1.5729166666666667,2.127449568536624
+All six measures,Prior-year quarter,48,2.6875,3.5502347340234652
+All six measures,Market level,48,1.7498560715183142,2.267563632465187
+All six measures,Anchored market change,48,1.7414087179043094,2.5281081037761024
+All six measures,Half last + market,48,1.5800248376295027,2.1814846210269945
+All six measures,Market bias correction,48,1.5041768652506367,2.0801067017935346
+All six measures,Rolling selection,48,1.5672307711677993,2.127365455193945

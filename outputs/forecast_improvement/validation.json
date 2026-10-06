@@ -1,0 +1,7 @@
+{
+  "target_error_checked": true,
+  "historical_mae_checked": true,
+  "coverage_checked": true,
+  "simulation_counts_checked": true,
+  "input_recalculation_checked_and_restored": true
+}

@@ -1,0 +1,8 @@
+{
+  "future_actual_poison_test": true,
+  "company_cutoffs_checked": true,
+  "market_vintages_checked": true,
+  "selection_uses_only_completed_quarters": true,
+  "probability_counts_reconcile": true,
+  "original_forecast_unchanged": true
+}

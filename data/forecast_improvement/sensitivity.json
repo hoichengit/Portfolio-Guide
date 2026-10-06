@@ -1,0 +1,128 @@
+[
+  {
+    "case": "Main",
+    "metric": "Baby / Feminine / Family volume",
+    "p10": -4.362547387885158,
+    "p90": 3.337162518705729,
+    "near": 0.28225
+  },
+  {
+    "case": "Main",
+    "metric": "Beauty organic sales",
+    "p10": 0.8807265308078134,
+    "p90": 6.797176409112972,
+    "near": 0.3612
+  },
+  {
+    "case": "Main",
+    "metric": "Beauty volume",
+    "p10": 3.295355365448568,
+    "p90": 6.7135547432715486,
+    "near": 0.57226
+  },
+  {
+    "case": "Main",
+    "metric": "Beauty pricing",
+    "p10": 0.04638729182621949,
+    "p90": 2.964271407297328,
+    "near": 0.64413
+  },
+  {
+    "case": "Main",
+    "metric": "Fabric & Home volume",
+    "p10": -1.6956610809031636,
+    "p90": 3.064342920314575,
+    "near": 0.43836
+  },
+  {
+    "case": "Main",
+    "metric": "Health Care pricing",
+    "p10": 0.8583662415630727,
+    "p90": 3.144476250259789,
+    "near": 0.74694
+  },
+  {
+    "case": "No floor",
+    "metric": "Baby / Feminine / Family volume",
+    "p10": -4.362547387885158,
+    "p90": 3.337162518705729,
+    "near": 0.28225
+  },
+  {
+    "case": "No floor",
+    "metric": "Beauty organic sales",
+    "p10": 0.8807265308078134,
+    "p90": 6.797176409112972,
+    "near": 0.3612
+  },
+  {
+    "case": "No floor",
+    "metric": "Beauty volume",
+    "p10": 3.295355365448568,
+    "p90": 6.7135547432715486,
+    "near": 0.57226
+  },
+  {
+    "case": "No floor",
+    "metric": "Beauty pricing",
+    "p10": 0.04638729182621949,
+    "p90": 2.964271407297328,
+    "near": 0.64413
+  },
+  {
+    "case": "No floor",
+    "metric": "Fabric & Home volume",
+    "p10": -1.6956610809031636,
+    "p90": 3.064342920314575,
+    "near": 0.43836
+  },
+  {
+    "case": "No floor",
+    "metric": "Health Care pricing",
+    "p10": 0.9424888748399265,
+    "p90": 3.0601441646122076,
+    "near": 0.77828
+  },
+  {
+    "case": "50% wider",
+    "metric": "Baby / Feminine / Family volume",
+    "p10": -6.293821081827736,
+    "p90": 5.255743778058593,
+    "near": 0.19125
+  },
+  {
+    "case": "50% wider",
+    "metric": "Beauty organic sales",
+    "p10": -0.5985512197539333,
+    "p90": 8.276123597703807,
+    "near": 0.24722
+  },
+  {
+    "case": "50% wider",
+    "metric": "Beauty volume",
+    "p10": 2.443033048172852,
+    "p90": 7.570332114907322,
+    "near": 0.41172
+  },
+  {
+    "case": "50% wider",
+    "metric": "Beauty pricing",
+    "p10": -0.6804190622606706,
+    "p90": 3.6964071109459926,
+    "near": 0.47444
+  },
+  {
+    "case": "50% wider",
+    "metric": "Fabric & Home volume",
+    "p10": -2.8830165155308727,
+    "p90": 4.256989486295735,
+    "near": 0.30336
+  },
+  {
+    "case": "50% wider",
+    "metric": "Health Care pricing",
+    "p10": 0.2875493623446091,
+    "p90": 3.7167143753896825,
+    "near": 0.57157
+  }
+]

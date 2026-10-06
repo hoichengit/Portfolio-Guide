@@ -46,6 +46,8 @@ This historical reconstruction separates what was known on 24 April from what wa
 
 👉 [**Why did the forecast miss? Business evidence and Monte Carlo outcomes**](analysis/09_variance_causes_and_risk.md) · [**Download the causes and simulation analysis**](outputs/variance_causes/PG_9_Variance_Causes_and_Monte_Carlo.xlsx)
 
+👉 [**Can we improve the forecast? Revised methods, historical tests and Monte Carlo**](analysis/11_forecast_improvement.md) · [**Open the revised Excel analysis**](outputs/forecast_improvement/PG_11_Forecast_Improvement.xlsx)
+
 The dated point forecasts are now evaluated. A 100,000-draw simulation explores six separate metrics with assumption sensitivities. A reconciled company-wide downside/base/upside model remains unfinished; these metric predictions must not be added together.
 
 ## 🧰 Skills demonstrated so far

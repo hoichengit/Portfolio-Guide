@@ -1,0 +1,74 @@
+[
+  {
+    "quarter": "2024-06-30",
+    "Baby / Feminine / Family volume": 0.9294247148302219,
+    "Beauty organic sales": -0.20189058258983827,
+    "Beauty volume": 1.0,
+    "Beauty pricing": -1.0,
+    "Fabric & Home volume": 2.8302201151665285,
+    "Health Care pricing": -1.9825509359098126
+  },
+  {
+    "quarter": "2024-09-30",
+    "Baby / Feminine / Family volume": 0.9335751121489584,
+    "Beauty organic sales": -5.038011159895085,
+    "Beauty volume": -1.0,
+    "Beauty pricing": -2.0,
+    "Fabric & Home volume": -2.0,
+    "Health Care pricing": -1.1927884318629043
+  },
+  {
+    "quarter": "2024-12-31",
+    "Baby / Feminine / Family volume": 5.862489404553953,
+    "Beauty organic sales": 1.3789756435028035,
+    "Beauty volume": 0.22548608847670445,
+    "Beauty pricing": 1.0,
+    "Fabric & Home volume": 1.0,
+    "Health Care pricing": -0.028100141540976065
+  },
+  {
+    "quarter": "2025-03-31",
+    "Baby / Feminine / Family volume": -0.20767490774109354,
+    "Beauty organic sales": 0.3167571361420558,
+    "Beauty volume": 1.1980077892467096,
+    "Beauty pricing": 1.0,
+    "Fabric & Home volume": -2.153865334744004,
+    "Health Care pricing": 0.09376186713160517
+  },
+  {
+    "quarter": "2025-06-30",
+    "Baby / Feminine / Family volume": 1.410079311365218,
+    "Beauty organic sales": -1.5123240245511873,
+    "Beauty volume": 0.5,
+    "Beauty pricing": -2.0,
+    "Fabric & Home volume": 0.0,
+    "Health Care pricing": 0.22134542878050278
+  },
+  {
+    "quarter": "2025-09-30",
+    "Baby / Feminine / Family volume": -0.25,
+    "Beauty organic sales": 3.5760399049204645,
+    "Beauty volume": 3.0,
+    "Beauty pricing": 1.0,
+    "Fabric & Home volume": -2.0,
+    "Health Care pricing": -0.1361684063222275
+  },
+  {
+    "quarter": "2025-12-31",
+    "Baby / Feminine / Family volume": -5.5,
+    "Beauty organic sales": 0.8633961180910945,
+    "Beauty volume": -1.0,
+    "Beauty pricing": 0.0,
+    "Fabric & Home volume": 2.0,
+    "Health Care pricing": -0.6588545472268312
+  },
+  {
+    "quarter": "2026-03-31",
+    "Baby / Feminine / Family volume": 4.75,
+    "Beauty organic sales": 3.2752899093135834,
+    "Beauty volume": 2.0,
+    "Beauty pricing": -1.0,
+    "Fabric & Home volume": 3.0,
+    "Health Care pricing": 1.0
+  }
+]

@@ -1,0 +1,15 @@
+{
+  "start": "2023-06-30",
+  "target": "2026-06-30",
+  "cutoff": "2026-04-24",
+  "min_selection": 4,
+  "score_window": 8,
+  "bias_window": 4,
+  "bias_weight": 0.5,
+  "challenger_improvement": 0.1,
+  "draws": 100000,
+  "seed": 20260424,
+  "df": 5,
+  "sd_floor": 1.0,
+  "correlation_shrinkage": 0.5
+}

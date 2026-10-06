@@ -1,0 +1,97 @@
+{
+  "historical_quarters": [
+    "2024-06-30",
+    "2024-09-30",
+    "2024-12-31",
+    "2025-03-31",
+    "2025-06-30",
+    "2025-09-30",
+    "2025-12-31",
+    "2026-03-31"
+  ],
+  "historical_scores": [
+    {
+      "metric": "All six measures",
+      "method": "Last actual",
+      "n": 48,
+      "mae": 1.7083333333333333,
+      "rmse": 2.4916527312876755
+    },
+    {
+      "metric": "All six measures",
+      "method": "Four-quarter mean",
+      "n": 48,
+      "mae": 1.7239583333333333,
+      "rmse": 2.3637342454965897
+    },
+    {
+      "metric": "All six measures",
+      "method": "Recent two mean",
+      "n": 48,
+      "mae": 1.5729166666666667,
+      "rmse": 2.127449568536624
+    },
+    {
+      "metric": "All six measures",
+      "method": "Prior-year quarter",
+      "n": 48,
+      "mae": 2.6875,
+      "rmse": 3.5502347340234652
+    },
+    {
+      "metric": "All six measures",
+      "method": "Market level",
+      "n": 48,
+      "mae": 1.7498560715183142,
+      "rmse": 2.267563632465187
+    },
+    {
+      "metric": "All six measures",
+      "method": "Anchored market change",
+      "n": 48,
+      "mae": 1.7414087179043094,
+      "rmse": 2.5281081037761024
+    },
+    {
+      "metric": "All six measures",
+      "method": "Half last + market",
+      "n": 48,
+      "mae": 1.5800248376295027,
+      "rmse": 2.1814846210269945
+    },
+    {
+      "metric": "All six measures",
+      "method": "Market bias correction",
+      "n": 48,
+      "mae": 1.5041768652506367,
+      "rmse": 2.0801067017935346
+    },
+    {
+      "metric": "All six measures",
+      "method": "Rolling selection",
+      "n": 48,
+      "mae": 1.5672307711677993,
+      "rmse": 2.127365455193945
+    }
+  ],
+  "target_old_mae": 1.3919472164607438,
+  "target_new_mae": 0.5802780299527399,
+  "target_last_mae": 1.6666666666666667,
+  "target_four_mae": 0.5833333333333334,
+  "interval_test_count": 24,
+  "interval_coverage": 0.6666666666666666,
+  "interval_mean_width": 4.190849728472009,
+  "target_coverage": 0.8333333333333334,
+  "stale_vintage_max_days": 0,
+  "frozen_original_sha": "91bb43524c36543cc09038c99449f6048961d25dd81716527b191a84d0fea55e",
+  "new_unscored_sha": "d94cbfaf293835074175c232479157ef61d91557674ddf3a7db31c30f8bebd9f",
+  "limitations": [
+    "Retrospective redesign after all outcomes were seen; no untouched holdout.",
+    "Candidates and metric scope were chosen during prior development.",
+    "Archived vintages can predate the desired cutoff; company actuals use the preserved archive, not a full restatement-vintage database.",
+    "Six metrics overlap and are not a reconciled revenue model.",
+    "No advertising or promotion response parameters are invented.",
+    "Student t, 1pp scale floor and 50% correlation shrinkage remain analyst assumptions.",
+    "Marginal probabilities do not identify causes; historical coverage is based on few dependent observations."
+  ]
+}
