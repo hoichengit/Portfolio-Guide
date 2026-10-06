@@ -28,7 +28,11 @@
 - **Competitors:** optional checks for industry performance and market share; no peer coefficient enters this model.
 - **Latest extension:** 12 test quarters, product-price and company-history challengers, chronological bias correction and a separate tariff-timing calculator. Correction helped Beauty but worsened Grooming.
 
-👉 **[New: which model changes helped, and why policy timing matters](analysis/06_driver_policy_tests.md)** · [Download the new Excel analysis](outputs/driver_tests/PG_6_Driver_and_Policy_Tests.xlsx)
+👉 **[New: first test the market relationship, then predict missing months](analysis/07_two_stage_forecast.md)** · [Download the two-stage Excel analysis](outputs/two_stage/PG_7_Two_Stage_Forecast.xlsx)
+
+Six early candidates were tested on seven later target quarters. Some helped; better monthly market estimates did not always improve P&G forecasts.
+
+👉 **[Which model changes helped, and why policy timing matters](analysis/06_driver_policy_tests.md)** · [Download the new Excel analysis](outputs/driver_tests/PG_6_Driver_and_Policy_Tests.xlsx)
 
 👉 [See the release-aware backtest and data-gap remedies](analysis/05_release_backtest.md) · [Read the questions and answers](analysis/03_scenario_adjustment.md) · [Expand original-report and Excel evidence](analysis/04_historical_matching.md) · [Download the historical analysis](outputs/history_review/PG_4_Historical_Market_Analysis.xlsx)
 

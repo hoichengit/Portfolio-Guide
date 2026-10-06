@@ -1,0 +1,65 @@
+[
+  {
+    "series": "CUUR0000SEGB",
+    "quarter": "2023-12-31",
+    "stage": "Two months",
+    "cutoff": "2023-12-12",
+    "reason": "Internal missing observation or insufficient common history"
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "quarter": "2025-12-31",
+    "stage": "One month",
+    "cutoff": "2025-12-18",
+    "reason": "Internal missing observation or insufficient common history"
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "quarter": "2025-12-31",
+    "stage": "Two months",
+    "cutoff": "2026-01-13",
+    "reason": "Internal missing observation or insufficient common history"
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "quarter": "2025-12-31",
+    "stage": "Pre-earnings",
+    "cutoff": "2026-01-22",
+    "reason": "Internal missing observation or insufficient common history"
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "quarter": "2026-03-31",
+    "stage": "Origin",
+    "cutoff": "2026-01-01",
+    "reason": "Internal missing observation or insufficient common history"
+  },
+  {
+    "series": "CUUR0000SEGB02",
+    "quarter": "2025-12-31",
+    "stage": "One month",
+    "cutoff": "2026-01-01",
+    "reason": "Internal missing observation or insufficient common history"
+  },
+  {
+    "series": "CUUR0000SEGB02",
+    "quarter": "2025-12-31",
+    "stage": "Pre-earnings",
+    "cutoff": "2026-01-22",
+    "reason": "Internal missing observation or insufficient common history"
+  },
+  {
+    "series": "CUUR0000SEGB02",
+    "quarter": "2025-12-31",
+    "stage": "Two months",
+    "cutoff": "2026-01-22",
+    "reason": "Internal missing observation or insufficient common history"
+  },
+  {
+    "series": "CUUR0000SEGB02",
+    "quarter": "2026-03-31",
+    "stage": "Origin",
+    "cutoff": "2026-01-01",
+    "reason": "Internal missing observation or insufficient common history"
+  }
+]

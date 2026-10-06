@@ -1,0 +1,470 @@
+[
+  {
+    "series": "CUUR0000SEGB",
+    "stage": "Origin",
+    "method": "YoY carry",
+    "quarters": 6,
+    "missing_month_forecasts": 17,
+    "mape": 0.6368337366736783,
+    "rmse_pct": 0.9821511485352707
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "stage": "Origin",
+    "method": "Flat level",
+    "quarters": 6,
+    "missing_month_forecasts": 17,
+    "mape": 0.32156725969219363,
+    "rmse_pct": 0.439043347341579
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "stage": "Origin",
+    "method": "Recent trend",
+    "quarters": 6,
+    "missing_month_forecasts": 17,
+    "mape": 0.8239245312472221,
+    "rmse_pct": 1.046026712512147
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "stage": "Origin",
+    "method": "Seasonal step",
+    "quarters": 6,
+    "missing_month_forecasts": 17,
+    "mape": 0.838437184504838,
+    "rmse_pct": 0.9954336050317335
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "stage": "One month",
+    "method": "YoY carry",
+    "quarters": 6,
+    "missing_month_forecasts": 12,
+    "mape": 0.5557629141647785,
+    "rmse_pct": 0.6166705955230523
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "stage": "One month",
+    "method": "Flat level",
+    "quarters": 6,
+    "missing_month_forecasts": 12,
+    "mape": 0.5918658199542256,
+    "rmse_pct": 0.7288603153012116
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "stage": "One month",
+    "method": "Recent trend",
+    "quarters": 6,
+    "missing_month_forecasts": 12,
+    "mape": 0.7153923933888658,
+    "rmse_pct": 0.8935353078069294
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "stage": "One month",
+    "method": "Seasonal step",
+    "quarters": 6,
+    "missing_month_forecasts": 12,
+    "mape": 0.44721255363297796,
+    "rmse_pct": 0.5321912007932553
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "stage": "Two months",
+    "method": "YoY carry",
+    "quarters": 6,
+    "missing_month_forecasts": 6,
+    "mape": 0.46778775323682575,
+    "rmse_pct": 0.49137139713130934
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "stage": "Two months",
+    "method": "Flat level",
+    "quarters": 6,
+    "missing_month_forecasts": 6,
+    "mape": 0.4599424220431562,
+    "rmse_pct": 0.5821479582019669
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "stage": "Two months",
+    "method": "Recent trend",
+    "quarters": 6,
+    "missing_month_forecasts": 6,
+    "mape": 0.5388759838702998,
+    "rmse_pct": 0.6318251665878089
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "stage": "Two months",
+    "method": "Seasonal step",
+    "quarters": 6,
+    "missing_month_forecasts": 6,
+    "mape": 0.40507800768036506,
+    "rmse_pct": 0.5316058111052182
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "stage": "Pre-earnings",
+    "method": "YoY carry",
+    "quarters": 1,
+    "missing_month_forecasts": 1,
+    "mape": 0.747570229935679,
+    "rmse_pct": 0.747570229935679
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "stage": "Pre-earnings",
+    "method": "Flat level",
+    "quarters": 1,
+    "missing_month_forecasts": 1,
+    "mape": 0.7221586659040047,
+    "rmse_pct": 0.7221586659040047
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "stage": "Pre-earnings",
+    "method": "Recent trend",
+    "quarters": 1,
+    "missing_month_forecasts": 1,
+    "mape": 0.5370814449773498,
+    "rmse_pct": 0.5370814449773498
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "stage": "Pre-earnings",
+    "method": "Seasonal step",
+    "quarters": 1,
+    "missing_month_forecasts": 1,
+    "mape": 0.3316164213982731,
+    "rmse_pct": 0.3316164213982731
+  },
+  {
+    "series": "CUUR0000SEGB02",
+    "stage": "Origin",
+    "method": "YoY carry",
+    "quarters": 6,
+    "missing_month_forecasts": 17,
+    "mape": 0.683039037975905,
+    "rmse_pct": 0.8220504195165488
+  },
+  {
+    "series": "CUUR0000SEGB02",
+    "stage": "Origin",
+    "method": "Flat level",
+    "quarters": 6,
+    "missing_month_forecasts": 17,
+    "mape": 0.6306609880405695,
+    "rmse_pct": 0.7696198147873994
+  },
+  {
+    "series": "CUUR0000SEGB02",
+    "stage": "Origin",
+    "method": "Recent trend",
+    "quarters": 6,
+    "missing_month_forecasts": 17,
+    "mape": 1.1096682840443224,
+    "rmse_pct": 1.2600253470968852
+  },
+  {
+    "series": "CUUR0000SEGB02",
+    "stage": "Origin",
+    "method": "Seasonal step",
+    "quarters": 6,
+    "missing_month_forecasts": 17,
+    "mape": 0.5654952168777956,
+    "rmse_pct": 0.7969411716252512
+  },
+  {
+    "series": "CUUR0000SEGB02",
+    "stage": "Two months",
+    "method": "YoY carry",
+    "quarters": 5,
+    "missing_month_forecasts": 5,
+    "mape": 0.6899875277922929,
+    "rmse_pct": 0.7521940570724299
+  },
+  {
+    "series": "CUUR0000SEGB02",
+    "stage": "Two months",
+    "method": "Flat level",
+    "quarters": 5,
+    "missing_month_forecasts": 5,
+    "mape": 0.5449319082890125,
+    "rmse_pct": 0.6920977199427651
+  },
+  {
+    "series": "CUUR0000SEGB02",
+    "stage": "Two months",
+    "method": "Recent trend",
+    "quarters": 5,
+    "missing_month_forecasts": 5,
+    "mape": 0.5507388813414016,
+    "rmse_pct": 0.638216058571833
+  },
+  {
+    "series": "CUUR0000SEGB02",
+    "stage": "Two months",
+    "method": "Seasonal step",
+    "quarters": 5,
+    "missing_month_forecasts": 5,
+    "mape": 0.34809981359527287,
+    "rmse_pct": 0.3938558144699375
+  },
+  {
+    "series": "CUUR0000SEGB02",
+    "stage": "Pre-earnings",
+    "method": "YoY carry",
+    "quarters": 1,
+    "missing_month_forecasts": 1,
+    "mape": 0.3189138711094941,
+    "rmse_pct": 0.3189138711094941
+  },
+  {
+    "series": "CUUR0000SEGB02",
+    "stage": "Pre-earnings",
+    "method": "Flat level",
+    "quarters": 1,
+    "missing_month_forecasts": 1,
+    "mape": 0.5203568161024741,
+    "rmse_pct": 0.5203568161024741
+  },
+  {
+    "series": "CUUR0000SEGB02",
+    "stage": "Pre-earnings",
+    "method": "Recent trend",
+    "quarters": 1,
+    "missing_month_forecasts": 1,
+    "mape": 0.44368086168177223,
+    "rmse_pct": 0.44368086168177223
+  },
+  {
+    "series": "CUUR0000SEGB02",
+    "stage": "Pre-earnings",
+    "method": "Seasonal step",
+    "quarters": 1,
+    "missing_month_forecasts": 1,
+    "mape": 0.11290537688611879,
+    "rmse_pct": 0.11290537688611879
+  },
+  {
+    "series": "PCENDC96",
+    "stage": "Origin",
+    "method": "YoY carry",
+    "quarters": 7,
+    "missing_month_forecasts": 21,
+    "mape": 0.5669552742802791,
+    "rmse_pct": 0.8466263581719554
+  },
+  {
+    "series": "PCENDC96",
+    "stage": "Origin",
+    "method": "Flat level",
+    "quarters": 7,
+    "missing_month_forecasts": 21,
+    "mape": 0.8208727534129103,
+    "rmse_pct": 0.9841506051766638
+  },
+  {
+    "series": "PCENDC96",
+    "stage": "Origin",
+    "method": "Recent trend",
+    "quarters": 7,
+    "missing_month_forecasts": 21,
+    "mape": 0.9799026194148662,
+    "rmse_pct": 1.221168165205313
+  },
+  {
+    "series": "PCENDC96",
+    "stage": "One month",
+    "method": "YoY carry",
+    "quarters": 6,
+    "missing_month_forecasts": 12,
+    "mape": 0.5538021674636869,
+    "rmse_pct": 0.6752362551246556
+  },
+  {
+    "series": "PCENDC96",
+    "stage": "One month",
+    "method": "Flat level",
+    "quarters": 6,
+    "missing_month_forecasts": 12,
+    "mape": 0.5259012080923331,
+    "rmse_pct": 0.6517804320932349
+  },
+  {
+    "series": "PCENDC96",
+    "stage": "One month",
+    "method": "Recent trend",
+    "quarters": 6,
+    "missing_month_forecasts": 12,
+    "mape": 0.43849721152940113,
+    "rmse_pct": 0.5401729374858893
+  },
+  {
+    "series": "PCENDC96",
+    "stage": "Two months",
+    "method": "YoY carry",
+    "quarters": 7,
+    "missing_month_forecasts": 7,
+    "mape": 0.5157924016177413,
+    "rmse_pct": 0.7076973410832305
+  },
+  {
+    "series": "PCENDC96",
+    "stage": "Two months",
+    "method": "Flat level",
+    "quarters": 7,
+    "missing_month_forecasts": 7,
+    "mape": 0.6608997197583439,
+    "rmse_pct": 0.7016715342504574
+  },
+  {
+    "series": "PCENDC96",
+    "stage": "Two months",
+    "method": "Recent trend",
+    "quarters": 7,
+    "missing_month_forecasts": 7,
+    "mape": 0.8092634434008745,
+    "rmse_pct": 0.8779738517782625
+  },
+  {
+    "series": "PCENDC96",
+    "stage": "Pre-earnings",
+    "method": "YoY carry",
+    "quarters": 7,
+    "missing_month_forecasts": 7,
+    "mape": 0.5157924016177413,
+    "rmse_pct": 0.7076973410832305
+  },
+  {
+    "series": "PCENDC96",
+    "stage": "Pre-earnings",
+    "method": "Flat level",
+    "quarters": 7,
+    "missing_month_forecasts": 7,
+    "mape": 0.6608997197583439,
+    "rmse_pct": 0.7016715342504574
+  },
+  {
+    "series": "PCENDC96",
+    "stage": "Pre-earnings",
+    "method": "Recent trend",
+    "quarters": 7,
+    "missing_month_forecasts": 7,
+    "mape": 0.8092634434008745,
+    "rmse_pct": 0.8779738517782625
+  },
+  {
+    "series": "RSHPCS",
+    "stage": "Origin",
+    "method": "YoY carry",
+    "quarters": 7,
+    "missing_month_forecasts": 21,
+    "mape": 2.152246674480916,
+    "rmse_pct": 2.5173575797356986
+  },
+  {
+    "series": "RSHPCS",
+    "stage": "Origin",
+    "method": "Flat level",
+    "quarters": 7,
+    "missing_month_forecasts": 21,
+    "mape": 2.0217098539029315,
+    "rmse_pct": 2.464790326688172
+  },
+  {
+    "series": "RSHPCS",
+    "stage": "Origin",
+    "method": "Recent trend",
+    "quarters": 7,
+    "missing_month_forecasts": 21,
+    "mape": 2.7325582726511777,
+    "rmse_pct": 3.183878519795071
+  },
+  {
+    "series": "RSHPCS",
+    "stage": "One month",
+    "method": "YoY carry",
+    "quarters": 7,
+    "missing_month_forecasts": 14,
+    "mape": 1.669734478511048,
+    "rmse_pct": 1.9594758029859916
+  },
+  {
+    "series": "RSHPCS",
+    "stage": "One month",
+    "method": "Flat level",
+    "quarters": 7,
+    "missing_month_forecasts": 14,
+    "mape": 1.2351879073617464,
+    "rmse_pct": 1.5882400457440464
+  },
+  {
+    "series": "RSHPCS",
+    "stage": "One month",
+    "method": "Recent trend",
+    "quarters": 7,
+    "missing_month_forecasts": 14,
+    "mape": 1.560278713397594,
+    "rmse_pct": 2.1480218391127543
+  },
+  {
+    "series": "RSHPCS",
+    "stage": "Two months",
+    "method": "YoY carry",
+    "quarters": 7,
+    "missing_month_forecasts": 7,
+    "mape": 1.0650401639873948,
+    "rmse_pct": 1.228136023645017
+  },
+  {
+    "series": "RSHPCS",
+    "stage": "Two months",
+    "method": "Flat level",
+    "quarters": 7,
+    "missing_month_forecasts": 7,
+    "mape": 0.7587926441133692,
+    "rmse_pct": 1.0540471657808186
+  },
+  {
+    "series": "RSHPCS",
+    "stage": "Two months",
+    "method": "Recent trend",
+    "quarters": 7,
+    "missing_month_forecasts": 7,
+    "mape": 0.6898775872073136,
+    "rmse_pct": 0.9410107985646877
+  },
+  {
+    "series": "RSHPCS",
+    "stage": "Pre-earnings",
+    "method": "YoY carry",
+    "quarters": 2,
+    "missing_month_forecasts": 2,
+    "mape": 1.0457839085963705,
+    "rmse_pct": 1.1435269495854272
+  },
+  {
+    "series": "RSHPCS",
+    "stage": "Pre-earnings",
+    "method": "Flat level",
+    "quarters": 2,
+    "missing_month_forecasts": 2,
+    "mape": 1.3617352237895397,
+    "rmse_pct": 1.6629175407330596
+  },
+  {
+    "series": "RSHPCS",
+    "stage": "Pre-earnings",
+    "method": "Recent trend",
+    "quarters": 2,
+    "missing_month_forecasts": 2,
+    "mape": 1.3081864669194698,
+    "rmse_pct": 1.5609157507016542
+  }
+]

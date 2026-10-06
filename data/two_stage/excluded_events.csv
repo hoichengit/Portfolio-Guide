@@ -1,0 +1,10 @@
+series,quarter,stage,cutoff,reason
+CUUR0000SEGB,2023-12-31,Two months,2023-12-12,Internal missing observation or insufficient common history
+CUUR0000SEGB,2025-12-31,One month,2025-12-18,Internal missing observation or insufficient common history
+CUUR0000SEGB,2025-12-31,Two months,2026-01-13,Internal missing observation or insufficient common history
+CUUR0000SEGB,2025-12-31,Pre-earnings,2026-01-22,Internal missing observation or insufficient common history
+CUUR0000SEGB,2026-03-31,Origin,2026-01-01,Internal missing observation or insufficient common history
+CUUR0000SEGB02,2025-12-31,One month,2026-01-01,Internal missing observation or insufficient common history
+CUUR0000SEGB02,2025-12-31,Pre-earnings,2026-01-22,Internal missing observation or insufficient common history
+CUUR0000SEGB02,2025-12-31,Two months,2026-01-22,Internal missing observation or insufficient common history
+CUUR0000SEGB02,2026-03-31,Origin,2026-01-01,Internal missing observation or insufficient common history

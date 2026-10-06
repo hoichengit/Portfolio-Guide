@@ -1,0 +1,22 @@
+{
+  "selection_date": "2024-07-01",
+  "screening_quarters": 4,
+  "evaluation_quarters": "July 2024\u2013March 2026 (seven targets; availability varies)",
+  "selected_relationships": 6,
+  "series": [
+    "CUUR0000SEGB",
+    "CUUR0000SEGB02",
+    "PCENDC96",
+    "RSHPCS"
+  ],
+  "monthly_forecasts": 845,
+  "company_forecasts": 641,
+  "excluded_events": 9,
+  "no_future_company_training": true,
+  "no_future_market_versions": true,
+  "no_future_calibration_outcomes": true,
+  "monthly_truth": "Earliest preserved later vintage, not guaranteed first official release",
+  "screen": "Conditional completed-quarter check using selection-date vintages; not a real-time forecast",
+  "evaluation": "Retrospective development; these periods were inspected previously",
+  "policy_accuracy_tested": false
+}

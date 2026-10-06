@@ -1,0 +1,1702 @@
+[
+  {
+    "series": "CUUR0000SEGB",
+    "quarter": "2023-06-30",
+    "stage": "Origin",
+    "cutoff": "2023-04-01",
+    "vintage": "2023-04-01",
+    "file": "data/driver_tests/raw/CUUR0000SEGB_2023-04-01.csv",
+    "latest_month": "2023-02-01",
+    "observed_months": 0
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "quarter": "2023-06-30",
+    "stage": "Two months",
+    "cutoff": "2023-07-01",
+    "vintage": "2023-07-01",
+    "file": "data/driver_tests/raw/CUUR0000SEGB_2023-07-01.csv",
+    "latest_month": "2023-05-01",
+    "observed_months": 2
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "quarter": "2023-06-30",
+    "stage": "Pre-earnings",
+    "cutoff": "2023-07-27",
+    "vintage": "2023-07-27",
+    "file": "data/driver_tests/raw/CUUR0000SEGB_2023-07-27.csv",
+    "latest_month": "2023-06-01",
+    "observed_months": 3
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "quarter": "2023-09-30",
+    "stage": "Origin",
+    "cutoff": "2023-07-01",
+    "vintage": "2023-07-01",
+    "file": "data/driver_tests/raw/CUUR0000SEGB_2023-07-01.csv",
+    "latest_month": "2023-05-01",
+    "observed_months": 0
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "quarter": "2023-09-30",
+    "stage": "Two months",
+    "cutoff": "2023-10-01",
+    "vintage": "2023-10-01",
+    "file": "data/driver_tests/raw/CUUR0000SEGB_2023-10-01.csv",
+    "latest_month": "2023-08-01",
+    "observed_months": 2
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "quarter": "2023-09-30",
+    "stage": "Pre-earnings",
+    "cutoff": "2023-10-17",
+    "vintage": "2023-10-17",
+    "file": "data/driver_tests/raw/CUUR0000SEGB_2023-10-17.csv",
+    "latest_month": "2023-09-01",
+    "observed_months": 3
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "quarter": "2023-12-31",
+    "stage": "Origin",
+    "cutoff": "2023-10-01",
+    "vintage": "2023-10-01",
+    "file": "data/driver_tests/raw/CUUR0000SEGB_2023-10-01.csv",
+    "latest_month": "2023-08-01",
+    "observed_months": 0
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "quarter": "2023-12-31",
+    "stage": "Two months",
+    "cutoff": "2023-12-12",
+    "vintage": "2023-12-12",
+    "file": "data/release_backtest/raw/CUUR0000SEGB_2023-12-12.csv",
+    "latest_month": "2023-11-01",
+    "observed_months": 2
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "quarter": "2023-12-31",
+    "stage": "Pre-earnings",
+    "cutoff": "2024-01-22",
+    "vintage": "2024-01-22",
+    "file": "data/driver_tests/raw/CUUR0000SEGB_2024-01-22.csv",
+    "latest_month": "2023-12-01",
+    "observed_months": 3
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "quarter": "2024-03-31",
+    "stage": "Origin",
+    "cutoff": "2024-01-01",
+    "vintage": "2024-01-01",
+    "file": "data/driver_tests/raw/CUUR0000SEGB_2024-01-01.csv",
+    "latest_month": "2023-11-01",
+    "observed_months": 0
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "quarter": "2024-03-31",
+    "stage": "One month",
+    "cutoff": "2024-02-13",
+    "vintage": "2024-02-13",
+    "file": "data/release_backtest/raw/CUUR0000SEGB_2024-02-13.csv",
+    "latest_month": "2024-01-01",
+    "observed_months": 1
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "quarter": "2024-03-31",
+    "stage": "Two months",
+    "cutoff": "2024-03-12",
+    "vintage": "2024-03-12",
+    "file": "data/release_backtest/raw/CUUR0000SEGB_2024-03-12.csv",
+    "latest_month": "2024-02-01",
+    "observed_months": 2
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "quarter": "2024-03-31",
+    "stage": "Pre-earnings",
+    "cutoff": "2024-04-18",
+    "vintage": "2024-04-18",
+    "file": "data/driver_tests/raw/CUUR0000SEGB_2024-04-18.csv",
+    "latest_month": "2024-03-01",
+    "observed_months": 3
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "quarter": "2024-06-30",
+    "stage": "Origin",
+    "cutoff": "2024-04-01",
+    "vintage": "2024-04-01",
+    "file": "data/driver_tests/raw/CUUR0000SEGB_2024-04-01.csv",
+    "latest_month": "2024-02-01",
+    "observed_months": 0
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "quarter": "2024-06-30",
+    "stage": "One month",
+    "cutoff": "2024-05-15",
+    "vintage": "2024-05-15",
+    "file": "data/release_backtest/raw/CUUR0000SEGB_2024-05-15.csv",
+    "latest_month": "2024-04-01",
+    "observed_months": 1
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "quarter": "2024-06-30",
+    "stage": "Two months",
+    "cutoff": "2024-06-12",
+    "vintage": "2024-06-12",
+    "file": "data/release_backtest/raw/CUUR0000SEGB_2024-06-12.csv",
+    "latest_month": "2024-05-01",
+    "observed_months": 2
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "quarter": "2024-06-30",
+    "stage": "Pre-earnings",
+    "cutoff": "2024-07-29",
+    "vintage": "2024-07-29",
+    "file": "data/driver_tests/raw/CUUR0000SEGB_2024-07-29.csv",
+    "latest_month": "2024-06-01",
+    "observed_months": 3
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "quarter": "2024-09-30",
+    "stage": "Origin",
+    "cutoff": "2024-07-01",
+    "vintage": "2024-07-01",
+    "file": "data/driver_tests/raw/CUUR0000SEGB_2024-07-01.csv",
+    "latest_month": "2024-05-01",
+    "observed_months": 0
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "quarter": "2024-09-30",
+    "stage": "One month",
+    "cutoff": "2024-08-14",
+    "vintage": "2024-08-14",
+    "file": "data/release_backtest/raw/CUUR0000SEGB_2024-08-14.csv",
+    "latest_month": "2024-07-01",
+    "observed_months": 1
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "quarter": "2024-09-30",
+    "stage": "Two months",
+    "cutoff": "2024-09-11",
+    "vintage": "2024-09-11",
+    "file": "data/release_backtest/raw/CUUR0000SEGB_2024-09-11.csv",
+    "latest_month": "2024-08-01",
+    "observed_months": 2
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "quarter": "2024-09-30",
+    "stage": "Pre-earnings",
+    "cutoff": "2024-10-17",
+    "vintage": "2024-10-17",
+    "file": "data/driver_tests/raw/CUUR0000SEGB_2024-10-17.csv",
+    "latest_month": "2024-09-01",
+    "observed_months": 3
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "quarter": "2024-12-31",
+    "stage": "Origin",
+    "cutoff": "2024-10-01",
+    "vintage": "2024-10-01",
+    "file": "data/driver_tests/raw/CUUR0000SEGB_2024-10-01.csv",
+    "latest_month": "2024-08-01",
+    "observed_months": 0
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "quarter": "2024-12-31",
+    "stage": "One month",
+    "cutoff": "2024-11-13",
+    "vintage": "2024-11-13",
+    "file": "data/release_backtest/raw/CUUR0000SEGB_2024-11-13.csv",
+    "latest_month": "2024-10-01",
+    "observed_months": 1
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "quarter": "2024-12-31",
+    "stage": "Two months",
+    "cutoff": "2024-12-11",
+    "vintage": "2024-12-11",
+    "file": "data/release_backtest/raw/CUUR0000SEGB_2024-12-11.csv",
+    "latest_month": "2024-11-01",
+    "observed_months": 2
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "quarter": "2024-12-31",
+    "stage": "Pre-earnings",
+    "cutoff": "2025-01-21",
+    "vintage": "2025-01-21",
+    "file": "data/driver_tests/raw/CUUR0000SEGB_2025-01-21.csv",
+    "latest_month": "2024-12-01",
+    "observed_months": 3
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "quarter": "2025-03-31",
+    "stage": "Origin",
+    "cutoff": "2025-01-01",
+    "vintage": "2025-01-01",
+    "file": "data/driver_tests/raw/CUUR0000SEGB_2025-01-01.csv",
+    "latest_month": "2024-11-01",
+    "observed_months": 0
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "quarter": "2025-03-31",
+    "stage": "One month",
+    "cutoff": "2025-02-12",
+    "vintage": "2025-02-12",
+    "file": "data/release_backtest/raw/CUUR0000SEGB_2025-02-12.csv",
+    "latest_month": "2025-01-01",
+    "observed_months": 1
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "quarter": "2025-03-31",
+    "stage": "Two months",
+    "cutoff": "2025-03-12",
+    "vintage": "2025-03-12",
+    "file": "data/release_backtest/raw/CUUR0000SEGB_2025-03-12.csv",
+    "latest_month": "2025-02-01",
+    "observed_months": 2
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "quarter": "2025-03-31",
+    "stage": "Pre-earnings",
+    "cutoff": "2025-04-23",
+    "vintage": "2025-04-23",
+    "file": "data/driver_tests/raw/CUUR0000SEGB_2025-04-23.csv",
+    "latest_month": "2025-03-01",
+    "observed_months": 3
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "quarter": "2025-06-30",
+    "stage": "Origin",
+    "cutoff": "2025-04-01",
+    "vintage": "2025-04-01",
+    "file": "data/driver_tests/raw/CUUR0000SEGB_2025-04-01.csv",
+    "latest_month": "2025-02-01",
+    "observed_months": 0
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "quarter": "2025-06-30",
+    "stage": "One month",
+    "cutoff": "2025-05-13",
+    "vintage": "2025-05-13",
+    "file": "data/release_backtest/raw/CUUR0000SEGB_2025-05-13.csv",
+    "latest_month": "2025-04-01",
+    "observed_months": 1
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "quarter": "2025-06-30",
+    "stage": "Two months",
+    "cutoff": "2025-06-11",
+    "vintage": "2025-06-11",
+    "file": "data/release_backtest/raw/CUUR0000SEGB_2025-06-11.csv",
+    "latest_month": "2025-05-01",
+    "observed_months": 2
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "quarter": "2025-06-30",
+    "stage": "Pre-earnings",
+    "cutoff": "2025-07-28",
+    "vintage": "2025-07-28",
+    "file": "data/driver_tests/raw/CUUR0000SEGB_2025-07-28.csv",
+    "latest_month": "2025-06-01",
+    "observed_months": 3
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "quarter": "2025-09-30",
+    "stage": "Origin",
+    "cutoff": "2025-07-01",
+    "vintage": "2025-07-01",
+    "file": "data/driver_tests/raw/CUUR0000SEGB_2025-07-01.csv",
+    "latest_month": "2025-05-01",
+    "observed_months": 0
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "quarter": "2025-09-30",
+    "stage": "One month",
+    "cutoff": "2025-08-12",
+    "vintage": "2025-08-12",
+    "file": "data/release_backtest/raw/CUUR0000SEGB_2025-08-12.csv",
+    "latest_month": "2025-07-01",
+    "observed_months": 1
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "quarter": "2025-09-30",
+    "stage": "Two months",
+    "cutoff": "2025-09-11",
+    "vintage": "2025-09-11",
+    "file": "data/release_backtest/raw/CUUR0000SEGB_2025-09-11.csv",
+    "latest_month": "2025-08-01",
+    "observed_months": 2
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "quarter": "2025-09-30",
+    "stage": "Pre-earnings",
+    "cutoff": "2025-10-23",
+    "vintage": "2025-10-23",
+    "file": "data/driver_tests/raw/CUUR0000SEGB_2025-10-23.csv",
+    "latest_month": "2025-08-01",
+    "observed_months": 2
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "quarter": "2025-12-31",
+    "stage": "Origin",
+    "cutoff": "2025-10-01",
+    "vintage": "2025-10-01",
+    "file": "data/driver_tests/raw/CUUR0000SEGB_2025-10-01.csv",
+    "latest_month": "2025-08-01",
+    "observed_months": 0
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "quarter": "2025-12-31",
+    "stage": "One month",
+    "cutoff": "2025-12-18",
+    "vintage": "2025-12-18",
+    "file": "data/release_backtest/raw/CUUR0000SEGB_2025-12-18.csv",
+    "latest_month": "2025-11-01",
+    "observed_months": 1
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "quarter": "2025-12-31",
+    "stage": "Two months",
+    "cutoff": "2026-01-13",
+    "vintage": "2026-01-13",
+    "file": "data/release_backtest/raw/CUUR0000SEGB_2026-01-13.csv",
+    "latest_month": "2025-12-01",
+    "observed_months": 2
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "quarter": "2025-12-31",
+    "stage": "Pre-earnings",
+    "cutoff": "2026-01-22",
+    "vintage": "2026-01-22",
+    "file": "data/driver_tests/raw/CUUR0000SEGB_2026-01-22.csv",
+    "latest_month": "2025-12-01",
+    "observed_months": 2
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "quarter": "2026-03-31",
+    "stage": "Origin",
+    "cutoff": "2026-01-01",
+    "vintage": "2026-01-01",
+    "file": "data/driver_tests/raw/CUUR0000SEGB_2026-01-01.csv",
+    "latest_month": "2025-11-01",
+    "observed_months": 0
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "quarter": "2026-03-31",
+    "stage": "One month",
+    "cutoff": "2026-02-13",
+    "vintage": "2026-02-13",
+    "file": "data/release_backtest/raw/CUUR0000SEGB_2026-02-13.csv",
+    "latest_month": "2026-01-01",
+    "observed_months": 1
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "quarter": "2026-03-31",
+    "stage": "Two months",
+    "cutoff": "2026-03-11",
+    "vintage": "2026-03-11",
+    "file": "data/release_backtest/raw/CUUR0000SEGB_2026-03-11.csv",
+    "latest_month": "2026-02-01",
+    "observed_months": 2
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "quarter": "2026-03-31",
+    "stage": "Pre-earnings",
+    "cutoff": "2026-04-23",
+    "vintage": "2026-04-23",
+    "file": "data/driver_tests/raw/CUUR0000SEGB_2026-04-23.csv",
+    "latest_month": "2026-03-01",
+    "observed_months": 3
+  },
+  {
+    "series": "CUUR0000SEGB02",
+    "quarter": "2023-06-30",
+    "stage": "Origin",
+    "cutoff": "2023-04-01",
+    "vintage": "2023-04-01",
+    "file": "data/driver_tests/raw/CUUR0000SEGB02_2023-04-01.csv",
+    "latest_month": "2023-02-01",
+    "observed_months": 0
+  },
+  {
+    "series": "CUUR0000SEGB02",
+    "quarter": "2023-06-30",
+    "stage": "Two months",
+    "cutoff": "2023-07-01",
+    "vintage": "2023-07-01",
+    "file": "data/driver_tests/raw/CUUR0000SEGB02_2023-07-01.csv",
+    "latest_month": "2023-05-01",
+    "observed_months": 2
+  },
+  {
+    "series": "CUUR0000SEGB02",
+    "quarter": "2023-06-30",
+    "stage": "Pre-earnings",
+    "cutoff": "2023-07-27",
+    "vintage": "2023-07-27",
+    "file": "data/driver_tests/raw/CUUR0000SEGB02_2023-07-27.csv",
+    "latest_month": "2023-06-01",
+    "observed_months": 3
+  },
+  {
+    "series": "CUUR0000SEGB02",
+    "quarter": "2023-09-30",
+    "stage": "Origin",
+    "cutoff": "2023-07-01",
+    "vintage": "2023-07-01",
+    "file": "data/driver_tests/raw/CUUR0000SEGB02_2023-07-01.csv",
+    "latest_month": "2023-05-01",
+    "observed_months": 0
+  },
+  {
+    "series": "CUUR0000SEGB02",
+    "quarter": "2023-09-30",
+    "stage": "Two months",
+    "cutoff": "2023-10-01",
+    "vintage": "2023-10-01",
+    "file": "data/driver_tests/raw/CUUR0000SEGB02_2023-10-01.csv",
+    "latest_month": "2023-08-01",
+    "observed_months": 2
+  },
+  {
+    "series": "CUUR0000SEGB02",
+    "quarter": "2023-09-30",
+    "stage": "Pre-earnings",
+    "cutoff": "2023-10-17",
+    "vintage": "2023-10-17",
+    "file": "data/driver_tests/raw/CUUR0000SEGB02_2023-10-17.csv",
+    "latest_month": "2023-09-01",
+    "observed_months": 3
+  },
+  {
+    "series": "CUUR0000SEGB02",
+    "quarter": "2023-12-31",
+    "stage": "Origin",
+    "cutoff": "2023-10-01",
+    "vintage": "2023-10-01",
+    "file": "data/driver_tests/raw/CUUR0000SEGB02_2023-10-01.csv",
+    "latest_month": "2023-08-01",
+    "observed_months": 0
+  },
+  {
+    "series": "CUUR0000SEGB02",
+    "quarter": "2023-12-31",
+    "stage": "Two months",
+    "cutoff": "2024-01-01",
+    "vintage": "2024-01-01",
+    "file": "data/driver_tests/raw/CUUR0000SEGB02_2024-01-01.csv",
+    "latest_month": "2023-11-01",
+    "observed_months": 2
+  },
+  {
+    "series": "CUUR0000SEGB02",
+    "quarter": "2023-12-31",
+    "stage": "Pre-earnings",
+    "cutoff": "2024-01-22",
+    "vintage": "2024-01-22",
+    "file": "data/driver_tests/raw/CUUR0000SEGB02_2024-01-22.csv",
+    "latest_month": "2023-12-01",
+    "observed_months": 3
+  },
+  {
+    "series": "CUUR0000SEGB02",
+    "quarter": "2024-03-31",
+    "stage": "Origin",
+    "cutoff": "2024-01-01",
+    "vintage": "2024-01-01",
+    "file": "data/driver_tests/raw/CUUR0000SEGB02_2024-01-01.csv",
+    "latest_month": "2023-11-01",
+    "observed_months": 0
+  },
+  {
+    "series": "CUUR0000SEGB02",
+    "quarter": "2024-03-31",
+    "stage": "Two months",
+    "cutoff": "2024-04-01",
+    "vintage": "2024-04-01",
+    "file": "data/driver_tests/raw/CUUR0000SEGB02_2024-04-01.csv",
+    "latest_month": "2024-02-01",
+    "observed_months": 2
+  },
+  {
+    "series": "CUUR0000SEGB02",
+    "quarter": "2024-03-31",
+    "stage": "Pre-earnings",
+    "cutoff": "2024-04-18",
+    "vintage": "2024-04-18",
+    "file": "data/driver_tests/raw/CUUR0000SEGB02_2024-04-18.csv",
+    "latest_month": "2024-03-01",
+    "observed_months": 3
+  },
+  {
+    "series": "CUUR0000SEGB02",
+    "quarter": "2024-06-30",
+    "stage": "Origin",
+    "cutoff": "2024-04-01",
+    "vintage": "2024-04-01",
+    "file": "data/driver_tests/raw/CUUR0000SEGB02_2024-04-01.csv",
+    "latest_month": "2024-02-01",
+    "observed_months": 0
+  },
+  {
+    "series": "CUUR0000SEGB02",
+    "quarter": "2024-06-30",
+    "stage": "Two months",
+    "cutoff": "2024-07-01",
+    "vintage": "2024-07-01",
+    "file": "data/driver_tests/raw/CUUR0000SEGB02_2024-07-01.csv",
+    "latest_month": "2024-05-01",
+    "observed_months": 2
+  },
+  {
+    "series": "CUUR0000SEGB02",
+    "quarter": "2024-06-30",
+    "stage": "Pre-earnings",
+    "cutoff": "2024-07-29",
+    "vintage": "2024-07-29",
+    "file": "data/driver_tests/raw/CUUR0000SEGB02_2024-07-29.csv",
+    "latest_month": "2024-06-01",
+    "observed_months": 3
+  },
+  {
+    "series": "CUUR0000SEGB02",
+    "quarter": "2024-09-30",
+    "stage": "Origin",
+    "cutoff": "2024-07-01",
+    "vintage": "2024-07-01",
+    "file": "data/driver_tests/raw/CUUR0000SEGB02_2024-07-01.csv",
+    "latest_month": "2024-05-01",
+    "observed_months": 0
+  },
+  {
+    "series": "CUUR0000SEGB02",
+    "quarter": "2024-09-30",
+    "stage": "Two months",
+    "cutoff": "2024-10-01",
+    "vintage": "2024-10-01",
+    "file": "data/driver_tests/raw/CUUR0000SEGB02_2024-10-01.csv",
+    "latest_month": "2024-08-01",
+    "observed_months": 2
+  },
+  {
+    "series": "CUUR0000SEGB02",
+    "quarter": "2024-09-30",
+    "stage": "Pre-earnings",
+    "cutoff": "2024-10-17",
+    "vintage": "2024-10-17",
+    "file": "data/driver_tests/raw/CUUR0000SEGB02_2024-10-17.csv",
+    "latest_month": "2024-09-01",
+    "observed_months": 3
+  },
+  {
+    "series": "CUUR0000SEGB02",
+    "quarter": "2024-12-31",
+    "stage": "Origin",
+    "cutoff": "2024-10-01",
+    "vintage": "2024-10-01",
+    "file": "data/driver_tests/raw/CUUR0000SEGB02_2024-10-01.csv",
+    "latest_month": "2024-08-01",
+    "observed_months": 0
+  },
+  {
+    "series": "CUUR0000SEGB02",
+    "quarter": "2024-12-31",
+    "stage": "Two months",
+    "cutoff": "2025-01-01",
+    "vintage": "2025-01-01",
+    "file": "data/driver_tests/raw/CUUR0000SEGB02_2025-01-01.csv",
+    "latest_month": "2024-11-01",
+    "observed_months": 2
+  },
+  {
+    "series": "CUUR0000SEGB02",
+    "quarter": "2024-12-31",
+    "stage": "Pre-earnings",
+    "cutoff": "2025-01-21",
+    "vintage": "2025-01-21",
+    "file": "data/driver_tests/raw/CUUR0000SEGB02_2025-01-21.csv",
+    "latest_month": "2024-12-01",
+    "observed_months": 3
+  },
+  {
+    "series": "CUUR0000SEGB02",
+    "quarter": "2025-03-31",
+    "stage": "Origin",
+    "cutoff": "2025-01-01",
+    "vintage": "2025-01-01",
+    "file": "data/driver_tests/raw/CUUR0000SEGB02_2025-01-01.csv",
+    "latest_month": "2024-11-01",
+    "observed_months": 0
+  },
+  {
+    "series": "CUUR0000SEGB02",
+    "quarter": "2025-03-31",
+    "stage": "Two months",
+    "cutoff": "2025-04-01",
+    "vintage": "2025-04-01",
+    "file": "data/driver_tests/raw/CUUR0000SEGB02_2025-04-01.csv",
+    "latest_month": "2025-02-01",
+    "observed_months": 2
+  },
+  {
+    "series": "CUUR0000SEGB02",
+    "quarter": "2025-03-31",
+    "stage": "Pre-earnings",
+    "cutoff": "2025-04-23",
+    "vintage": "2025-04-23",
+    "file": "data/driver_tests/raw/CUUR0000SEGB02_2025-04-23.csv",
+    "latest_month": "2025-03-01",
+    "observed_months": 3
+  },
+  {
+    "series": "CUUR0000SEGB02",
+    "quarter": "2025-06-30",
+    "stage": "Origin",
+    "cutoff": "2025-04-01",
+    "vintage": "2025-04-01",
+    "file": "data/driver_tests/raw/CUUR0000SEGB02_2025-04-01.csv",
+    "latest_month": "2025-02-01",
+    "observed_months": 0
+  },
+  {
+    "series": "CUUR0000SEGB02",
+    "quarter": "2025-06-30",
+    "stage": "Two months",
+    "cutoff": "2025-07-01",
+    "vintage": "2025-07-01",
+    "file": "data/driver_tests/raw/CUUR0000SEGB02_2025-07-01.csv",
+    "latest_month": "2025-05-01",
+    "observed_months": 2
+  },
+  {
+    "series": "CUUR0000SEGB02",
+    "quarter": "2025-06-30",
+    "stage": "Pre-earnings",
+    "cutoff": "2025-07-28",
+    "vintage": "2025-07-28",
+    "file": "data/driver_tests/raw/CUUR0000SEGB02_2025-07-28.csv",
+    "latest_month": "2025-06-01",
+    "observed_months": 3
+  },
+  {
+    "series": "CUUR0000SEGB02",
+    "quarter": "2025-09-30",
+    "stage": "Origin",
+    "cutoff": "2025-07-01",
+    "vintage": "2025-07-01",
+    "file": "data/driver_tests/raw/CUUR0000SEGB02_2025-07-01.csv",
+    "latest_month": "2025-05-01",
+    "observed_months": 0
+  },
+  {
+    "series": "CUUR0000SEGB02",
+    "quarter": "2025-09-30",
+    "stage": "Two months",
+    "cutoff": "2025-10-01",
+    "vintage": "2025-10-01",
+    "file": "data/driver_tests/raw/CUUR0000SEGB02_2025-10-01.csv",
+    "latest_month": "2025-08-01",
+    "observed_months": 2
+  },
+  {
+    "series": "CUUR0000SEGB02",
+    "quarter": "2025-09-30",
+    "stage": "Pre-earnings",
+    "cutoff": "2025-10-23",
+    "vintage": "2025-10-23",
+    "file": "data/driver_tests/raw/CUUR0000SEGB02_2025-10-23.csv",
+    "latest_month": "2025-08-01",
+    "observed_months": 2
+  },
+  {
+    "series": "CUUR0000SEGB02",
+    "quarter": "2025-12-31",
+    "stage": "Origin",
+    "cutoff": "2025-10-01",
+    "vintage": "2025-10-01",
+    "file": "data/driver_tests/raw/CUUR0000SEGB02_2025-10-01.csv",
+    "latest_month": "2025-08-01",
+    "observed_months": 0
+  },
+  {
+    "series": "CUUR0000SEGB02",
+    "quarter": "2025-12-31",
+    "stage": "One month",
+    "cutoff": "2026-01-01",
+    "vintage": "2026-01-01",
+    "file": "data/driver_tests/raw/CUUR0000SEGB02_2026-01-01.csv",
+    "latest_month": "2025-11-01",
+    "observed_months": 1
+  },
+  {
+    "series": "CUUR0000SEGB02",
+    "quarter": "2025-12-31",
+    "stage": "Pre-earnings",
+    "cutoff": "2026-01-22",
+    "vintage": "2026-01-22",
+    "file": "data/driver_tests/raw/CUUR0000SEGB02_2026-01-22.csv",
+    "latest_month": "2025-12-01",
+    "observed_months": 2
+  },
+  {
+    "series": "CUUR0000SEGB02",
+    "quarter": "2025-12-31",
+    "stage": "Two months",
+    "cutoff": "2026-01-22",
+    "vintage": "2026-01-22",
+    "file": "data/driver_tests/raw/CUUR0000SEGB02_2026-01-22.csv",
+    "latest_month": "2025-12-01",
+    "observed_months": 2
+  },
+  {
+    "series": "CUUR0000SEGB02",
+    "quarter": "2026-03-31",
+    "stage": "Origin",
+    "cutoff": "2026-01-01",
+    "vintage": "2026-01-01",
+    "file": "data/driver_tests/raw/CUUR0000SEGB02_2026-01-01.csv",
+    "latest_month": "2025-11-01",
+    "observed_months": 0
+  },
+  {
+    "series": "CUUR0000SEGB02",
+    "quarter": "2026-03-31",
+    "stage": "Pre-earnings",
+    "cutoff": "2026-04-23",
+    "vintage": "2026-04-23",
+    "file": "data/driver_tests/raw/CUUR0000SEGB02_2026-04-23.csv",
+    "latest_month": "2026-03-01",
+    "observed_months": 3
+  },
+  {
+    "series": "PCENDC96",
+    "quarter": "2023-06-30",
+    "stage": "Origin",
+    "cutoff": "2023-04-01",
+    "vintage": "2023-04-01",
+    "file": "data/driver_tests/raw/PCENDC96_2023-04-01.csv",
+    "latest_month": "2023-02-01",
+    "observed_months": 0
+  },
+  {
+    "series": "PCENDC96",
+    "quarter": "2023-06-30",
+    "stage": "Two months",
+    "cutoff": "2023-07-01",
+    "vintage": "2023-07-01",
+    "file": "data/driver_tests/raw/PCENDC96_2023-07-01.csv",
+    "latest_month": "2023-05-01",
+    "observed_months": 2
+  },
+  {
+    "series": "PCENDC96",
+    "quarter": "2023-06-30",
+    "stage": "Pre-earnings",
+    "cutoff": "2023-07-27",
+    "vintage": "2023-07-27",
+    "file": "data/driver_tests/raw/PCENDC96_2023-07-27.csv",
+    "latest_month": "2023-05-01",
+    "observed_months": 2
+  },
+  {
+    "series": "PCENDC96",
+    "quarter": "2023-09-30",
+    "stage": "Origin",
+    "cutoff": "2023-07-01",
+    "vintage": "2023-07-01",
+    "file": "data/driver_tests/raw/PCENDC96_2023-07-01.csv",
+    "latest_month": "2023-05-01",
+    "observed_months": 0
+  },
+  {
+    "series": "PCENDC96",
+    "quarter": "2023-09-30",
+    "stage": "Two months",
+    "cutoff": "2023-10-01",
+    "vintage": "2023-10-01",
+    "file": "data/driver_tests/raw/PCENDC96_2023-10-01.csv",
+    "latest_month": "2023-08-01",
+    "observed_months": 2
+  },
+  {
+    "series": "PCENDC96",
+    "quarter": "2023-09-30",
+    "stage": "Pre-earnings",
+    "cutoff": "2023-10-17",
+    "vintage": "2023-10-17",
+    "file": "data/driver_tests/raw/PCENDC96_2023-10-17.csv",
+    "latest_month": "2023-08-01",
+    "observed_months": 2
+  },
+  {
+    "series": "PCENDC96",
+    "quarter": "2023-12-31",
+    "stage": "Origin",
+    "cutoff": "2023-10-01",
+    "vintage": "2023-10-01",
+    "file": "data/driver_tests/raw/PCENDC96_2023-10-01.csv",
+    "latest_month": "2023-08-01",
+    "observed_months": 0
+  },
+  {
+    "series": "PCENDC96",
+    "quarter": "2023-12-31",
+    "stage": "Two months",
+    "cutoff": "2023-12-22",
+    "vintage": "2023-12-22",
+    "file": "data/release_backtest/raw/PCENDC96_2023-12-22.csv",
+    "latest_month": "2023-11-01",
+    "observed_months": 2
+  },
+  {
+    "series": "PCENDC96",
+    "quarter": "2023-12-31",
+    "stage": "Pre-earnings",
+    "cutoff": "2024-01-22",
+    "vintage": "2024-01-22",
+    "file": "data/driver_tests/raw/PCENDC96_2024-01-22.csv",
+    "latest_month": "2023-11-01",
+    "observed_months": 2
+  },
+  {
+    "series": "PCENDC96",
+    "quarter": "2024-03-31",
+    "stage": "Origin",
+    "cutoff": "2024-01-01",
+    "vintage": "2024-01-01",
+    "file": "data/driver_tests/raw/PCENDC96_2024-01-01.csv",
+    "latest_month": "2023-11-01",
+    "observed_months": 0
+  },
+  {
+    "series": "PCENDC96",
+    "quarter": "2024-03-31",
+    "stage": "One month",
+    "cutoff": "2024-02-29",
+    "vintage": "2024-02-29",
+    "file": "data/release_backtest/raw/PCENDC96_2024-02-29.csv",
+    "latest_month": "2024-01-01",
+    "observed_months": 1
+  },
+  {
+    "series": "PCENDC96",
+    "quarter": "2024-03-31",
+    "stage": "Two months",
+    "cutoff": "2024-03-29",
+    "vintage": "2024-03-29",
+    "file": "data/release_backtest/raw/PCENDC96_2024-03-29.csv",
+    "latest_month": "2024-02-01",
+    "observed_months": 2
+  },
+  {
+    "series": "PCENDC96",
+    "quarter": "2024-03-31",
+    "stage": "Pre-earnings",
+    "cutoff": "2024-04-18",
+    "vintage": "2024-04-18",
+    "file": "data/driver_tests/raw/PCENDC96_2024-04-18.csv",
+    "latest_month": "2024-02-01",
+    "observed_months": 2
+  },
+  {
+    "series": "PCENDC96",
+    "quarter": "2024-06-30",
+    "stage": "Origin",
+    "cutoff": "2024-04-01",
+    "vintage": "2024-04-01",
+    "file": "data/driver_tests/raw/PCENDC96_2024-04-01.csv",
+    "latest_month": "2024-02-01",
+    "observed_months": 0
+  },
+  {
+    "series": "PCENDC96",
+    "quarter": "2024-06-30",
+    "stage": "One month",
+    "cutoff": "2024-05-31",
+    "vintage": "2024-05-31",
+    "file": "data/release_backtest/raw/PCENDC96_2024-05-31.csv",
+    "latest_month": "2024-04-01",
+    "observed_months": 1
+  },
+  {
+    "series": "PCENDC96",
+    "quarter": "2024-06-30",
+    "stage": "Two months",
+    "cutoff": "2024-06-28",
+    "vintage": "2024-06-28",
+    "file": "data/release_backtest/raw/PCENDC96_2024-06-28.csv",
+    "latest_month": "2024-05-01",
+    "observed_months": 2
+  },
+  {
+    "series": "PCENDC96",
+    "quarter": "2024-06-30",
+    "stage": "Pre-earnings",
+    "cutoff": "2024-07-29",
+    "vintage": "2024-07-29",
+    "file": "data/driver_tests/raw/PCENDC96_2024-07-29.csv",
+    "latest_month": "2024-06-01",
+    "observed_months": 3
+  },
+  {
+    "series": "PCENDC96",
+    "quarter": "2024-09-30",
+    "stage": "Origin",
+    "cutoff": "2024-07-01",
+    "vintage": "2024-07-01",
+    "file": "data/driver_tests/raw/PCENDC96_2024-07-01.csv",
+    "latest_month": "2024-05-01",
+    "observed_months": 0
+  },
+  {
+    "series": "PCENDC96",
+    "quarter": "2024-09-30",
+    "stage": "One month",
+    "cutoff": "2024-08-30",
+    "vintage": "2024-08-30",
+    "file": "data/release_backtest/raw/PCENDC96_2024-08-30.csv",
+    "latest_month": "2024-07-01",
+    "observed_months": 1
+  },
+  {
+    "series": "PCENDC96",
+    "quarter": "2024-09-30",
+    "stage": "Two months",
+    "cutoff": "2024-09-27",
+    "vintage": "2024-09-27",
+    "file": "data/release_backtest/raw/PCENDC96_2024-09-27.csv",
+    "latest_month": "2024-08-01",
+    "observed_months": 2
+  },
+  {
+    "series": "PCENDC96",
+    "quarter": "2024-09-30",
+    "stage": "Pre-earnings",
+    "cutoff": "2024-10-17",
+    "vintage": "2024-10-17",
+    "file": "data/driver_tests/raw/PCENDC96_2024-10-17.csv",
+    "latest_month": "2024-08-01",
+    "observed_months": 2
+  },
+  {
+    "series": "PCENDC96",
+    "quarter": "2024-12-31",
+    "stage": "Origin",
+    "cutoff": "2024-10-01",
+    "vintage": "2024-10-01",
+    "file": "data/driver_tests/raw/PCENDC96_2024-10-01.csv",
+    "latest_month": "2024-08-01",
+    "observed_months": 0
+  },
+  {
+    "series": "PCENDC96",
+    "quarter": "2024-12-31",
+    "stage": "One month",
+    "cutoff": "2024-11-27",
+    "vintage": "2024-11-27",
+    "file": "data/release_backtest/raw/PCENDC96_2024-11-27.csv",
+    "latest_month": "2024-10-01",
+    "observed_months": 1
+  },
+  {
+    "series": "PCENDC96",
+    "quarter": "2024-12-31",
+    "stage": "Two months",
+    "cutoff": "2024-12-20",
+    "vintage": "2024-12-20",
+    "file": "data/release_backtest/raw/PCENDC96_2024-12-20.csv",
+    "latest_month": "2024-11-01",
+    "observed_months": 2
+  },
+  {
+    "series": "PCENDC96",
+    "quarter": "2024-12-31",
+    "stage": "Pre-earnings",
+    "cutoff": "2025-01-21",
+    "vintage": "2025-01-21",
+    "file": "data/driver_tests/raw/PCENDC96_2025-01-21.csv",
+    "latest_month": "2024-11-01",
+    "observed_months": 2
+  },
+  {
+    "series": "PCENDC96",
+    "quarter": "2025-03-31",
+    "stage": "Origin",
+    "cutoff": "2025-01-01",
+    "vintage": "2025-01-01",
+    "file": "data/driver_tests/raw/PCENDC96_2025-01-01.csv",
+    "latest_month": "2024-11-01",
+    "observed_months": 0
+  },
+  {
+    "series": "PCENDC96",
+    "quarter": "2025-03-31",
+    "stage": "One month",
+    "cutoff": "2025-02-28",
+    "vintage": "2025-02-28",
+    "file": "data/release_backtest/raw/PCENDC96_2025-02-28.csv",
+    "latest_month": "2025-01-01",
+    "observed_months": 1
+  },
+  {
+    "series": "PCENDC96",
+    "quarter": "2025-03-31",
+    "stage": "Two months",
+    "cutoff": "2025-03-28",
+    "vintage": "2025-03-28",
+    "file": "data/release_backtest/raw/PCENDC96_2025-03-28.csv",
+    "latest_month": "2025-02-01",
+    "observed_months": 2
+  },
+  {
+    "series": "PCENDC96",
+    "quarter": "2025-03-31",
+    "stage": "Pre-earnings",
+    "cutoff": "2025-04-23",
+    "vintage": "2025-04-23",
+    "file": "data/driver_tests/raw/PCENDC96_2025-04-23.csv",
+    "latest_month": "2025-02-01",
+    "observed_months": 2
+  },
+  {
+    "series": "PCENDC96",
+    "quarter": "2025-06-30",
+    "stage": "Origin",
+    "cutoff": "2025-04-01",
+    "vintage": "2025-04-01",
+    "file": "data/driver_tests/raw/PCENDC96_2025-04-01.csv",
+    "latest_month": "2025-02-01",
+    "observed_months": 0
+  },
+  {
+    "series": "PCENDC96",
+    "quarter": "2025-06-30",
+    "stage": "One month",
+    "cutoff": "2025-05-30",
+    "vintage": "2025-05-30",
+    "file": "data/release_backtest/raw/PCENDC96_2025-05-30.csv",
+    "latest_month": "2025-04-01",
+    "observed_months": 1
+  },
+  {
+    "series": "PCENDC96",
+    "quarter": "2025-06-30",
+    "stage": "Two months",
+    "cutoff": "2025-06-27",
+    "vintage": "2025-06-27",
+    "file": "data/release_backtest/raw/PCENDC96_2025-06-27.csv",
+    "latest_month": "2025-05-01",
+    "observed_months": 2
+  },
+  {
+    "series": "PCENDC96",
+    "quarter": "2025-06-30",
+    "stage": "Pre-earnings",
+    "cutoff": "2025-07-28",
+    "vintage": "2025-07-28",
+    "file": "data/driver_tests/raw/PCENDC96_2025-07-28.csv",
+    "latest_month": "2025-05-01",
+    "observed_months": 2
+  },
+  {
+    "series": "PCENDC96",
+    "quarter": "2025-09-30",
+    "stage": "Origin",
+    "cutoff": "2025-07-01",
+    "vintage": "2025-07-01",
+    "file": "data/driver_tests/raw/PCENDC96_2025-07-01.csv",
+    "latest_month": "2025-05-01",
+    "observed_months": 0
+  },
+  {
+    "series": "PCENDC96",
+    "quarter": "2025-09-30",
+    "stage": "One month",
+    "cutoff": "2025-08-29",
+    "vintage": "2025-08-29",
+    "file": "data/release_backtest/raw/PCENDC96_2025-08-29.csv",
+    "latest_month": "2025-07-01",
+    "observed_months": 1
+  },
+  {
+    "series": "PCENDC96",
+    "quarter": "2025-09-30",
+    "stage": "Two months",
+    "cutoff": "2025-09-26",
+    "vintage": "2025-09-26",
+    "file": "data/release_backtest/raw/PCENDC96_2025-09-26.csv",
+    "latest_month": "2025-08-01",
+    "observed_months": 2
+  },
+  {
+    "series": "PCENDC96",
+    "quarter": "2025-09-30",
+    "stage": "Pre-earnings",
+    "cutoff": "2025-10-23",
+    "vintage": "2025-10-23",
+    "file": "data/driver_tests/raw/PCENDC96_2025-10-23.csv",
+    "latest_month": "2025-08-01",
+    "observed_months": 2
+  },
+  {
+    "series": "PCENDC96",
+    "quarter": "2025-12-31",
+    "stage": "Origin",
+    "cutoff": "2025-10-01",
+    "vintage": "2025-10-01",
+    "file": "data/driver_tests/raw/PCENDC96_2025-10-01.csv",
+    "latest_month": "2025-08-01",
+    "observed_months": 0
+  },
+  {
+    "series": "PCENDC96",
+    "quarter": "2025-12-31",
+    "stage": "Pre-earnings",
+    "cutoff": "2026-01-22",
+    "vintage": "2026-01-22",
+    "file": "data/driver_tests/raw/PCENDC96_2026-01-22.csv",
+    "latest_month": "2025-11-01",
+    "observed_months": 2
+  },
+  {
+    "series": "PCENDC96",
+    "quarter": "2025-12-31",
+    "stage": "Two months",
+    "cutoff": "2026-01-22",
+    "vintage": "2026-01-22",
+    "file": "data/driver_tests/raw/PCENDC96_2026-01-22.csv",
+    "latest_month": "2025-11-01",
+    "observed_months": 2
+  },
+  {
+    "series": "PCENDC96",
+    "quarter": "2026-03-31",
+    "stage": "Origin",
+    "cutoff": "2026-01-01",
+    "vintage": "2026-01-01",
+    "file": "data/driver_tests/raw/PCENDC96_2026-01-01.csv",
+    "latest_month": "2025-09-01",
+    "observed_months": 0
+  },
+  {
+    "series": "PCENDC96",
+    "quarter": "2026-03-31",
+    "stage": "One month",
+    "cutoff": "2026-03-13",
+    "vintage": "2026-03-13",
+    "file": "data/release_backtest/raw/PCENDC96_2026-03-13.csv",
+    "latest_month": "2026-01-01",
+    "observed_months": 1
+  },
+  {
+    "series": "PCENDC96",
+    "quarter": "2026-03-31",
+    "stage": "Two months",
+    "cutoff": "2026-04-09",
+    "vintage": "2026-04-09",
+    "file": "data/release_backtest/raw/PCENDC96_2026-04-09.csv",
+    "latest_month": "2026-02-01",
+    "observed_months": 2
+  },
+  {
+    "series": "PCENDC96",
+    "quarter": "2026-03-31",
+    "stage": "Pre-earnings",
+    "cutoff": "2026-04-23",
+    "vintage": "2026-04-23",
+    "file": "data/driver_tests/raw/PCENDC96_2026-04-23.csv",
+    "latest_month": "2026-02-01",
+    "observed_months": 2
+  },
+  {
+    "series": "RSHPCS",
+    "quarter": "2023-06-30",
+    "stage": "Origin",
+    "cutoff": "2023-04-01",
+    "vintage": "2023-04-01",
+    "file": "data/driver_tests/raw/RSHPCS_2023-04-01.csv",
+    "latest_month": "2023-02-01",
+    "observed_months": 0
+  },
+  {
+    "series": "RSHPCS",
+    "quarter": "2023-06-30",
+    "stage": "Two months",
+    "cutoff": "2023-07-01",
+    "vintage": "2023-07-01",
+    "file": "data/driver_tests/raw/RSHPCS_2023-07-01.csv",
+    "latest_month": "2023-05-01",
+    "observed_months": 2
+  },
+  {
+    "series": "RSHPCS",
+    "quarter": "2023-06-30",
+    "stage": "Pre-earnings",
+    "cutoff": "2023-07-27",
+    "vintage": "2023-07-27",
+    "file": "data/driver_tests/raw/RSHPCS_2023-07-27.csv",
+    "latest_month": "2023-06-01",
+    "observed_months": 3
+  },
+  {
+    "series": "RSHPCS",
+    "quarter": "2023-09-30",
+    "stage": "Origin",
+    "cutoff": "2023-07-01",
+    "vintage": "2023-07-01",
+    "file": "data/driver_tests/raw/RSHPCS_2023-07-01.csv",
+    "latest_month": "2023-05-01",
+    "observed_months": 0
+  },
+  {
+    "series": "RSHPCS",
+    "quarter": "2023-09-30",
+    "stage": "Two months",
+    "cutoff": "2023-10-01",
+    "vintage": "2023-10-01",
+    "file": "data/driver_tests/raw/RSHPCS_2023-10-01.csv",
+    "latest_month": "2023-08-01",
+    "observed_months": 2
+  },
+  {
+    "series": "RSHPCS",
+    "quarter": "2023-09-30",
+    "stage": "Pre-earnings",
+    "cutoff": "2023-10-17",
+    "vintage": "2023-10-17",
+    "file": "data/driver_tests/raw/RSHPCS_2023-10-17.csv",
+    "latest_month": "2023-09-01",
+    "observed_months": 3
+  },
+  {
+    "series": "RSHPCS",
+    "quarter": "2023-12-31",
+    "stage": "Origin",
+    "cutoff": "2023-10-01",
+    "vintage": "2023-10-01",
+    "file": "data/driver_tests/raw/RSHPCS_2023-10-01.csv",
+    "latest_month": "2023-08-01",
+    "observed_months": 0
+  },
+  {
+    "series": "RSHPCS",
+    "quarter": "2023-12-31",
+    "stage": "Two months",
+    "cutoff": "2023-12-14",
+    "vintage": "2023-12-14",
+    "file": "data/release_backtest/raw/RSHPCS_2023-12-14.csv",
+    "latest_month": "2023-11-01",
+    "observed_months": 2
+  },
+  {
+    "series": "RSHPCS",
+    "quarter": "2023-12-31",
+    "stage": "Pre-earnings",
+    "cutoff": "2024-01-22",
+    "vintage": "2024-01-22",
+    "file": "data/driver_tests/raw/RSHPCS_2024-01-22.csv",
+    "latest_month": "2023-12-01",
+    "observed_months": 3
+  },
+  {
+    "series": "RSHPCS",
+    "quarter": "2024-03-31",
+    "stage": "Origin",
+    "cutoff": "2024-01-01",
+    "vintage": "2024-01-01",
+    "file": "data/driver_tests/raw/RSHPCS_2024-01-01.csv",
+    "latest_month": "2023-11-01",
+    "observed_months": 0
+  },
+  {
+    "series": "RSHPCS",
+    "quarter": "2024-03-31",
+    "stage": "One month",
+    "cutoff": "2024-02-15",
+    "vintage": "2024-02-15",
+    "file": "data/release_backtest/raw/RSHPCS_2024-02-15.csv",
+    "latest_month": "2024-01-01",
+    "observed_months": 1
+  },
+  {
+    "series": "RSHPCS",
+    "quarter": "2024-03-31",
+    "stage": "Two months",
+    "cutoff": "2024-03-14",
+    "vintage": "2024-03-14",
+    "file": "data/release_backtest/raw/RSHPCS_2024-03-14.csv",
+    "latest_month": "2024-02-01",
+    "observed_months": 2
+  },
+  {
+    "series": "RSHPCS",
+    "quarter": "2024-03-31",
+    "stage": "Pre-earnings",
+    "cutoff": "2024-04-18",
+    "vintage": "2024-04-18",
+    "file": "data/driver_tests/raw/RSHPCS_2024-04-18.csv",
+    "latest_month": "2024-03-01",
+    "observed_months": 3
+  },
+  {
+    "series": "RSHPCS",
+    "quarter": "2024-06-30",
+    "stage": "Origin",
+    "cutoff": "2024-04-01",
+    "vintage": "2024-04-01",
+    "file": "data/driver_tests/raw/RSHPCS_2024-04-01.csv",
+    "latest_month": "2024-02-01",
+    "observed_months": 0
+  },
+  {
+    "series": "RSHPCS",
+    "quarter": "2024-06-30",
+    "stage": "One month",
+    "cutoff": "2024-05-15",
+    "vintage": "2024-05-15",
+    "file": "data/release_backtest/raw/RSHPCS_2024-05-15.csv",
+    "latest_month": "2024-04-01",
+    "observed_months": 1
+  },
+  {
+    "series": "RSHPCS",
+    "quarter": "2024-06-30",
+    "stage": "Two months",
+    "cutoff": "2024-06-18",
+    "vintage": "2024-06-18",
+    "file": "data/release_backtest/raw/RSHPCS_2024-06-18.csv",
+    "latest_month": "2024-05-01",
+    "observed_months": 2
+  },
+  {
+    "series": "RSHPCS",
+    "quarter": "2024-06-30",
+    "stage": "Pre-earnings",
+    "cutoff": "2024-07-29",
+    "vintage": "2024-07-29",
+    "file": "data/driver_tests/raw/RSHPCS_2024-07-29.csv",
+    "latest_month": "2024-06-01",
+    "observed_months": 3
+  },
+  {
+    "series": "RSHPCS",
+    "quarter": "2024-09-30",
+    "stage": "Origin",
+    "cutoff": "2024-07-01",
+    "vintage": "2024-07-01",
+    "file": "data/driver_tests/raw/RSHPCS_2024-07-01.csv",
+    "latest_month": "2024-05-01",
+    "observed_months": 0
+  },
+  {
+    "series": "RSHPCS",
+    "quarter": "2024-09-30",
+    "stage": "One month",
+    "cutoff": "2024-08-15",
+    "vintage": "2024-08-15",
+    "file": "data/release_backtest/raw/RSHPCS_2024-08-15.csv",
+    "latest_month": "2024-07-01",
+    "observed_months": 1
+  },
+  {
+    "series": "RSHPCS",
+    "quarter": "2024-09-30",
+    "stage": "Two months",
+    "cutoff": "2024-09-17",
+    "vintage": "2024-09-17",
+    "file": "data/release_backtest/raw/RSHPCS_2024-09-17.csv",
+    "latest_month": "2024-08-01",
+    "observed_months": 2
+  },
+  {
+    "series": "RSHPCS",
+    "quarter": "2024-09-30",
+    "stage": "Pre-earnings",
+    "cutoff": "2024-10-17",
+    "vintage": "2024-10-17",
+    "file": "data/driver_tests/raw/RSHPCS_2024-10-17.csv",
+    "latest_month": "2024-09-01",
+    "observed_months": 3
+  },
+  {
+    "series": "RSHPCS",
+    "quarter": "2024-12-31",
+    "stage": "Origin",
+    "cutoff": "2024-10-01",
+    "vintage": "2024-10-01",
+    "file": "data/driver_tests/raw/RSHPCS_2024-10-01.csv",
+    "latest_month": "2024-08-01",
+    "observed_months": 0
+  },
+  {
+    "series": "RSHPCS",
+    "quarter": "2024-12-31",
+    "stage": "One month",
+    "cutoff": "2024-11-15",
+    "vintage": "2024-11-15",
+    "file": "data/release_backtest/raw/RSHPCS_2024-11-15.csv",
+    "latest_month": "2024-10-01",
+    "observed_months": 1
+  },
+  {
+    "series": "RSHPCS",
+    "quarter": "2024-12-31",
+    "stage": "Two months",
+    "cutoff": "2024-12-17",
+    "vintage": "2024-12-17",
+    "file": "data/release_backtest/raw/RSHPCS_2024-12-17.csv",
+    "latest_month": "2024-11-01",
+    "observed_months": 2
+  },
+  {
+    "series": "RSHPCS",
+    "quarter": "2024-12-31",
+    "stage": "Pre-earnings",
+    "cutoff": "2025-01-21",
+    "vintage": "2025-01-21",
+    "file": "data/driver_tests/raw/RSHPCS_2025-01-21.csv",
+    "latest_month": "2024-12-01",
+    "observed_months": 3
+  },
+  {
+    "series": "RSHPCS",
+    "quarter": "2025-03-31",
+    "stage": "Origin",
+    "cutoff": "2025-01-01",
+    "vintage": "2025-01-01",
+    "file": "data/driver_tests/raw/RSHPCS_2025-01-01.csv",
+    "latest_month": "2024-11-01",
+    "observed_months": 0
+  },
+  {
+    "series": "RSHPCS",
+    "quarter": "2025-03-31",
+    "stage": "One month",
+    "cutoff": "2025-02-14",
+    "vintage": "2025-02-14",
+    "file": "data/release_backtest/raw/RSHPCS_2025-02-14.csv",
+    "latest_month": "2025-01-01",
+    "observed_months": 1
+  },
+  {
+    "series": "RSHPCS",
+    "quarter": "2025-03-31",
+    "stage": "Two months",
+    "cutoff": "2025-03-17",
+    "vintage": "2025-03-17",
+    "file": "data/release_backtest/raw/RSHPCS_2025-03-17.csv",
+    "latest_month": "2025-02-01",
+    "observed_months": 2
+  },
+  {
+    "series": "RSHPCS",
+    "quarter": "2025-03-31",
+    "stage": "Pre-earnings",
+    "cutoff": "2025-04-23",
+    "vintage": "2025-04-23",
+    "file": "data/driver_tests/raw/RSHPCS_2025-04-23.csv",
+    "latest_month": "2025-03-01",
+    "observed_months": 3
+  },
+  {
+    "series": "RSHPCS",
+    "quarter": "2025-06-30",
+    "stage": "Origin",
+    "cutoff": "2025-04-01",
+    "vintage": "2025-04-01",
+    "file": "data/driver_tests/raw/RSHPCS_2025-04-01.csv",
+    "latest_month": "2025-02-01",
+    "observed_months": 0
+  },
+  {
+    "series": "RSHPCS",
+    "quarter": "2025-06-30",
+    "stage": "One month",
+    "cutoff": "2025-05-15",
+    "vintage": "2025-05-15",
+    "file": "data/release_backtest/raw/RSHPCS_2025-05-15.csv",
+    "latest_month": "2025-04-01",
+    "observed_months": 1
+  },
+  {
+    "series": "RSHPCS",
+    "quarter": "2025-06-30",
+    "stage": "Two months",
+    "cutoff": "2025-06-17",
+    "vintage": "2025-06-17",
+    "file": "data/release_backtest/raw/RSHPCS_2025-06-17.csv",
+    "latest_month": "2025-05-01",
+    "observed_months": 2
+  },
+  {
+    "series": "RSHPCS",
+    "quarter": "2025-06-30",
+    "stage": "Pre-earnings",
+    "cutoff": "2025-07-28",
+    "vintage": "2025-07-28",
+    "file": "data/driver_tests/raw/RSHPCS_2025-07-28.csv",
+    "latest_month": "2025-06-01",
+    "observed_months": 3
+  },
+  {
+    "series": "RSHPCS",
+    "quarter": "2025-09-30",
+    "stage": "Origin",
+    "cutoff": "2025-07-01",
+    "vintage": "2025-07-01",
+    "file": "data/driver_tests/raw/RSHPCS_2025-07-01.csv",
+    "latest_month": "2025-05-01",
+    "observed_months": 0
+  },
+  {
+    "series": "RSHPCS",
+    "quarter": "2025-09-30",
+    "stage": "One month",
+    "cutoff": "2025-08-15",
+    "vintage": "2025-08-15",
+    "file": "data/release_backtest/raw/RSHPCS_2025-08-15.csv",
+    "latest_month": "2025-07-01",
+    "observed_months": 1
+  },
+  {
+    "series": "RSHPCS",
+    "quarter": "2025-09-30",
+    "stage": "Two months",
+    "cutoff": "2025-09-16",
+    "vintage": "2025-09-16",
+    "file": "data/release_backtest/raw/RSHPCS_2025-09-16.csv",
+    "latest_month": "2025-08-01",
+    "observed_months": 2
+  },
+  {
+    "series": "RSHPCS",
+    "quarter": "2025-09-30",
+    "stage": "Pre-earnings",
+    "cutoff": "2025-10-23",
+    "vintage": "2025-10-23",
+    "file": "data/driver_tests/raw/RSHPCS_2025-10-23.csv",
+    "latest_month": "2025-08-01",
+    "observed_months": 2
+  },
+  {
+    "series": "RSHPCS",
+    "quarter": "2025-12-31",
+    "stage": "Origin",
+    "cutoff": "2025-10-01",
+    "vintage": "2025-10-01",
+    "file": "data/driver_tests/raw/RSHPCS_2025-10-01.csv",
+    "latest_month": "2025-08-01",
+    "observed_months": 0
+  },
+  {
+    "series": "RSHPCS",
+    "quarter": "2025-12-31",
+    "stage": "One month",
+    "cutoff": "2025-12-16",
+    "vintage": "2025-12-16",
+    "file": "data/release_backtest/raw/RSHPCS_2025-12-16.csv",
+    "latest_month": "2025-10-01",
+    "observed_months": 1
+  },
+  {
+    "series": "RSHPCS",
+    "quarter": "2025-12-31",
+    "stage": "Two months",
+    "cutoff": "2026-01-14",
+    "vintage": "2026-01-14",
+    "file": "data/release_backtest/raw/RSHPCS_2026-01-14.csv",
+    "latest_month": "2025-11-01",
+    "observed_months": 2
+  },
+  {
+    "series": "RSHPCS",
+    "quarter": "2025-12-31",
+    "stage": "Pre-earnings",
+    "cutoff": "2026-01-22",
+    "vintage": "2026-01-22",
+    "file": "data/driver_tests/raw/RSHPCS_2026-01-22.csv",
+    "latest_month": "2025-11-01",
+    "observed_months": 2
+  },
+  {
+    "series": "RSHPCS",
+    "quarter": "2026-03-31",
+    "stage": "Origin",
+    "cutoff": "2026-01-01",
+    "vintage": "2026-01-01",
+    "file": "data/driver_tests/raw/RSHPCS_2026-01-01.csv",
+    "latest_month": "2025-10-01",
+    "observed_months": 0
+  },
+  {
+    "series": "RSHPCS",
+    "quarter": "2026-03-31",
+    "stage": "One month",
+    "cutoff": "2026-03-06",
+    "vintage": "2026-03-06",
+    "file": "data/release_backtest/raw/RSHPCS_2026-03-06.csv",
+    "latest_month": "2026-01-01",
+    "observed_months": 1
+  },
+  {
+    "series": "RSHPCS",
+    "quarter": "2026-03-31",
+    "stage": "Two months",
+    "cutoff": "2026-04-01",
+    "vintage": "2026-04-01",
+    "file": "data/release_backtest/raw/RSHPCS_2026-04-01.csv",
+    "latest_month": "2026-02-01",
+    "observed_months": 2
+  },
+  {
+    "series": "RSHPCS",
+    "quarter": "2026-03-31",
+    "stage": "Pre-earnings",
+    "cutoff": "2026-04-23",
+    "vintage": "2026-04-23",
+    "file": "data/driver_tests/raw/RSHPCS_2026-04-23.csv",
+    "latest_month": "2026-03-01",
+    "observed_months": 3
+  }
+]

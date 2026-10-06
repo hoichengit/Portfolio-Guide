@@ -1,0 +1,992 @@
+[
+  {
+    "pair": "Baby, Feminine & Family Care | organic_volume_growth | PCENDC96",
+    "stage": "Origin",
+    "method": "YoY carry",
+    "quarters": 7,
+    "rmse": 3.190772256952977,
+    "mae": 2.5521111544222217,
+    "last_rmse": 3.4641016151377544,
+    "mean_rmse": 3.251373336211726
+  },
+  {
+    "pair": "Baby, Feminine & Family Care | organic_volume_growth | PCENDC96",
+    "stage": "Origin",
+    "method": "Flat level",
+    "quarters": 7,
+    "rmse": 3.2464225467153005,
+    "mae": 2.611307563436656,
+    "last_rmse": 3.4641016151377544,
+    "mean_rmse": 3.251373336211726
+  },
+  {
+    "pair": "Baby, Feminine & Family Care | organic_volume_growth | PCENDC96",
+    "stage": "Origin",
+    "method": "Recent trend",
+    "quarters": 7,
+    "rmse": 3.234588681710772,
+    "mae": 2.621744653619173,
+    "last_rmse": 3.4641016151377544,
+    "mean_rmse": 3.251373336211726
+  },
+  {
+    "pair": "Baby, Feminine & Family Care | organic_volume_growth | PCENDC96",
+    "stage": "Origin",
+    "method": "Available-history choice",
+    "quarters": 7,
+    "rmse": 3.190772256952977,
+    "mae": 2.5521111544222217,
+    "last_rmse": 3.4641016151377544,
+    "mean_rmse": 3.251373336211726
+  },
+  {
+    "pair": "Baby, Feminine & Family Care | organic_volume_growth | PCENDC96",
+    "stage": "One month",
+    "method": "YoY carry",
+    "quarters": 6,
+    "rmse": 2.6541521279584908,
+    "mae": 1.8593657523946714,
+    "last_rmse": 4.636809247747852,
+    "mean_rmse": 3.1705020632911336
+  },
+  {
+    "pair": "Baby, Feminine & Family Care | organic_volume_growth | PCENDC96",
+    "stage": "One month",
+    "method": "Flat level",
+    "quarters": 6,
+    "rmse": 2.8375118835327977,
+    "mae": 1.9859287470793818,
+    "last_rmse": 4.636809247747852,
+    "mean_rmse": 3.1705020632911336
+  },
+  {
+    "pair": "Baby, Feminine & Family Care | organic_volume_growth | PCENDC96",
+    "stage": "One month",
+    "method": "Recent trend",
+    "quarters": 6,
+    "rmse": 2.7236591175590465,
+    "mae": 1.9106605291073009,
+    "last_rmse": 4.636809247747852,
+    "mean_rmse": 3.1705020632911336
+  },
+  {
+    "pair": "Baby, Feminine & Family Care | organic_volume_growth | PCENDC96",
+    "stage": "One month",
+    "method": "Available-history choice",
+    "quarters": 6,
+    "rmse": 2.7594393590826334,
+    "mae": 1.9253731975279937,
+    "last_rmse": 4.636809247747852,
+    "mean_rmse": 3.1705020632911336
+  },
+  {
+    "pair": "Baby, Feminine & Family Care | organic_volume_growth | PCENDC96",
+    "stage": "Two months",
+    "method": "YoY carry",
+    "quarters": 7,
+    "rmse": 3.017590579980004,
+    "mae": 2.311500574710069,
+    "last_rmse": 4.69041575982343,
+    "mean_rmse": 3.59687364248454
+  },
+  {
+    "pair": "Baby, Feminine & Family Care | organic_volume_growth | PCENDC96",
+    "stage": "Two months",
+    "method": "Flat level",
+    "quarters": 7,
+    "rmse": 3.099530139166237,
+    "mae": 2.2888903672456498,
+    "last_rmse": 4.69041575982343,
+    "mean_rmse": 3.59687364248454
+  },
+  {
+    "pair": "Baby, Feminine & Family Care | organic_volume_growth | PCENDC96",
+    "stage": "Two months",
+    "method": "Recent trend",
+    "quarters": 7,
+    "rmse": 3.116412964043902,
+    "mae": 2.3103628895554484,
+    "last_rmse": 4.69041575982343,
+    "mean_rmse": 3.59687364248454
+  },
+  {
+    "pair": "Baby, Feminine & Family Care | organic_volume_growth | PCENDC96",
+    "stage": "Two months",
+    "method": "Available-history choice",
+    "quarters": 7,
+    "rmse": 3.017590579980004,
+    "mae": 2.311500574710069,
+    "last_rmse": 4.69041575982343,
+    "mean_rmse": 3.59687364248454
+  },
+  {
+    "pair": "Baby, Feminine & Family Care | organic_volume_growth | PCENDC96",
+    "stage": "Pre-earnings",
+    "method": "YoY carry",
+    "quarters": 7,
+    "rmse": 3.2520381266615668,
+    "mae": 2.6229940860131533,
+    "last_rmse": 4.69041575982343,
+    "mean_rmse": 3.59687364248454
+  },
+  {
+    "pair": "Baby, Feminine & Family Care | organic_volume_growth | PCENDC96",
+    "stage": "Pre-earnings",
+    "method": "Flat level",
+    "quarters": 7,
+    "rmse": 3.2662935078950968,
+    "mae": 2.6366547290910782,
+    "last_rmse": 4.69041575982343,
+    "mean_rmse": 3.59687364248454
+  },
+  {
+    "pair": "Baby, Feminine & Family Care | organic_volume_growth | PCENDC96",
+    "stage": "Pre-earnings",
+    "method": "Recent trend",
+    "quarters": 7,
+    "rmse": 3.2706169317847196,
+    "mae": 2.637254105903524,
+    "last_rmse": 4.69041575982343,
+    "mean_rmse": 3.59687364248454
+  },
+  {
+    "pair": "Baby, Feminine & Family Care | organic_volume_growth | PCENDC96",
+    "stage": "Pre-earnings",
+    "method": "Available-history choice",
+    "quarters": 7,
+    "rmse": 3.258536490758463,
+    "mae": 2.627522049923337,
+    "last_rmse": 4.69041575982343,
+    "mean_rmse": 3.59687364248454
+  },
+  {
+    "pair": "Beauty | organic_sales_growth | RSHPCS",
+    "stage": "Origin",
+    "method": "YoY carry",
+    "quarters": 7,
+    "rmse": 2.756425020124301,
+    "mae": 2.3378929762845493,
+    "last_rmse": 3.1396087108337016,
+    "mean_rmse": 3.8172540616821107
+  },
+  {
+    "pair": "Beauty | organic_sales_growth | RSHPCS",
+    "stage": "Origin",
+    "method": "Flat level",
+    "quarters": 7,
+    "rmse": 2.9122769480344832,
+    "mae": 2.577970307979089,
+    "last_rmse": 3.1396087108337016,
+    "mean_rmse": 3.8172540616821107
+  },
+  {
+    "pair": "Beauty | organic_sales_growth | RSHPCS",
+    "stage": "Origin",
+    "method": "Recent trend",
+    "quarters": 7,
+    "rmse": 2.9249462509662236,
+    "mae": 2.6023960114258022,
+    "last_rmse": 3.1396087108337016,
+    "mean_rmse": 3.8172540616821107
+  },
+  {
+    "pair": "Beauty | organic_sales_growth | RSHPCS",
+    "stage": "Origin",
+    "method": "Available-history choice",
+    "quarters": 7,
+    "rmse": 2.9122769480344832,
+    "mae": 2.577970307979089,
+    "last_rmse": 3.1396087108337016,
+    "mean_rmse": 3.8172540616821107
+  },
+  {
+    "pair": "Beauty | organic_sales_growth | RSHPCS",
+    "stage": "One month",
+    "method": "YoY carry",
+    "quarters": 7,
+    "rmse": 2.8625747455460884,
+    "mae": 2.3507526607636344,
+    "last_rmse": 3.3806170189140663,
+    "mean_rmse": 3.141030313220716
+  },
+  {
+    "pair": "Beauty | organic_sales_growth | RSHPCS",
+    "stage": "One month",
+    "method": "Flat level",
+    "quarters": 7,
+    "rmse": 3.0606449633452635,
+    "mae": 2.5334840523577267,
+    "last_rmse": 3.3806170189140663,
+    "mean_rmse": 3.141030313220716
+  },
+  {
+    "pair": "Beauty | organic_sales_growth | RSHPCS",
+    "stage": "One month",
+    "method": "Recent trend",
+    "quarters": 7,
+    "rmse": 3.2081668701868975,
+    "mae": 2.650875236582131,
+    "last_rmse": 3.3806170189140663,
+    "mean_rmse": 3.141030313220716
+  },
+  {
+    "pair": "Beauty | organic_sales_growth | RSHPCS",
+    "stage": "One month",
+    "method": "Available-history choice",
+    "quarters": 7,
+    "rmse": 3.1068316184718765,
+    "mae": 2.591382985230331,
+    "last_rmse": 3.3806170189140663,
+    "mean_rmse": 3.141030313220716
+  },
+  {
+    "pair": "Beauty | organic_sales_growth | RSHPCS",
+    "stage": "Two months",
+    "method": "YoY carry",
+    "quarters": 7,
+    "rmse": 3.121306470056601,
+    "mae": 2.562159581037427,
+    "last_rmse": 3.3806170189140663,
+    "mean_rmse": 3.141030313220716
+  },
+  {
+    "pair": "Beauty | organic_sales_growth | RSHPCS",
+    "stage": "Two months",
+    "method": "Flat level",
+    "quarters": 7,
+    "rmse": 3.1745041976607573,
+    "mae": 2.6082147027360945,
+    "last_rmse": 3.3806170189140663,
+    "mean_rmse": 3.141030313220716
+  },
+  {
+    "pair": "Beauty | organic_sales_growth | RSHPCS",
+    "stage": "Two months",
+    "method": "Recent trend",
+    "quarters": 7,
+    "rmse": 3.221865742207196,
+    "mae": 2.653647688942759,
+    "last_rmse": 3.3806170189140663,
+    "mean_rmse": 3.141030313220716
+  },
+  {
+    "pair": "Beauty | organic_sales_growth | RSHPCS",
+    "stage": "Two months",
+    "method": "Available-history choice",
+    "quarters": 7,
+    "rmse": 3.132101175942108,
+    "mae": 2.5651801092580677,
+    "last_rmse": 3.3806170189140663,
+    "mean_rmse": 3.141030313220716
+  },
+  {
+    "pair": "Beauty | organic_sales_growth | RSHPCS",
+    "stage": "Pre-earnings",
+    "method": "YoY carry",
+    "quarters": 7,
+    "rmse": 3.1254260502445073,
+    "mae": 2.613832077300071,
+    "last_rmse": 3.3806170189140663,
+    "mean_rmse": 3.141030313220716
+  },
+  {
+    "pair": "Beauty | organic_sales_growth | RSHPCS",
+    "stage": "Pre-earnings",
+    "method": "Flat level",
+    "quarters": 7,
+    "rmse": 3.150064504446287,
+    "mae": 2.634765171585733,
+    "last_rmse": 3.3806170189140663,
+    "mean_rmse": 3.141030313220716
+  },
+  {
+    "pair": "Beauty | organic_sales_growth | RSHPCS",
+    "stage": "Pre-earnings",
+    "method": "Recent trend",
+    "quarters": 7,
+    "rmse": 3.148917249664924,
+    "mae": 2.6332199301024697,
+    "last_rmse": 3.3806170189140663,
+    "mean_rmse": 3.141030313220716
+  },
+  {
+    "pair": "Beauty | organic_sales_growth | RSHPCS",
+    "stage": "Pre-earnings",
+    "method": "Available-history choice",
+    "quarters": 7,
+    "rmse": 3.1254260502445073,
+    "mae": 2.613832077300071,
+    "last_rmse": 3.3806170189140663,
+    "mean_rmse": 3.141030313220716
+  },
+  {
+    "pair": "Beauty | organic_volume_growth | PCENDC96",
+    "stage": "Origin",
+    "method": "YoY carry",
+    "quarters": 7,
+    "rmse": 2.8088345126654044,
+    "mae": 2.2884626387765215,
+    "last_rmse": 1.6035674514745464,
+    "mean_rmse": 2.127624429800926
+  },
+  {
+    "pair": "Beauty | organic_volume_growth | PCENDC96",
+    "stage": "Origin",
+    "method": "Flat level",
+    "quarters": 7,
+    "rmse": 3.0129724388877412,
+    "mae": 2.494654485392937,
+    "last_rmse": 1.6035674514745464,
+    "mean_rmse": 2.127624429800926
+  },
+  {
+    "pair": "Beauty | organic_volume_growth | PCENDC96",
+    "stage": "Origin",
+    "method": "Recent trend",
+    "quarters": 7,
+    "rmse": 2.9727211549035153,
+    "mae": 2.4581093583886724,
+    "last_rmse": 1.6035674514745464,
+    "mean_rmse": 2.127624429800926
+  },
+  {
+    "pair": "Beauty | organic_volume_growth | PCENDC96",
+    "stage": "Origin",
+    "method": "Available-history choice",
+    "quarters": 7,
+    "rmse": 2.8088345126654044,
+    "mae": 2.2884626387765215,
+    "last_rmse": 1.6035674514745464,
+    "mean_rmse": 2.127624429800926
+  },
+  {
+    "pair": "Beauty | organic_volume_growth | PCENDC96",
+    "stage": "One month",
+    "method": "YoY carry",
+    "quarters": 6,
+    "rmse": 2.4223987330720753,
+    "mae": 1.6745323216176307,
+    "last_rmse": 1.5811388300841898,
+    "mean_rmse": 1.845602882529175
+  },
+  {
+    "pair": "Beauty | organic_volume_growth | PCENDC96",
+    "stage": "One month",
+    "method": "Flat level",
+    "quarters": 6,
+    "rmse": 2.566128480348961,
+    "mae": 1.828510408237276,
+    "last_rmse": 1.5811388300841898,
+    "mean_rmse": 1.845602882529175
+  },
+  {
+    "pair": "Beauty | organic_volume_growth | PCENDC96",
+    "stage": "One month",
+    "method": "Recent trend",
+    "quarters": 6,
+    "rmse": 2.5125445905863617,
+    "mae": 1.7185631468823066,
+    "last_rmse": 1.5811388300841898,
+    "mean_rmse": 1.845602882529175
+  },
+  {
+    "pair": "Beauty | organic_volume_growth | PCENDC96",
+    "stage": "One month",
+    "method": "Available-history choice",
+    "quarters": 6,
+    "rmse": 2.5317721982854087,
+    "mae": 1.7312013883645918,
+    "last_rmse": 1.5811388300841898,
+    "mean_rmse": 1.845602882529175
+  },
+  {
+    "pair": "Beauty | organic_volume_growth | PCENDC96",
+    "stage": "Two months",
+    "method": "YoY carry",
+    "quarters": 7,
+    "rmse": 2.614340768070496,
+    "mae": 1.8642376706003776,
+    "last_rmse": 1.5118578920369088,
+    "mean_rmse": 1.800297594446937
+  },
+  {
+    "pair": "Beauty | organic_volume_growth | PCENDC96",
+    "stage": "Two months",
+    "method": "Flat level",
+    "quarters": 7,
+    "rmse": 2.7036006726560458,
+    "mae": 1.9690025811239371,
+    "last_rmse": 1.5118578920369088,
+    "mean_rmse": 1.800297594446937
+  },
+  {
+    "pair": "Beauty | organic_volume_growth | PCENDC96",
+    "stage": "Two months",
+    "method": "Recent trend",
+    "quarters": 7,
+    "rmse": 2.7060390966132886,
+    "mae": 1.9632824277757432,
+    "last_rmse": 1.5118578920369088,
+    "mean_rmse": 1.800297594446937
+  },
+  {
+    "pair": "Beauty | organic_volume_growth | PCENDC96",
+    "stage": "Two months",
+    "method": "Available-history choice",
+    "quarters": 7,
+    "rmse": 2.614340768070496,
+    "mae": 1.8642376706003776,
+    "last_rmse": 1.5118578920369088,
+    "mean_rmse": 1.800297594446937
+  },
+  {
+    "pair": "Beauty | organic_volume_growth | PCENDC96",
+    "stage": "Pre-earnings",
+    "method": "YoY carry",
+    "quarters": 7,
+    "rmse": 2.788359380375098,
+    "mae": 2.2049906175872978,
+    "last_rmse": 1.5118578920369088,
+    "mean_rmse": 1.800297594446937
+  },
+  {
+    "pair": "Beauty | organic_volume_growth | PCENDC96",
+    "stage": "Pre-earnings",
+    "method": "Flat level",
+    "quarters": 7,
+    "rmse": 2.826982111591104,
+    "mae": 2.2490679733539602,
+    "last_rmse": 1.5118578920369088,
+    "mean_rmse": 1.800297594446937
+  },
+  {
+    "pair": "Beauty | organic_volume_growth | PCENDC96",
+    "stage": "Pre-earnings",
+    "method": "Recent trend",
+    "quarters": 7,
+    "rmse": 2.822225818038563,
+    "mae": 2.2425515721100084,
+    "last_rmse": 1.5118578920369088,
+    "mean_rmse": 1.800297594446937
+  },
+  {
+    "pair": "Beauty | organic_volume_growth | PCENDC96",
+    "stage": "Pre-earnings",
+    "method": "Available-history choice",
+    "quarters": 7,
+    "rmse": 2.8024514097401894,
+    "mae": 2.2126747696384284,
+    "last_rmse": 1.5118578920369088,
+    "mean_rmse": 1.800297594446937
+  },
+  {
+    "pair": "Beauty | price_contribution | CUUR0000SEGB02",
+    "stage": "Origin",
+    "method": "YoY carry",
+    "quarters": 6,
+    "rmse": 1.7954278783783255,
+    "mae": 1.5363225080817098,
+    "last_rmse": 1.6832508230603465,
+    "mean_rmse": 2.2798940033840753
+  },
+  {
+    "pair": "Beauty | price_contribution | CUUR0000SEGB02",
+    "stage": "Origin",
+    "method": "Flat level",
+    "quarters": 6,
+    "rmse": 1.3559572263555588,
+    "mae": 1.1664151675797747,
+    "last_rmse": 1.6832508230603465,
+    "mean_rmse": 2.2798940033840753
+  },
+  {
+    "pair": "Beauty | price_contribution | CUUR0000SEGB02",
+    "stage": "Origin",
+    "method": "Recent trend",
+    "quarters": 6,
+    "rmse": 1.7182824729083193,
+    "mae": 1.4090676843623051,
+    "last_rmse": 1.6832508230603465,
+    "mean_rmse": 2.2798940033840753
+  },
+  {
+    "pair": "Beauty | price_contribution | CUUR0000SEGB02",
+    "stage": "Origin",
+    "method": "Seasonal step",
+    "quarters": 6,
+    "rmse": 1.8575511178188149,
+    "mae": 1.6149745630446655,
+    "last_rmse": 1.6832508230603465,
+    "mean_rmse": 2.2798940033840753
+  },
+  {
+    "pair": "Beauty | price_contribution | CUUR0000SEGB02",
+    "stage": "Origin",
+    "method": "Available-history choice",
+    "quarters": 6,
+    "rmse": 1.3559572263555588,
+    "mae": 1.1664151675797747,
+    "last_rmse": 1.6832508230603465,
+    "mean_rmse": 2.2798940033840753
+  },
+  {
+    "pair": "Beauty | price_contribution | CUUR0000SEGB02",
+    "stage": "Two months",
+    "method": "YoY carry",
+    "quarters": 5,
+    "rmse": 1.3975862154009098,
+    "mae": 1.118789468828576,
+    "last_rmse": 1.4832396974191326,
+    "mean_rmse": 1.7392527130926085
+  },
+  {
+    "pair": "Beauty | price_contribution | CUUR0000SEGB02",
+    "stage": "Two months",
+    "method": "Flat level",
+    "quarters": 5,
+    "rmse": 1.397520211045895,
+    "mae": 1.272518965337914,
+    "last_rmse": 1.4832396974191326,
+    "mean_rmse": 1.7392527130926085
+  },
+  {
+    "pair": "Beauty | price_contribution | CUUR0000SEGB02",
+    "stage": "Two months",
+    "method": "Recent trend",
+    "quarters": 5,
+    "rmse": 1.3850487705236623,
+    "mae": 1.2281898674680938,
+    "last_rmse": 1.4832396974191326,
+    "mean_rmse": 1.7392527130926085
+  },
+  {
+    "pair": "Beauty | price_contribution | CUUR0000SEGB02",
+    "stage": "Two months",
+    "method": "Seasonal step",
+    "quarters": 5,
+    "rmse": 1.4408563156888268,
+    "mae": 1.2648567998034368,
+    "last_rmse": 1.4832396974191326,
+    "mean_rmse": 1.7392527130926085
+  },
+  {
+    "pair": "Beauty | price_contribution | CUUR0000SEGB02",
+    "stage": "Two months",
+    "method": "Available-history choice",
+    "quarters": 5,
+    "rmse": 1.4408563156888268,
+    "mae": 1.2648567998034368,
+    "last_rmse": 1.4832396974191326,
+    "mean_rmse": 1.7392527130926085
+  },
+  {
+    "pair": "Beauty | price_contribution | CUUR0000SEGB02",
+    "stage": "Pre-earnings",
+    "method": "YoY carry",
+    "quarters": 6,
+    "rmse": 1.962078650383788,
+    "mae": 1.6519823671526497,
+    "last_rmse": 1.4142135623730951,
+    "mean_rmse": 1.6393596310755
+  },
+  {
+    "pair": "Beauty | price_contribution | CUUR0000SEGB02",
+    "stage": "Pre-earnings",
+    "method": "Flat level",
+    "quarters": 6,
+    "rmse": 1.9546833490383304,
+    "mae": 1.6403154090430856,
+    "last_rmse": 1.4142135623730951,
+    "mean_rmse": 1.6393596310755
+  },
+  {
+    "pair": "Beauty | price_contribution | CUUR0000SEGB02",
+    "stage": "Pre-earnings",
+    "method": "Recent trend",
+    "quarters": 6,
+    "rmse": 1.9574523618856818,
+    "mae": 1.6447562453715479,
+    "last_rmse": 1.4142135623730951,
+    "mean_rmse": 1.6393596310755
+  },
+  {
+    "pair": "Beauty | price_contribution | CUUR0000SEGB02",
+    "stage": "Pre-earnings",
+    "method": "Seasonal step",
+    "quarters": 6,
+    "rmse": 1.9700416528559026,
+    "mae": 1.6639137478838144,
+    "last_rmse": 1.4142135623730951,
+    "mean_rmse": 1.6393596310755
+  },
+  {
+    "pair": "Beauty | price_contribution | CUUR0000SEGB02",
+    "stage": "Pre-earnings",
+    "method": "Available-history choice",
+    "quarters": 6,
+    "rmse": 1.962078650383788,
+    "mae": 1.6519823671526497,
+    "last_rmse": 1.4142135623730951,
+    "mean_rmse": 1.6393596310755
+  },
+  {
+    "pair": "Fabric & Home Care | organic_volume_growth | PCENDC96",
+    "stage": "Origin",
+    "method": "YoY carry",
+    "quarters": 7,
+    "rmse": 2.064086318133093,
+    "mae": 1.6795698407657789,
+    "last_rmse": 1.927248223318863,
+    "mean_rmse": 1.839545751382273
+  },
+  {
+    "pair": "Fabric & Home Care | organic_volume_growth | PCENDC96",
+    "stage": "Origin",
+    "method": "Flat level",
+    "quarters": 7,
+    "rmse": 1.982257842672031,
+    "mae": 1.7925562600040474,
+    "last_rmse": 1.927248223318863,
+    "mean_rmse": 1.839545751382273
+  },
+  {
+    "pair": "Fabric & Home Care | organic_volume_growth | PCENDC96",
+    "stage": "Origin",
+    "method": "Recent trend",
+    "quarters": 7,
+    "rmse": 2.012953478331219,
+    "mae": 1.5743056413889365,
+    "last_rmse": 1.927248223318863,
+    "mean_rmse": 1.839545751382273
+  },
+  {
+    "pair": "Fabric & Home Care | organic_volume_growth | PCENDC96",
+    "stage": "Origin",
+    "method": "Available-history choice",
+    "quarters": 7,
+    "rmse": 2.064086318133093,
+    "mae": 1.6795698407657789,
+    "last_rmse": 1.927248223318863,
+    "mean_rmse": 1.839545751382273
+  },
+  {
+    "pair": "Fabric & Home Care | organic_volume_growth | PCENDC96",
+    "stage": "One month",
+    "method": "YoY carry",
+    "quarters": 6,
+    "rmse": 1.6091548358071688,
+    "mae": 1.3599952813643557,
+    "last_rmse": 1.6832508230603465,
+    "mean_rmse": 1.7998842555379313
+  },
+  {
+    "pair": "Fabric & Home Care | organic_volume_growth | PCENDC96",
+    "stage": "One month",
+    "method": "Flat level",
+    "quarters": 6,
+    "rmse": 1.5687622221953668,
+    "mae": 1.2627324357308336,
+    "last_rmse": 1.6832508230603465,
+    "mean_rmse": 1.7998842555379313
+  },
+  {
+    "pair": "Fabric & Home Care | organic_volume_growth | PCENDC96",
+    "stage": "One month",
+    "method": "Recent trend",
+    "quarters": 6,
+    "rmse": 1.571176724646995,
+    "mae": 1.3610247602128205,
+    "last_rmse": 1.6832508230603465,
+    "mean_rmse": 1.7998842555379313
+  },
+  {
+    "pair": "Fabric & Home Care | organic_volume_growth | PCENDC96",
+    "stage": "One month",
+    "method": "Available-history choice",
+    "quarters": 6,
+    "rmse": 1.5800624440444424,
+    "mae": 1.2932624717785053,
+    "last_rmse": 1.6832508230603465,
+    "mean_rmse": 1.7998842555379313
+  },
+  {
+    "pair": "Fabric & Home Care | organic_volume_growth | PCENDC96",
+    "stage": "Two months",
+    "method": "YoY carry",
+    "quarters": 7,
+    "rmse": 1.7596013067538636,
+    "mae": 1.4052250444109906,
+    "last_rmse": 1.7320508075688772,
+    "mean_rmse": 1.6663690210411721
+  },
+  {
+    "pair": "Fabric & Home Care | organic_volume_growth | PCENDC96",
+    "stage": "Two months",
+    "method": "Flat level",
+    "quarters": 7,
+    "rmse": 1.6624034164717065,
+    "mae": 1.3558917133212438,
+    "last_rmse": 1.7320508075688772,
+    "mean_rmse": 1.6663690210411721
+  },
+  {
+    "pair": "Fabric & Home Care | organic_volume_growth | PCENDC96",
+    "stage": "Two months",
+    "method": "Recent trend",
+    "quarters": 7,
+    "rmse": 1.649500657562799,
+    "mae": 1.3420027489961472,
+    "last_rmse": 1.7320508075688772,
+    "mean_rmse": 1.6663690210411721
+  },
+  {
+    "pair": "Fabric & Home Care | organic_volume_growth | PCENDC96",
+    "stage": "Two months",
+    "method": "Available-history choice",
+    "quarters": 7,
+    "rmse": 1.7596013067538636,
+    "mae": 1.4052250444109906,
+    "last_rmse": 1.7320508075688772,
+    "mean_rmse": 1.6663690210411721
+  },
+  {
+    "pair": "Fabric & Home Care | organic_volume_growth | PCENDC96",
+    "stage": "Pre-earnings",
+    "method": "YoY carry",
+    "quarters": 7,
+    "rmse": 1.7596013067538636,
+    "mae": 1.4052250444109906,
+    "last_rmse": 1.7320508075688772,
+    "mean_rmse": 1.6663690210411721
+  },
+  {
+    "pair": "Fabric & Home Care | organic_volume_growth | PCENDC96",
+    "stage": "Pre-earnings",
+    "method": "Flat level",
+    "quarters": 7,
+    "rmse": 1.6624034164717065,
+    "mae": 1.3558917133212438,
+    "last_rmse": 1.7320508075688772,
+    "mean_rmse": 1.6663690210411721
+  },
+  {
+    "pair": "Fabric & Home Care | organic_volume_growth | PCENDC96",
+    "stage": "Pre-earnings",
+    "method": "Recent trend",
+    "quarters": 7,
+    "rmse": 1.649500657562799,
+    "mae": 1.3420027489961472,
+    "last_rmse": 1.7320508075688772,
+    "mean_rmse": 1.6663690210411721
+  },
+  {
+    "pair": "Fabric & Home Care | organic_volume_growth | PCENDC96",
+    "stage": "Pre-earnings",
+    "method": "Available-history choice",
+    "quarters": 7,
+    "rmse": 1.755937896886753,
+    "mae": 1.3769615877611103,
+    "last_rmse": 1.7320508075688772,
+    "mean_rmse": 1.6663690210411721
+  },
+  {
+    "pair": "Health Care | price_contribution | CUUR0000SEGB",
+    "stage": "Origin",
+    "method": "YoY carry",
+    "quarters": 6,
+    "rmse": 1.0267350358271878,
+    "mae": 0.8279871020551056,
+    "last_rmse": 1.2909944487358056,
+    "mean_rmse": 2.369511201352155
+  },
+  {
+    "pair": "Health Care | price_contribution | CUUR0000SEGB",
+    "stage": "Origin",
+    "method": "Flat level",
+    "quarters": 6,
+    "rmse": 0.5920479335316684,
+    "mae": 0.5791522501907953,
+    "last_rmse": 1.2909944487358056,
+    "mean_rmse": 2.369511201352155
+  },
+  {
+    "pair": "Health Care | price_contribution | CUUR0000SEGB",
+    "stage": "Origin",
+    "method": "Recent trend",
+    "quarters": 6,
+    "rmse": 1.0196592761596168,
+    "mae": 0.7974838205467905,
+    "last_rmse": 1.2909944487358056,
+    "mean_rmse": 2.369511201352155
+  },
+  {
+    "pair": "Health Care | price_contribution | CUUR0000SEGB",
+    "stage": "Origin",
+    "method": "Seasonal step",
+    "quarters": 6,
+    "rmse": 1.2769020453601292,
+    "mae": 1.2445444803530972,
+    "last_rmse": 1.2909944487358056,
+    "mean_rmse": 2.369511201352155
+  },
+  {
+    "pair": "Health Care | price_contribution | CUUR0000SEGB",
+    "stage": "Origin",
+    "method": "Available-history choice",
+    "quarters": 6,
+    "rmse": 0.5920479335316684,
+    "mae": 0.5791522501907953,
+    "last_rmse": 1.2909944487358056,
+    "mean_rmse": 2.369511201352155
+  },
+  {
+    "pair": "Health Care | price_contribution | CUUR0000SEGB",
+    "stage": "One month",
+    "method": "YoY carry",
+    "quarters": 6,
+    "rmse": 1.0058233442082434,
+    "mae": 0.8655025337669797,
+    "last_rmse": 0.5773502691896257,
+    "mean_rmse": 1.6645820296198484
+  },
+  {
+    "pair": "Health Care | price_contribution | CUUR0000SEGB",
+    "stage": "One month",
+    "method": "Flat level",
+    "quarters": 6,
+    "rmse": 0.9771723388625013,
+    "mae": 0.8154796078812282,
+    "last_rmse": 0.5773502691896257,
+    "mean_rmse": 1.6645820296198484
+  },
+  {
+    "pair": "Health Care | price_contribution | CUUR0000SEGB",
+    "stage": "One month",
+    "method": "Recent trend",
+    "quarters": 6,
+    "rmse": 1.039850728559709,
+    "mae": 0.8573104183815228,
+    "last_rmse": 0.5773502691896257,
+    "mean_rmse": 1.6645820296198484
+  },
+  {
+    "pair": "Health Care | price_contribution | CUUR0000SEGB",
+    "stage": "One month",
+    "method": "Seasonal step",
+    "quarters": 6,
+    "rmse": 1.1391048819700633,
+    "mae": 1.0618061689484994,
+    "last_rmse": 0.5773502691896257,
+    "mean_rmse": 1.6645820296198484
+  },
+  {
+    "pair": "Health Care | price_contribution | CUUR0000SEGB",
+    "stage": "One month",
+    "method": "Available-history choice",
+    "quarters": 6,
+    "rmse": 1.0310095279083433,
+    "mae": 0.8994913274592292,
+    "last_rmse": 0.5773502691896257,
+    "mean_rmse": 1.6645820296198484
+  },
+  {
+    "pair": "Health Care | price_contribution | CUUR0000SEGB",
+    "stage": "Two months",
+    "method": "YoY carry",
+    "quarters": 6,
+    "rmse": 0.990917576663311,
+    "mae": 0.9117469028291697,
+    "last_rmse": 0.5773502691896257,
+    "mean_rmse": 1.6645820296198484
+  },
+  {
+    "pair": "Health Care | price_contribution | CUUR0000SEGB",
+    "stage": "Two months",
+    "method": "Flat level",
+    "quarters": 6,
+    "rmse": 1.000927583058042,
+    "mae": 0.9334525081655843,
+    "last_rmse": 0.5773502691896257,
+    "mean_rmse": 1.6645820296198484
+  },
+  {
+    "pair": "Health Care | price_contribution | CUUR0000SEGB",
+    "stage": "Two months",
+    "method": "Recent trend",
+    "quarters": 6,
+    "rmse": 1.0434643698006514,
+    "mae": 0.9960647127788712,
+    "last_rmse": 0.5773502691896257,
+    "mean_rmse": 1.6645820296198484
+  },
+  {
+    "pair": "Health Care | price_contribution | CUUR0000SEGB",
+    "stage": "Two months",
+    "method": "Seasonal step",
+    "quarters": 6,
+    "rmse": 1.0581531101119648,
+    "mae": 1.0015632227305906,
+    "last_rmse": 0.5773502691896257,
+    "mean_rmse": 1.6645820296198484
+  },
+  {
+    "pair": "Health Care | price_contribution | CUUR0000SEGB",
+    "stage": "Two months",
+    "method": "Available-history choice",
+    "quarters": 6,
+    "rmse": 1.000927583058042,
+    "mae": 0.9334525081655843,
+    "last_rmse": 0.5773502691896257,
+    "mean_rmse": 1.6645820296198484
+  },
+  {
+    "pair": "Health Care | price_contribution | CUUR0000SEGB",
+    "stage": "Pre-earnings",
+    "method": "YoY carry",
+    "quarters": 6,
+    "rmse": 0.5550612716926268,
+    "mae": 0.5472088168015382,
+    "last_rmse": 0.5773502691896257,
+    "mean_rmse": 1.6645820296198484
+  },
+  {
+    "pair": "Health Care | price_contribution | CUUR0000SEGB",
+    "stage": "Pre-earnings",
+    "method": "Flat level",
+    "quarters": 6,
+    "rmse": 0.5563942368616198,
+    "mae": 0.548286682065616,
+    "last_rmse": 0.5773502691896257,
+    "mean_rmse": 1.6645820296198484
+  },
+  {
+    "pair": "Health Care | price_contribution | CUUR0000SEGB",
+    "stage": "Pre-earnings",
+    "method": "Recent trend",
+    "quarters": 6,
+    "rmse": 0.5663791598533913,
+    "mae": 0.5561369783858233,
+    "last_rmse": 0.5773502691896257,
+    "mean_rmse": 1.6645820296198484
+  },
+  {
+    "pair": "Health Care | price_contribution | CUUR0000SEGB",
+    "stage": "Pre-earnings",
+    "method": "Seasonal step",
+    "quarters": 6,
+    "rmse": 0.5780115335002393,
+    "mae": 0.564852050453893,
+    "last_rmse": 0.5773502691896257,
+    "mean_rmse": 1.6645820296198484
+  },
+  {
+    "pair": "Health Care | price_contribution | CUUR0000SEGB",
+    "stage": "Pre-earnings",
+    "method": "Available-history choice",
+    "quarters": 6,
+    "rmse": 0.5550612716926268,
+    "mae": 0.5472088168015382,
+    "last_rmse": 0.5773502691896257,
+    "mean_rmse": 1.6645820296198484
+  }
+]

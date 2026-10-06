@@ -1,0 +1,23 @@
+pair,segment,metric,series,window,quarters,rmse,last_rmse,mean_rmse,selected
+Beauty | organic_volume_growth | PCENDC96,Beauty,organic_volume_growth,PCENDC96,Expanding,4,1.1162213761126516,1.3228756555322954,1.1319231422671772,True
+Beauty | organic_volume_growth | PCENDC96,Beauty,organic_volume_growth,PCENDC96,Last eight,4,1.1902086825494218,1.3228756555322954,1.1319231422671772,False
+Grooming | organic_volume_growth | PCENDC96,Grooming,organic_volume_growth,PCENDC96,Expanding,4,2.0405617672933376,1.6583123951777,2.5433737436719754,False
+Grooming | organic_volume_growth | PCENDC96,Grooming,organic_volume_growth,PCENDC96,Last eight,4,1.7083717504516458,1.6583123951777,2.5433737436719754,False
+Health Care | organic_volume_growth | PCENDC96,Health Care,organic_volume_growth,PCENDC96,Expanding,4,3.6896484451260716,4.387482193696061,3.1573327350787723,False
+Health Care | organic_volume_growth | PCENDC96,Health Care,organic_volume_growth,PCENDC96,Last eight,4,4.305965625655836,4.387482193696061,3.1573327350787723,False
+Fabric & Home Care | organic_volume_growth | PCENDC96,Fabric & Home Care,organic_volume_growth,PCENDC96,Expanding,4,1.5672689086332179,1.8708286933869707,3.599045012221992,False
+Fabric & Home Care | organic_volume_growth | PCENDC96,Fabric & Home Care,organic_volume_growth,PCENDC96,Last eight,4,0.8682233295305285,1.8708286933869707,3.599045012221992,True
+"Baby, Feminine & Family Care | organic_volume_growth | PCENDC96","Baby, Feminine & Family Care",organic_volume_growth,PCENDC96,Expanding,4,1.40836971114562,2.598076211353316,1.7853571071357126,True
+"Baby, Feminine & Family Care | organic_volume_growth | PCENDC96","Baby, Feminine & Family Care",organic_volume_growth,PCENDC96,Last eight,4,1.69263873174539,2.598076211353316,1.7853571071357126,False
+Beauty | price_contribution | CUUR0000SEGB,Beauty,price_contribution,CUUR0000SEGB,Expanding,4,1.3317651986692909,1.5811388300841898,2.4906073556464094,False
+Beauty | price_contribution | CUUR0000SEGB,Beauty,price_contribution,CUUR0000SEGB,Last eight,4,1.3394979720593394,1.5811388300841898,2.4906073556464094,False
+Grooming | price_contribution | CUUR0000SEGB,Grooming,price_contribution,CUUR0000SEGB,Expanding,4,1.819185944492219,1.8708286933869707,1.5360257159305635,False
+Grooming | price_contribution | CUUR0000SEGB,Grooming,price_contribution,CUUR0000SEGB,Last eight,4,1.597549680983382,1.8708286933869707,1.5360257159305635,False
+Health Care | price_contribution | CUUR0000SEGB,Health Care,price_contribution,CUUR0000SEGB,Expanding,4,0.5754254879417943,0.7071067811865476,0.9921567416492215,True
+Health Care | price_contribution | CUUR0000SEGB,Health Care,price_contribution,CUUR0000SEGB,Last eight,4,0.6038372044115801,0.7071067811865476,0.9921567416492215,False
+Beauty | organic_sales_growth | RSHPCS,Beauty,organic_sales_growth,RSHPCS,Expanding,4,4.056814397937965,4.242640687119285,4.926015123809508,True
+Beauty | organic_sales_growth | RSHPCS,Beauty,organic_sales_growth,RSHPCS,Last eight,4,4.940282783885734,4.242640687119285,4.926015123809508,False
+Health Care | organic_sales_growth | RSHPCS,Health Care,organic_sales_growth,RSHPCS,Expanding,4,5.1785704848085246,5.123475382979799,4.322904116447646,False
+Health Care | organic_sales_growth | RSHPCS,Health Care,organic_sales_growth,RSHPCS,Last eight,4,6.217113573038851,5.123475382979799,4.322904116447646,False
+Beauty | price_contribution | CUUR0000SEGB02,Beauty,price_contribution,CUUR0000SEGB02,Expanding,4,1.1405547736103039,1.5811388300841898,2.4906073556464094,True
+Beauty | price_contribution | CUUR0000SEGB02,Beauty,price_contribution,CUUR0000SEGB02,Last eight,4,1.3692883994746772,1.5811388300841898,2.4906073556464094,False
