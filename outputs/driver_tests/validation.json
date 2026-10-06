@@ -1,0 +1,10 @@
+{
+  "all_2992_forecasts_match_python": true,
+  "all_scores_match_python": true,
+  "policy_early_late_after_quarter_checked": true,
+  "policy_missing_zero_and_announcement_guards_checked": true,
+  "inputs_restored": true,
+  "native_excel_effective_date_changed_and_restored": true,
+  "native_excel_late_duty_millions": 2.97,
+  "native_excel_late_cogs_millions": 0
+}

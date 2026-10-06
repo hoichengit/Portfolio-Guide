@@ -1,0 +1,15 @@
+{
+  "history_quarters": 21,
+  "test_quarters": 12,
+  "stages": 3,
+  "series": 4,
+  "frozen_downloads": 144,
+  "forecasts": 2992,
+  "fits": 1576,
+  "all_training_available": true,
+  "all_calibration_outcomes_available": true,
+  "target_actuals_not_in_fit": true,
+  "bias_rule": "Last four completed same-stage Broad market forecast errors; minimum four; full and half correction fixed before run",
+  "selection": "Retrospective development, not an untouched holdout; recent eight also inspected previously",
+  "target_2026_q2_actuals_used": false
+}

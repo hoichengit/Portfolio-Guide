@@ -1,5 +1,7 @@
 # Release-aware forecasting | Does new information improve the forecast?
 
+> **Latest extension:** [12-quarter tests, bias correction, product drivers and tariff timing](06_driver_policy_tests.md). This page preserves the earlier eight-quarter experiment.
+
 **Answer: sometimes. Grooming pricing improved across eight test quarters, but automatic updates also produced a clear failure. Adding models did not automatically help.**
 
 - 🎯 **Goal:** update when information becomes available, then test whether the updates improve accuracy.

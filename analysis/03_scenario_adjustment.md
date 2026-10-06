@@ -28,6 +28,8 @@ flowchart LR
 
 ## Release-aware backtest
 
+**Latest:** [Expanded backtests and policy timing](06_driver_policy_tests.md) add 2021 company history, product-price tests and corrections based only on earlier published errors.
+
 **New result:** Grooming pricing retains some value, but more information and 50/50 blending do not always improve accuracy. We replayed historical versions across eight target quarters.
 
 [6. Backtest: Do immediate updates improve the forecast?](05_release_backtest.md) · [7. Data gaps: Can model changes solve them?](05_release_backtest.md#4-data-gaps-can-adding-variables-solve-the-limitations)

@@ -1,0 +1,182 @@
+[
+  {
+    "target_quarter": "2023-06-30",
+    "stage": "Origin",
+    "cutoff": "2023-04-01"
+  },
+  {
+    "target_quarter": "2023-06-30",
+    "stage": "Prior report",
+    "cutoff": "2023-04-21"
+  },
+  {
+    "target_quarter": "2023-06-30",
+    "stage": "Pre-earnings",
+    "cutoff": "2023-07-27"
+  },
+  {
+    "target_quarter": "2023-09-30",
+    "stage": "Origin",
+    "cutoff": "2023-07-01"
+  },
+  {
+    "target_quarter": "2023-09-30",
+    "stage": "Prior report",
+    "cutoff": "2023-07-28"
+  },
+  {
+    "target_quarter": "2023-09-30",
+    "stage": "Pre-earnings",
+    "cutoff": "2023-10-17"
+  },
+  {
+    "target_quarter": "2023-12-31",
+    "stage": "Origin",
+    "cutoff": "2023-10-01"
+  },
+  {
+    "target_quarter": "2023-12-31",
+    "stage": "Prior report",
+    "cutoff": "2023-10-18"
+  },
+  {
+    "target_quarter": "2023-12-31",
+    "stage": "Pre-earnings",
+    "cutoff": "2024-01-22"
+  },
+  {
+    "target_quarter": "2024-03-31",
+    "stage": "Origin",
+    "cutoff": "2024-01-01"
+  },
+  {
+    "target_quarter": "2024-03-31",
+    "stage": "Prior report",
+    "cutoff": "2024-01-23"
+  },
+  {
+    "target_quarter": "2024-03-31",
+    "stage": "Pre-earnings",
+    "cutoff": "2024-04-18"
+  },
+  {
+    "target_quarter": "2024-06-30",
+    "stage": "Origin",
+    "cutoff": "2024-04-01"
+  },
+  {
+    "target_quarter": "2024-06-30",
+    "stage": "Prior report",
+    "cutoff": "2024-04-19"
+  },
+  {
+    "target_quarter": "2024-06-30",
+    "stage": "Pre-earnings",
+    "cutoff": "2024-07-29"
+  },
+  {
+    "target_quarter": "2024-09-30",
+    "stage": "Origin",
+    "cutoff": "2024-07-01"
+  },
+  {
+    "target_quarter": "2024-09-30",
+    "stage": "Prior report",
+    "cutoff": "2024-07-30"
+  },
+  {
+    "target_quarter": "2024-09-30",
+    "stage": "Pre-earnings",
+    "cutoff": "2024-10-17"
+  },
+  {
+    "target_quarter": "2024-12-31",
+    "stage": "Origin",
+    "cutoff": "2024-10-01"
+  },
+  {
+    "target_quarter": "2024-12-31",
+    "stage": "Prior report",
+    "cutoff": "2024-10-18"
+  },
+  {
+    "target_quarter": "2024-12-31",
+    "stage": "Pre-earnings",
+    "cutoff": "2025-01-21"
+  },
+  {
+    "target_quarter": "2025-03-31",
+    "stage": "Origin",
+    "cutoff": "2025-01-01"
+  },
+  {
+    "target_quarter": "2025-03-31",
+    "stage": "Prior report",
+    "cutoff": "2025-01-22"
+  },
+  {
+    "target_quarter": "2025-03-31",
+    "stage": "Pre-earnings",
+    "cutoff": "2025-04-23"
+  },
+  {
+    "target_quarter": "2025-06-30",
+    "stage": "Origin",
+    "cutoff": "2025-04-01"
+  },
+  {
+    "target_quarter": "2025-06-30",
+    "stage": "Prior report",
+    "cutoff": "2025-04-24"
+  },
+  {
+    "target_quarter": "2025-06-30",
+    "stage": "Pre-earnings",
+    "cutoff": "2025-07-28"
+  },
+  {
+    "target_quarter": "2025-09-30",
+    "stage": "Origin",
+    "cutoff": "2025-07-01"
+  },
+  {
+    "target_quarter": "2025-09-30",
+    "stage": "Prior report",
+    "cutoff": "2025-07-29"
+  },
+  {
+    "target_quarter": "2025-09-30",
+    "stage": "Pre-earnings",
+    "cutoff": "2025-10-23"
+  },
+  {
+    "target_quarter": "2025-12-31",
+    "stage": "Origin",
+    "cutoff": "2025-10-01"
+  },
+  {
+    "target_quarter": "2025-12-31",
+    "stage": "Prior report",
+    "cutoff": "2025-10-24"
+  },
+  {
+    "target_quarter": "2025-12-31",
+    "stage": "Pre-earnings",
+    "cutoff": "2026-01-22"
+  },
+  {
+    "target_quarter": "2026-03-31",
+    "stage": "Origin",
+    "cutoff": "2026-01-01"
+  },
+  {
+    "target_quarter": "2026-03-31",
+    "stage": "Prior report",
+    "cutoff": "2026-01-23"
+  },
+  {
+    "target_quarter": "2026-03-31",
+    "stage": "Pre-earnings",
+    "cutoff": "2026-04-23"
+  }
+]

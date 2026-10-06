@@ -19,13 +19,16 @@
 
 ## 2. Test market evidence before adjusting the scenarios
 
-**Four years of history help us test a market signal before changing the forecast.**
+**Five years of history help us test market signals, forecast corrections and policy timing before changing the forecast.**
 
-- **Company history:** 17 quarters, January 2022–March 2026, across five reporting segments.
+- **Company history:** 21 quarters, January 2021–March 2026, across five reporting segments.
 - **Product research:** 11 categories mapped to available market data; missing product-level amounts stay missing.
 - **Historical tests:** 18 exploratory company–market comparisons.
 - **Release-aware backtest:** 122 archived market versions; five forecasting methods tested over eight quarters. Grooming pricing improved, while several demand models failed to beat simple rules.
 - **Competitors:** optional checks for industry performance and market share; no peer coefficient enters this model.
+- **Latest extension:** 12 test quarters, product-price and company-history challengers, chronological bias correction and a separate tariff-timing calculator. Correction helped Beauty but worsened Grooming.
+
+👉 **[New: which model changes helped, and why policy timing matters](analysis/06_driver_policy_tests.md)** · [Download the new Excel analysis](outputs/driver_tests/PG_6_Driver_and_Policy_Tests.xlsx)
 
 👉 [See the release-aware backtest and data-gap remedies](analysis/05_release_backtest.md) · [Read the questions and answers](analysis/03_scenario_adjustment.md) · [Expand original-report and Excel evidence](analysis/04_historical_matching.md) · [Download the historical analysis](outputs/history_review/PG_4_Historical_Market_Analysis.xlsx)
 
