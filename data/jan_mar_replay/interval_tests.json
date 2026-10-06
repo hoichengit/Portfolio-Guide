@@ -1,0 +1,308 @@
+[
+  {
+    "stage": "Initial",
+    "quarter": "2025-06-30",
+    "metric": "Baby / Feminine / Family volume",
+    "lower": -4.87087656081096,
+    "upper": 2.00092050639575,
+    "actual": 0.0,
+    "covered": true
+  },
+  {
+    "stage": "Initial",
+    "quarter": "2025-09-30",
+    "metric": "Baby / Feminine / Family volume",
+    "lower": -2.9294254342863684,
+    "upper": 3.3836766632810558,
+    "actual": 0.0,
+    "covered": true
+  },
+  {
+    "stage": "Initial",
+    "quarter": "2025-12-31",
+    "metric": "Baby / Feminine / Family volume",
+    "lower": -2.404782434339298,
+    "upper": 3.3629855030523497,
+    "actual": -5.0,
+    "covered": false
+  },
+  {
+    "stage": "Initial",
+    "quarter": "2025-06-30",
+    "metric": "Beauty organic sales",
+    "lower": -0.5021072442639749,
+    "upper": 5.483380624364486,
+    "actual": 1.0,
+    "covered": true
+  },
+  {
+    "stage": "Initial",
+    "quarter": "2025-09-30",
+    "metric": "Beauty organic sales",
+    "lower": -0.3824063749175224,
+    "upper": 5.189945741671091,
+    "actual": 6.0,
+    "covered": false
+  },
+  {
+    "stage": "Initial",
+    "quarter": "2025-12-31",
+    "metric": "Beauty organic sales",
+    "lower": 0.07263728237042644,
+    "upper": 6.156483048284583,
+    "actual": 4.0,
+    "covered": true
+  },
+  {
+    "stage": "Initial",
+    "quarter": "2025-06-30",
+    "metric": "Beauty volume",
+    "lower": -0.6512461710095918,
+    "upper": 1.634680883181075,
+    "actual": 1.0,
+    "covered": true
+  },
+  {
+    "stage": "Initial",
+    "quarter": "2025-09-30",
+    "metric": "Beauty volume",
+    "lower": -0.1512461710095918,
+    "upper": 2.1346808831810753,
+    "actual": 4.0,
+    "covered": false
+  },
+  {
+    "stage": "Initial",
+    "quarter": "2025-12-31",
+    "metric": "Beauty volume",
+    "lower": 2.3227019774918967,
+    "upper": 5.653163371538813,
+    "actual": 3.0,
+    "covered": true
+  },
+  {
+    "stage": "Initial",
+    "quarter": "2025-06-30",
+    "metric": "Beauty pricing",
+    "lower": 1.4770444668466411,
+    "upper": 4.501041717158128,
+    "actual": 1.0,
+    "covered": false
+  },
+  {
+    "stage": "Initial",
+    "quarter": "2025-09-30",
+    "metric": "Beauty pricing",
+    "lower": -0.7075740223432021,
+    "upper": 2.6830037298367717,
+    "actual": 2.0,
+    "covered": true
+  },
+  {
+    "stage": "Initial",
+    "quarter": "2025-12-31",
+    "metric": "Beauty pricing",
+    "lower": 0.37189205132813963,
+    "upper": 3.604681093960158,
+    "actual": 2.0,
+    "covered": true
+  },
+  {
+    "stage": "Initial",
+    "quarter": "2025-06-30",
+    "metric": "Fabric & Home volume",
+    "lower": -2.4182529239417203,
+    "upper": 2.383456668600331,
+    "actual": 0.0,
+    "covered": true
+  },
+  {
+    "stage": "Initial",
+    "quarter": "2025-09-30",
+    "metric": "Fabric & Home volume",
+    "lower": -2.162951169888526,
+    "upper": 2.1318284529662113,
+    "actual": -2.0,
+    "covered": true
+  },
+  {
+    "stage": "Initial",
+    "quarter": "2025-12-31",
+    "metric": "Fabric & Home volume",
+    "lower": -4.186826460180281,
+    "upper": 0.15536020156755104,
+    "actual": 0.0,
+    "covered": true
+  },
+  {
+    "stage": "Initial",
+    "quarter": "2025-06-30",
+    "metric": "Health Care pricing",
+    "lower": -0.5543614045889815,
+    "upper": 2.092489772424475,
+    "actual": 1.0,
+    "covered": true
+  },
+  {
+    "stage": "Initial",
+    "quarter": "2025-09-30",
+    "metric": "Health Care pricing",
+    "lower": -0.06155119089531014,
+    "upper": 2.316654009312132,
+    "actual": 1.0,
+    "covered": true
+  },
+  {
+    "stage": "Initial",
+    "quarter": "2025-12-31",
+    "metric": "Health Care pricing",
+    "lower": 0.5076083762172394,
+    "upper": 2.793535430407906,
+    "actual": 1.0,
+    "covered": true
+  },
+  {
+    "stage": "Pre-release",
+    "quarter": "2025-06-30",
+    "metric": "Baby / Feminine / Family volume",
+    "lower": -4.8570897722346,
+    "upper": 1.9812388176050875,
+    "actual": 0.0,
+    "covered": true
+  },
+  {
+    "stage": "Pre-release",
+    "quarter": "2025-09-30",
+    "metric": "Baby / Feminine / Family volume",
+    "lower": -2.9151123696314185,
+    "upper": 3.3695695493963997,
+    "actual": 0.0,
+    "covered": true
+  },
+  {
+    "stage": "Pre-release",
+    "quarter": "2025-12-31",
+    "metric": "Baby / Feminine / Family volume",
+    "lower": -2.3917271957001343,
+    "upper": 3.350118116317647,
+    "actual": -5.0,
+    "covered": false
+  },
+  {
+    "stage": "Pre-release",
+    "quarter": "2025-06-30",
+    "metric": "Beauty organic sales",
+    "lower": -0.4275323943228688,
+    "upper": 5.985702198572513,
+    "actual": 1.0,
+    "covered": true
+  },
+  {
+    "stage": "Pre-release",
+    "quarter": "2025-09-30",
+    "metric": "Beauty organic sales",
+    "lower": -1.1221509477557692,
+    "upper": 4.9026730497002315,
+    "actual": 6.0,
+    "covered": false
+  },
+  {
+    "stage": "Pre-release",
+    "quarter": "2025-12-31",
+    "metric": "Beauty organic sales",
+    "lower": -0.22555124103359292,
+    "upper": 6.467918567592978,
+    "actual": 4.0,
+    "covered": true
+  },
+  {
+    "stage": "Pre-release",
+    "quarter": "2025-06-30",
+    "metric": "Beauty volume",
+    "lower": -0.7220637562790342,
+    "upper": 1.7044794738055407,
+    "actual": 1.0,
+    "covered": true
+  },
+  {
+    "stage": "Pre-release",
+    "quarter": "2025-09-30",
+    "metric": "Beauty volume",
+    "lower": -0.1512461710095918,
+    "upper": 2.1346808831810753,
+    "actual": 4.0,
+    "covered": false
+  },
+  {
+    "stage": "Pre-release",
+    "quarter": "2025-12-31",
+    "metric": "Beauty volume",
+    "lower": 2.256755374281071,
+    "upper": 5.718161068693741,
+    "actual": 3.0,
+    "covered": true
+  },
+  {
+    "stage": "Pre-release",
+    "quarter": "2025-06-30",
+    "metric": "Beauty pricing",
+    "lower": 1.594761575289897,
+    "upper": 3.928812237285838,
+    "actual": 1.0,
+    "covered": false
+  },
+  {
+    "stage": "Pre-release",
+    "quarter": "2025-09-30",
+    "metric": "Beauty pricing",
+    "lower": 1.3382902797190457,
+    "upper": 4.101134240448351,
+    "actual": 2.0,
+    "covered": true
+  },
+  {
+    "stage": "Pre-release",
+    "quarter": "2025-06-30",
+    "metric": "Fabric & Home volume",
+    "lower": -1.118720982765322,
+    "upper": 3.5493440416863358,
+    "actual": 0.0,
+    "covered": true
+  },
+  {
+    "stage": "Pre-release",
+    "quarter": "2025-09-30",
+    "metric": "Fabric & Home volume",
+    "lower": -2.1963700578635645,
+    "upper": 2.1647664763684453,
+    "actual": -2.0,
+    "covered": true
+  },
+  {
+    "stage": "Pre-release",
+    "quarter": "2025-12-31",
+    "metric": "Fabric & Home volume",
+    "lower": -4.2144103105362305,
+    "upper": 0.18254714774082315,
+    "actual": 0.0,
+    "covered": true
+  },
+  {
+    "stage": "Pre-release",
+    "quarter": "2025-06-30",
+    "metric": "Health Care pricing",
+    "lower": 0.12083426574782652,
+    "upper": 2.4067613199384934,
+    "actual": 1.0,
+    "covered": true
+  },
+  {
+    "stage": "Pre-release",
+    "quarter": "2025-09-30",
+    "metric": "Health Care pricing",
+    "lower": 0.19076334719416588,
+    "upper": 2.4766904013848325,
+    "actual": 1.0,
+    "covered": true
+  }
+]

@@ -1,5 +1,7 @@
 # P&G | Can we improve the forecast?
 
+**Audit update:** [January–March replay](12_jan_mar_replay.md) finds weak target accuracy and corrects the archived prior earnings release date from 23 January to 22 January 2026. This page preserves the original development run; its historical January cutoff used the old date.
+
 **Answer: the revised rule reduced April–June error from 1.39pp to 0.58pp, but effectively tied the simple four-quarter average. Probability ranges still need improvement.**
 
 - 🎯 **Goal:** test improvements against simple benchmarks before relying on a more complicated model.

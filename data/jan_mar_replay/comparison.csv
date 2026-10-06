@@ -1,0 +1,13 @@
+stage,metric,cutoff,forecast,actual,error,absolute_error,method,last,four
+Initial,Baby / Feminine / Family volume,2026-01-22,-1.75,3.0,-4.75,4.75,Four-quarter mean,-5.0,-1.75
+Initial,Beauty organic sales,2026-01-22,3.7247100906864166,7.0,-3.2752899093135834,3.2752899093135834,Half last + market,4.0,3.25
+Initial,Beauty volume,2026-01-22,3.0,5.0,-2.0,2.0,Last actual,3.0,2.25
+Initial,Beauty pricing,2026-01-22,2.0,1.0,1.0,1.0,Last actual,2.0,2.0
+Initial,Fabric & Home volume,2026-01-22,-1.0,2.0,-3.0,3.0,Recent two mean,0.0,-0.5
+Initial,Health Care pricing,2026-01-22,1.0,2.0,-1.0,1.0,Last actual,1.0,1.0
+Pre-release,Baby / Feminine / Family volume,2026-04-23,-1.75,3.0,-4.75,4.75,Four-quarter mean,-5.0,-1.75
+Pre-release,Beauty organic sales,2026-04-23,2.760033746353253,7.0,-4.239966253646747,4.239966253646747,Market bias correction,4.0,3.25
+Pre-release,Beauty volume,2026-04-23,3.0,5.0,-2.0,2.0,Last actual,3.0,2.25
+Pre-release,Beauty pricing,2026-04-23,4.062744200341792,1.0,3.0627442003417924,3.0627442003417924,Market bias correction,2.0,2.0
+Pre-release,Fabric & Home volume,2026-04-23,-1.0,2.0,-3.0,3.0,Recent two mean,0.0,-0.5
+Pre-release,Health Care pricing,2026-04-23,1.9441170598736566,2.0,-0.05588294012634343,0.05588294012634343,Anchored market change,1.0,1.0

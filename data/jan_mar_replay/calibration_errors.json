@@ -1,0 +1,132 @@
+[
+  {
+    "stage": "Initial",
+    "quarter": "2024-06-30",
+    "Baby / Feminine / Family volume": 0.9294247148302219,
+    "Beauty organic sales": -0.20189058258983827,
+    "Beauty volume": 1.0,
+    "Beauty pricing": -1.0,
+    "Fabric & Home volume": 2.8302201151665285,
+    "Health Care pricing": -1.9825509359098126
+  },
+  {
+    "stage": "Initial",
+    "quarter": "2024-09-30",
+    "Baby / Feminine / Family volume": 0.9335751121489584,
+    "Beauty organic sales": -5.038011159895085,
+    "Beauty volume": -1.0,
+    "Beauty pricing": -2.0,
+    "Fabric & Home volume": -2.0,
+    "Health Care pricing": -1.1927884318629043
+  },
+  {
+    "stage": "Initial",
+    "quarter": "2024-12-31",
+    "Baby / Feminine / Family volume": 5.862489404553953,
+    "Beauty organic sales": 1.3789756435028035,
+    "Beauty volume": 0.22548608847670445,
+    "Beauty pricing": 1.0,
+    "Fabric & Home volume": 1.0,
+    "Health Care pricing": -0.028100141540976065
+  },
+  {
+    "stage": "Initial",
+    "quarter": "2025-03-31",
+    "Baby / Feminine / Family volume": -0.20767490774109354,
+    "Beauty organic sales": 0.3167571361420558,
+    "Beauty volume": 1.1980077892467096,
+    "Beauty pricing": 1.0,
+    "Fabric & Home volume": -2.153865334744004,
+    "Health Care pricing": 0.09376186713160517
+  },
+  {
+    "stage": "Initial",
+    "quarter": "2025-06-30",
+    "Baby / Feminine / Family volume": 1.410079311365218,
+    "Beauty organic sales": -1.5123240245511873,
+    "Beauty volume": 0.5,
+    "Beauty pricing": -2.0,
+    "Fabric & Home volume": 0.0,
+    "Health Care pricing": 0.22134542878050278
+  },
+  {
+    "stage": "Initial",
+    "quarter": "2025-09-30",
+    "Baby / Feminine / Family volume": -0.25,
+    "Beauty organic sales": 3.5760399049204645,
+    "Beauty volume": 3.0,
+    "Beauty pricing": 1.0,
+    "Fabric & Home volume": -2.0,
+    "Health Care pricing": -0.1361684063222275
+  },
+  {
+    "stage": "Initial",
+    "quarter": "2025-12-31",
+    "Baby / Feminine / Family volume": -5.5,
+    "Beauty organic sales": 0.8633961180910945,
+    "Beauty volume": -1.0,
+    "Beauty pricing": 0.0,
+    "Fabric & Home volume": 2.0,
+    "Health Care pricing": -0.6588545472268312
+  },
+  {
+    "stage": "Pre-release",
+    "quarter": "2024-06-30",
+    "Baby / Feminine / Family volume": 1.0143770448392844,
+    "Beauty organic sales": -0.09864966636460037,
+    "Beauty volume": 1.7118759120134448,
+    "Beauty pricing": -1.0,
+    "Fabric & Home volume": 2.0,
+    "Health Care pricing": -1.2940253164182662
+  },
+  {
+    "stage": "Pre-release",
+    "quarter": "2024-09-30",
+    "Baby / Feminine / Family volume": 0.8619377972414963,
+    "Beauty organic sales": -5.550909557634802,
+    "Beauty volume": -1.0,
+    "Beauty pricing": -0.9857222604589355,
+    "Fabric & Home volume": -2.7713714017533673,
+    "Health Care pricing": -0.6213288455239176
+  },
+  {
+    "stage": "Pre-release",
+    "quarter": "2024-12-31",
+    "Baby / Feminine / Family volume": 5.802305506631756,
+    "Beauty organic sales": 0.46775888551718947,
+    "Beauty volume": -0.08824761617670146,
+    "Beauty pricing": 1.1762197506003584,
+    "Fabric & Home volume": 1.0,
+    "Health Care pricing": -0.519877090492578
+  },
+  {
+    "stage": "Pre-release",
+    "quarter": "2025-03-31",
+    "Baby / Feminine / Family volume": -0.5978376957314238,
+    "Beauty organic sales": -0.6654655095860273,
+    "Beauty volume": 0.7542810102332661,
+    "Beauty pricing": 0.9028003325057261,
+    "Fabric & Home volume": -2.0,
+    "Health Care pricing": -0.38390348882752146
+  },
+  {
+    "stage": "Pre-release",
+    "quarter": "2025-06-30",
+    "Baby / Feminine / Family volume": 1.413148028456753,
+    "Beauty organic sales": -1.8023220996435168,
+    "Beauty volume": 0.5,
+    "Beauty pricing": -1.7702439174053968,
+    "Fabric & Home volume": -1.2322254201707359,
+    "Health Care pricing": -0.27208043675741833
+  },
+  {
+    "stage": "Pre-release",
+    "quarter": "2025-09-30",
+    "Baby / Feminine / Family volume": -0.25,
+    "Beauty organic sales": 4.087909087166899,
+    "Beauty volume": 3.0,
+    "Beauty pricing": -0.7297229262925913,
+    "Fabric & Home volume": -2.0,
+    "Health Care pricing": -0.3420095182037577
+  }
+]

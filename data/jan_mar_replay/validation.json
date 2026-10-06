@@ -1,0 +1,27 @@
+{
+  "tests": [
+    {
+      "stage": "Initial",
+      "future_actual_poison_test": true,
+      "future_market_poison_test": true
+    },
+    {
+      "stage": "Pre-release",
+      "future_actual_poison_test": true,
+      "future_market_poison_test": true
+    }
+  ],
+  "unscored_forecast_sha256": "edd0eabca12fe952332442bfa8255ac9f2af080752d28bba0a3449e2aa9583f8",
+  "company_dates_before_cutoffs": true,
+  "market_dates_before_cutoffs": true,
+  "target_excluded_from_training": true,
+  "target_actual": [
+    3.0,
+    7.0,
+    5.0,
+    1.0,
+    2.0,
+    2.0
+  ],
+  "retrospective_design": true
+}

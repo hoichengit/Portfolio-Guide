@@ -50,6 +50,10 @@ This historical reconstruction separates what was known on 24 April from what wa
 
 The dated point forecasts are now evaluated. A 100,000-draw simulation explores six separate metrics with assumption sensitivities. A reconciled company-wide downside/base/upside model remains unfinished; these metric predictions must not be added together.
 
+👉 [**Was the model reliable before results? January–March replay and leakage audit**](analysis/12_jan_mar_replay.md) · [**Open the January–March Excel**](outputs/jan_mar_replay/PG_12_Jan_Mar_Replay.xlsx)
+
+The January–March replay missed by 2.50pp initially and 2.85pp at the pre-release update. It does not establish reliable forecasting or calibrated risk probabilities.
+
 ## 🧰 Skills demonstrated so far
 
 | Skill | Evidence |
