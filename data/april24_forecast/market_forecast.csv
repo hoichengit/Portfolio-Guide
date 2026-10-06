@@ -1,0 +1,13 @@
+series,month,method,prior_year,forecast,observed,latest_month,latest_level,source_url
+PCENDC96,2026-04-01,YoY carry,3502.5,3548.1717196884933,False,2026-02-01,3521.4,https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=PCENDC96&cosd=2020-01-01&coed=2026-04-24&vintage_date=2026-04-24
+PCENDC96,2026-05-01,YoY carry,3498.3,3543.916952744113,False,2026-02-01,3521.4,https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=PCENDC96&cosd=2020-01-01&coed=2026-04-24&vintage_date=2026-04-24
+PCENDC96,2026-06-01,YoY carry,3522.8,3568.736426586331,False,2026-02-01,3521.4,https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=PCENDC96&cosd=2020-01-01&coed=2026-04-24&vintage_date=2026-04-24
+RSHPCS,2026-04-01,Flat level,38881.0,39866.0,False,2026-03-01,39866.0,https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=RSHPCS&cosd=2020-01-01&coed=2026-04-24&vintage_date=2026-04-24
+RSHPCS,2026-05-01,Flat level,39104.0,39866.0,False,2026-03-01,39866.0,https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=RSHPCS&cosd=2020-01-01&coed=2026-04-24&vintage_date=2026-04-24
+RSHPCS,2026-06-01,Flat level,39517.0,39866.0,False,2026-03-01,39866.0,https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=RSHPCS&cosd=2020-01-01&coed=2026-04-24&vintage_date=2026-04-24
+CUUR0000SEGB02,2026-04-01,Flat level,190.631,193.373,False,2026-03-01,193.373,https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=CUUR0000SEGB02&cosd=2020-01-01&coed=2026-04-24&vintage_date=2026-04-24
+CUUR0000SEGB02,2026-05-01,Flat level,189.399,193.373,False,2026-03-01,193.373,https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=CUUR0000SEGB02&cosd=2020-01-01&coed=2026-04-24&vintage_date=2026-04-24
+CUUR0000SEGB02,2026-06-01,Flat level,191.072,193.373,False,2026-03-01,193.373,https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=CUUR0000SEGB02&cosd=2020-01-01&coed=2026-04-24&vintage_date=2026-04-24
+CUUR0000SEGB,2026-04-01,Flat level,180.004,183.762,False,2026-03-01,183.762,https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=CUUR0000SEGB&cosd=2020-01-01&coed=2026-04-24&vintage_date=2026-04-24
+CUUR0000SEGB,2026-05-01,Flat level,179.673,183.762,False,2026-03-01,183.762,https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=CUUR0000SEGB&cosd=2020-01-01&coed=2026-04-24&vintage_date=2026-04-24
+CUUR0000SEGB,2026-06-01,Flat level,179.83,183.762,False,2026-03-01,183.762,https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=CUUR0000SEGB&cosd=2020-01-01&coed=2026-04-24&vintage_date=2026-04-24

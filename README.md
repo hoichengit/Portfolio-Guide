@@ -38,9 +38,13 @@ Six early candidates were tested on seven later target quarters. Some helped; be
 
 This historical reconstruction separates what was known on 24 April from what was known on 15 May. The previous unsupported blanket reductions have been withdrawn from the active argument. A new calibrated downside/base/upside forecast remains unfinished.
 
-## 3. Measure uncertainty — after the forecast is built
+## 3. Compare the 24 April forecast with actual results
 
-Use sensitivity analysis to select the important drivers, then document distributions and correlations before running Monte Carlo simulations. Report ranges and threshold probabilities conditional on those assumptions, not guaranteed real-world odds.
+**Sales were $219.48m above the guidance midpoint reference. Across six independent metric tests, the four-quarter average beat our selected forecasting methods.**
+
+👉 [**Did the forecast work? See predictions, actuals and error explanations**](analysis/08_april24_forecast_vs_actual.md) · [**Download the Excel comparison**](outputs/april24_forecast/PG_8_April24_Forecast_vs_Actual.xlsx)
+
+The dated point forecasts are now evaluated. A reconciled company-wide downside/base/upside model remains unfinished; these separate metric predictions must not be added together. Uncertainty ranges and Monte Carlo remain future work.
 
 ## 🧰 Skills demonstrated so far
 
@@ -50,6 +54,7 @@ Use sensitivity analysis to select the important drivers, then document distribu
 | Excel | Build linked sales calculations and reconcile annual totals to quarterly targets. |
 | Market analysis | Align monthly indicators with quarterly company results; test associations and stability. |
 | Analytical judgement | Separate annual from quarterly growth, and company guidance from our own scenarios. |
+| Forecast evaluation | Freeze dated predictions, compare actuals with simple benchmarks, and separate market-input errors from relationship errors. |
 
 [📊 Download the Excel sample](outputs/april_guidance_sample/PG_1_Management_Guidance.xlsx) · [🔎 Read the analysis](analysis/01_management_guidance.md)
 

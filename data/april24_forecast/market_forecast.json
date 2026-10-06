@@ -1,0 +1,134 @@
+[
+  {
+    "series": "PCENDC96",
+    "month": "2026-04-01",
+    "method": "YoY carry",
+    "prior_year": 3502.5,
+    "forecast": 3548.1717196884933,
+    "observed": false,
+    "latest_month": "2026-02-01",
+    "latest_level": 3521.4,
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=PCENDC96&cosd=2020-01-01&coed=2026-04-24&vintage_date=2026-04-24"
+  },
+  {
+    "series": "PCENDC96",
+    "month": "2026-05-01",
+    "method": "YoY carry",
+    "prior_year": 3498.3,
+    "forecast": 3543.916952744113,
+    "observed": false,
+    "latest_month": "2026-02-01",
+    "latest_level": 3521.4,
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=PCENDC96&cosd=2020-01-01&coed=2026-04-24&vintage_date=2026-04-24"
+  },
+  {
+    "series": "PCENDC96",
+    "month": "2026-06-01",
+    "method": "YoY carry",
+    "prior_year": 3522.8,
+    "forecast": 3568.736426586331,
+    "observed": false,
+    "latest_month": "2026-02-01",
+    "latest_level": 3521.4,
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=PCENDC96&cosd=2020-01-01&coed=2026-04-24&vintage_date=2026-04-24"
+  },
+  {
+    "series": "RSHPCS",
+    "month": "2026-04-01",
+    "method": "Flat level",
+    "prior_year": 38881.0,
+    "forecast": 39866.0,
+    "observed": false,
+    "latest_month": "2026-03-01",
+    "latest_level": 39866.0,
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=RSHPCS&cosd=2020-01-01&coed=2026-04-24&vintage_date=2026-04-24"
+  },
+  {
+    "series": "RSHPCS",
+    "month": "2026-05-01",
+    "method": "Flat level",
+    "prior_year": 39104.0,
+    "forecast": 39866.0,
+    "observed": false,
+    "latest_month": "2026-03-01",
+    "latest_level": 39866.0,
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=RSHPCS&cosd=2020-01-01&coed=2026-04-24&vintage_date=2026-04-24"
+  },
+  {
+    "series": "RSHPCS",
+    "month": "2026-06-01",
+    "method": "Flat level",
+    "prior_year": 39517.0,
+    "forecast": 39866.0,
+    "observed": false,
+    "latest_month": "2026-03-01",
+    "latest_level": 39866.0,
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=RSHPCS&cosd=2020-01-01&coed=2026-04-24&vintage_date=2026-04-24"
+  },
+  {
+    "series": "CUUR0000SEGB02",
+    "month": "2026-04-01",
+    "method": "Flat level",
+    "prior_year": 190.631,
+    "forecast": 193.373,
+    "observed": false,
+    "latest_month": "2026-03-01",
+    "latest_level": 193.373,
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=CUUR0000SEGB02&cosd=2020-01-01&coed=2026-04-24&vintage_date=2026-04-24"
+  },
+  {
+    "series": "CUUR0000SEGB02",
+    "month": "2026-05-01",
+    "method": "Flat level",
+    "prior_year": 189.399,
+    "forecast": 193.373,
+    "observed": false,
+    "latest_month": "2026-03-01",
+    "latest_level": 193.373,
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=CUUR0000SEGB02&cosd=2020-01-01&coed=2026-04-24&vintage_date=2026-04-24"
+  },
+  {
+    "series": "CUUR0000SEGB02",
+    "month": "2026-06-01",
+    "method": "Flat level",
+    "prior_year": 191.072,
+    "forecast": 193.373,
+    "observed": false,
+    "latest_month": "2026-03-01",
+    "latest_level": 193.373,
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=CUUR0000SEGB02&cosd=2020-01-01&coed=2026-04-24&vintage_date=2026-04-24"
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "month": "2026-04-01",
+    "method": "Flat level",
+    "prior_year": 180.004,
+    "forecast": 183.762,
+    "observed": false,
+    "latest_month": "2026-03-01",
+    "latest_level": 183.762,
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=CUUR0000SEGB&cosd=2020-01-01&coed=2026-04-24&vintage_date=2026-04-24"
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "month": "2026-05-01",
+    "method": "Flat level",
+    "prior_year": 179.673,
+    "forecast": 183.762,
+    "observed": false,
+    "latest_month": "2026-03-01",
+    "latest_level": 183.762,
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=CUUR0000SEGB&cosd=2020-01-01&coed=2026-04-24&vintage_date=2026-04-24"
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "month": "2026-06-01",
+    "method": "Flat level",
+    "prior_year": 179.83,
+    "forecast": 183.762,
+    "observed": false,
+    "latest_month": "2026-03-01",
+    "latest_level": 183.762,
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=CUUR0000SEGB&cosd=2020-01-01&coed=2026-04-24&vintage_date=2026-04-24"
+  }
+]

@@ -1,0 +1,10 @@
+{
+  "cutoff": "2026-04-24",
+  "target": "2026-06-30",
+  "reconstruction_created_utc": "2026-10-06T12:46:17.653128+00:00",
+  "forecast_sha256": "91bb43524c36543cc09038c99449f6048961d25dd81716527b191a84d0fea55e",
+  "no_target_actual_in_forecast": true,
+  "zero_observed_target_months": true,
+  "selection_checkpoint": "Origin: closest existing zero-target-month test, not identical post-report timing",
+  "status": "Retrospective reconstruction; headline Q4 actuals were seen in source discovery, but no target actual enters estimation or selection"
+}

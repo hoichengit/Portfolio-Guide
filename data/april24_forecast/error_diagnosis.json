@@ -1,0 +1,74 @@
+[
+  {
+    "segment": "Baby, Feminine & Family Care",
+    "metric": "organic_volume_growth",
+    "series": "PCENDC96",
+    "later_vintage": "2026-08-01",
+    "complete": true,
+    "later_market_growth": 2.2929415789273655,
+    "later_input_prediction": -1.5317869631486603,
+    "relationship_error": -0.5317869631486603,
+    "market_input_error": -0.12027520564116179,
+    "model_error": -0.652062168789822
+  },
+  {
+    "segment": "Beauty",
+    "metric": "organic_sales_growth",
+    "series": "RSHPCS",
+    "later_vintage": "2026-08-01",
+    "complete": true,
+    "later_market_growth": 2.3335773008118954,
+    "later_input_prediction": 3.336115231306487,
+    "relationship_error": -0.6638847686935132,
+    "market_input_error": -0.046546263931980913,
+    "model_error": -0.7104310326254941
+  },
+  {
+    "segment": "Beauty",
+    "metric": "organic_volume_growth",
+    "series": "PCENDC96",
+    "later_vintage": "2026-08-01",
+    "complete": true,
+    "later_market_growth": 2.2929415789273655,
+    "later_input_prediction": 0.11120395985906506,
+    "relationship_error": -2.888796040140935,
+    "market_input_error": -0.2041122646868126,
+    "model_error": -3.0929083048277475
+  },
+  {
+    "segment": "Beauty",
+    "metric": "price_contribution",
+    "series": "CUUR0000SEGB02",
+    "later_vintage": "2026-08-01",
+    "complete": true,
+    "later_market_growth": 2.644536352525484,
+    "later_input_prediction": 5.408796661764644,
+    "relationship_error": 4.408796661764644,
+    "market_input_error": -1.1005980087657,
+    "model_error": 3.308198652998944
+  },
+  {
+    "segment": "Fabric & Home Care",
+    "metric": "organic_volume_growth",
+    "series": "PCENDC96",
+    "later_vintage": "2026-08-01",
+    "complete": true,
+    "later_market_growth": 2.2929415789273655,
+    "later_input_prediction": 0.8977915372626855,
+    "relationship_error": -0.10220846273731454,
+    "market_input_error": 0.7507553346547622,
+    "model_error": 0.6485468719174476
+  },
+  {
+    "segment": "Health Care",
+    "metric": "price_contribution",
+    "series": "CUUR0000SEGB",
+    "later_vintage": "2026-08-01",
+    "complete": true,
+    "later_market_growth": 2.6822636221587537,
+    "later_input_prediction": 3.0614875239173007,
+    "relationship_error": 1.0614875239173007,
+    "market_input_error": -0.3804960795670973,
+    "model_error": 0.6809914443502034
+  }
+]

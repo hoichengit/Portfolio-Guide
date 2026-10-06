@@ -1,0 +1,7 @@
+{
+  "six_forecasts_match_frozen_inputs": true,
+  "six_variances_checked": true,
+  "sales_variance_checked": true,
+  "sales_reconciliation_zero": true,
+  "recalculation_checked_and_restored": true
+}

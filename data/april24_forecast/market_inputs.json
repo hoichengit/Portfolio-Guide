@@ -1,0 +1,1487 @@
+[
+  {
+    "series": "PCENDC96",
+    "month": "2020-01-01",
+    "level": 2976.3
+  },
+  {
+    "series": "PCENDC96",
+    "month": "2020-02-01",
+    "level": 2986.4
+  },
+  {
+    "series": "PCENDC96",
+    "month": "2020-03-01",
+    "level": 3097.3
+  },
+  {
+    "series": "PCENDC96",
+    "month": "2020-04-01",
+    "level": 2729.8
+  },
+  {
+    "series": "PCENDC96",
+    "month": "2020-05-01",
+    "level": 2966.4
+  },
+  {
+    "series": "PCENDC96",
+    "month": "2020-06-01",
+    "level": 3082.3
+  },
+  {
+    "series": "PCENDC96",
+    "month": "2020-07-01",
+    "level": 3114.3
+  },
+  {
+    "series": "PCENDC96",
+    "month": "2020-08-01",
+    "level": 3099.2
+  },
+  {
+    "series": "PCENDC96",
+    "month": "2020-09-01",
+    "level": 3158.0
+  },
+  {
+    "series": "PCENDC96",
+    "month": "2020-10-01",
+    "level": 3140.5
+  },
+  {
+    "series": "PCENDC96",
+    "month": "2020-11-01",
+    "level": 3129.7
+  },
+  {
+    "series": "PCENDC96",
+    "month": "2020-12-01",
+    "level": 3141.6
+  },
+  {
+    "series": "PCENDC96",
+    "month": "2021-01-01",
+    "level": 3196.8
+  },
+  {
+    "series": "PCENDC96",
+    "month": "2021-02-01",
+    "level": 3136.7
+  },
+  {
+    "series": "PCENDC96",
+    "month": "2021-03-01",
+    "level": 3322.2
+  },
+  {
+    "series": "PCENDC96",
+    "month": "2021-04-01",
+    "level": 3323.4
+  },
+  {
+    "series": "PCENDC96",
+    "month": "2021-05-01",
+    "level": 3315.0
+  },
+  {
+    "series": "PCENDC96",
+    "month": "2021-06-01",
+    "level": 3370.5
+  },
+  {
+    "series": "PCENDC96",
+    "month": "2021-07-01",
+    "level": 3316.0
+  },
+  {
+    "series": "PCENDC96",
+    "month": "2021-08-01",
+    "level": 3358.1
+  },
+  {
+    "series": "PCENDC96",
+    "month": "2021-09-01",
+    "level": 3353.8
+  },
+  {
+    "series": "PCENDC96",
+    "month": "2021-10-01",
+    "level": 3364.3
+  },
+  {
+    "series": "PCENDC96",
+    "month": "2021-11-01",
+    "level": 3370.8
+  },
+  {
+    "series": "PCENDC96",
+    "month": "2021-12-01",
+    "level": 3344.9
+  },
+  {
+    "series": "PCENDC96",
+    "month": "2022-01-01",
+    "level": 3340.6
+  },
+  {
+    "series": "PCENDC96",
+    "month": "2022-02-01",
+    "level": 3328.9
+  },
+  {
+    "series": "PCENDC96",
+    "month": "2022-03-01",
+    "level": 3333.7
+  },
+  {
+    "series": "PCENDC96",
+    "month": "2022-04-01",
+    "level": 3334.7
+  },
+  {
+    "series": "PCENDC96",
+    "month": "2022-05-01",
+    "level": 3339.6
+  },
+  {
+    "series": "PCENDC96",
+    "month": "2022-06-01",
+    "level": 3330.8
+  },
+  {
+    "series": "PCENDC96",
+    "month": "2022-07-01",
+    "level": 3293.4
+  },
+  {
+    "series": "PCENDC96",
+    "month": "2022-08-01",
+    "level": 3313.4
+  },
+  {
+    "series": "PCENDC96",
+    "month": "2022-09-01",
+    "level": 3323.4
+  },
+  {
+    "series": "PCENDC96",
+    "month": "2022-10-01",
+    "level": 3319.6
+  },
+  {
+    "series": "PCENDC96",
+    "month": "2022-11-01",
+    "level": 3300.9
+  },
+  {
+    "series": "PCENDC96",
+    "month": "2022-12-01",
+    "level": 3287.3
+  },
+  {
+    "series": "PCENDC96",
+    "month": "2023-01-01",
+    "level": 3320.4
+  },
+  {
+    "series": "PCENDC96",
+    "month": "2023-02-01",
+    "level": 3332.3
+  },
+  {
+    "series": "PCENDC96",
+    "month": "2023-03-01",
+    "level": 3299.1
+  },
+  {
+    "series": "PCENDC96",
+    "month": "2023-04-01",
+    "level": 3323.0
+  },
+  {
+    "series": "PCENDC96",
+    "month": "2023-05-01",
+    "level": 3314.1
+  },
+  {
+    "series": "PCENDC96",
+    "month": "2023-06-01",
+    "level": 3329.6
+  },
+  {
+    "series": "PCENDC96",
+    "month": "2023-07-01",
+    "level": 3342.7
+  },
+  {
+    "series": "PCENDC96",
+    "month": "2023-08-01",
+    "level": 3349.1
+  },
+  {
+    "series": "PCENDC96",
+    "month": "2023-09-01",
+    "level": 3356.5
+  },
+  {
+    "series": "PCENDC96",
+    "month": "2023-10-01",
+    "level": 3366.7
+  },
+  {
+    "series": "PCENDC96",
+    "month": "2023-11-01",
+    "level": 3375.4
+  },
+  {
+    "series": "PCENDC96",
+    "month": "2023-12-01",
+    "level": 3386.2
+  },
+  {
+    "series": "PCENDC96",
+    "month": "2024-01-01",
+    "level": 3356.8
+  },
+  {
+    "series": "PCENDC96",
+    "month": "2024-02-01",
+    "level": 3348.5
+  },
+  {
+    "series": "PCENDC96",
+    "month": "2024-03-01",
+    "level": 3383.1
+  },
+  {
+    "series": "PCENDC96",
+    "month": "2024-04-01",
+    "level": 3384.9
+  },
+  {
+    "series": "PCENDC96",
+    "month": "2024-05-01",
+    "level": 3399.9
+  },
+  {
+    "series": "PCENDC96",
+    "month": "2024-06-01",
+    "level": 3409.2
+  },
+  {
+    "series": "PCENDC96",
+    "month": "2024-07-01",
+    "level": 3428.5
+  },
+  {
+    "series": "PCENDC96",
+    "month": "2024-08-01",
+    "level": 3421.8
+  },
+  {
+    "series": "PCENDC96",
+    "month": "2024-09-01",
+    "level": 3464.3
+  },
+  {
+    "series": "PCENDC96",
+    "month": "2024-10-01",
+    "level": 3459.5
+  },
+  {
+    "series": "PCENDC96",
+    "month": "2024-11-01",
+    "level": 3458.9
+  },
+  {
+    "series": "PCENDC96",
+    "month": "2024-12-01",
+    "level": 3492.2
+  },
+  {
+    "series": "PCENDC96",
+    "month": "2025-01-01",
+    "level": 3474.2
+  },
+  {
+    "series": "PCENDC96",
+    "month": "2025-02-01",
+    "level": 3489.5
+  },
+  {
+    "series": "PCENDC96",
+    "month": "2025-03-01",
+    "level": 3503.0
+  },
+  {
+    "series": "PCENDC96",
+    "month": "2025-04-01",
+    "level": 3502.5
+  },
+  {
+    "series": "PCENDC96",
+    "month": "2025-05-01",
+    "level": 3498.3
+  },
+  {
+    "series": "PCENDC96",
+    "month": "2025-06-01",
+    "level": 3522.8
+  },
+  {
+    "series": "PCENDC96",
+    "month": "2025-07-01",
+    "level": 3533.2
+  },
+  {
+    "series": "PCENDC96",
+    "month": "2025-08-01",
+    "level": 3551.6
+  },
+  {
+    "series": "PCENDC96",
+    "month": "2025-09-01",
+    "level": 3538.9
+  },
+  {
+    "series": "PCENDC96",
+    "month": "2025-10-01",
+    "level": 3544.2
+  },
+  {
+    "series": "PCENDC96",
+    "month": "2025-11-01",
+    "level": 3548.9
+  },
+  {
+    "series": "PCENDC96",
+    "month": "2025-12-01",
+    "level": 3541.1
+  },
+  {
+    "series": "PCENDC96",
+    "month": "2026-01-01",
+    "level": 3529.7
+  },
+  {
+    "series": "PCENDC96",
+    "month": "2026-02-01",
+    "level": 3521.4
+  },
+  {
+    "series": "RSHPCS",
+    "month": "2020-01-01",
+    "level": 28935.0
+  },
+  {
+    "series": "RSHPCS",
+    "month": "2020-02-01",
+    "level": 29230.0
+  },
+  {
+    "series": "RSHPCS",
+    "month": "2020-03-01",
+    "level": 30701.0
+  },
+  {
+    "series": "RSHPCS",
+    "month": "2020-04-01",
+    "level": 26149.0
+  },
+  {
+    "series": "RSHPCS",
+    "month": "2020-05-01",
+    "level": 26601.0
+  },
+  {
+    "series": "RSHPCS",
+    "month": "2020-06-01",
+    "level": 28472.0
+  },
+  {
+    "series": "RSHPCS",
+    "month": "2020-07-01",
+    "level": 30081.0
+  },
+  {
+    "series": "RSHPCS",
+    "month": "2020-08-01",
+    "level": 29524.0
+  },
+  {
+    "series": "RSHPCS",
+    "month": "2020-09-01",
+    "level": 30012.0
+  },
+  {
+    "series": "RSHPCS",
+    "month": "2020-10-01",
+    "level": 29987.0
+  },
+  {
+    "series": "RSHPCS",
+    "month": "2020-11-01",
+    "level": 29583.0
+  },
+  {
+    "series": "RSHPCS",
+    "month": "2020-12-01",
+    "level": 29717.0
+  },
+  {
+    "series": "RSHPCS",
+    "month": "2021-01-01",
+    "level": 29812.0
+  },
+  {
+    "series": "RSHPCS",
+    "month": "2021-02-01",
+    "level": 29636.0
+  },
+  {
+    "series": "RSHPCS",
+    "month": "2021-03-01",
+    "level": 32090.0
+  },
+  {
+    "series": "RSHPCS",
+    "month": "2021-04-01",
+    "level": 31957.0
+  },
+  {
+    "series": "RSHPCS",
+    "month": "2021-05-01",
+    "level": 31321.0
+  },
+  {
+    "series": "RSHPCS",
+    "month": "2021-06-01",
+    "level": 32334.0
+  },
+  {
+    "series": "RSHPCS",
+    "month": "2021-07-01",
+    "level": 32225.0
+  },
+  {
+    "series": "RSHPCS",
+    "month": "2021-08-01",
+    "level": 32429.0
+  },
+  {
+    "series": "RSHPCS",
+    "month": "2021-09-01",
+    "level": 32183.0
+  },
+  {
+    "series": "RSHPCS",
+    "month": "2021-10-01",
+    "level": 32099.0
+  },
+  {
+    "series": "RSHPCS",
+    "month": "2021-11-01",
+    "level": 32490.0
+  },
+  {
+    "series": "RSHPCS",
+    "month": "2021-12-01",
+    "level": 32390.0
+  },
+  {
+    "series": "RSHPCS",
+    "month": "2022-01-01",
+    "level": 32664.0
+  },
+  {
+    "series": "RSHPCS",
+    "month": "2022-02-01",
+    "level": 32416.0
+  },
+  {
+    "series": "RSHPCS",
+    "month": "2022-03-01",
+    "level": 32553.0
+  },
+  {
+    "series": "RSHPCS",
+    "month": "2022-04-01",
+    "level": 32838.0
+  },
+  {
+    "series": "RSHPCS",
+    "month": "2022-05-01",
+    "level": 32656.0
+  },
+  {
+    "series": "RSHPCS",
+    "month": "2022-06-01",
+    "level": 33212.0
+  },
+  {
+    "series": "RSHPCS",
+    "month": "2022-07-01",
+    "level": 33431.0
+  },
+  {
+    "series": "RSHPCS",
+    "month": "2022-08-01",
+    "level": 33318.0
+  },
+  {
+    "series": "RSHPCS",
+    "month": "2022-09-01",
+    "level": 33529.0
+  },
+  {
+    "series": "RSHPCS",
+    "month": "2022-10-01",
+    "level": 33673.0
+  },
+  {
+    "series": "RSHPCS",
+    "month": "2022-11-01",
+    "level": 33896.0
+  },
+  {
+    "series": "RSHPCS",
+    "month": "2022-12-01",
+    "level": 33098.0
+  },
+  {
+    "series": "RSHPCS",
+    "month": "2023-01-01",
+    "level": 34603.0
+  },
+  {
+    "series": "RSHPCS",
+    "month": "2023-02-01",
+    "level": 35070.0
+  },
+  {
+    "series": "RSHPCS",
+    "month": "2023-03-01",
+    "level": 35207.0
+  },
+  {
+    "series": "RSHPCS",
+    "month": "2023-04-01",
+    "level": 35493.0
+  },
+  {
+    "series": "RSHPCS",
+    "month": "2023-05-01",
+    "level": 35745.0
+  },
+  {
+    "series": "RSHPCS",
+    "month": "2023-06-01",
+    "level": 35734.0
+  },
+  {
+    "series": "RSHPCS",
+    "month": "2023-07-01",
+    "level": 35455.0
+  },
+  {
+    "series": "RSHPCS",
+    "month": "2023-08-01",
+    "level": 36097.0
+  },
+  {
+    "series": "RSHPCS",
+    "month": "2023-09-01",
+    "level": 36011.0
+  },
+  {
+    "series": "RSHPCS",
+    "month": "2023-10-01",
+    "level": 37298.0
+  },
+  {
+    "series": "RSHPCS",
+    "month": "2023-11-01",
+    "level": 37150.0
+  },
+  {
+    "series": "RSHPCS",
+    "month": "2023-12-01",
+    "level": 36210.0
+  },
+  {
+    "series": "RSHPCS",
+    "month": "2024-01-01",
+    "level": 35827.0
+  },
+  {
+    "series": "RSHPCS",
+    "month": "2024-02-01",
+    "level": 35765.0
+  },
+  {
+    "series": "RSHPCS",
+    "month": "2024-03-01",
+    "level": 35624.0
+  },
+  {
+    "series": "RSHPCS",
+    "month": "2024-04-01",
+    "level": 35778.0
+  },
+  {
+    "series": "RSHPCS",
+    "month": "2024-05-01",
+    "level": 36028.0
+  },
+  {
+    "series": "RSHPCS",
+    "month": "2024-06-01",
+    "level": 36021.0
+  },
+  {
+    "series": "RSHPCS",
+    "month": "2024-07-01",
+    "level": 37535.0
+  },
+  {
+    "series": "RSHPCS",
+    "month": "2024-08-01",
+    "level": 37678.0
+  },
+  {
+    "series": "RSHPCS",
+    "month": "2024-09-01",
+    "level": 38360.0
+  },
+  {
+    "series": "RSHPCS",
+    "month": "2024-10-01",
+    "level": 38196.0
+  },
+  {
+    "series": "RSHPCS",
+    "month": "2024-11-01",
+    "level": 38085.0
+  },
+  {
+    "series": "RSHPCS",
+    "month": "2024-12-01",
+    "level": 37831.0
+  },
+  {
+    "series": "RSHPCS",
+    "month": "2025-01-01",
+    "level": 37806.0
+  },
+  {
+    "series": "RSHPCS",
+    "month": "2025-02-01",
+    "level": 38865.0
+  },
+  {
+    "series": "RSHPCS",
+    "month": "2025-03-01",
+    "level": 39224.0
+  },
+  {
+    "series": "RSHPCS",
+    "month": "2025-04-01",
+    "level": 38881.0
+  },
+  {
+    "series": "RSHPCS",
+    "month": "2025-05-01",
+    "level": 39104.0
+  },
+  {
+    "series": "RSHPCS",
+    "month": "2025-06-01",
+    "level": 39517.0
+  },
+  {
+    "series": "RSHPCS",
+    "month": "2025-07-01",
+    "level": 40182.0
+  },
+  {
+    "series": "RSHPCS",
+    "month": "2025-08-01",
+    "level": 40118.0
+  },
+  {
+    "series": "RSHPCS",
+    "month": "2025-09-01",
+    "level": 40637.0
+  },
+  {
+    "series": "RSHPCS",
+    "month": "2025-10-01",
+    "level": 40456.0
+  },
+  {
+    "series": "RSHPCS",
+    "month": "2025-11-01",
+    "level": 40222.0
+  },
+  {
+    "series": "RSHPCS",
+    "month": "2025-12-01",
+    "level": 40119.0
+  },
+  {
+    "series": "RSHPCS",
+    "month": "2026-01-01",
+    "level": 38913.0
+  },
+  {
+    "series": "RSHPCS",
+    "month": "2026-02-01",
+    "level": 39686.0
+  },
+  {
+    "series": "RSHPCS",
+    "month": "2026-03-01",
+    "level": 39866.0
+  },
+  {
+    "series": "CUUR0000SEGB02",
+    "month": "2020-01-01",
+    "level": 179.656
+  },
+  {
+    "series": "CUUR0000SEGB02",
+    "month": "2020-02-01",
+    "level": 181.381
+  },
+  {
+    "series": "CUUR0000SEGB02",
+    "month": "2020-03-01",
+    "level": 181.669
+  },
+  {
+    "series": "CUUR0000SEGB02",
+    "month": "2020-04-01",
+    "level": 180.95
+  },
+  {
+    "series": "CUUR0000SEGB02",
+    "month": "2020-05-01",
+    "level": 179.553
+  },
+  {
+    "series": "CUUR0000SEGB02",
+    "month": "2020-06-01",
+    "level": 178.426
+  },
+  {
+    "series": "CUUR0000SEGB02",
+    "month": "2020-07-01",
+    "level": 179.374
+  },
+  {
+    "series": "CUUR0000SEGB02",
+    "month": "2020-08-01",
+    "level": 179.164
+  },
+  {
+    "series": "CUUR0000SEGB02",
+    "month": "2020-09-01",
+    "level": 177.631
+  },
+  {
+    "series": "CUUR0000SEGB02",
+    "month": "2020-10-01",
+    "level": 178.135
+  },
+  {
+    "series": "CUUR0000SEGB02",
+    "month": "2020-11-01",
+    "level": 179.082
+  },
+  {
+    "series": "CUUR0000SEGB02",
+    "month": "2020-12-01",
+    "level": 178.552
+  },
+  {
+    "series": "CUUR0000SEGB02",
+    "month": "2021-01-01",
+    "level": 179.952
+  },
+  {
+    "series": "CUUR0000SEGB02",
+    "month": "2021-02-01",
+    "level": 180.497
+  },
+  {
+    "series": "CUUR0000SEGB02",
+    "month": "2021-03-01",
+    "level": 180.006
+  },
+  {
+    "series": "CUUR0000SEGB02",
+    "month": "2021-04-01",
+    "level": 180.289
+  },
+  {
+    "series": "CUUR0000SEGB02",
+    "month": "2021-05-01",
+    "level": 178.222
+  },
+  {
+    "series": "CUUR0000SEGB02",
+    "month": "2021-06-01",
+    "level": 178.072
+  },
+  {
+    "series": "CUUR0000SEGB02",
+    "month": "2021-07-01",
+    "level": 176.207
+  },
+  {
+    "series": "CUUR0000SEGB02",
+    "month": "2021-08-01",
+    "level": 178.556
+  },
+  {
+    "series": "CUUR0000SEGB02",
+    "month": "2021-09-01",
+    "level": 178.72
+  },
+  {
+    "series": "CUUR0000SEGB02",
+    "month": "2021-10-01",
+    "level": 178.309
+  },
+  {
+    "series": "CUUR0000SEGB02",
+    "month": "2021-11-01",
+    "level": 176.978
+  },
+  {
+    "series": "CUUR0000SEGB02",
+    "month": "2021-12-01",
+    "level": 176.243
+  },
+  {
+    "series": "CUUR0000SEGB02",
+    "month": "2022-01-01",
+    "level": 176.817
+  },
+  {
+    "series": "CUUR0000SEGB02",
+    "month": "2022-02-01",
+    "level": 178.891
+  },
+  {
+    "series": "CUUR0000SEGB02",
+    "month": "2022-03-01",
+    "level": 180.642
+  },
+  {
+    "series": "CUUR0000SEGB02",
+    "month": "2022-04-01",
+    "level": 179.464
+  },
+  {
+    "series": "CUUR0000SEGB02",
+    "month": "2022-05-01",
+    "level": 180.083
+  },
+  {
+    "series": "CUUR0000SEGB02",
+    "month": "2022-06-01",
+    "level": 180.437
+  },
+  {
+    "series": "CUUR0000SEGB02",
+    "month": "2022-07-01",
+    "level": 181.816
+  },
+  {
+    "series": "CUUR0000SEGB02",
+    "month": "2022-08-01",
+    "level": 186.043
+  },
+  {
+    "series": "CUUR0000SEGB02",
+    "month": "2022-09-01",
+    "level": 186.805
+  },
+  {
+    "series": "CUUR0000SEGB02",
+    "month": "2022-10-01",
+    "level": 186.811
+  },
+  {
+    "series": "CUUR0000SEGB02",
+    "month": "2022-11-01",
+    "level": 186.524
+  },
+  {
+    "series": "CUUR0000SEGB02",
+    "month": "2022-12-01",
+    "level": 185.069
+  },
+  {
+    "series": "CUUR0000SEGB02",
+    "month": "2023-01-01",
+    "level": 186.935
+  },
+  {
+    "series": "CUUR0000SEGB02",
+    "month": "2023-02-01",
+    "level": 187.494
+  },
+  {
+    "series": "CUUR0000SEGB02",
+    "month": "2023-03-01",
+    "level": 188.158
+  },
+  {
+    "series": "CUUR0000SEGB02",
+    "month": "2023-04-01",
+    "level": 188.647
+  },
+  {
+    "series": "CUUR0000SEGB02",
+    "month": "2023-05-01",
+    "level": 189.549
+  },
+  {
+    "series": "CUUR0000SEGB02",
+    "month": "2023-06-01",
+    "level": 189.937
+  },
+  {
+    "series": "CUUR0000SEGB02",
+    "month": "2023-07-01",
+    "level": 190.996
+  },
+  {
+    "series": "CUUR0000SEGB02",
+    "month": "2023-08-01",
+    "level": 190.978
+  },
+  {
+    "series": "CUUR0000SEGB02",
+    "month": "2023-09-01",
+    "level": 192.057
+  },
+  {
+    "series": "CUUR0000SEGB02",
+    "month": "2023-10-01",
+    "level": 193.472
+  },
+  {
+    "series": "CUUR0000SEGB02",
+    "month": "2023-11-01",
+    "level": 191.709
+  },
+  {
+    "series": "CUUR0000SEGB02",
+    "month": "2023-12-01",
+    "level": 187.349
+  },
+  {
+    "series": "CUUR0000SEGB02",
+    "month": "2024-01-01",
+    "level": 187.892
+  },
+  {
+    "series": "CUUR0000SEGB02",
+    "month": "2024-02-01",
+    "level": 191.222
+  },
+  {
+    "series": "CUUR0000SEGB02",
+    "month": "2024-03-01",
+    "level": 191.607
+  },
+  {
+    "series": "CUUR0000SEGB02",
+    "month": "2024-04-01",
+    "level": 190.319
+  },
+  {
+    "series": "CUUR0000SEGB02",
+    "month": "2024-05-01",
+    "level": 189.984
+  },
+  {
+    "series": "CUUR0000SEGB02",
+    "month": "2024-06-01",
+    "level": 190.421
+  },
+  {
+    "series": "CUUR0000SEGB02",
+    "month": "2024-07-01",
+    "level": 189.982
+  },
+  {
+    "series": "CUUR0000SEGB02",
+    "month": "2024-08-01",
+    "level": 190.812
+  },
+  {
+    "series": "CUUR0000SEGB02",
+    "month": "2024-09-01",
+    "level": 191.105
+  },
+  {
+    "series": "CUUR0000SEGB02",
+    "month": "2024-10-01",
+    "level": 191.813
+  },
+  {
+    "series": "CUUR0000SEGB02",
+    "month": "2024-11-01",
+    "level": 189.988
+  },
+  {
+    "series": "CUUR0000SEGB02",
+    "month": "2024-12-01",
+    "level": 187.819
+  },
+  {
+    "series": "CUUR0000SEGB02",
+    "month": "2025-01-01",
+    "level": 189.029
+  },
+  {
+    "series": "CUUR0000SEGB02",
+    "month": "2025-02-01",
+    "level": 189.627
+  },
+  {
+    "series": "CUUR0000SEGB02",
+    "month": "2025-03-01",
+    "level": 189.666
+  },
+  {
+    "series": "CUUR0000SEGB02",
+    "month": "2025-04-01",
+    "level": 190.631
+  },
+  {
+    "series": "CUUR0000SEGB02",
+    "month": "2025-05-01",
+    "level": 189.399
+  },
+  {
+    "series": "CUUR0000SEGB02",
+    "month": "2025-06-01",
+    "level": 191.072
+  },
+  {
+    "series": "CUUR0000SEGB02",
+    "month": "2025-07-01",
+    "level": 190.717
+  },
+  {
+    "series": "CUUR0000SEGB02",
+    "month": "2025-08-01",
+    "level": 191.367
+  },
+  {
+    "series": "CUUR0000SEGB02",
+    "month": "2025-09-01",
+    "level": 192.368
+  },
+  {
+    "series": "CUUR0000SEGB02",
+    "month": "2025-11-01",
+    "level": 190.307
+  },
+  {
+    "series": "CUUR0000SEGB02",
+    "month": "2025-12-01",
+    "level": 189.36
+  },
+  {
+    "series": "CUUR0000SEGB02",
+    "month": "2026-01-01",
+    "level": 191.697
+  },
+  {
+    "series": "CUUR0000SEGB02",
+    "month": "2026-02-01",
+    "level": 192.404
+  },
+  {
+    "series": "CUUR0000SEGB02",
+    "month": "2026-03-01",
+    "level": 193.373
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "month": "2020-01-01",
+    "level": 159.47
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "month": "2020-02-01",
+    "level": 161.196
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "month": "2020-03-01",
+    "level": 161.018
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "month": "2020-04-01",
+    "level": 160.797
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "month": "2020-05-01",
+    "level": 160.212
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "month": "2020-06-01",
+    "level": 159.331
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "month": "2020-07-01",
+    "level": 160.218
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "month": "2020-08-01",
+    "level": 160.328
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "month": "2020-09-01",
+    "level": 159.878
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "month": "2020-10-01",
+    "level": 159.704
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "month": "2020-11-01",
+    "level": 159.758
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "month": "2020-12-01",
+    "level": 158.846
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "month": "2021-01-01",
+    "level": 159.785
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "month": "2021-02-01",
+    "level": 160.214
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "month": "2021-03-01",
+    "level": 159.962
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "month": "2021-04-01",
+    "level": 160.308
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "month": "2021-05-01",
+    "level": 159.678
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "month": "2021-06-01",
+    "level": 159.296
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "month": "2021-07-01",
+    "level": 159.111
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "month": "2021-08-01",
+    "level": 159.966
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "month": "2021-09-01",
+    "level": 159.755
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "month": "2021-10-01",
+    "level": 160.038
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "month": "2021-11-01",
+    "level": 159.359
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "month": "2021-12-01",
+    "level": 159.06
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "month": "2022-01-01",
+    "level": 160.224
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "month": "2022-02-01",
+    "level": 161.496
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "month": "2022-03-01",
+    "level": 163.175
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "month": "2022-04-01",
+    "level": 163.713
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "month": "2022-05-01",
+    "level": 164.174
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "month": "2022-06-01",
+    "level": 165.353
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "month": "2022-07-01",
+    "level": 167.052
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "month": "2022-08-01",
+    "level": 169.576
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "month": "2022-09-01",
+    "level": 170.217
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "month": "2022-10-01",
+    "level": 170.89
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "month": "2022-11-01",
+    "level": 171.226
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "month": "2022-12-01",
+    "level": 171.058
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "month": "2023-01-01",
+    "level": 171.539
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "month": "2023-02-01",
+    "level": 172.394
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "month": "2023-03-01",
+    "level": 173.801
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "month": "2023-04-01",
+    "level": 174.724
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "month": "2023-05-01",
+    "level": 176.484
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "month": "2023-06-01",
+    "level": 176.846
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "month": "2023-07-01",
+    "level": 177.651
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "month": "2023-08-01",
+    "level": 178.14
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "month": "2023-09-01",
+    "level": 178.898
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "month": "2023-10-01",
+    "level": 179.617
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "month": "2023-11-01",
+    "level": 178.553
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "month": "2023-12-01",
+    "level": 176.62
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "month": "2024-01-01",
+    "level": 177.546
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "month": "2024-02-01",
+    "level": 179.311
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "month": "2024-03-01",
+    "level": 179.706
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "month": "2024-04-01",
+    "level": 179.28
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "month": "2024-05-01",
+    "level": 178.83
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "month": "2024-06-01",
+    "level": 178.682
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "month": "2024-07-01",
+    "level": 179.079
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "month": "2024-08-01",
+    "level": 178.452
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "month": "2024-09-01",
+    "level": 179.154
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "month": "2024-10-01",
+    "level": 179.634
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "month": "2024-11-01",
+    "level": 179.444
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "month": "2024-12-01",
+    "level": 177.536
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "month": "2025-01-01",
+    "level": 178.259
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "month": "2025-02-01",
+    "level": 179.824
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "month": "2025-03-01",
+    "level": 179.746
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "month": "2025-04-01",
+    "level": 180.004
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "month": "2025-05-01",
+    "level": 179.673
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "month": "2025-06-01",
+    "level": 179.83
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "month": "2025-07-01",
+    "level": 179.777
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "month": "2025-08-01",
+    "level": 180.503
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "month": "2025-09-01",
+    "level": 181.816
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "month": "2025-11-01",
+    "level": 180.752
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "month": "2025-12-01",
+    "level": 180.246
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "month": "2026-01-01",
+    "level": 181.597
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "month": "2026-02-01",
+    "level": 182.953
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "month": "2026-03-01",
+    "level": 183.762
+  }
+]

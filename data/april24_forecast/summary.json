@@ -1,0 +1,10 @@
+{
+  "variance_pp": 1.3919472164607438,
+  "model_variance_pp": 1.5155230792516097,
+  "last_variance_pp": 1.6666666666666667,
+  "mean_variance_pp": 0.5833333333333334,
+  "sales_reference": 20983.520000000004,
+  "sales_actual": 21203,
+  "sales_variance": 219.47999999999593,
+  "sales_variance_pct": 1.0459636896001934
+}

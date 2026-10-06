@@ -1,0 +1,30 @@
+[
+  {
+    "series": "PCENDC96",
+    "vintage": "2026-08-01",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=PCENDC96&cosd=2025-04-01&coed=2026-06-30&vintage_date=2026-08-01",
+    "file": "raw/PCENDC96_2026-08-01.csv",
+    "sha256": "0b6da7cb4314437e8fdefeb4d52862a5a69d81ce47308a2de88078f2341df17b"
+  },
+  {
+    "series": "RSHPCS",
+    "vintage": "2026-08-01",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=RSHPCS&cosd=2025-04-01&coed=2026-06-30&vintage_date=2026-08-01",
+    "file": "raw/RSHPCS_2026-08-01.csv",
+    "sha256": "ce2e40cd20ad4e32f952ec692e0d985777f4d8d27aabad9f66704c6a0669d21e"
+  },
+  {
+    "series": "CUUR0000SEGB",
+    "vintage": "2026-08-01",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=CUUR0000SEGB&cosd=2025-04-01&coed=2026-06-30&vintage_date=2026-08-01",
+    "file": "raw/CUUR0000SEGB_2026-08-01.csv",
+    "sha256": "2652e65f45b0eb7d67608f8e67f49ab83bc5b49ffe5759d4b535bb8953caf398"
+  },
+  {
+    "series": "CUUR0000SEGB02",
+    "vintage": "2026-08-01",
+    "source_url": "https://alfred.stlouisfed.org/graph/alfredgraph.csv?id=CUUR0000SEGB02&cosd=2025-04-01&coed=2026-06-30&vintage_date=2026-08-01",
+    "file": "raw/CUUR0000SEGB02_2026-08-01.csv",
+    "sha256": "2f5a292e1195cd51bef063c26560f8b91504f9885bee8fcece7de5494fcbc058"
+  }
+]

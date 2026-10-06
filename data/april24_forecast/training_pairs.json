@@ -1,0 +1,983 @@
+[
+  {
+    "segment": "Baby, Feminine & Family Care",
+    "metric": "organic_volume_growth",
+    "series": "PCENDC96",
+    "company_quarter": "2021-03-31",
+    "published": "2021-04-20",
+    "market_growth": 6.575055187637968,
+    "company_growth": -4.0
+  },
+  {
+    "segment": "Baby, Feminine & Family Care",
+    "metric": "organic_volume_growth",
+    "series": "PCENDC96",
+    "company_quarter": "2021-06-30",
+    "published": "2021-07-30",
+    "market_growth": 14.016061969584781,
+    "company_growth": -3.0
+  },
+  {
+    "segment": "Baby, Feminine & Family Care",
+    "metric": "organic_volume_growth",
+    "series": "PCENDC96",
+    "company_quarter": "2021-09-30",
+    "published": "2021-10-19",
+    "market_growth": 7.004214906898576,
+    "company_growth": 1.0
+  },
+  {
+    "segment": "Baby, Feminine & Family Care",
+    "metric": "organic_volume_growth",
+    "series": "PCENDC96",
+    "company_quarter": "2021-12-31",
+    "published": "2022-01-19",
+    "market_growth": 7.099598376506089,
+    "company_growth": 1.0
+  },
+  {
+    "segment": "Baby, Feminine & Family Care",
+    "metric": "organic_volume_growth",
+    "series": "PCENDC96",
+    "company_quarter": "2022-03-31",
+    "published": "2022-04-20",
+    "market_growth": 3.598910488105478,
+    "company_growth": 2.0
+  },
+  {
+    "segment": "Baby, Feminine & Family Care",
+    "metric": "organic_volume_growth",
+    "series": "PCENDC96",
+    "company_quarter": "2022-06-30",
+    "published": "2022-07-29",
+    "market_growth": -0.03796621007303713,
+    "company_growth": 0.0
+  },
+  {
+    "segment": "Baby, Feminine & Family Care",
+    "metric": "organic_volume_growth",
+    "series": "PCENDC96",
+    "company_quarter": "2022-09-30",
+    "published": "2022-10-19",
+    "market_growth": -0.9742817539066029,
+    "company_growth": -3.0
+  },
+  {
+    "segment": "Baby, Feminine & Family Care",
+    "metric": "organic_volume_growth",
+    "series": "PCENDC96",
+    "company_quarter": "2022-12-31",
+    "published": "2023-01-19",
+    "market_growth": -1.708333333333334,
+    "company_growth": -6.0
+  },
+  {
+    "segment": "Baby, Feminine & Family Care",
+    "metric": "organic_volume_growth",
+    "series": "PCENDC96",
+    "company_quarter": "2023-03-31",
+    "published": "2023-04-21",
+    "market_growth": -0.5138355726167609,
+    "company_growth": -4.0
+  },
+  {
+    "segment": "Baby, Feminine & Family Care",
+    "metric": "organic_volume_growth",
+    "series": "PCENDC96",
+    "company_quarter": "2023-06-30",
+    "published": "2023-07-28",
+    "market_growth": -0.38380425982749156,
+    "company_growth": 0.0
+  },
+  {
+    "segment": "Baby, Feminine & Family Care",
+    "metric": "organic_volume_growth",
+    "series": "PCENDC96",
+    "company_quarter": "2023-09-30",
+    "published": "2023-10-18",
+    "market_growth": 1.1893013232362026,
+    "company_growth": -3.0
+  },
+  {
+    "segment": "Baby, Feminine & Family Care",
+    "metric": "organic_volume_growth",
+    "series": "PCENDC96",
+    "company_quarter": "2023-12-31",
+    "published": "2024-01-23",
+    "market_growth": 2.2255192878338326,
+    "company_growth": -2.0
+  },
+  {
+    "segment": "Baby, Feminine & Family Care",
+    "metric": "organic_volume_growth",
+    "series": "PCENDC96",
+    "company_quarter": "2024-03-31",
+    "published": "2024-04-19",
+    "market_growth": 1.3726160091641626,
+    "company_growth": -3.0
+  },
+  {
+    "segment": "Baby, Feminine & Family Care",
+    "metric": "organic_volume_growth",
+    "series": "PCENDC96",
+    "company_quarter": "2024-06-30",
+    "published": "2024-07-30",
+    "market_growth": 2.2805943792830297,
+    "company_growth": -1.0
+  },
+  {
+    "segment": "Baby, Feminine & Family Care",
+    "metric": "organic_volume_growth",
+    "series": "PCENDC96",
+    "company_quarter": "2024-09-30",
+    "published": "2024-10-18",
+    "market_growth": 2.650199536239972,
+    "company_growth": -1.0
+  },
+  {
+    "segment": "Baby, Feminine & Family Care",
+    "metric": "organic_volume_growth",
+    "series": "PCENDC96",
+    "company_quarter": "2024-12-31",
+    "published": "2025-01-22",
+    "market_growth": 2.787239714463441,
+    "company_growth": 4.0
+  },
+  {
+    "segment": "Baby, Feminine & Family Care",
+    "metric": "organic_volume_growth",
+    "series": "PCENDC96",
+    "company_quarter": "2025-03-31",
+    "published": "2025-04-24",
+    "market_growth": 3.749851314380881,
+    "company_growth": -2.0
+  },
+  {
+    "segment": "Baby, Feminine & Family Care",
+    "metric": "organic_volume_growth",
+    "series": "PCENDC96",
+    "company_quarter": "2025-06-30",
+    "published": "2025-07-29",
+    "market_growth": 3.2332744751814912,
+    "company_growth": 0.0
+  },
+  {
+    "segment": "Baby, Feminine & Family Care",
+    "metric": "organic_volume_growth",
+    "series": "PCENDC96",
+    "company_quarter": "2025-09-30",
+    "published": "2025-10-24",
+    "market_growth": 2.996723091540132,
+    "company_growth": 0.0
+  },
+  {
+    "segment": "Baby, Feminine & Family Care",
+    "metric": "organic_volume_growth",
+    "series": "PCENDC96",
+    "company_quarter": "2025-12-31",
+    "published": "2026-01-23",
+    "market_growth": 2.1478108850594646,
+    "company_growth": -5.0
+  },
+  {
+    "segment": "Beauty",
+    "metric": "organic_sales_growth",
+    "series": "RSHPCS",
+    "company_quarter": "2021-03-31",
+    "published": "2021-04-20",
+    "market_growth": 3.006774244367927,
+    "company_growth": 7.0
+  },
+  {
+    "segment": "Beauty",
+    "metric": "organic_sales_growth",
+    "series": "RSHPCS",
+    "company_quarter": "2021-06-30",
+    "published": "2021-07-30",
+    "market_growth": 17.71687473837138,
+    "company_growth": 6.0
+  },
+  {
+    "segment": "Beauty",
+    "metric": "organic_sales_growth",
+    "series": "RSHPCS",
+    "company_quarter": "2021-09-30",
+    "published": "2021-10-19",
+    "market_growth": 8.056507135922875,
+    "company_growth": 2.0
+  },
+  {
+    "segment": "Beauty",
+    "metric": "organic_sales_growth",
+    "series": "RSHPCS",
+    "company_quarter": "2021-12-31",
+    "published": "2022-01-19",
+    "market_growth": 8.614915945210399,
+    "company_growth": 2.0
+  },
+  {
+    "segment": "Beauty",
+    "metric": "organic_sales_growth",
+    "series": "RSHPCS",
+    "company_quarter": "2022-03-31",
+    "published": "2022-04-20",
+    "market_growth": 6.658436933295464,
+    "company_growth": 3.0
+  },
+  {
+    "segment": "Beauty",
+    "metric": "organic_sales_growth",
+    "series": "RSHPCS",
+    "company_quarter": "2022-06-30",
+    "published": "2022-07-29",
+    "market_growth": 3.235995481738696,
+    "company_growth": 0.0
+  },
+  {
+    "segment": "Beauty",
+    "metric": "organic_sales_growth",
+    "series": "RSHPCS",
+    "company_quarter": "2022-09-30",
+    "published": "2022-10-19",
+    "market_growth": 3.553393847393038,
+    "company_growth": 4.0
+  },
+  {
+    "segment": "Beauty",
+    "metric": "organic_sales_growth",
+    "series": "RSHPCS",
+    "company_quarter": "2022-12-31",
+    "published": "2023-01-19",
+    "market_growth": 3.8028851607049052,
+    "company_growth": 3.0
+  },
+  {
+    "segment": "Beauty",
+    "metric": "organic_sales_growth",
+    "series": "RSHPCS",
+    "company_quarter": "2023-03-31",
+    "published": "2023-04-21",
+    "market_growth": 7.4226951952721,
+    "company_growth": 7.0
+  },
+  {
+    "segment": "Beauty",
+    "metric": "organic_sales_growth",
+    "series": "RSHPCS",
+    "company_quarter": "2023-06-30",
+    "published": "2023-07-28",
+    "market_growth": 8.374364273701707,
+    "company_growth": 11.0
+  },
+  {
+    "segment": "Beauty",
+    "metric": "organic_sales_growth",
+    "series": "RSHPCS",
+    "company_quarter": "2023-09-30",
+    "published": "2023-10-18",
+    "market_growth": 7.2648038453100305,
+    "company_growth": 5.0
+  },
+  {
+    "segment": "Beauty",
+    "metric": "organic_sales_growth",
+    "series": "RSHPCS",
+    "company_quarter": "2023-12-31",
+    "published": "2024-01-23",
+    "market_growth": 9.924801573504727,
+    "company_growth": 1.0
+  },
+  {
+    "segment": "Beauty",
+    "metric": "organic_sales_growth",
+    "series": "RSHPCS",
+    "company_quarter": "2024-03-31",
+    "published": "2024-04-19",
+    "market_growth": 2.22730739893211,
+    "company_growth": 3.0
+  },
+  {
+    "segment": "Beauty",
+    "metric": "organic_sales_growth",
+    "series": "RSHPCS",
+    "company_quarter": "2024-06-30",
+    "published": "2024-07-30",
+    "market_growth": 0.7992745765246889,
+    "company_growth": 3.0
+  },
+  {
+    "segment": "Beauty",
+    "metric": "organic_sales_growth",
+    "series": "RSHPCS",
+    "company_quarter": "2024-09-30",
+    "published": "2024-10-18",
+    "market_growth": 5.587423184552298,
+    "company_growth": -2.0
+  },
+  {
+    "segment": "Beauty",
+    "metric": "organic_sales_growth",
+    "series": "RSHPCS",
+    "company_quarter": "2024-12-31",
+    "published": "2025-01-22",
+    "market_growth": 3.121328778759791,
+    "company_growth": 2.0
+  },
+  {
+    "segment": "Beauty",
+    "metric": "organic_sales_growth",
+    "series": "RSHPCS",
+    "company_quarter": "2025-03-31",
+    "published": "2025-04-24",
+    "market_growth": 8.094873899417987,
+    "company_growth": 2.0
+  },
+  {
+    "segment": "Beauty",
+    "metric": "organic_sales_growth",
+    "series": "RSHPCS",
+    "company_quarter": "2025-06-30",
+    "published": "2025-07-29",
+    "market_growth": 8.972706279503285,
+    "company_growth": 1.0
+  },
+  {
+    "segment": "Beauty",
+    "metric": "organic_sales_growth",
+    "series": "RSHPCS",
+    "company_quarter": "2025-09-30",
+    "published": "2025-10-24",
+    "market_growth": 6.4839354424026885,
+    "company_growth": 6.0
+  },
+  {
+    "segment": "Beauty",
+    "metric": "organic_sales_growth",
+    "series": "RSHPCS",
+    "company_quarter": "2025-12-31",
+    "published": "2026-01-23",
+    "market_growth": 5.858279584969162,
+    "company_growth": 4.0
+  },
+  {
+    "segment": "Beauty",
+    "metric": "organic_sales_growth",
+    "series": "RSHPCS",
+    "company_quarter": "2026-03-31",
+    "published": "2026-04-24",
+    "market_growth": 2.2175244833685603,
+    "company_growth": 7.0
+  },
+  {
+    "segment": "Beauty",
+    "metric": "organic_volume_growth",
+    "series": "PCENDC96",
+    "company_quarter": "2021-03-31",
+    "published": "2021-04-20",
+    "market_growth": 6.575055187637968,
+    "company_growth": 2.0
+  },
+  {
+    "segment": "Beauty",
+    "metric": "organic_volume_growth",
+    "series": "PCENDC96",
+    "company_quarter": "2021-06-30",
+    "published": "2021-07-30",
+    "market_growth": 14.016061969584781,
+    "company_growth": 1.0
+  },
+  {
+    "segment": "Beauty",
+    "metric": "organic_volume_growth",
+    "series": "PCENDC96",
+    "company_quarter": "2021-09-30",
+    "published": "2021-10-19",
+    "market_growth": 7.004214906898576,
+    "company_growth": 0.0
+  },
+  {
+    "segment": "Beauty",
+    "metric": "organic_volume_growth",
+    "series": "PCENDC96",
+    "company_quarter": "2021-12-31",
+    "published": "2022-01-19",
+    "market_growth": 7.099598376506089,
+    "company_growth": 1.0
+  },
+  {
+    "segment": "Beauty",
+    "metric": "organic_volume_growth",
+    "series": "PCENDC96",
+    "company_quarter": "2022-03-31",
+    "published": "2022-04-20",
+    "market_growth": 3.598910488105478,
+    "company_growth": -1.0
+  },
+  {
+    "segment": "Beauty",
+    "metric": "organic_volume_growth",
+    "series": "PCENDC96",
+    "company_quarter": "2022-06-30",
+    "published": "2022-07-29",
+    "market_growth": -0.03796621007303713,
+    "company_growth": -2.0
+  },
+  {
+    "segment": "Beauty",
+    "metric": "organic_volume_growth",
+    "series": "PCENDC96",
+    "company_quarter": "2022-09-30",
+    "published": "2022-10-19",
+    "market_growth": -0.9742817539066029,
+    "company_growth": -1.0
+  },
+  {
+    "segment": "Beauty",
+    "metric": "organic_volume_growth",
+    "series": "PCENDC96",
+    "company_quarter": "2022-12-31",
+    "published": "2023-01-19",
+    "market_growth": -1.708333333333334,
+    "company_growth": -4.0
+  },
+  {
+    "segment": "Beauty",
+    "metric": "organic_volume_growth",
+    "series": "PCENDC96",
+    "company_quarter": "2023-03-31",
+    "published": "2023-04-21",
+    "market_growth": -0.5138355726167609,
+    "company_growth": 0.0
+  },
+  {
+    "segment": "Beauty",
+    "metric": "organic_volume_growth",
+    "series": "PCENDC96",
+    "company_quarter": "2023-06-30",
+    "published": "2023-07-28",
+    "market_growth": -0.38380425982749156,
+    "company_growth": -1.0
+  },
+  {
+    "segment": "Beauty",
+    "metric": "organic_volume_growth",
+    "series": "PCENDC96",
+    "company_quarter": "2023-09-30",
+    "published": "2023-10-18",
+    "market_growth": 1.1893013232362026,
+    "company_growth": 0.0
+  },
+  {
+    "segment": "Beauty",
+    "metric": "organic_volume_growth",
+    "series": "PCENDC96",
+    "company_quarter": "2023-12-31",
+    "published": "2024-01-23",
+    "market_growth": 2.2255192878338326,
+    "company_growth": -1.0
+  },
+  {
+    "segment": "Beauty",
+    "metric": "organic_volume_growth",
+    "series": "PCENDC96",
+    "company_quarter": "2024-03-31",
+    "published": "2024-04-19",
+    "market_growth": 1.3726160091641626,
+    "company_growth": 1.0
+  },
+  {
+    "segment": "Beauty",
+    "metric": "organic_volume_growth",
+    "series": "PCENDC96",
+    "company_quarter": "2024-06-30",
+    "published": "2024-07-30",
+    "market_growth": 2.2805943792830297,
+    "company_growth": 1.0
+  },
+  {
+    "segment": "Beauty",
+    "metric": "organic_volume_growth",
+    "series": "PCENDC96",
+    "company_quarter": "2024-09-30",
+    "published": "2024-10-18",
+    "market_growth": 2.650199536239972,
+    "company_growth": 0.0
+  },
+  {
+    "segment": "Beauty",
+    "metric": "organic_volume_growth",
+    "series": "PCENDC96",
+    "company_quarter": "2024-12-31",
+    "published": "2025-01-22",
+    "market_growth": 2.787239714463441,
+    "company_growth": 0.0
+  },
+  {
+    "segment": "Beauty",
+    "metric": "organic_volume_growth",
+    "series": "PCENDC96",
+    "company_quarter": "2025-03-31",
+    "published": "2025-04-24",
+    "market_growth": 3.749851314380881,
+    "company_growth": 1.0
+  },
+  {
+    "segment": "Beauty",
+    "metric": "organic_volume_growth",
+    "series": "PCENDC96",
+    "company_quarter": "2025-06-30",
+    "published": "2025-07-29",
+    "market_growth": 3.2332744751814912,
+    "company_growth": 1.0
+  },
+  {
+    "segment": "Beauty",
+    "metric": "organic_volume_growth",
+    "series": "PCENDC96",
+    "company_quarter": "2025-09-30",
+    "published": "2025-10-24",
+    "market_growth": 2.996723091540132,
+    "company_growth": 4.0
+  },
+  {
+    "segment": "Beauty",
+    "metric": "organic_volume_growth",
+    "series": "PCENDC96",
+    "company_quarter": "2025-12-31",
+    "published": "2026-01-23",
+    "market_growth": 2.1478108850594646,
+    "company_growth": 3.0
+  },
+  {
+    "segment": "Beauty",
+    "metric": "price_contribution",
+    "series": "CUUR0000SEGB02",
+    "company_quarter": "2021-03-31",
+    "published": "2021-04-20",
+    "market_growth": -0.41477337637689793,
+    "company_growth": 2.0
+  },
+  {
+    "segment": "Beauty",
+    "metric": "price_contribution",
+    "series": "CUUR0000SEGB02",
+    "company_quarter": "2021-06-30",
+    "published": "2021-07-30",
+    "market_growth": -0.43530780492421206,
+    "company_growth": 4.0
+  },
+  {
+    "segment": "Beauty",
+    "metric": "price_contribution",
+    "series": "CUUR0000SEGB02",
+    "company_quarter": "2021-09-30",
+    "published": "2021-10-19",
+    "market_growth": -0.5009614505874005,
+    "company_growth": 2.0
+  },
+  {
+    "segment": "Beauty",
+    "metric": "price_contribution",
+    "series": "CUUR0000SEGB02",
+    "company_quarter": "2021-12-31",
+    "published": "2022-01-19",
+    "market_growth": -0.7911991921891626,
+    "company_growth": 2.0
+  },
+  {
+    "segment": "Beauty",
+    "metric": "price_contribution",
+    "series": "CUUR0000SEGB02",
+    "company_quarter": "2022-03-31",
+    "published": "2022-04-20",
+    "market_growth": -0.7595451980275891,
+    "company_growth": 4.0
+  },
+  {
+    "segment": "Beauty",
+    "metric": "price_contribution",
+    "series": "CUUR0000SEGB02",
+    "company_quarter": "2022-06-30",
+    "published": "2022-07-29",
+    "market_growth": 0.6338255218670819,
+    "company_growth": 6.0
+  },
+  {
+    "segment": "Beauty",
+    "metric": "price_contribution",
+    "series": "CUUR0000SEGB02",
+    "company_quarter": "2022-09-30",
+    "published": "2022-10-19",
+    "market_growth": 3.970323328016079,
+    "company_growth": 7.0
+  },
+  {
+    "segment": "Beauty",
+    "metric": "price_contribution",
+    "series": "CUUR0000SEGB02",
+    "company_quarter": "2022-12-31",
+    "published": "2023-01-19",
+    "market_growth": 5.055970500253992,
+    "company_growth": 9.0
+  },
+  {
+    "segment": "Beauty",
+    "metric": "price_contribution",
+    "series": "CUUR0000SEGB02",
+    "company_quarter": "2023-03-31",
+    "published": "2023-04-21",
+    "market_growth": 4.891768434790711,
+    "company_growth": 8.0
+  },
+  {
+    "segment": "Beauty",
+    "metric": "price_contribution",
+    "series": "CUUR0000SEGB02",
+    "company_quarter": "2023-06-30",
+    "published": "2023-07-28",
+    "market_growth": 5.2129322350291885,
+    "company_growth": 8.0
+  },
+  {
+    "segment": "Beauty",
+    "metric": "price_contribution",
+    "series": "CUUR0000SEGB02",
+    "company_quarter": "2023-09-30",
+    "published": "2023-10-18",
+    "market_growth": 3.4916634214587683,
+    "company_growth": 7.0
+  },
+  {
+    "segment": "Beauty",
+    "metric": "price_contribution",
+    "series": "CUUR0000SEGB02",
+    "company_quarter": "2023-12-31",
+    "published": "2024-01-23",
+    "market_growth": 2.5297096725668045,
+    "company_growth": 4.0
+  },
+  {
+    "segment": "Beauty",
+    "metric": "price_contribution",
+    "series": "CUUR0000SEGB02",
+    "company_quarter": "2024-03-31",
+    "published": "2024-04-19",
+    "market_growth": 1.4458208241569626,
+    "company_growth": 4.0
+  },
+  {
+    "segment": "Beauty",
+    "metric": "price_contribution",
+    "series": "CUUR0000SEGB02",
+    "company_quarter": "2024-06-30",
+    "published": "2024-07-30",
+    "market_growth": 0.4560551842614391,
+    "company_growth": 3.0
+  },
+  {
+    "segment": "Beauty",
+    "metric": "price_contribution",
+    "series": "CUUR0000SEGB02",
+    "company_quarter": "2024-09-30",
+    "published": "2024-10-18",
+    "market_growth": -0.3714085127806688,
+    "company_growth": 1.0
+  },
+  {
+    "segment": "Beauty",
+    "metric": "price_contribution",
+    "series": "CUUR0000SEGB02",
+    "company_quarter": "2024-12-31",
+    "published": "2025-01-22",
+    "market_growth": -0.5082703089794416,
+    "company_growth": 2.0
+  },
+  {
+    "segment": "Beauty",
+    "metric": "price_contribution",
+    "series": "CUUR0000SEGB02",
+    "company_quarter": "2025-03-31",
+    "published": "2025-04-24",
+    "market_growth": -0.42034549280647315,
+    "company_growth": 3.0
+  },
+  {
+    "segment": "Beauty",
+    "metric": "price_contribution",
+    "series": "CUUR0000SEGB02",
+    "company_quarter": "2025-06-30",
+    "published": "2025-07-29",
+    "market_growth": 0.06623166364128075,
+    "company_growth": 1.0
+  },
+  {
+    "segment": "Beauty",
+    "metric": "price_contribution",
+    "series": "CUUR0000SEGB02",
+    "company_quarter": "2025-09-30",
+    "published": "2025-10-24",
+    "market_growth": 0.44640749502971033,
+    "company_growth": 2.0
+  },
+  {
+    "segment": "Beauty",
+    "metric": "price_contribution",
+    "series": "CUUR0000SEGB02",
+    "company_quarter": "2026-03-31",
+    "published": "2026-04-24",
+    "market_growth": 1.6103546932900725,
+    "company_growth": 1.0
+  },
+  {
+    "segment": "Fabric & Home Care",
+    "metric": "organic_volume_growth",
+    "series": "PCENDC96",
+    "company_quarter": "2024-03-31",
+    "published": "2024-04-19",
+    "market_growth": 1.3726160091641626,
+    "company_growth": 1.0
+  },
+  {
+    "segment": "Fabric & Home Care",
+    "metric": "organic_volume_growth",
+    "series": "PCENDC96",
+    "company_quarter": "2024-06-30",
+    "published": "2024-07-30",
+    "market_growth": 2.2805943792830297,
+    "company_growth": 3.0
+  },
+  {
+    "segment": "Fabric & Home Care",
+    "metric": "organic_volume_growth",
+    "series": "PCENDC96",
+    "company_quarter": "2024-09-30",
+    "published": "2024-10-18",
+    "market_growth": 2.650199536239972,
+    "company_growth": 1.0
+  },
+  {
+    "segment": "Fabric & Home Care",
+    "metric": "organic_volume_growth",
+    "series": "PCENDC96",
+    "company_quarter": "2024-12-31",
+    "published": "2025-01-22",
+    "market_growth": 2.787239714463441,
+    "company_growth": 2.0
+  },
+  {
+    "segment": "Fabric & Home Care",
+    "metric": "organic_volume_growth",
+    "series": "PCENDC96",
+    "company_quarter": "2025-03-31",
+    "published": "2025-04-24",
+    "market_growth": 3.749851314380881,
+    "company_growth": 0.0
+  },
+  {
+    "segment": "Fabric & Home Care",
+    "metric": "organic_volume_growth",
+    "series": "PCENDC96",
+    "company_quarter": "2025-06-30",
+    "published": "2025-07-29",
+    "market_growth": 3.2332744751814912,
+    "company_growth": 0.0
+  },
+  {
+    "segment": "Fabric & Home Care",
+    "metric": "organic_volume_growth",
+    "series": "PCENDC96",
+    "company_quarter": "2025-09-30",
+    "published": "2025-10-24",
+    "market_growth": 2.996723091540132,
+    "company_growth": -2.0
+  },
+  {
+    "segment": "Fabric & Home Care",
+    "metric": "organic_volume_growth",
+    "series": "PCENDC96",
+    "company_quarter": "2025-12-31",
+    "published": "2026-01-23",
+    "market_growth": 2.1478108850594646,
+    "company_growth": 0.0
+  },
+  {
+    "segment": "Health Care",
+    "metric": "price_contribution",
+    "series": "CUUR0000SEGB",
+    "company_quarter": "2021-03-31",
+    "published": "2021-04-20",
+    "market_growth": -0.3577033906046245,
+    "company_growth": 0.0
+  },
+  {
+    "segment": "Health Care",
+    "metric": "price_contribution",
+    "series": "CUUR0000SEGB",
+    "company_quarter": "2021-06-30",
+    "published": "2021-07-30",
+    "market_growth": -0.2202606487071601,
+    "company_growth": 1.0
+  },
+  {
+    "segment": "Health Care",
+    "metric": "price_contribution",
+    "series": "CUUR0000SEGB",
+    "company_quarter": "2021-09-30",
+    "published": "2021-10-19",
+    "market_growth": -0.33137395300817385,
+    "company_growth": 1.0
+  },
+  {
+    "segment": "Health Care",
+    "metric": "price_contribution",
+    "series": "CUUR0000SEGB",
+    "company_quarter": "2021-12-31",
+    "published": "2022-01-19",
+    "market_growth": 0.031151475618229618,
+    "company_growth": 1.0
+  },
+  {
+    "segment": "Health Care",
+    "metric": "price_contribution",
+    "series": "CUUR0000SEGB",
+    "company_quarter": "2022-03-31",
+    "published": "2022-04-20",
+    "market_growth": 1.0280001916822323,
+    "company_growth": 3.0
+  },
+  {
+    "segment": "Health Care",
+    "metric": "price_contribution",
+    "series": "CUUR0000SEGB",
+    "company_quarter": "2022-06-30",
+    "published": "2022-07-29",
+    "market_growth": 2.912272941608496,
+    "company_growth": 5.0
+  },
+  {
+    "segment": "Health Care",
+    "metric": "price_contribution",
+    "series": "CUUR0000SEGB",
+    "company_quarter": "2022-09-30",
+    "published": "2022-10-19",
+    "market_growth": 5.850277341531052,
+    "company_growth": 6.0
+  },
+  {
+    "segment": "Health Care",
+    "metric": "price_contribution",
+    "series": "CUUR0000SEGB",
+    "company_quarter": "2022-12-31",
+    "published": "2023-01-19",
+    "market_growth": 7.25603345755208,
+    "company_growth": 5.0
+  },
+  {
+    "segment": "Health Care",
+    "metric": "price_contribution",
+    "series": "CUUR0000SEGB",
+    "company_quarter": "2023-03-31",
+    "published": "2023-04-21",
+    "market_growth": 6.77239402344838,
+    "company_growth": 6.0
+  },
+  {
+    "segment": "Health Care",
+    "metric": "price_contribution",
+    "series": "CUUR0000SEGB",
+    "company_quarter": "2023-06-30",
+    "published": "2023-07-28",
+    "market_growth": 7.05822723217906,
+    "company_growth": 6.0
+  },
+  {
+    "segment": "Health Care",
+    "metric": "price_contribution",
+    "series": "CUUR0000SEGB",
+    "company_quarter": "2023-09-30",
+    "published": "2023-10-18",
+    "market_growth": 5.4935927157217845,
+    "company_growth": 6.0
+  },
+  {
+    "segment": "Health Care",
+    "metric": "price_contribution",
+    "series": "CUUR0000SEGB",
+    "company_quarter": "2023-12-31",
+    "published": "2024-01-23",
+    "market_growth": 4.212216519153356,
+    "company_growth": 5.0
+  },
+  {
+    "segment": "Health Care",
+    "metric": "price_contribution",
+    "series": "CUUR0000SEGB",
+    "company_quarter": "2024-03-31",
+    "published": "2024-04-19",
+    "market_growth": 3.636809635836169,
+    "company_growth": 4.0
+  },
+  {
+    "segment": "Health Care",
+    "metric": "price_contribution",
+    "series": "CUUR0000SEGB",
+    "company_quarter": "2024-06-30",
+    "published": "2024-07-30",
+    "market_growth": 1.6547550061168037,
+    "company_growth": 2.0
+  },
+  {
+    "segment": "Health Care",
+    "metric": "price_contribution",
+    "series": "CUUR0000SEGB",
+    "company_quarter": "2024-09-30",
+    "published": "2024-10-18",
+    "market_growth": 0.373301115227731,
+    "company_growth": 1.0
+  },
+  {
+    "segment": "Health Care",
+    "metric": "price_contribution",
+    "series": "CUUR0000SEGB",
+    "company_quarter": "2024-12-31",
+    "published": "2025-01-22",
+    "market_growth": 0.341068456777438,
+    "company_growth": 1.0
+  },
+  {
+    "segment": "Health Care",
+    "metric": "price_contribution",
+    "series": "CUUR0000SEGB",
+    "company_quarter": "2025-03-31",
+    "published": "2025-04-24",
+    "market_growth": 0.23594619830289432,
+    "company_growth": 1.0
+  },
+  {
+    "segment": "Health Care",
+    "metric": "price_contribution",
+    "series": "CUUR0000SEGB",
+    "company_quarter": "2025-06-30",
+    "published": "2025-07-29",
+    "market_growth": 0.5057825004843641,
+    "company_growth": 1.0
+  },
+  {
+    "segment": "Health Care",
+    "metric": "price_contribution",
+    "series": "CUUR0000SEGB",
+    "company_quarter": "2025-09-30",
+    "published": "2025-10-24",
+    "market_growth": 1.0082264270475205,
+    "company_growth": 1.0
+  },
+  {
+    "segment": "Health Care",
+    "metric": "price_contribution",
+    "series": "CUUR0000SEGB",
+    "company_quarter": "2026-03-31",
+    "published": "2026-04-24",
+    "market_growth": 1.9491325309717533,
+    "company_growth": 2.0
+  }
+]

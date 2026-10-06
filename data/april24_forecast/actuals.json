@@ -1,0 +1,55 @@
+{
+  "quarter": "2026-06-30",
+  "publication_date": "2026-07-29",
+  "net_sales_m": 21203.0,
+  "full_year_sales_m": 87032.0,
+  "prior_year_quarter_sales_m": 20889.0,
+  "segments": [
+    {
+      "segment": "Beauty",
+      "organic_volume_growth": 3.0,
+      "organic_sales_growth": 4.0,
+      "price_contribution": 1.0,
+      "net_sales_growth": 6.0,
+      "fx": 2.0,
+      "mix": 0.0
+    },
+    {
+      "segment": "Grooming",
+      "organic_volume_growth": -1.0,
+      "organic_sales_growth": 0.0,
+      "price_contribution": 1.0,
+      "net_sales_growth": 1.0,
+      "fx": 1.0,
+      "mix": -1.0
+    },
+    {
+      "segment": "Health Care",
+      "organic_volume_growth": -3.0,
+      "organic_sales_growth": -1.0,
+      "price_contribution": 2.0,
+      "net_sales_growth": 1.0,
+      "fx": 2.0,
+      "mix": 1.0
+    },
+    {
+      "segment": "Fabric & Home Care",
+      "organic_volume_growth": 1.0,
+      "organic_sales_growth": 0.0,
+      "price_contribution": 0.0,
+      "net_sales_growth": 1.0,
+      "fx": 0.0,
+      "mix": 0.0
+    },
+    {
+      "segment": "Baby, Feminine & Family Care",
+      "organic_volume_growth": -1.0,
+      "organic_sales_growth": -2.0,
+      "price_contribution": -1.0,
+      "net_sales_growth": -1.0,
+      "fx": 1.0,
+      "mix": 0.0
+    }
+  ],
+  "source_url": "https://us.pg.com/newsroom/news-releases/PG-Announces-Fourth-Quarter-and-Fiscal-Year-2026-Results/"
+}
