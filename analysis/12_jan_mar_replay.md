@@ -1,5 +1,7 @@
 # P&G | Could we forecast January–March before the earnings release?
 
+[▶️ Prefer a simpler explanation? Read the quick version](13_quick_read.md).
+
 **Answer: not accurately enough. The January forecast missed by 2.50pp on average; the April update missed by 2.85pp.**
 
 - 🎯 **Goal:** repeat the six-metric forecast using only inputs available before the results.
