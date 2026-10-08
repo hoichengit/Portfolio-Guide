@@ -13,7 +13,7 @@ Welcome to my financial portfolio. Explore my dashboards, financial analyses and
 
 ## Financial Dashboard Project
 
-Explore the Power BI reports using their interactive pages and filters.
+Explore the published Power BI reports, or open the newer projects for dashboard previews and downloadable PBIX files.
 
 | Project | Description and visualisation | Dashboard Links |
 |---|---|---|
@@ -22,6 +22,7 @@ Explore the Power BI reports using their interactive pages and filters.
 | 💻[IT Finance](https://github.com/hoichengit/Portfolio-Guide/tree/codex/it-spend) | Explore spend, plan variance and the latest estimates across technology and organisational dimensions. Drill through the cost story and compare the available planning scenarios. | [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOTMyMjlmZDAtODE2YS00Njc5LTlhMTktMjZhOTFhZDliYmFhIiwidCI6IjljNzNiMWYxLWY0ZGYtNDhkYy05ZDg5LWE0M2NjNjQ4YmJhNSJ9&language=en-US) |
 | 📈[Commercial Finance](https://github.com/hoichengit/Portfolio-Guide/tree/codex/commercial-finance) | Explore revenue flows, product economics and discount trade-offs alongside FP&A scenarios. Use portfolio bubbles, growth bridges and planning pages to trace headline results to supporting detail. | [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZDcyNmZhMDItYWY0Yy00MDQ4LTgwNDktNzYxNDAxZmRkYzNjIiwidCI6IjljNzNiMWYxLWY0ZGYtNDhkYy05ZDg5LWE0M2NjNjQ4YmJhNSJ9&language=en-US) |
 | 🏪[Global Electronics](https://github.com/hoichengit/Portfolio-Guide/tree/codex/global-electronics) | Explore retail performance through revenue flows, channel trends, store comparisons and customer cohorts. Use interactive filters and drill paths to investigate the source of the decline. | [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMjY0ZTExNjctN2RmZC00ZjY5LTk0ODEtMmJhZjQ5ZmQ0YTk2IiwidCI6IjljNzNiMWYxLWY0ZGYtNDhkYy05ZDg5LWE0M2NjNjQ4YmJhNSJ9&language=en-US) |
+| [📦 WideWorldImporters](https://github.com/hoichengit/Portfolio-Guide/tree/codex/wwi-financial-analysis) | Trace SQL results into sales, margin and working-capital views. Explore product profitability, the revenue bridge and invoice checks. | [PBIX & preview](https://github.com/hoichengit/Portfolio-Guide/blob/codex/wwi-financial-analysis/dashboard.md) |
 
 <a id="budget-vs-actual-analysis-project"></a>
 
@@ -40,16 +41,24 @@ Explore budget control, revenue differences and business performance. Each proje
 
 ## Stock Valuation Project
 
-Coming soon — no stock valuation project published yet.
+Use reported financials to build forecasts, value cash flows and test the assumptions behind a share price.
+
+| Project | Description and tasks | Outputs |
+|---|---|---|
+| [👟 NIKE Stock Valuation](https://github.com/hoichengit/Portfolio-Guide/tree/codex/nike-valuation) | Assess how revenue growth and margin recovery affect NIKE's value. Build a linked forecast, DCF, sensitivity analysis, peer comparison and reverse DCF. | [Raw data](https://github.com/hoichengit/Portfolio-Guide/blob/codex/nike-valuation/raw_data/README.md) / [Analysis outputs](https://github.com/hoichengit/Portfolio-Guide/blob/codex/nike-valuation/processed_data/README.md) |
+| [🧴 P&G Stock Valuation](https://github.com/hoichengit/Portfolio-Guide/tree/codex/pg-valuation) | Assess the price supported by P&G's cash generation and growth assumptions. Compare Bear, Base and Bull values with the market price, then test terminal value and peer multiples. | [Raw data](https://github.com/hoichengit/Portfolio-Guide/blob/codex/pg-valuation/raw_data/README.md) / [Analysis outputs](https://github.com/hoichengit/Portfolio-Guide/blob/codex/pg-valuation/processed_data/README.md) |
+
+Both are historical valuation exercises dated **31 August 2026**. Reported facts and analyst assumptions are clearly separated.
 
 <a id="sql-financial-data-analysis-project"></a>
 
 ## SQL & Financial Data Analysis Project
 
-Explore financial research, data preparation and forecasting. The P&G project's current tools are Excel and Python; SQL work is not yet included in this case.
+Explore transaction-level SQL analysis and financial research. WideWorldImporters uses SQLite; the existing P&G forecasting case uses Excel and Python.
 
 | Project | Area | Description and tasks | Outputs |
 |---|---|---|---|
 | 🧴[P&G Financial Analysis & Forecast Review](https://github.com/hoichengit/Portfolio-Guide/blob/codex/pg-external-analysis/README.md) | Financial Research, Excel & Python | Analyse P&G's financial results and test forecasts using dated market information. Compare predictions with actuals, simulate risk and check for future-information leakage. | [Quick Read](https://github.com/hoichengit/Portfolio-Guide/blob/codex/pg-external-analysis/analysis/13_quick_read.md) / [Analysis Data](https://github.com/hoichengit/Portfolio-Guide/blob/codex/pg-external-analysis/data/jan_mar_replay/README.md) / [Excel Analysis](https://github.com/hoichengit/Portfolio-Guide/blob/codex/pg-external-analysis/outputs/jan_mar_replay/PG_12_Jan_Mar_Replay.xlsx) |
+| [📦 WideWorldImporters SQL Finance](https://github.com/hoichengit/Portfolio-Guide/tree/codex/wwi-financial-analysis) | SQL, Commercial Finance & Working Capital | Reconcile invoices and analyse sales, margins, receivables, payables and stock. Answer ten finance questions with visible SQL, repeatable result files and a six-page Power BI report. | [Raw data](https://github.com/hoichengit/Portfolio-Guide/blob/codex/wwi-financial-analysis/raw_data/README.md) / [Analysis outputs](https://github.com/hoichengit/Portfolio-Guide/blob/codex/wwi-financial-analysis/processed_data/README.md) / [SQL guide](https://github.com/hoichengit/Portfolio-Guide/blob/codex/wwi-financial-analysis/src/README.md) |
 
 [Meet the Finance / Research / Scenario / QA agents](https://github.com/hoichengit/Portfolio-Guide/blob/codex/pg-external-analysis/agents/README.md)
