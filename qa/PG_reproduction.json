@@ -1,0 +1,10 @@
+{
+  "company": "PG",
+  "identical_replay": true,
+  "scenario_prices": [
+    103.09274549192146,
+    125.93778547805648,
+    148.79997658831525
+  ],
+  "max_forecast_balance_error": 2.9103830456733704e-11
+}

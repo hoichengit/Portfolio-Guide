@@ -1,0 +1,4 @@
+ticker,date,close_usd,source
+PG,2026-08-31,145.12,https://finance.yahoo.com/quote/PG/history/
+CL,2026-08-31,89.82,https://finance.yahoo.com/quote/CL/history/
+KMB,2026-08-31,107.95,https://finance.yahoo.com/quote/KMB/history/

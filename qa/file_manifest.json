@@ -1,0 +1,187 @@
+[
+  {
+    "file": "README.md",
+    "bytes": 10015,
+    "sha256": "3efe833b605a6c2535237d4762e5e33311e0d1992f11088aee022b5e5f3937dd"
+  },
+  {
+    "file": "evidence/Cash_history.png",
+    "bytes": 72190,
+    "sha256": "4003fba0bc4c5be65bd6e8860a0aa714ae02807552fa9f269fd6bd72fd52f55b"
+  },
+  {
+    "file": "evidence/Drivers.png",
+    "bytes": 177593,
+    "sha256": "2cf286169535d6f6f734cfad608e1caf647e0f1c272caa5fe3c85963297a2121"
+  },
+  {
+    "file": "evidence/Forecast.png",
+    "bytes": 381373,
+    "sha256": "0478b302532908cd57a612b2a2b302a7b485a05afec3aa56029b17097255427c"
+  },
+  {
+    "file": "evidence/Historical.png",
+    "bytes": 310689,
+    "sha256": "48c3d7c9b48a3a18d49aa1b53dd3e916765cbef54628f798b53dcf5a633c3afa"
+  },
+  {
+    "file": "evidence/Native_excel_income.png",
+    "bytes": 44324,
+    "sha256": "e5c639f523dd09094e80b4f85664fdf32c1207f6d3acc2b0a1790bc9cf49f0c1"
+  },
+  {
+    "file": "evidence/Original_cash.png",
+    "bytes": 155371,
+    "sha256": "0150d48b45c02527af08ef277f2c1f0d3046edfefb26c6deef68b083c1c1e6b5"
+  },
+  {
+    "file": "evidence/Original_report.pdf",
+    "bytes": 1432933,
+    "sha256": "33d025fc5b42d3ab76dfdd92589cf9d896ae21e0a74a14eb14a0cc3a0e508f28"
+  },
+  {
+    "file": "evidence/Original_report.png",
+    "bytes": 168798,
+    "sha256": "0db4833c039384a1d7a33033ce889b1ada5fc60c22045842f1774b4358ff2107"
+  },
+  {
+    "file": "evidence/Peers.png",
+    "bytes": 106573,
+    "sha256": "125eb4d78589e715d4888674b121bee977f9ac9e12b401c75df1fc6477928b56"
+  },
+  {
+    "file": "evidence/Segments.png",
+    "bytes": 64319,
+    "sha256": "ee31c407aae4e9ce08032f2e8bb5ba870fea84ba44fc38da7e6826b6c21acd25"
+  },
+  {
+    "file": "evidence/Sensitivity.png",
+    "bytes": 138405,
+    "sha256": "b5fbabde1650d39ed941348741d08ac2aa1f2364d1e297c80837ebd36f4abf7b"
+  },
+  {
+    "file": "evidence/Sources.png",
+    "bytes": 225129,
+    "sha256": "d65efd313c48cd8ead03352ad1f4ef5bb3a712c28bca6eff50ae7b3bff189361"
+  },
+  {
+    "file": "evidence/Summary.png",
+    "bytes": 79201,
+    "sha256": "7af6b84483267167fcd4fbcea6106e4e518a81e696af9a05918bde32b2d99cde"
+  },
+  {
+    "file": "evidence/Valuation.png",
+    "bytes": 123077,
+    "sha256": "ee43fc942fd661d7a3bef54bef0069bfe101e5d7cd347688e4a87169ee5a3ece"
+  },
+  {
+    "file": "evidence/banner.svg",
+    "bytes": 1178,
+    "sha256": "3682fe9032c2d1439a8a0232c65b28ee5b3197abb08673c16c9b8b9c5e83cdff"
+  },
+  {
+    "file": "processed_data/PG_Financial_Analysis.xlsx",
+    "bytes": 24660,
+    "sha256": "ec589bdd622e0f071c423604ea28805e9eb0200826aaf12557ee199a0542300c"
+  },
+  {
+    "file": "processed_data/README.md",
+    "bytes": 1235,
+    "sha256": "f02fa244b5ada62310d4b5ba64810c306e566cf44b5422312a849778df8ae190"
+  },
+  {
+    "file": "processed_data/historical_financials.csv",
+    "bytes": 1552,
+    "sha256": "983a0c4aead2eeab8540f791ba0b095163d46054fa028601e8c2916a6252297b"
+  },
+  {
+    "file": "processed_data/peer_provenance.json",
+    "bytes": 4355,
+    "sha256": "ef953a675a26fba80244073051a3ba9aa06122f8b02992357379e38714bb3175"
+  },
+  {
+    "file": "processed_data/peers.json",
+    "bytes": 1004,
+    "sha256": "c14d88271ca36c954feb3b377c4b35bdf52e08207ab951f697ab42072d7eeda0"
+  },
+  {
+    "file": "processed_data/sec_provenance.json",
+    "bytes": 40105,
+    "sha256": "ad7a35a9663a868195c9898ad7a1bd32aac26199853ba98d9afd621a18712964"
+  },
+  {
+    "file": "processed_data/segments.json",
+    "bytes": 529,
+    "sha256": "527a1d4f67147f5289454b2988d6f1212507223e455df3165da912d02f12bce0"
+  },
+  {
+    "file": "processed_data/valuations.json",
+    "bytes": 26943,
+    "sha256": "8eae80163ab70908650103c115e3ab964605d4bfeb6a4ac5cc502919128148dd"
+  },
+  {
+    "file": "qa/PG_excel.json",
+    "bytes": 443,
+    "sha256": "c347ead733a3db114044fc6aa658d931d45115eba6d9545433f49c813064e974"
+  },
+  {
+    "file": "qa/PG_final_checks.json",
+    "bytes": 85,
+    "sha256": "b0fbb43fb6a67e7601b26135e4f5995beb2fabc43dcb2bd68ca7e37839ea79bf"
+  },
+  {
+    "file": "qa/PG_reproduction.json",
+    "bytes": 204,
+    "sha256": "340f97394e5cd2e0e890c3a9a46090117f5f5dd9ed79b928e6ae72ef34ad6e8f"
+  },
+  {
+    "file": "raw_data/CL_companyfacts.json.gz",
+    "bytes": 223448,
+    "sha256": "8c52927aa59a1969205b57af6a35e551672017a14d2e8e5fa936635a282cd850"
+  },
+  {
+    "file": "raw_data/KMB_companyfacts.json.gz",
+    "bytes": 238423,
+    "sha256": "cb2cc62b3cf8b927ed4a3fe1a9bf55486045e4b30df936ac9e731d785514c2c7"
+  },
+  {
+    "file": "raw_data/PG_2026_10K.html",
+    "bytes": 2599594,
+    "sha256": "70e157bc58c8e78a37ea3e7af0e0e3d6cdf4a727fcb4771e1786045bb129944c"
+  },
+  {
+    "file": "raw_data/PG_2026_Annual_Report.pdf",
+    "bytes": 14443084,
+    "sha256": "87f301b8584e18a632ee63d6787c9282f57a96aa933bf24c831364be03600715"
+  },
+  {
+    "file": "raw_data/PG_companyfacts.json.gz",
+    "bytes": 247210,
+    "sha256": "6da757df7deca7409f0745ae409854053f9d0c3e017a17893c31d66e0d537875"
+  },
+  {
+    "file": "raw_data/README.md",
+    "bytes": 1983,
+    "sha256": "a1e108a63392c30dde8c8d8f5fdb5da0dc3b88b3f7ce3c45ca4213cbb259ac57"
+  },
+  {
+    "file": "raw_data/market_prices.csv",
+    "bytes": 229,
+    "sha256": "18509edc21319ddd2ad2bebd549ddc1ee998d760c1cf04999200fe928d5d6ac1"
+  },
+  {
+    "file": "raw_data/treasury_aug2026.html",
+    "bytes": 252359,
+    "sha256": "b36593449cc417ee60348ef493deb49b715e8e8295a1ebbe30b6382e88b6607e"
+  },
+  {
+    "file": "src/README.md",
+    "bytes": 1457,
+    "sha256": "27a7c736c555cb25a7e6f73afef4c1c52c5effe23250d14fa6a8be834abf2fca"
+  },
+  {
+    "file": "src/finance.py",
+    "bytes": 7406,
+    "sha256": "203de09aae30128676ae6d2ae8cf34803f2f78d114e447826fc5d76774ed2e32"
+  }
+]

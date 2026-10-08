@@ -1,0 +1,32 @@
+{
+  "PG": {
+    "basis": "Fiscal year ended 30 June 2026; USD millions; segment total differs by $1m because the filing rounds segment values.",
+    "rows": [
+      [
+        "Beauty",
+        16023
+      ],
+      [
+        "Grooming",
+        6918
+      ],
+      [
+        "Health Care",
+        12456
+      ],
+      [
+        "Fabric & Home Care",
+        30314
+      ],
+      [
+        "Baby, Feminine & Family Care",
+        20401
+      ],
+      [
+        "Corporate",
+        919
+      ]
+    ],
+    "source_table": 37
+  }
+}

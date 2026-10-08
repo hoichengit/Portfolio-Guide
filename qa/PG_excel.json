@@ -1,0 +1,38 @@
+[
+  {
+    "sheet": "Summary",
+    "rows": 36
+  },
+  {
+    "sheet": "Drivers",
+    "rows": 40
+  },
+  {
+    "sheet": "Historical",
+    "rows": 36
+  },
+  {
+    "sheet": "Forecast",
+    "rows": 36
+  },
+  {
+    "sheet": "Valuation",
+    "rows": 36
+  },
+  {
+    "sheet": "Sensitivity",
+    "rows": 36
+  },
+  {
+    "sheet": "Peers",
+    "rows": 36
+  },
+  {
+    "sheet": "Segments",
+    "rows": 36
+  },
+  {
+    "sheet": "Sources",
+    "rows": 36
+  }
+]
