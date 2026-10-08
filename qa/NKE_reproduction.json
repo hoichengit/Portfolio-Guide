@@ -1,0 +1,10 @@
+{
+  "company": "NKE",
+  "identical_replay": true,
+  "scenario_prices": [
+    27.984457915338098,
+    42.138379249795314,
+    53.25260045655885
+  ],
+  "max_forecast_balance_error": 7.275957614183426e-12
+}

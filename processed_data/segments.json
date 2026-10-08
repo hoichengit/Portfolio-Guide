@@ -1,0 +1,36 @@
+{
+  "NKE": {
+    "basis": "Fiscal year ended 31 May 2026; USD millions. NIKE Brand geographic segments, Converse and corporate reconciliation.",
+    "rows": [
+      [
+        "North America",
+        20511
+      ],
+      [
+        "Europe, Middle East & Africa",
+        12572
+      ],
+      [
+        "Greater China",
+        5847
+      ],
+      [
+        "Asia Pacific & Latin America",
+        6243
+      ],
+      [
+        "Global Brand Divisions",
+        49
+      ],
+      [
+        "Converse",
+        1174
+      ],
+      [
+        "Corporate",
+        2
+      ]
+    ],
+    "source_table": 18
+  }
+}

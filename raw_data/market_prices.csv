@@ -1,0 +1,4 @@
+ticker,date,close_usd,source
+NKE,2026-08-31,39.06,https://finance.yahoo.com/quote/NKE/history/
+DECK,2026-08-31,87.08,https://finance.yahoo.com/quote/DECK/history/
+LULU,2026-08-31,120.26,https://finance.yahoo.com/quote/LULU/history/
