@@ -1,0 +1,5 @@
+check_name,failures
+Invoice-to-ledger mismatches,0
+Line arithmetic mismatches,0
+Orphan invoice lines,0
+Duplicate invoice IDs,0

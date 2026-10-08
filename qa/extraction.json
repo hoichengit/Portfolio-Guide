@@ -1,0 +1,86 @@
+[
+  {
+    "table": "Sales.InvoiceLines",
+    "rows": 228265,
+    "columns": 13,
+    "complete_stream_decode": true
+  },
+  {
+    "table": "Sales.Invoices",
+    "rows": 70510,
+    "columns": 23,
+    "complete_stream_decode": true
+  },
+  {
+    "table": "Sales.CustomerTransactions",
+    "rows": 97147,
+    "columns": 13,
+    "complete_stream_decode": true
+  },
+  {
+    "table": "Sales.Customers",
+    "rows": 663,
+    "columns": 31,
+    "complete_stream_decode": true
+  },
+  {
+    "table": "Sales.Orders",
+    "rows": 73595,
+    "columns": 16,
+    "complete_stream_decode": true
+  },
+  {
+    "table": "Sales.OrderLines",
+    "rows": 231412,
+    "columns": 12,
+    "complete_stream_decode": true
+  },
+  {
+    "table": "Purchasing.SupplierTransactions",
+    "rows": 2438,
+    "columns": 14,
+    "complete_stream_decode": true
+  },
+  {
+    "table": "Purchasing.Suppliers",
+    "rows": 13,
+    "columns": 29,
+    "complete_stream_decode": true
+  },
+  {
+    "table": "Purchasing.PurchaseOrders",
+    "rows": 2074,
+    "columns": 12,
+    "complete_stream_decode": true
+  },
+  {
+    "table": "Purchasing.PurchaseOrderLines",
+    "rows": 8367,
+    "columns": 12,
+    "complete_stream_decode": true
+  },
+  {
+    "table": "Warehouse.StockItems",
+    "rows": 227,
+    "columns": 23,
+    "complete_stream_decode": true
+  },
+  {
+    "table": "Warehouse.StockItemHoldings",
+    "rows": 227,
+    "columns": 9,
+    "complete_stream_decode": true
+  },
+  {
+    "table": "Warehouse.StockItemTransactions",
+    "rows": 236667,
+    "columns": 11,
+    "complete_stream_decode": true
+  },
+  {
+    "table": "Application.TransactionTypes",
+    "rows": 13,
+    "columns": 5,
+    "complete_stream_decode": true
+  }
+]

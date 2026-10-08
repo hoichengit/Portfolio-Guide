@@ -1,0 +1,302 @@
+[
+  {
+    "file": "README.md",
+    "bytes": 17327,
+    "sha256": "ee998900753e38f6c944e41ab185d7f5541cebb5ee9edcbdd4c6ff847bf0a7f1"
+  },
+  {
+    "file": "dashboard.md",
+    "bytes": 862,
+    "sha256": "4476515d8a7781bbb5fb00fa1ba367b992694ef7ac806e417a7573f83ddae886"
+  },
+  {
+    "file": "evidence/Cash scenario.png",
+    "bytes": 135931,
+    "sha256": "c302229a62571350a77549d348fd84b5d21a60987617610a820a06a7ae2544ad"
+  },
+  {
+    "file": "evidence/Customers.png",
+    "bytes": 191962,
+    "sha256": "98746d891235980bc096d4d81046bcdb51f7478a5994d0d1387a375610854a76"
+  },
+  {
+    "file": "evidence/Growth bridge.png",
+    "bytes": 49688,
+    "sha256": "8ce55c998670e798ef9a62cf0d8c2c23a2619becc3063ce1ead2777cb0bca667"
+  },
+  {
+    "file": "evidence/Inventory.png",
+    "bytes": 231855,
+    "sha256": "5aad19294d097462beae4d34d76e538673e1658845ba1bfdc918a17bbe2917df"
+  },
+  {
+    "file": "evidence/Monthly.png",
+    "bytes": 150787,
+    "sha256": "69b12d0670717107bdf2eaec5dedf3b6911428765a4316df867279f118bf634c"
+  },
+  {
+    "file": "evidence/Native_excel_quality.png",
+    "bytes": 34550,
+    "sha256": "eaab320cb5ced64208a3b8c1e59fad47484be2c6244ed4fd309d5f36b6fa7002"
+  },
+  {
+    "file": "evidence/Payables.png",
+    "bytes": 53070,
+    "sha256": "3d5a56d7cddbf764271049fbbff1dafa20f4bcb4fe9c2dbbec60a2833ab1dc3c"
+  },
+  {
+    "file": "evidence/Products.png",
+    "bytes": 195212,
+    "sha256": "f02d04547e804660f339db5918c28bbebcf84ef9af6b544db653fbd46988b299"
+  },
+  {
+    "file": "evidence/Quality.png",
+    "bytes": 36507,
+    "sha256": "f762fe5505f8ff3133e7760270af9f3e975181f4b8215a7eabadc85c1cd5b891"
+  },
+  {
+    "file": "evidence/Raw sample.png",
+    "bytes": 109630,
+    "sha256": "c7e881544308371aa89e93b9dbedf12f9c7d973f4e9e47e303f2eff2c6914a81"
+  },
+  {
+    "file": "evidence/Receivables.png",
+    "bytes": 200185,
+    "sha256": "63bee965cf38d0f79b6e27018835aedeca74858aa62128998584e97de0b3e67f"
+  },
+  {
+    "file": "evidence/Summary.png",
+    "bytes": 136031,
+    "sha256": "889123ef896fb07c5ef0fc2e9101b600c726f78bb61baaea1b5d66d9701bd9c7"
+  },
+  {
+    "file": "evidence/Unmatched orders.png",
+    "bytes": 105238,
+    "sha256": "b77e4ab10601fbf4a7b635a804fa1ba648a336bae3c1206c40fb15f5caf91ea4"
+  },
+  {
+    "file": "evidence/banner.svg",
+    "bytes": 1169,
+    "sha256": "7b0028f65a9f0969e6dcc560b899d6ed10aa1fe4adc3e30021da179bb9a92219"
+  },
+  {
+    "file": "evidence/dashboard_01.png",
+    "bytes": 107939,
+    "sha256": "0d1a46342ea03f89af5496e16ac86a915c617facc40c1ec3dbc03157fb64d06e"
+  },
+  {
+    "file": "evidence/dashboard_02.png",
+    "bytes": 148233,
+    "sha256": "4ae28f1e2222018937d275e9214a192801e3d1c920c3d8915220ede239cf9907"
+  },
+  {
+    "file": "evidence/dashboard_03.png",
+    "bytes": 93607,
+    "sha256": "dc08cecab678ff0af5e101604d019603a2111644e630df5859c6a07906f10472"
+  },
+  {
+    "file": "evidence/dashboard_04.png",
+    "bytes": 108594,
+    "sha256": "03a6840d6050e2eb4b9482f03bcf4e7d0b6441844936ecdd89dbc21457d3f873"
+  },
+  {
+    "file": "evidence/dashboard_05.png",
+    "bytes": 119473,
+    "sha256": "2fdf09da70241bdd657981e5668eda4448efc4f7ea4b7184a4e4aa6f82753d2e"
+  },
+  {
+    "file": "evidence/dashboard_06.png",
+    "bytes": 81363,
+    "sha256": "3830a0f48c5c8ec9a365ff795075c18782fcbfb8e7c2acbedaf29fbc0d42dffe"
+  },
+  {
+    "file": "processed_data/01_quality.csv",
+    "bytes": 132,
+    "sha256": "dd2feac8625d26c5694f89e70338fdf27665e9cb78884343013a712e2dd686e1"
+  },
+  {
+    "file": "processed_data/02_monthly.csv",
+    "bytes": 3550,
+    "sha256": "f9255072bd6a27edf248aabf4fa9ae295c1d71fab1e35d7788f6e7d53431f8ea"
+  },
+  {
+    "file": "processed_data/03_customers.csv",
+    "bytes": 62964,
+    "sha256": "ad1c3605f68616deff71aba04ecbd716392adf007266d4799a9cc00e96a71c66"
+  },
+  {
+    "file": "processed_data/04_products.csv",
+    "bytes": 19334,
+    "sha256": "9326f5939aee35b61afadd622c3f975c6c130e07f7ed61e90928552ede0ebe6d"
+  },
+  {
+    "file": "processed_data/05_growth_bridge.csv",
+    "bytes": 201,
+    "sha256": "de9068630b86f9e7f58040ed6cfc928e6ad44dca8d2707b34011fda2eaf50780"
+  },
+  {
+    "file": "processed_data/06_receivables.csv",
+    "bytes": 6427,
+    "sha256": "54b798b9d8d5106c7b077acec0804b8185c9c664a2581ebb1e312565c055e0f0"
+  },
+  {
+    "file": "processed_data/07_payables.csv",
+    "bytes": 205,
+    "sha256": "eb0bc8733b206581991e6b81a429b3ce58238c803a07514707b80d7a981a4de0"
+  },
+  {
+    "file": "processed_data/08_inventory.csv",
+    "bytes": 22147,
+    "sha256": "f4dd4832302be20305bed73b60e65b5c02a98e035a6455fb2608826774f2ea89"
+  },
+  {
+    "file": "processed_data/09_orders.csv",
+    "bytes": 98762,
+    "sha256": "974fca9a70345fd6dbdee6205940f289d407a256db56d37a3c37a725d4d86278"
+  },
+  {
+    "file": "processed_data/10_cash_scenario.csv",
+    "bytes": 150,
+    "sha256": "b1a7fc69059c771610bf1307c5291b0ba1040240a05d7acdb88a0e39316a1c4a"
+  },
+  {
+    "file": "processed_data/README.md",
+    "bytes": 655,
+    "sha256": "592a444b441f9ad29645a1c5f09240e0e4fa32a63c7bfeb0ecb6730cbb530731"
+  },
+  {
+    "file": "processed_data/WWI_Financial_Analysis.xlsx",
+    "bytes": 189475,
+    "sha256": "92f0bdcd8f329563806cb8bb51c7781033106a830131f3970ade863f374b0455"
+  },
+  {
+    "file": "processed_data/WWI_SQL_Finance.pbix",
+    "bytes": 207641,
+    "sha256": "b625135db0a46edb71d34bbecdde87e3b9ed851ba1f384ded024da139b57bbf0"
+  },
+  {
+    "file": "qa/WWI_excel.json",
+    "bytes": 617,
+    "sha256": "a865926f336dfd33e45932af936062722d6892c2c8fbd1d62fb49ca91f40c062"
+  },
+  {
+    "file": "qa/WWI_final_checks.json",
+    "bytes": 84,
+    "sha256": "1563465a81f00b957af15a838f811fd346d37a959a47fe39a913c3366716a1e6"
+  },
+  {
+    "file": "qa/WWI_reproduction.json",
+    "bytes": 844,
+    "sha256": "21b8f8197fcb3279794dd9ca84ba2e559abcfd06f630ccd4efe15457be85c4a4"
+  },
+  {
+    "file": "qa/analysis.json",
+    "bytes": 163,
+    "sha256": "b934f0693c26329fa2de4bd37396b34b58fbe568c03d6313cc575709e311a30c"
+  },
+  {
+    "file": "qa/extraction.json",
+    "bytes": 1686,
+    "sha256": "c11e38f7b5d3169619f2d624b8375cf45ec182d185b428b98f1713cf5ffb8fc5"
+  },
+  {
+    "file": "qa/native_totals.json",
+    "bytes": 170,
+    "sha256": "b4d08d4da25203e8b0d0c3e40246d5a87b99f1ad59809d1f6f11096657dd4d64"
+  },
+  {
+    "file": "qa/visual_validation.json",
+    "bytes": 656,
+    "sha256": "a0bcea1806ddcc6ae1dcf7c0e1b7c8f55ba492b1e11d8c20207a3cadd1f2fb4d"
+  },
+  {
+    "file": "raw_data/README.md",
+    "bytes": 11061,
+    "sha256": "3f73cce2a8d0f49a0ec377aa64afd1a7cff34167777a4e598c35deedf5d52d61"
+  },
+  {
+    "file": "raw_data/WWI_raw_tables.zip",
+    "bytes": 16701820,
+    "sha256": "95eb5b62e4973cdcaffaf434fbd397953261d3613ed1aaa91b4065c65b3eb51a"
+  },
+  {
+    "file": "raw_data/schema.json",
+    "bytes": 29480,
+    "sha256": "ff42dfc48760a90bd06b459d00128db3df62e4b0db728de4166d4d289a43c24c"
+  },
+  {
+    "file": "raw_data/source_manifest.json",
+    "bytes": 307,
+    "sha256": "417c6e6e36fce259e5c5337f63276e7c060296ae9ef692bfb5afdbfd93b19c4c"
+  },
+  {
+    "file": "sql/01_quality.sql",
+    "bytes": 863,
+    "sha256": "7785d010fe69bbaf527951813ac9c475befbe084b3a6a3f4e97189442d0e6bae"
+  },
+  {
+    "file": "sql/02_monthly.sql",
+    "bytes": 705,
+    "sha256": "69bba640336db2621f0bfba8871c0148708c4a1479c481575749ee173d5e3ae1"
+  },
+  {
+    "file": "sql/03_customers.sql",
+    "bytes": 596,
+    "sha256": "925929f964d99dbae36166d6e179e809140fc621c824baaa2612a95c338c60be"
+  },
+  {
+    "file": "sql/04_products.sql",
+    "bytes": 489,
+    "sha256": "6620b83a9237ade339f8625557618a481bb39af9204f8fa38a0cf8bc5187112d"
+  },
+  {
+    "file": "sql/05_growth_bridge.sql",
+    "bytes": 944,
+    "sha256": "16c49f797067c688ccc498a70e843cc93a786246a1aa73053328595045178eae"
+  },
+  {
+    "file": "sql/06_receivables.sql",
+    "bytes": 638,
+    "sha256": "ef92b7294b0f1c2700650a3330383fba6bffb6018b60d49b0333f4559a902903"
+  },
+  {
+    "file": "sql/07_payables.sql",
+    "bytes": 443,
+    "sha256": "b6e7555fafef3bb45b7d5c50c3f4a0e3cf77261f0d67a14b80099c9372b1a8f7"
+  },
+  {
+    "file": "sql/08_inventory.sql",
+    "bytes": 768,
+    "sha256": "71b4ecc98183b4993575748685e457ca72849ed0df4c5da48be0febfc422e72f"
+  },
+  {
+    "file": "sql/09_orders.sql",
+    "bytes": 677,
+    "sha256": "daa0040ae47e80b450a165ede46c7abc5d1cb01bd4db24326c2f6eb8d98b2b28"
+  },
+  {
+    "file": "sql/10_cash_scenario.sql",
+    "bytes": 771,
+    "sha256": "42eb992693721b661396c0d2569a9a805279d2a5edc46cdeb81c0e03b195eb13"
+  },
+  {
+    "file": "src/README.md",
+    "bytes": 1786,
+    "sha256": "bc2889ed0b4dd7659118621e2f472d8fc6569be9884842842e754d8b41d4994e"
+  },
+  {
+    "file": "src/extract_wwi.py",
+    "bytes": 4605,
+    "sha256": "dea36268c9ff96454e7e8d5d431e16b4f7b6e0995139fe4fab9f2473ffb0c03f"
+  },
+  {
+    "file": "src/import_csv.py",
+    "bytes": 1106,
+    "sha256": "e3162226620c3ffec2d79070b7358dc6b27853f1f7db3273626fc9bd36129f05"
+  },
+  {
+    "file": "src/replay_sql.py",
+    "bytes": 783,
+    "sha256": "0a5c6054d2587ff639347a0b8bcbad85a6a06401b3b655b7eef2dff93e76ed21"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "query": "01_quality",
+    "rows": 4,
+    "matches_published": true
+  },
+  {
+    "query": "02_monthly",
+    "rows": 41,
+    "matches_published": true
+  },
+  {
+    "query": "03_customers",
+    "rows": 663,
+    "matches_published": true
+  },
+  {
+    "query": "04_products",
+    "rows": 227,
+    "matches_published": true
+  },
+  {
+    "query": "05_growth_bridge",
+    "rows": 4,
+    "matches_published": true
+  },
+  {
+    "query": "06_receivables",
+    "rows": 84,
+    "matches_published": true
+  },
+  {
+    "query": "07_payables",
+    "rows": 2,
+    "matches_published": true
+  },
+  {
+    "query": "08_inventory",
+    "rows": 227,
+    "matches_published": true
+  },
+  {
+    "query": "09_orders",
+    "rows": 3085,
+    "matches_published": true
+  },
+  {
+    "query": "10_cash_scenario",
+    "rows": 1,
+    "matches_published": true
+  }
+]

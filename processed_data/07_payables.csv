@@ -1,0 +1,3 @@
+SupplierName,SupplierTransactionID,TransactionDate,due_date,balance,status
+"Fabrikam, Inc.",335843,2016-05-31,2016-06-30,1871894.1,Current
+"Litware, Inc.",335847,2016-05-31,2016-06-30,849784.11,Current

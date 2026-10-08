@@ -1,0 +1,1591 @@
+{
+  "Sales.InvoiceLines": [
+    {
+      "name": "InvoiceLineID",
+      "type": "int",
+      "nullable": false,
+      "scale": 0,
+      "max": false
+    },
+    {
+      "name": "InvoiceID",
+      "type": "int",
+      "nullable": false,
+      "scale": 0,
+      "max": false
+    },
+    {
+      "name": "StockItemID",
+      "type": "int",
+      "nullable": false,
+      "scale": 0,
+      "max": false
+    },
+    {
+      "name": "Description",
+      "type": "nvarchar",
+      "nullable": false,
+      "scale": 0,
+      "max": false
+    },
+    {
+      "name": "PackageTypeID",
+      "type": "int",
+      "nullable": false,
+      "scale": 0,
+      "max": false
+    },
+    {
+      "name": "Quantity",
+      "type": "int",
+      "nullable": false,
+      "scale": 0,
+      "max": false
+    },
+    {
+      "name": "UnitPrice",
+      "type": "decimal",
+      "nullable": true,
+      "scale": 2,
+      "max": false
+    },
+    {
+      "name": "TaxRate",
+      "type": "decimal",
+      "nullable": false,
+      "scale": 3,
+      "max": false
+    },
+    {
+      "name": "TaxAmount",
+      "type": "decimal",
+      "nullable": false,
+      "scale": 2,
+      "max": false
+    },
+    {
+      "name": "LineProfit",
+      "type": "decimal",
+      "nullable": false,
+      "scale": 2,
+      "max": false
+    },
+    {
+      "name": "ExtendedPrice",
+      "type": "decimal",
+      "nullable": false,
+      "scale": 2,
+      "max": false
+    },
+    {
+      "name": "LastEditedBy",
+      "type": "int",
+      "nullable": false,
+      "scale": 0,
+      "max": false
+    },
+    {
+      "name": "LastEditedWhen",
+      "type": "datetime2",
+      "nullable": false,
+      "scale": 7,
+      "max": false
+    }
+  ],
+  "Sales.Invoices": [
+    {
+      "name": "InvoiceID",
+      "type": "int",
+      "nullable": false,
+      "scale": 0,
+      "max": false
+    },
+    {
+      "name": "CustomerID",
+      "type": "int",
+      "nullable": false,
+      "scale": 0,
+      "max": false
+    },
+    {
+      "name": "BillToCustomerID",
+      "type": "int",
+      "nullable": false,
+      "scale": 0,
+      "max": false
+    },
+    {
+      "name": "OrderID",
+      "type": "int",
+      "nullable": true,
+      "scale": 0,
+      "max": false
+    },
+    {
+      "name": "DeliveryMethodID",
+      "type": "int",
+      "nullable": false,
+      "scale": 0,
+      "max": false
+    },
+    {
+      "name": "ContactPersonID",
+      "type": "int",
+      "nullable": false,
+      "scale": 0,
+      "max": false
+    },
+    {
+      "name": "AccountsPersonID",
+      "type": "int",
+      "nullable": false,
+      "scale": 0,
+      "max": false
+    },
+    {
+      "name": "SalespersonPersonID",
+      "type": "int",
+      "nullable": false,
+      "scale": 0,
+      "max": false
+    },
+    {
+      "name": "PackedByPersonID",
+      "type": "int",
+      "nullable": false,
+      "scale": 0,
+      "max": false
+    },
+    {
+      "name": "InvoiceDate",
+      "type": "date",
+      "nullable": false,
+      "scale": 0,
+      "max": false
+    },
+    {
+      "name": "CustomerPurchaseOrderNumber",
+      "type": "nvarchar",
+      "nullable": true,
+      "scale": 0,
+      "max": false
+    },
+    {
+      "name": "IsCreditNote",
+      "type": "bit",
+      "nullable": false,
+      "scale": 0,
+      "max": false
+    },
+    {
+      "name": "CreditNoteReason",
+      "type": "nvarchar",
+      "nullable": true,
+      "scale": 0,
+      "max": true
+    },
+    {
+      "name": "Comments",
+      "type": "nvarchar",
+      "nullable": true,
+      "scale": 0,
+      "max": true
+    },
+    {
+      "name": "DeliveryInstructions",
+      "type": "nvarchar",
+      "nullable": true,
+      "scale": 0,
+      "max": true
+    },
+    {
+      "name": "InternalComments",
+      "type": "nvarchar",
+      "nullable": true,
+      "scale": 0,
+      "max": true
+    },
+    {
+      "name": "TotalDryItems",
+      "type": "int",
+      "nullable": false,
+      "scale": 0,
+      "max": false
+    },
+    {
+      "name": "TotalChillerItems",
+      "type": "int",
+      "nullable": false,
+      "scale": 0,
+      "max": false
+    },
+    {
+      "name": "DeliveryRun",
+      "type": "nvarchar",
+      "nullable": true,
+      "scale": 0,
+      "max": false
+    },
+    {
+      "name": "RunPosition",
+      "type": "nvarchar",
+      "nullable": true,
+      "scale": 0,
+      "max": false
+    },
+    {
+      "name": "ReturnedDeliveryData",
+      "type": "nvarchar",
+      "nullable": true,
+      "scale": 0,
+      "max": true
+    },
+    {
+      "name": "LastEditedBy",
+      "type": "int",
+      "nullable": false,
+      "scale": 0,
+      "max": false
+    },
+    {
+      "name": "LastEditedWhen",
+      "type": "datetime2",
+      "nullable": false,
+      "scale": 7,
+      "max": false
+    }
+  ],
+  "Sales.CustomerTransactions": [
+    {
+      "name": "CustomerTransactionID",
+      "type": "int",
+      "nullable": false,
+      "scale": 0,
+      "max": false
+    },
+    {
+      "name": "CustomerID",
+      "type": "int",
+      "nullable": false,
+      "scale": 0,
+      "max": false
+    },
+    {
+      "name": "TransactionTypeID",
+      "type": "int",
+      "nullable": false,
+      "scale": 0,
+      "max": false
+    },
+    {
+      "name": "InvoiceID",
+      "type": "int",
+      "nullable": true,
+      "scale": 0,
+      "max": false
+    },
+    {
+      "name": "PaymentMethodID",
+      "type": "int",
+      "nullable": true,
+      "scale": 0,
+      "max": false
+    },
+    {
+      "name": "TransactionDate",
+      "type": "date",
+      "nullable": false,
+      "scale": 0,
+      "max": false
+    },
+    {
+      "name": "AmountExcludingTax",
+      "type": "decimal",
+      "nullable": false,
+      "scale": 2,
+      "max": false
+    },
+    {
+      "name": "TaxAmount",
+      "type": "decimal",
+      "nullable": false,
+      "scale": 2,
+      "max": false
+    },
+    {
+      "name": "TransactionAmount",
+      "type": "decimal",
+      "nullable": false,
+      "scale": 2,
+      "max": false
+    },
+    {
+      "name": "OutstandingBalance",
+      "type": "decimal",
+      "nullable": false,
+      "scale": 2,
+      "max": false
+    },
+    {
+      "name": "FinalizationDate",
+      "type": "date",
+      "nullable": true,
+      "scale": 0,
+      "max": false
+    },
+    {
+      "name": "LastEditedBy",
+      "type": "int",
+      "nullable": false,
+      "scale": 0,
+      "max": false
+    },
+    {
+      "name": "LastEditedWhen",
+      "type": "datetime2",
+      "nullable": false,
+      "scale": 7,
+      "max": false
+    }
+  ],
+  "Sales.Customers": [
+    {
+      "name": "CustomerID",
+      "type": "int",
+      "nullable": false,
+      "scale": 0,
+      "max": false
+    },
+    {
+      "name": "CustomerName",
+      "type": "nvarchar",
+      "nullable": false,
+      "scale": 0,
+      "max": false
+    },
+    {
+      "name": "BillToCustomerID",
+      "type": "int",
+      "nullable": false,
+      "scale": 0,
+      "max": false
+    },
+    {
+      "name": "CustomerCategoryID",
+      "type": "int",
+      "nullable": false,
+      "scale": 0,
+      "max": false
+    },
+    {
+      "name": "BuyingGroupID",
+      "type": "int",
+      "nullable": true,
+      "scale": 0,
+      "max": false
+    },
+    {
+      "name": "PrimaryContactPersonID",
+      "type": "int",
+      "nullable": false,
+      "scale": 0,
+      "max": false
+    },
+    {
+      "name": "AlternateContactPersonID",
+      "type": "int",
+      "nullable": true,
+      "scale": 0,
+      "max": false
+    },
+    {
+      "name": "DeliveryMethodID",
+      "type": "int",
+      "nullable": false,
+      "scale": 0,
+      "max": false
+    },
+    {
+      "name": "DeliveryCityID",
+      "type": "int",
+      "nullable": false,
+      "scale": 0,
+      "max": false
+    },
+    {
+      "name": "PostalCityID",
+      "type": "int",
+      "nullable": false,
+      "scale": 0,
+      "max": false
+    },
+    {
+      "name": "CreditLimit",
+      "type": "decimal",
+      "nullable": true,
+      "scale": 2,
+      "max": false
+    },
+    {
+      "name": "AccountOpenedDate",
+      "type": "date",
+      "nullable": false,
+      "scale": 0,
+      "max": false
+    },
+    {
+      "name": "StandardDiscountPercentage",
+      "type": "decimal",
+      "nullable": false,
+      "scale": 3,
+      "max": false
+    },
+    {
+      "name": "IsStatementSent",
+      "type": "bit",
+      "nullable": false,
+      "scale": 0,
+      "max": false
+    },
+    {
+      "name": "IsOnCreditHold",
+      "type": "bit",
+      "nullable": false,
+      "scale": 0,
+      "max": false
+    },
+    {
+      "name": "PaymentDays",
+      "type": "int",
+      "nullable": false,
+      "scale": 0,
+      "max": false
+    },
+    {
+      "name": "PhoneNumber",
+      "type": "nvarchar",
+      "nullable": false,
+      "scale": 0,
+      "max": false
+    },
+    {
+      "name": "FaxNumber",
+      "type": "nvarchar",
+      "nullable": false,
+      "scale": 0,
+      "max": false
+    },
+    {
+      "name": "DeliveryRun",
+      "type": "nvarchar",
+      "nullable": true,
+      "scale": 0,
+      "max": false
+    },
+    {
+      "name": "RunPosition",
+      "type": "nvarchar",
+      "nullable": true,
+      "scale": 0,
+      "max": false
+    },
+    {
+      "name": "WebsiteURL",
+      "type": "nvarchar",
+      "nullable": false,
+      "scale": 0,
+      "max": false
+    },
+    {
+      "name": "DeliveryAddressLine1",
+      "type": "nvarchar",
+      "nullable": false,
+      "scale": 0,
+      "max": false
+    },
+    {
+      "name": "DeliveryAddressLine2",
+      "type": "nvarchar",
+      "nullable": true,
+      "scale": 0,
+      "max": false
+    },
+    {
+      "name": "DeliveryPostalCode",
+      "type": "nvarchar",
+      "nullable": false,
+      "scale": 0,
+      "max": false
+    },
+    {
+      "name": "DeliveryLocation",
+      "type": "geography",
+      "nullable": true,
+      "scale": 0,
+      "max": false
+    },
+    {
+      "name": "PostalAddressLine1",
+      "type": "nvarchar",
+      "nullable": false,
+      "scale": 0,
+      "max": false
+    },
+    {
+      "name": "PostalAddressLine2",
+      "type": "nvarchar",
+      "nullable": true,
+      "scale": 0,
+      "max": false
+    },
+    {
+      "name": "PostalPostalCode",
+      "type": "nvarchar",
+      "nullable": false,
+      "scale": 0,
+      "max": false
+    },
+    {
+      "name": "LastEditedBy",
+      "type": "int",
+      "nullable": false,
+      "scale": 0,
+      "max": false
+    },
+    {
+      "name": "ValidFrom",
+      "type": "datetime2",
+      "nullable": false,
+      "scale": 7,
+      "max": false
+    },
+    {
+      "name": "ValidTo",
+      "type": "datetime2",
+      "nullable": false,
+      "scale": 7,
+      "max": false
+    }
+  ],
+  "Sales.Orders": [
+    {
+      "name": "OrderID",
+      "type": "int",
+      "nullable": false,
+      "scale": 0,
+      "max": false
+    },
+    {
+      "name": "CustomerID",
+      "type": "int",
+      "nullable": false,
+      "scale": 0,
+      "max": false
+    },
+    {
+      "name": "SalespersonPersonID",
+      "type": "int",
+      "nullable": false,
+      "scale": 0,
+      "max": false
+    },
+    {
+      "name": "PickedByPersonID",
+      "type": "int",
+      "nullable": true,
+      "scale": 0,
+      "max": false
+    },
+    {
+      "name": "ContactPersonID",
+      "type": "int",
+      "nullable": false,
+      "scale": 0,
+      "max": false
+    },
+    {
+      "name": "BackorderOrderID",
+      "type": "int",
+      "nullable": true,
+      "scale": 0,
+      "max": false
+    },
+    {
+      "name": "OrderDate",
+      "type": "date",
+      "nullable": false,
+      "scale": 0,
+      "max": false
+    },
+    {
+      "name": "ExpectedDeliveryDate",
+      "type": "date",
+      "nullable": false,
+      "scale": 0,
+      "max": false
+    },
+    {
+      "name": "CustomerPurchaseOrderNumber",
+      "type": "nvarchar",
+      "nullable": true,
+      "scale": 0,
+      "max": false
+    },
+    {
+      "name": "IsUndersupplyBackordered",
+      "type": "bit",
+      "nullable": false,
+      "scale": 0,
+      "max": false
+    },
+    {
+      "name": "Comments",
+      "type": "nvarchar",
+      "nullable": true,
+      "scale": 0,
+      "max": true
+    },
+    {
+      "name": "DeliveryInstructions",
+      "type": "nvarchar",
+      "nullable": true,
+      "scale": 0,
+      "max": true
+    },
+    {
+      "name": "InternalComments",
+      "type": "nvarchar",
+      "nullable": true,
+      "scale": 0,
+      "max": true
+    },
+    {
+      "name": "PickingCompletedWhen",
+      "type": "datetime2",
+      "nullable": true,
+      "scale": 7,
+      "max": false
+    },
+    {
+      "name": "LastEditedBy",
+      "type": "int",
+      "nullable": false,
+      "scale": 0,
+      "max": false
+    },
+    {
+      "name": "LastEditedWhen",
+      "type": "datetime2",
+      "nullable": false,
+      "scale": 7,
+      "max": false
+    }
+  ],
+  "Sales.OrderLines": [
+    {
+      "name": "OrderLineID",
+      "type": "int",
+      "nullable": false,
+      "scale": 0,
+      "max": false
+    },
+    {
+      "name": "OrderID",
+      "type": "int",
+      "nullable": false,
+      "scale": 0,
+      "max": false
+    },
+    {
+      "name": "StockItemID",
+      "type": "int",
+      "nullable": false,
+      "scale": 0,
+      "max": false
+    },
+    {
+      "name": "Description",
+      "type": "nvarchar",
+      "nullable": false,
+      "scale": 0,
+      "max": false
+    },
+    {
+      "name": "PackageTypeID",
+      "type": "int",
+      "nullable": false,
+      "scale": 0,
+      "max": false
+    },
+    {
+      "name": "Quantity",
+      "type": "int",
+      "nullable": false,
+      "scale": 0,
+      "max": false
+    },
+    {
+      "name": "UnitPrice",
+      "type": "decimal",
+      "nullable": true,
+      "scale": 2,
+      "max": false
+    },
+    {
+      "name": "TaxRate",
+      "type": "decimal",
+      "nullable": false,
+      "scale": 3,
+      "max": false
+    },
+    {
+      "name": "PickedQuantity",
+      "type": "int",
+      "nullable": false,
+      "scale": 0,
+      "max": false
+    },
+    {
+      "name": "PickingCompletedWhen",
+      "type": "datetime2",
+      "nullable": true,
+      "scale": 7,
+      "max": false
+    },
+    {
+      "name": "LastEditedBy",
+      "type": "int",
+      "nullable": false,
+      "scale": 0,
+      "max": false
+    },
+    {
+      "name": "LastEditedWhen",
+      "type": "datetime2",
+      "nullable": false,
+      "scale": 7,
+      "max": false
+    }
+  ],
+  "Purchasing.SupplierTransactions": [
+    {
+      "name": "SupplierTransactionID",
+      "type": "int",
+      "nullable": false,
+      "scale": 0,
+      "max": false
+    },
+    {
+      "name": "SupplierID",
+      "type": "int",
+      "nullable": false,
+      "scale": 0,
+      "max": false
+    },
+    {
+      "name": "TransactionTypeID",
+      "type": "int",
+      "nullable": false,
+      "scale": 0,
+      "max": false
+    },
+    {
+      "name": "PurchaseOrderID",
+      "type": "int",
+      "nullable": true,
+      "scale": 0,
+      "max": false
+    },
+    {
+      "name": "PaymentMethodID",
+      "type": "int",
+      "nullable": true,
+      "scale": 0,
+      "max": false
+    },
+    {
+      "name": "SupplierInvoiceNumber",
+      "type": "nvarchar",
+      "nullable": true,
+      "scale": 0,
+      "max": false
+    },
+    {
+      "name": "TransactionDate",
+      "type": "date",
+      "nullable": false,
+      "scale": 0,
+      "max": false
+    },
+    {
+      "name": "AmountExcludingTax",
+      "type": "decimal",
+      "nullable": false,
+      "scale": 2,
+      "max": false
+    },
+    {
+      "name": "TaxAmount",
+      "type": "decimal",
+      "nullable": false,
+      "scale": 2,
+      "max": false
+    },
+    {
+      "name": "TransactionAmount",
+      "type": "decimal",
+      "nullable": false,
+      "scale": 2,
+      "max": false
+    },
+    {
+      "name": "OutstandingBalance",
+      "type": "decimal",
+      "nullable": false,
+      "scale": 2,
+      "max": false
+    },
+    {
+      "name": "FinalizationDate",
+      "type": "date",
+      "nullable": true,
+      "scale": 0,
+      "max": false
+    },
+    {
+      "name": "LastEditedBy",
+      "type": "int",
+      "nullable": false,
+      "scale": 0,
+      "max": false
+    },
+    {
+      "name": "LastEditedWhen",
+      "type": "datetime2",
+      "nullable": false,
+      "scale": 7,
+      "max": false
+    }
+  ],
+  "Purchasing.Suppliers": [
+    {
+      "name": "SupplierID",
+      "type": "int",
+      "nullable": false,
+      "scale": 0,
+      "max": false
+    },
+    {
+      "name": "SupplierName",
+      "type": "nvarchar",
+      "nullable": false,
+      "scale": 0,
+      "max": false
+    },
+    {
+      "name": "SupplierCategoryID",
+      "type": "int",
+      "nullable": false,
+      "scale": 0,
+      "max": false
+    },
+    {
+      "name": "PrimaryContactPersonID",
+      "type": "int",
+      "nullable": false,
+      "scale": 0,
+      "max": false
+    },
+    {
+      "name": "AlternateContactPersonID",
+      "type": "int",
+      "nullable": false,
+      "scale": 0,
+      "max": false
+    },
+    {
+      "name": "DeliveryMethodID",
+      "type": "int",
+      "nullable": true,
+      "scale": 0,
+      "max": false
+    },
+    {
+      "name": "DeliveryCityID",
+      "type": "int",
+      "nullable": false,
+      "scale": 0,
+      "max": false
+    },
+    {
+      "name": "PostalCityID",
+      "type": "int",
+      "nullable": false,
+      "scale": 0,
+      "max": false
+    },
+    {
+      "name": "SupplierReference",
+      "type": "nvarchar",
+      "nullable": true,
+      "scale": 0,
+      "max": false
+    },
+    {
+      "name": "BankAccountName",
+      "type": "nvarchar",
+      "nullable": true,
+      "scale": 0,
+      "max": false
+    },
+    {
+      "name": "BankAccountBranch",
+      "type": "nvarchar",
+      "nullable": true,
+      "scale": 0,
+      "max": false
+    },
+    {
+      "name": "BankAccountCode",
+      "type": "nvarchar",
+      "nullable": true,
+      "scale": 0,
+      "max": false
+    },
+    {
+      "name": "BankAccountNumber",
+      "type": "nvarchar",
+      "nullable": true,
+      "scale": 0,
+      "max": false
+    },
+    {
+      "name": "BankInternationalCode",
+      "type": "nvarchar",
+      "nullable": true,
+      "scale": 0,
+      "max": false
+    },
+    {
+      "name": "PaymentDays",
+      "type": "int",
+      "nullable": false,
+      "scale": 0,
+      "max": false
+    },
+    {
+      "name": "InternalComments",
+      "type": "nvarchar",
+      "nullable": true,
+      "scale": 0,
+      "max": true
+    },
+    {
+      "name": "PhoneNumber",
+      "type": "nvarchar",
+      "nullable": false,
+      "scale": 0,
+      "max": false
+    },
+    {
+      "name": "FaxNumber",
+      "type": "nvarchar",
+      "nullable": false,
+      "scale": 0,
+      "max": false
+    },
+    {
+      "name": "WebsiteURL",
+      "type": "nvarchar",
+      "nullable": false,
+      "scale": 0,
+      "max": false
+    },
+    {
+      "name": "DeliveryAddressLine1",
+      "type": "nvarchar",
+      "nullable": false,
+      "scale": 0,
+      "max": false
+    },
+    {
+      "name": "DeliveryAddressLine2",
+      "type": "nvarchar",
+      "nullable": true,
+      "scale": 0,
+      "max": false
+    },
+    {
+      "name": "DeliveryPostalCode",
+      "type": "nvarchar",
+      "nullable": false,
+      "scale": 0,
+      "max": false
+    },
+    {
+      "name": "DeliveryLocation",
+      "type": "geography",
+      "nullable": true,
+      "scale": 0,
+      "max": false
+    },
+    {
+      "name": "PostalAddressLine1",
+      "type": "nvarchar",
+      "nullable": false,
+      "scale": 0,
+      "max": false
+    },
+    {
+      "name": "PostalAddressLine2",
+      "type": "nvarchar",
+      "nullable": true,
+      "scale": 0,
+      "max": false
+    },
+    {
+      "name": "PostalPostalCode",
+      "type": "nvarchar",
+      "nullable": false,
+      "scale": 0,
+      "max": false
+    },
+    {
+      "name": "LastEditedBy",
+      "type": "int",
+      "nullable": false,
+      "scale": 0,
+      "max": false
+    },
+    {
+      "name": "ValidFrom",
+      "type": "datetime2",
+      "nullable": false,
+      "scale": 7,
+      "max": false
+    },
+    {
+      "name": "ValidTo",
+      "type": "datetime2",
+      "nullable": false,
+      "scale": 7,
+      "max": false
+    }
+  ],
+  "Purchasing.PurchaseOrders": [
+    {
+      "name": "PurchaseOrderID",
+      "type": "int",
+      "nullable": false,
+      "scale": 0,
+      "max": false
+    },
+    {
+      "name": "SupplierID",
+      "type": "int",
+      "nullable": false,
+      "scale": 0,
+      "max": false
+    },
+    {
+      "name": "OrderDate",
+      "type": "date",
+      "nullable": false,
+      "scale": 0,
+      "max": false
+    },
+    {
+      "name": "DeliveryMethodID",
+      "type": "int",
+      "nullable": false,
+      "scale": 0,
+      "max": false
+    },
+    {
+      "name": "ContactPersonID",
+      "type": "int",
+      "nullable": false,
+      "scale": 0,
+      "max": false
+    },
+    {
+      "name": "ExpectedDeliveryDate",
+      "type": "date",
+      "nullable": true,
+      "scale": 0,
+      "max": false
+    },
+    {
+      "name": "SupplierReference",
+      "type": "nvarchar",
+      "nullable": true,
+      "scale": 0,
+      "max": false
+    },
+    {
+      "name": "IsOrderFinalized",
+      "type": "bit",
+      "nullable": false,
+      "scale": 0,
+      "max": false
+    },
+    {
+      "name": "Comments",
+      "type": "nvarchar",
+      "nullable": true,
+      "scale": 0,
+      "max": true
+    },
+    {
+      "name": "InternalComments",
+      "type": "nvarchar",
+      "nullable": true,
+      "scale": 0,
+      "max": true
+    },
+    {
+      "name": "LastEditedBy",
+      "type": "int",
+      "nullable": false,
+      "scale": 0,
+      "max": false
+    },
+    {
+      "name": "LastEditedWhen",
+      "type": "datetime2",
+      "nullable": false,
+      "scale": 7,
+      "max": false
+    }
+  ],
+  "Purchasing.PurchaseOrderLines": [
+    {
+      "name": "PurchaseOrderLineID",
+      "type": "int",
+      "nullable": false,
+      "scale": 0,
+      "max": false
+    },
+    {
+      "name": "PurchaseOrderID",
+      "type": "int",
+      "nullable": false,
+      "scale": 0,
+      "max": false
+    },
+    {
+      "name": "StockItemID",
+      "type": "int",
+      "nullable": false,
+      "scale": 0,
+      "max": false
+    },
+    {
+      "name": "OrderedOuters",
+      "type": "int",
+      "nullable": false,
+      "scale": 0,
+      "max": false
+    },
+    {
+      "name": "Description",
+      "type": "nvarchar",
+      "nullable": false,
+      "scale": 0,
+      "max": false
+    },
+    {
+      "name": "ReceivedOuters",
+      "type": "int",
+      "nullable": false,
+      "scale": 0,
+      "max": false
+    },
+    {
+      "name": "PackageTypeID",
+      "type": "int",
+      "nullable": false,
+      "scale": 0,
+      "max": false
+    },
+    {
+      "name": "ExpectedUnitPricePerOuter",
+      "type": "decimal",
+      "nullable": true,
+      "scale": 2,
+      "max": false
+    },
+    {
+      "name": "LastReceiptDate",
+      "type": "date",
+      "nullable": true,
+      "scale": 0,
+      "max": false
+    },
+    {
+      "name": "IsOrderLineFinalized",
+      "type": "bit",
+      "nullable": false,
+      "scale": 0,
+      "max": false
+    },
+    {
+      "name": "LastEditedBy",
+      "type": "int",
+      "nullable": false,
+      "scale": 0,
+      "max": false
+    },
+    {
+      "name": "LastEditedWhen",
+      "type": "datetime2",
+      "nullable": false,
+      "scale": 7,
+      "max": false
+    }
+  ],
+  "Warehouse.StockItems": [
+    {
+      "name": "StockItemID",
+      "type": "int",
+      "nullable": false,
+      "scale": 0,
+      "max": false
+    },
+    {
+      "name": "StockItemName",
+      "type": "nvarchar",
+      "nullable": false,
+      "scale": 0,
+      "max": false
+    },
+    {
+      "name": "SupplierID",
+      "type": "int",
+      "nullable": false,
+      "scale": 0,
+      "max": false
+    },
+    {
+      "name": "ColorID",
+      "type": "int",
+      "nullable": true,
+      "scale": 0,
+      "max": false
+    },
+    {
+      "name": "UnitPackageID",
+      "type": "int",
+      "nullable": false,
+      "scale": 0,
+      "max": false
+    },
+    {
+      "name": "OuterPackageID",
+      "type": "int",
+      "nullable": false,
+      "scale": 0,
+      "max": false
+    },
+    {
+      "name": "Brand",
+      "type": "nvarchar",
+      "nullable": true,
+      "scale": 0,
+      "max": false
+    },
+    {
+      "name": "Size",
+      "type": "nvarchar",
+      "nullable": true,
+      "scale": 0,
+      "max": false
+    },
+    {
+      "name": "LeadTimeDays",
+      "type": "int",
+      "nullable": false,
+      "scale": 0,
+      "max": false
+    },
+    {
+      "name": "QuantityPerOuter",
+      "type": "int",
+      "nullable": false,
+      "scale": 0,
+      "max": false
+    },
+    {
+      "name": "IsChillerStock",
+      "type": "bit",
+      "nullable": false,
+      "scale": 0,
+      "max": false
+    },
+    {
+      "name": "Barcode",
+      "type": "nvarchar",
+      "nullable": true,
+      "scale": 0,
+      "max": false
+    },
+    {
+      "name": "TaxRate",
+      "type": "decimal",
+      "nullable": false,
+      "scale": 3,
+      "max": false
+    },
+    {
+      "name": "UnitPrice",
+      "type": "decimal",
+      "nullable": false,
+      "scale": 2,
+      "max": false
+    },
+    {
+      "name": "RecommendedRetailPrice",
+      "type": "decimal",
+      "nullable": true,
+      "scale": 2,
+      "max": false
+    },
+    {
+      "name": "TypicalWeightPerUnit",
+      "type": "decimal",
+      "nullable": false,
+      "scale": 3,
+      "max": false
+    },
+    {
+      "name": "MarketingComments",
+      "type": "nvarchar",
+      "nullable": true,
+      "scale": 0,
+      "max": true
+    },
+    {
+      "name": "InternalComments",
+      "type": "nvarchar",
+      "nullable": true,
+      "scale": 0,
+      "max": true
+    },
+    {
+      "name": "Photo",
+      "type": "varbinary",
+      "nullable": true,
+      "scale": 0,
+      "max": true
+    },
+    {
+      "name": "CustomFields",
+      "type": "nvarchar",
+      "nullable": true,
+      "scale": 0,
+      "max": true
+    },
+    {
+      "name": "LastEditedBy",
+      "type": "int",
+      "nullable": false,
+      "scale": 0,
+      "max": false
+    },
+    {
+      "name": "ValidFrom",
+      "type": "datetime2",
+      "nullable": false,
+      "scale": 7,
+      "max": false
+    },
+    {
+      "name": "ValidTo",
+      "type": "datetime2",
+      "nullable": false,
+      "scale": 7,
+      "max": false
+    }
+  ],
+  "Warehouse.StockItemHoldings": [
+    {
+      "name": "StockItemID",
+      "type": "int",
+      "nullable": false,
+      "scale": 0,
+      "max": false
+    },
+    {
+      "name": "QuantityOnHand",
+      "type": "int",
+      "nullable": false,
+      "scale": 0,
+      "max": false
+    },
+    {
+      "name": "BinLocation",
+      "type": "nvarchar",
+      "nullable": false,
+      "scale": 0,
+      "max": false
+    },
+    {
+      "name": "LastStocktakeQuantity",
+      "type": "int",
+      "nullable": false,
+      "scale": 0,
+      "max": false
+    },
+    {
+      "name": "LastCostPrice",
+      "type": "decimal",
+      "nullable": false,
+      "scale": 2,
+      "max": false
+    },
+    {
+      "name": "ReorderLevel",
+      "type": "int",
+      "nullable": false,
+      "scale": 0,
+      "max": false
+    },
+    {
+      "name": "TargetStockLevel",
+      "type": "int",
+      "nullable": false,
+      "scale": 0,
+      "max": false
+    },
+    {
+      "name": "LastEditedBy",
+      "type": "int",
+      "nullable": false,
+      "scale": 0,
+      "max": false
+    },
+    {
+      "name": "LastEditedWhen",
+      "type": "datetime2",
+      "nullable": false,
+      "scale": 7,
+      "max": false
+    }
+  ],
+  "Warehouse.StockItemTransactions": [
+    {
+      "name": "StockItemTransactionID",
+      "type": "int",
+      "nullable": false,
+      "scale": 0,
+      "max": false
+    },
+    {
+      "name": "StockItemID",
+      "type": "int",
+      "nullable": false,
+      "scale": 0,
+      "max": false
+    },
+    {
+      "name": "TransactionTypeID",
+      "type": "int",
+      "nullable": false,
+      "scale": 0,
+      "max": false
+    },
+    {
+      "name": "CustomerID",
+      "type": "int",
+      "nullable": true,
+      "scale": 0,
+      "max": false
+    },
+    {
+      "name": "InvoiceID",
+      "type": "int",
+      "nullable": true,
+      "scale": 0,
+      "max": false
+    },
+    {
+      "name": "SupplierID",
+      "type": "int",
+      "nullable": true,
+      "scale": 0,
+      "max": false
+    },
+    {
+      "name": "PurchaseOrderID",
+      "type": "int",
+      "nullable": true,
+      "scale": 0,
+      "max": false
+    },
+    {
+      "name": "TransactionOccurredWhen",
+      "type": "datetime2",
+      "nullable": false,
+      "scale": 7,
+      "max": false
+    },
+    {
+      "name": "Quantity",
+      "type": "decimal",
+      "nullable": false,
+      "scale": 3,
+      "max": false
+    },
+    {
+      "name": "LastEditedBy",
+      "type": "int",
+      "nullable": false,
+      "scale": 0,
+      "max": false
+    },
+    {
+      "name": "LastEditedWhen",
+      "type": "datetime2",
+      "nullable": false,
+      "scale": 7,
+      "max": false
+    }
+  ],
+  "Application.TransactionTypes": [
+    {
+      "name": "TransactionTypeID",
+      "type": "int",
+      "nullable": false,
+      "scale": 0,
+      "max": false
+    },
+    {
+      "name": "TransactionTypeName",
+      "type": "nvarchar",
+      "nullable": false,
+      "scale": 0,
+      "max": false
+    },
+    {
+      "name": "LastEditedBy",
+      "type": "int",
+      "nullable": false,
+      "scale": 0,
+      "max": false
+    },
+    {
+      "name": "ValidFrom",
+      "type": "datetime2",
+      "nullable": false,
+      "scale": 7,
+      "max": false
+    },
+    {
+      "name": "ValidTo",
+      "type": "datetime2",
+      "nullable": false,
+      "scale": 7,
+      "max": false
+    }
+  ]
+}

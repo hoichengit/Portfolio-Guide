@@ -1,0 +1,85 @@
+CustomerTransactionID,CustomerName,InvoiceID,TransactionDate,due_date,balance,days_overdue,aging_bucket
+335968,Wingtip Toys (Head Office),70445,2016-05-31,2016-06-07,28280.8,-7,Current
+336136,Kumar Naicker,70484,2016-05-31,2016-06-07,13212.12,-7,Current
+336008,Wingtip Toys (Head Office),70455,2016-05-31,2016-06-07,12470.6,-7,Current
+336065,Tailspin Toys (Head Office),70466,2016-05-31,2016-06-07,11911.7,-7,Current
+336019,Wingtip Toys (Head Office),70457,2016-05-31,2016-06-07,8212.15,-7,Current
+335925,Wingtip Toys (Head Office),70436,2016-05-31,2016-06-07,6804.78,-7,Current
+336221,Linh Dao,70504,2016-05-31,2016-06-07,6728.65,-7,Current
+336088,Rodrigo Figueiredo,70472,2016-05-31,2016-06-07,5975.4,-7,Current
+335955,Shyam Poddar,70442,2016-05-31,2016-06-07,5767.83,-7,Current
+336056,Dominic Davignon,70464,2016-05-31,2016-06-07,5732.98,-7,Current
+336252,Wingtip Toys (Head Office),70510,2016-05-31,2016-06-07,5549.9,-7,Current
+336234,Liidia Lepp,70507,2016-05-31,2016-06-07,5422.25,-7,Current
+336091,Satish Mittal,70473,2016-05-31,2016-06-07,5157.75,-7,Current
+336125,Tailspin Toys (Head Office),70481,2016-05-31,2016-06-07,5009.4,-7,Current
+336025,Wingtip Toys (Head Office),70458,2016-05-31,2016-06-07,4921.3,-7,Current
+335959,Tailspin Toys (Head Office),70443,2016-05-31,2016-06-07,4839.66,-7,Current
+336114,Isa Hulsegge,70478,2016-05-31,2016-06-07,4713.85,-7,Current
+336142,Tailspin Toys (Head Office),70485,2016-05-31,2016-06-07,4665.55,-7,Current
+336240,Wingtip Toys (Head Office),70508,2016-05-31,2016-06-07,4565.5,-7,Current
+336045,Tailspin Toys (Head Office),70462,2016-05-31,2016-06-07,4527.55,-7,Current
+336061,Suparna Bhattacharya,70465,2016-05-31,2016-06-07,4127.93,-7,Current
+336159,Tailspin Toys (Head Office),70489,2016-05-31,2016-06-07,4045.7,-7,Current
+336104,Narendra Tickoo,70476,2016-05-31,2016-06-07,4038.8,-7,Current
+336217,Sabine Alksne,70503,2016-05-31,2016-06-07,3876.65,-7,Current
+335916,Lilli Sokk,70434,2016-05-31,2016-06-07,3677.96,-7,Current
+336165,Wingtip Toys (Head Office),70490,2016-05-31,2016-06-07,3616.75,-7,Current
+336014,Kertu Sokk,70456,2016-05-31,2016-06-07,3545.22,-7,Current
+336176,Wingtip Toys (Head Office),70493,2016-05-31,2016-06-07,3544.3,-7,Current
+336208,Tailspin Toys (Head Office),70501,2016-05-31,2016-06-07,3441.03,-7,Current
+336204,Ana Florea,70500,2016-05-31,2016-06-07,3437.01,-7,Current
+336100,Cosmina Vlad,70475,2016-05-31,2016-06-07,3427.58,-7,Current
+336151,Marcela Lucescu,70487,2016-05-31,2016-06-07,3276.35,-7,Current
+336073,Wingtip Toys (Head Office),70469,2016-05-31,2016-06-07,3201.6,-7,Current
+335939,Tailspin Toys (Head Office),70439,2016-05-31,2016-06-07,3199.12,-7,Current
+336070,Emma Van Zant,70468,2016-05-31,2016-06-07,3091.2,-7,Current
+336246,Tailspin Toys (Head Office),70509,2016-05-31,2016-06-07,2904.9,-7,Current
+336039,Geza Roman,70461,2016-05-31,2016-06-07,2685.25,-7,Current
+335950,Nils Kaulins,70441,2016-05-31,2016-06-07,2678.35,-7,Current
+335993,Wingtip Toys (Head Office),70452,2016-05-31,2016-06-07,2605.9,-7,Current
+336031,Tailspin Toys (Head Office),70459,2016-05-31,2016-06-07,2557.6,-7,Current
+335896,Wingtip Toys (Head Office),70430,2016-05-31,2016-06-07,2526.9,-7,Current
+335983,Wingtip Toys (Head Office),70449,2016-05-31,2016-06-07,2403.5,-7,Current
+335911,Manca Hrastovsek,70433,2016-05-31,2016-06-07,2217.33,-7,Current
+335962,Ana Florea,70444,2016-05-31,2016-06-07,2074.14,-7,Current
+335989,Lilli Sokk,70451,2016-05-31,2016-06-07,2011.35,-7,Current
+336180,Meera Patel,70494,2016-05-31,2016-06-07,1982.6,-7,Current
+335906,Can ozcan,70432,2016-05-31,2016-06-07,1910.73,-7,Current
+336108,Neil Farrelly,70477,2016-05-31,2016-06-07,1834.25,-7,Current
+336085,Tailspin Toys (Head Office),70471,2016-05-31,2016-06-07,1770.08,-7,Current
+335945,Tailspin Toys (Head Office),70440,2016-05-31,2016-06-07,1617.82,-7,Current
+336225,Taneli Riutta,70505,2016-05-31,2016-06-07,1517.08,-7,Current
+336079,Alena Kellnerova,70470,2016-05-31,2016-06-07,1456.4,-7,Current
+335901,Tailspin Toys (Head Office),70431,2016-05-31,2016-06-07,1434.05,-7,Current
+336230,Wingtip Toys (Head Office),70506,2016-05-31,2016-06-07,1419.1,-7,Current
+335986,Baalaamjali Devulapalli,70450,2016-05-31,2016-06-07,1361.6,-7,Current
+336183,Lakshmi Benipal,70495,2016-05-31,2016-06-07,1361.6,-7,Current
+335931,Tailspin Toys (Head Office),70437,2016-05-31,2016-06-07,1287.08,-7,Current
+335998,Wingtip Toys (Head Office),70453,2016-05-31,2016-06-07,1254.75,-7,Current
+336147,Wingtip Toys (Head Office),70486,2016-05-31,2016-06-07,1228.2,-7,Current
+335934,Joel Carrillo,70438,2016-05-31,2016-06-07,1223.6,-7,Current
+336133,Wingtip Toys (Head Office),70483,2016-05-31,2016-06-07,1155.75,-7,Current
+336171,Wingtip Toys (Head Office),70492,2016-05-31,2016-06-07,1131.6,-7,Current
+336169,Wingtip Toys (Head Office),70491,2016-05-31,2016-06-07,1023.31,-7,Current
+336199,Tailspin Toys (Head Office),70499,2016-05-31,2016-06-07,765.44,-7,Current
+335886,Olya Izmaylov,70427,2016-05-31,2016-06-07,745.2,-7,Current
+336189,Tailspin Toys (Head Office),70497,2016-05-31,2016-06-07,696.21,-7,Current
+335976,Wingtip Toys (Head Office),70447,2016-05-31,2016-06-07,652.74,-7,Current
+336194,Pavel Bogdanov,70498,2016-05-31,2016-06-07,613.18,-7,Current
+336002,Tailspin Toys (Head Office),70454,2016-05-31,2016-06-07,598.46,-7,Current
+335890,Tailspin Toys (Head Office),70429,2016-05-31,2016-06-07,496.8,-7,Current
+336118,Crina Grasu,70479,2016-05-31,2016-06-07,449.65,-7,Current
+335919,Elina Kaleja,70435,2016-05-31,2016-06-07,426.08,-7,Current
+336129,Wingtip Toys (Head Office),70482,2016-05-31,2016-06-07,424.35,-7,Current
+336050,Prabodh Nair,70463,2016-05-31,2016-06-07,365.7,-7,Current
+335971,Tailspin Toys (Head Office),70446,2016-05-31,2016-06-07,358.8,-7,Current
+336211,Nils Kaulins,70502,2016-05-31,2016-06-07,356.5,-7,Current
+336122,Luis Saucedo,70480,2016-05-31,2016-06-07,325.45,-7,Current
+336155,Tailspin Toys (Head Office),70488,2016-05-31,2016-06-07,264.04,-7,Current
+335979,Milinka Zujovic,70448,2016-05-31,2016-06-07,235.75,-7,Current
+335888,Sabine Zalite,70428,2016-05-31,2016-06-07,201.25,-7,Current
+336094,Meera Patel,70474,2016-05-31,2016-06-07,174.8,-7,Current
+336034,Tuulikki Linna,70460,2016-05-31,2016-06-07,104.65,-7,Current
+336185,Wingtip Toys (Head Office),70496,2016-05-31,2016-06-07,59.8,-7,Current
+336067,Tailspin Toys (Head Office),70467,2016-05-31,2016-06-07,44.85,-7,Current

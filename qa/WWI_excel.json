@@ -1,0 +1,50 @@
+[
+  {
+    "sheet": "Raw sample",
+    "rows": 30
+  },
+  {
+    "sheet": "Summary",
+    "rows": 40
+  },
+  {
+    "sheet": "Cash scenario",
+    "rows": 40
+  },
+  {
+    "sheet": "Monthly",
+    "rows": 44
+  },
+  {
+    "sheet": "Customers",
+    "rows": 666
+  },
+  {
+    "sheet": "Products",
+    "rows": 230
+  },
+  {
+    "sheet": "Growth bridge",
+    "rows": 20
+  },
+  {
+    "sheet": "Receivables",
+    "rows": 87
+  },
+  {
+    "sheet": "Payables",
+    "rows": 20
+  },
+  {
+    "sheet": "Inventory",
+    "rows": 230
+  },
+  {
+    "sheet": "Unmatched orders",
+    "rows": 3088
+  },
+  {
+    "sheet": "Quality",
+    "rows": 20
+  }
+]
