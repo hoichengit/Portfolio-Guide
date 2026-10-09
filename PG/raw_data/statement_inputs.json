@@ -1,0 +1,622 @@
+[
+  {
+    "key": "revenue",
+    "label": "Revenue",
+    "values": [
+      84284,
+      87032
+    ],
+    "source": "FY2026 annual report, PDF p. 49",
+    "page": 49
+  },
+  {
+    "key": "cogs",
+    "label": "Cost of sales",
+    "values": [
+      41164,
+      43362
+    ],
+    "source": "FY2026 annual report, PDF p. 49",
+    "page": 49
+  },
+  {
+    "key": "sga",
+    "label": "Selling and administrative expense",
+    "values": [
+      22669,
+      23922
+    ],
+    "source": "FY2026 annual report, PDF p. 49",
+    "page": 49
+  },
+  {
+    "key": "op",
+    "label": "Operating profit: sales less COGS and SG&A",
+    "values": [
+      20451,
+      19748
+    ],
+    "source": "FY2026 annual report, PDF p. 49",
+    "page": 49
+  },
+  {
+    "key": "pretax",
+    "label": "Profit before tax",
+    "values": [
+      20167,
+      20377
+    ],
+    "source": "FY2026 annual report, PDF p. 49",
+    "page": 49
+  },
+  {
+    "key": "tax",
+    "label": "Income tax expense",
+    "values": [
+      4102,
+      4233
+    ],
+    "source": "FY2026 annual report, PDF p. 49",
+    "page": 49
+  },
+  {
+    "key": "ni",
+    "label": "Consolidated net income",
+    "values": [
+      16065,
+      16144
+    ],
+    "source": "FY2026 annual report, PDF p. 49",
+    "page": 49
+  },
+  {
+    "key": "parent_ni",
+    "label": "Net income attributable to parent",
+    "values": [
+      15974,
+      16046
+    ],
+    "source": "FY2026 annual report, PDF p. 49",
+    "page": 49
+  },
+  {
+    "key": "eps",
+    "label": "Diluted EPS ($ per share)",
+    "values": [
+      6.51,
+      6.62
+    ],
+    "source": "FY2026 annual report, PDF p. 49",
+    "page": 49
+  },
+  {
+    "key": "interest_exp",
+    "label": "Interest expense / (net interest income)",
+    "values": [
+      907,
+      877
+    ],
+    "source": "FY2026 annual report, PDF p. 49",
+    "page": 49
+  },
+  {
+    "key": "interest_income",
+    "label": "Interest income",
+    "values": [
+      469,
+      430
+    ],
+    "source": "FY2026 annual report, PDF p. 49",
+    "page": 49
+  },
+  {
+    "key": "other_income",
+    "label": "Other non-operating income",
+    "values": [
+      154,
+      1076
+    ],
+    "source": "FY2026 annual report, PDF p. 49",
+    "page": 49
+  },
+  {
+    "key": "nci",
+    "label": "Earnings attributable to noncontrolling interests",
+    "values": [
+      91,
+      98
+    ],
+    "source": "FY2026 annual report, PDF p. 49",
+    "page": 49
+  },
+  {
+    "key": "advertising",
+    "label": "Advertising (PG) / demand creation (NIKE)",
+    "values": [
+      9200,
+      10200
+    ],
+    "source": "FY2026 annual report, PDF p. 53",
+    "page": 53
+  },
+  {
+    "key": "cash",
+    "label": "Cash and equivalents",
+    "values": [
+      9556,
+      9942
+    ],
+    "source": "FY2026 annual report, PDF p. 50",
+    "page": 50
+  },
+  {
+    "key": "investments",
+    "label": "Short-term investments (separately reported)",
+    "values": [
+      0,
+      0
+    ],
+    "source": "No separate short-term investments line on balance sheet; cash-only net debt (PDF p. 50)",
+    "page": 50
+  },
+  {
+    "key": "ar",
+    "label": "Accounts receivable",
+    "values": [
+      6185,
+      6056
+    ],
+    "source": "FY2026 annual report, PDF p. 50",
+    "page": 50
+  },
+  {
+    "key": "inventory",
+    "label": "Inventory",
+    "values": [
+      7551,
+      8170
+    ],
+    "source": "FY2026 annual report, PDF p. 50",
+    "page": 50
+  },
+  {
+    "key": "ap",
+    "label": "Accounts payable",
+    "values": [
+      15227,
+      16306
+    ],
+    "source": "FY2026 annual report, PDF p. 50",
+    "page": 50
+  },
+  {
+    "key": "ca",
+    "label": "Current assets",
+    "values": [
+      25392,
+      26208
+    ],
+    "source": "FY2026 annual report, PDF p. 50",
+    "page": 50
+  },
+  {
+    "key": "cl",
+    "label": "Current liabilities",
+    "values": [
+      36058,
+      38694
+    ],
+    "source": "FY2026 annual report, PDF p. 50",
+    "page": 50
+  },
+  {
+    "key": "assets",
+    "label": "Total assets",
+    "values": [
+      125231,
+      126521
+    ],
+    "source": "FY2026 annual report, PDF p. 50",
+    "page": 50
+  },
+  {
+    "key": "liabilities",
+    "label": "Total liabilities",
+    "values": [
+      72946,
+      72210
+    ],
+    "source": "FY2026 annual report, PDF p. 50",
+    "page": 50
+  },
+  {
+    "key": "equity",
+    "label": "Total equity including noncontrolling interests",
+    "values": [
+      52284,
+      54311
+    ],
+    "source": "FY2026 annual report, PDF p. 50",
+    "page": 50
+  },
+  {
+    "key": "current_debt",
+    "label": "Debt due within one year",
+    "values": [
+      9513,
+      11296
+    ],
+    "source": "FY2026 annual report, PDF p. 50",
+    "page": 50
+  },
+  {
+    "key": "long_debt",
+    "label": "Long-term debt",
+    "values": [
+      24995,
+      22842
+    ],
+    "source": "FY2026 annual report, PDF p. 50",
+    "page": 50
+  },
+  {
+    "key": "goodwill",
+    "label": "Goodwill",
+    "values": [
+      41650,
+      41276
+    ],
+    "source": "FY2026 annual report, PDF p. 50",
+    "page": 50
+  },
+  {
+    "key": "intangibles",
+    "label": "Identifiable intangible assets",
+    "values": [
+      21910,
+      21444
+    ],
+    "source": "FY2026 annual report, PDF p. 50",
+    "page": 50
+  },
+  {
+    "key": "cfo",
+    "label": "Reported operating cash flow",
+    "values": [
+      17817,
+      19556
+    ],
+    "source": "FY2026 annual report, PDF p. 52",
+    "page": 52
+  },
+  {
+    "key": "da",
+    "label": "Depreciation and amortisation",
+    "values": [
+      2847,
+      3160
+    ],
+    "source": "FY2026 annual report, PDF p. 52",
+    "page": 52
+  },
+  {
+    "key": "sbc",
+    "label": "Share-based compensation",
+    "values": [
+      476,
+      524
+    ],
+    "source": "FY2026 annual report, PDF p. 52",
+    "page": 52
+  },
+  {
+    "key": "deferred_tax",
+    "label": "Deferred tax adjustment",
+    "values": [
+      149,
+      51
+    ],
+    "source": "FY2026 annual report, PDF p. 52",
+    "page": 52
+  },
+  {
+    "key": "asset_gain",
+    "label": "Asset gain/loss (PG) / impairment and other (NIKE)",
+    "values": [
+      755,
+      -351
+    ],
+    "source": "FY2026 annual report, PDF p. 52",
+    "page": 52
+  },
+  {
+    "key": "cf_ar",
+    "label": "Cash-flow effect: receivables",
+    "values": [
+      45,
+      84
+    ],
+    "source": "FY2026 annual report, PDF p. 52",
+    "page": 52
+  },
+  {
+    "key": "cf_inventory",
+    "label": "Cash-flow effect: inventory",
+    "values": [
+      -324,
+      -641
+    ],
+    "source": "FY2026 annual report, PDF p. 52",
+    "page": 52
+  },
+  {
+    "key": "cf_ap",
+    "label": "Cash-flow effect: payables",
+    "values": [
+      -542,
+      919
+    ],
+    "source": "FY2026 annual report, PDF p. 52",
+    "page": 52
+  },
+  {
+    "key": "cf_other",
+    "label": "Other operating cash adjustments",
+    "values": [
+      -1653,
+      -333
+    ],
+    "source": "FY2026 annual report, PDF p. 52",
+    "page": 52
+  },
+  {
+    "key": "capex",
+    "label": "Capital expenditure paid",
+    "values": [
+      3773,
+      4409
+    ],
+    "source": "FY2026 annual report, PDF p. 52",
+    "page": 52
+  },
+  {
+    "key": "dividends",
+    "label": "Cash dividends paid",
+    "values": [
+      9872,
+      10232
+    ],
+    "source": "FY2026 annual report, PDF p. 52",
+    "page": 52
+  },
+  {
+    "key": "buybacks",
+    "label": "Cash used for share repurchases",
+    "values": [
+      6500,
+      5028
+    ],
+    "source": "FY2026 annual report, PDF p. 52",
+    "page": 52
+  },
+  {
+    "key": "investing",
+    "label": "Net investing cash flow",
+    "values": [
+      -3818,
+      -4624
+    ],
+    "source": "FY2026 annual report, PDF p. 52",
+    "page": 52
+  },
+  {
+    "key": "financing",
+    "label": "Net financing cash flow",
+    "values": [
+      -14036,
+      -14460
+    ],
+    "source": "FY2026 annual report, PDF p. 52",
+    "page": 52
+  },
+  {
+    "key": "fx",
+    "label": "FX effect on cash",
+    "values": [
+      112,
+      -86
+    ],
+    "source": "FY2026 annual report, PDF p. 52",
+    "page": 52
+  },
+  {
+    "key": "opening_cash",
+    "label": "Opening cash",
+    "values": [
+      9482,
+      9556
+    ],
+    "source": "FY2026 annual report, PDF p. 52",
+    "page": 52
+  },
+  {
+    "key": "cash_change",
+    "label": "Reported cash change",
+    "values": [
+      75,
+      386
+    ],
+    "source": "FY2026 annual report, PDF p. 52",
+    "page": 52
+  },
+  {
+    "key": "volume_pct",
+    "label": "Volume pct",
+    "values": [
+      0,
+      0
+    ],
+    "source": "FY2026 annual report, PDF p. 32; FY2025 slot not used; FY2026 is the disclosed year-on-year driver",
+    "page": 32
+  },
+  {
+    "key": "price_pct",
+    "label": "Price pct",
+    "values": [
+      0,
+      0.01
+    ],
+    "source": "FY2026 annual report, PDF p. 32; FY2025 slot not used; FY2026 is the disclosed year-on-year driver",
+    "page": 32
+  },
+  {
+    "key": "fx_pct",
+    "label": "Fx pct",
+    "values": [
+      0,
+      0.02
+    ],
+    "source": "FY2026 annual report, PDF p. 32; FY2025 slot not used; FY2026 is the disclosed year-on-year driver",
+    "page": 32
+  },
+  {
+    "key": "mix_pct",
+    "label": "Mix pct",
+    "values": [
+      0,
+      0
+    ],
+    "source": "FY2026 annual report, PDF p. 32; FY2025 slot not used; FY2026 is the disclosed year-on-year driver",
+    "page": 32
+  },
+  {
+    "key": "gross_mix_bps",
+    "label": "Gross mix bps",
+    "values": [
+      0,
+      -120
+    ],
+    "source": "FY2026 annual report, PDF p. 32; FY2025 slot not used; FY2026 is the disclosed year-on-year driver",
+    "page": 32
+  },
+  {
+    "key": "gross_invest_bps",
+    "label": "Gross invest bps",
+    "values": [
+      0,
+      -70
+    ],
+    "source": "FY2026 annual report, PDF p. 32; FY2025 slot not used; FY2026 is the disclosed year-on-year driver",
+    "page": 32
+  },
+  {
+    "key": "gross_restruct_bps",
+    "label": "Gross restruct bps",
+    "values": [
+      0,
+      -60
+    ],
+    "source": "FY2026 annual report, PDF p. 32; FY2025 slot not used; FY2026 is the disclosed year-on-year driver",
+    "page": 32
+  },
+  {
+    "key": "gross_tariff_bps",
+    "label": "Gross tariff bps",
+    "values": [
+      0,
+      -30
+    ],
+    "source": "FY2026 annual report, PDF p. 33; FY2025 slot not used; FY2026 is the disclosed year-on-year driver",
+    "page": 33
+  },
+  {
+    "key": "gross_commodity_bps",
+    "label": "Gross commodity bps",
+    "values": [
+      0,
+      -20
+    ],
+    "source": "FY2026 annual report, PDF p. 33; FY2025 slot not used; FY2026 is the disclosed year-on-year driver",
+    "page": 33
+  },
+  {
+    "key": "gross_fx_bps",
+    "label": "Gross fx bps",
+    "values": [
+      0,
+      -10
+    ],
+    "source": "FY2026 annual report, PDF p. 33; FY2025 slot not used; FY2026 is the disclosed year-on-year driver",
+    "page": 33
+  },
+  {
+    "key": "gross_other_bps",
+    "label": "Gross other bps",
+    "values": [
+      0,
+      -10
+    ],
+    "source": "FY2026 annual report, PDF p. 33; FY2025 slot not used; FY2026 is the disclosed year-on-year driver",
+    "page": 33
+  },
+  {
+    "key": "gross_productivity_bps",
+    "label": "Gross productivity bps",
+    "values": [
+      0,
+      180
+    ],
+    "source": "FY2026 annual report, PDF p. 33; FY2025 slot not used; FY2026 is the disclosed year-on-year driver",
+    "page": 33
+  },
+  {
+    "key": "gross_price_bps",
+    "label": "Gross price bps",
+    "values": [
+      0,
+      40
+    ],
+    "source": "FY2026 annual report, PDF p. 33; FY2025 slot not used; FY2026 is the disclosed year-on-year driver",
+    "page": 33
+  },
+  {
+    "key": "opening_ar",
+    "label": "Opening ar",
+    "values": [
+      6118.0,
+      6185
+    ],
+    "source": "FY2024 and FY2025 closing balances; SEC provenance and FY2026 comparative balance sheet",
+    "page": 49
+  },
+  {
+    "key": "opening_inventory",
+    "label": "Opening inventory",
+    "values": [
+      7016.0,
+      7551
+    ],
+    "source": "FY2024 and FY2025 closing balances; SEC provenance and FY2026 comparative balance sheet",
+    "page": 49
+  },
+  {
+    "key": "opening_ap",
+    "label": "Opening ap",
+    "values": [
+      15364.0,
+      15227
+    ],
+    "source": "FY2024 and FY2025 closing balances; SEC provenance and FY2026 comparative balance sheet",
+    "page": 49
+  },
+  {
+    "key": "days",
+    "label": "Days",
+    "values": [
+      365,
+      365
+    ],
+    "source": "Analyst convention: 365 days for annual turnover ratios",
+    "page": 49
+  }
+]

@@ -1,0 +1,101 @@
+Analysis,Metric,FY2025,FY2026,Change
+PG_1_Analysis,Revenue,84284,87032,2748
+PG_1_Analysis,Prior-year revenue,,84284,
+PG_1_Analysis,Revenue growth,,0.03260405296378899,
+PG_1_Analysis,Pricing contribution (rounded),,0.01,
+PG_1_Analysis,FX contribution (rounded),,0.02,
+PG_1_Analysis,Volume contribution,,0,
+PG_1_Analysis,Mix contribution,,0,
+PG_1_Analysis,Sales change from rounded drivers,,2528.52,
+PG_1_Analysis,Rounding / interaction residual,,219.48000000000002,
+PG_2_Analysis,Revenue,84284,87032,2748
+PG_2_Analysis,Cost of sales,41164,43362,2198
+PG_2_Analysis,Gross profit,43120,43670,550
+PG_2_Analysis,Gross margin,0.5116036258364577,0.5017694641051568,-0.9834161731300917
+PG_2_Analysis,Selling and administrative expense,22669,23922,1253
+PG_2_Analysis,Operating profit before other income,20451,19748,-703
+PG_2_Analysis,Operating margin,0.24264391818138675,0.22690504641970768,-1.573887176167907
+PG_2_Analysis,SG&A / revenue,0.26895970765507093,0.274864417685449,0.5904710030378069
+PG_2_Analysis,Advertising expense (rounded),9200,10200,1000
+PG_2_Analysis,Other SG&A (derived),13469,13722,253
+PG_2_Analysis,Profit change: sales contribution,,2748,
+PG_2_Analysis,Profit change: cost-of-sales effect,,-2198,
+PG_2_Analysis,Profit change: SG&A effect,,-1253,
+PG_2_Analysis,Operating profit change,,-703,
+PG_3_Analysis,Operating profit before other income,20451,19748,-703
+PG_3_Analysis,Other non-operating income,154,1076,922
+PG_3_Analysis,Interest income,469,430,-39
+PG_3_Analysis,Interest expense / (interest income),907,877,-30
+PG_3_Analysis,Profit before tax,20167,20377,210
+PG_3_Analysis,Income tax expense,4102,4233,131
+PG_3_Analysis,Effective tax rate,0.20340159666782368,0.20773421013888207,0.43326134710583997
+PG_3_Analysis,Consolidated net income,16065,16144,79
+PG_3_Analysis,Noncontrolling interests,91,98,7
+PG_3_Analysis,Parent net income,15974,16046,72
+PG_3_Analysis,Diluted EPS,6.51,6.62,0.11000000000000032
+PG_3_Analysis,Net-income reconciliation,0,0,0
+PG_4_Analysis,Current assets,25392,26208,816
+PG_4_Analysis,Current liabilities,36058,38694,2636
+PG_4_Analysis,Net current assets / (liabilities),-10666,-12486,-1820
+PG_4_Analysis,Current ratio,0.7041987908369849,0.6773143122964801,-0.026884478540504797
+PG_4_Analysis,Cash and equivalents,9556,9942,386
+PG_4_Analysis,Short-term investments,0,0,0
+PG_4_Analysis,Cash and investments,9556,9942,386
+PG_4_Analysis,Debt due within one year,9513,11296,1783
+PG_4_Analysis,Cash plus investments / current debt,1.004520130347945,0.8801345609065155,
+PG_5_Analysis,Closing accounts receivable,6185,6056,-129
+PG_5_Analysis,Closing inventory,7551,8170,619
+PG_5_Analysis,Closing accounts payable,15227,16306,1079
+PG_5_Analysis,Operating working capital,-1491,-2080,-589
+PG_5_Analysis,Average receivables,6151.5,6120.5,-31
+PG_5_Analysis,Average inventory,7283.5,7860.5,577
+PG_5_Analysis,Average payables,15295.5,15766.5,471
+PG_5_Analysis,Receivable days (proxy),26.639664705044847,25.668518475962863,-0.9711462290819846
+PG_5_Analysis,Inventory days,64.5825842969585,66.16582491582491,1.5832406188664123
+PG_5_Analysis,Payable days (COGS proxy),135.62475706928385,132.71464646464648,-2.9101106046373673
+PG_5_Analysis,Cash conversion cycle (proxy),-44.40250806728049,-40.88030307285871,3.5222049944217844
+PG_6_Analysis,Total assets,125231,126521,1290
+PG_6_Analysis,Total liabilities,72946,72210,-736
+PG_6_Analysis,Total equity including NCI,52284,54311,2027
+PG_6_Analysis,Assets less liabilities and equity,1,0,-1
+PG_6_Analysis,Current debt,9513,11296,1783
+PG_6_Analysis,Long-term debt,24995,22842,-2153
+PG_6_Analysis,Total interest-bearing debt,34508,34138,-370
+PG_6_Analysis,Cash and short-term investments,9556,9942,386
+PG_6_Analysis,Net debt / (net cash),24952,24196,-756
+PG_6_Analysis,Current debt / total debt,0.27567520574939147,0.33089226082371553,5.521705507432406
+PG_6_Analysis,Goodwill and intangible assets,63560,62720,-840
+PG_6_Analysis,Goodwill and intangibles / assets,0.5075420622689271,0.49572798191604556,-1.1814080352881506
+PG_7_Analysis,Consolidated net income,16065,16144,79
+PG_7_Analysis,Depreciation and amortisation,2847,3160,313
+PG_7_Analysis,Share-based compensation,476,524,48
+PG_7_Analysis,Deferred tax adjustment,149,51,-98
+PG_7_Analysis,Asset gains / losses,755,-351,-1106
+PG_7_Analysis,Receivables cash effect,45,84,39
+PG_7_Analysis,Inventory cash effect,-324,-641,-317
+PG_7_Analysis,Payables cash effect,-542,919,1461
+PG_7_Analysis,Other operating adjustments,-1653,-333,1320
+PG_7_Analysis,Sum of disclosed components,17818,19557,1739
+PG_7_Analysis,Reported operating cash flow,17817,19556,1739
+PG_7_Analysis,Reported less component sum,-1,-1,0
+PG_7_Analysis,CFO / consolidated net income,1.1090569561157797,1.2113478691774033,10.229091306162363
+PG_8_Analysis,Operating cash flow,17817,19556,1739
+PG_8_Analysis,Capital expenditure paid,3773,4409,636
+PG_8_Analysis,Free cash flow (CFO less capex),14044,15147,1103
+PG_8_Analysis,Free cash flow / revenue,0.16662711783968487,0.17403943377148634,0.7412315931801472
+PG_8_Analysis,Cash dividends paid,9872,10232,360
+PG_8_Analysis,Cash used for share repurchases,6500,5028,-1472
+PG_8_Analysis,Total shareholder cash returns,16372,15260,-1112
+PG_8_Analysis,FCF after dividends,4172,4915,743
+PG_8_Analysis,FCF after dividends and buybacks,-2328,-113,2215
+PG_8_Analysis,Shareholder returns / FCF,1.165764739390487,1.0074602231464977,-15.830451624398933
+PG_8_Analysis,Capex / depreciation,1.3252546540217773,1.3952531645569621,0.0699985105351848
+PG_9_Analysis,Opening cash,9482,9556,74
+PG_9_Analysis,Operating cash flow,17817,19556,1739
+PG_9_Analysis,Investing cash flow,-3818,-4624,-806
+PG_9_Analysis,Financing cash flow,-14036,-14460,-424
+PG_9_Analysis,FX effect on cash,112,-86,-198
+PG_9_Analysis,Calculated cash change,75,386,311
+PG_9_Analysis,Calculated closing cash,9557,9942,385
+PG_9_Analysis,Reported closing cash,9556,9942,386
+PG_9_Analysis,Closing cash reconciliation,1,0,-1

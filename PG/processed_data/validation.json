@@ -1,0 +1,17 @@
+{
+  "source_comparison": "FY2025 and FY2026 figures checked against original annual-report statement pages",
+  "formula_errors": [],
+  "native_excel_vs_calculation_mismatches": [],
+  "source_input_recalculation_test": "Revenue +100 increased operating profit by 100; original input restored",
+  "balance_sheet_difference_millions": [
+    1,
+    0
+  ],
+  "cash_rollforward_difference_millions": [
+    1,
+    0
+  ],
+  "native_worksheet_screenshots": 9,
+  "rounding_policy": "Retain reported P&G differences of 1m; NIKE controls reconcile exactly",
+  "status": "PASS"
+}

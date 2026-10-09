@@ -1,0 +1,108 @@
+Analysis,Metric,FY2025,FY2026,Change
+NKE_1_Analysis,NIKE Brand wholesale,25883,27453,1570
+NKE_1_Analysis,NIKE Direct,18783,17720,-1063
+NKE_1_Analysis,Global Brand Divisions,48,49,1
+NKE_1_Analysis,Converse,1692,1174,-518
+NKE_1_Analysis,Corporate,-97,2,99
+NKE_1_Analysis,Total revenue,46309,46398,89
+NKE_1_Analysis,Revenue reconciliation,0,0,0
+NKE_1_Analysis,Revenue growth,,0.0019218726381480256,
+NKE_1_Analysis,Currency-neutral growth,,-0.02,
+NKE_2_Analysis,Revenue,46309,46398,89
+NKE_2_Analysis,Cost of sales,26519,26487,-32
+NKE_2_Analysis,Gross profit,19790,19911,121
+NKE_2_Analysis,Gross margin,0.42734673605562634,0.42913487650329757,0.1788140447671227
+NKE_2_Analysis,Selling and administrative expense,16088,16114,26
+NKE_2_Analysis,Operating profit before other income,3702,3797,95
+NKE_2_Analysis,Operating margin,0.07994126411712627,0.0818354239406871,0.1894159823560837
+NKE_2_Analysis,SG&A / revenue,0.3474054719385001,0.34729945256261047,-0.010601937588960997
+NKE_2_Analysis,Demand creation expense,4689,4754,65
+NKE_2_Analysis,Other SG&A (derived),11399,11360,-39
+NKE_2_Analysis,Profit change: sales contribution,,89,
+NKE_2_Analysis,Profit change: cost-of-sales effect,,32,
+NKE_2_Analysis,Profit change: SG&A effect,,-26,
+NKE_2_Analysis,Operating profit change,,95,
+NKE_3_Analysis,Operating profit before other income,3702,3797,95
+NKE_3_Analysis,Other non-operating income,76,53,-23
+NKE_3_Analysis,Interest income,0,0,0
+NKE_3_Analysis,Interest expense / (interest income),-107,-50,57
+NKE_3_Analysis,Profit before tax,3885,3900,15
+NKE_3_Analysis,Income tax expense,666,792,126
+NKE_3_Analysis,Effective tax rate,0.17142857142857143,0.20307692307692307,3.1648351648351642
+NKE_3_Analysis,Consolidated net income,3219,3108,-111
+NKE_3_Analysis,Noncontrolling interests,0,0,0
+NKE_3_Analysis,Parent net income,3219,3108,-111
+NKE_3_Analysis,Diluted EPS,2.16,2.1,-0.06000000000000005
+NKE_3_Analysis,Net-income reconciliation,0,0,0
+NKE_3_Analysis,NIKE-defined EBIT,3778,3850,72
+NKE_3_Analysis,Tariff recovery benefit,0,986,986
+NKE_3_Analysis,Operating profit excluding recovery only,,2811,
+NKE_4_Analysis,Current assets,23362,24603,1241
+NKE_4_Analysis,Current liabilities,10566,12547,1981
+NKE_4_Analysis,Net current assets / (liabilities),12796,12056,-740
+NKE_4_Analysis,Current ratio,2.2110543251940187,1.9608671395552721,-0.25018718563874653
+NKE_4_Analysis,Cash and equivalents,7464,7563,99
+NKE_4_Analysis,Short-term investments,1687,1464,-223
+NKE_4_Analysis,Cash and investments,9151,9027,-124
+NKE_4_Analysis,Debt due within one year,0,2000,2000
+NKE_4_Analysis,Cash plus investments / current debt,,4.5135,
+NKE_5_Analysis,Closing accounts receivable,4717,5931,1214
+NKE_5_Analysis,Closing inventory,7489,7501,12
+NKE_5_Analysis,Closing accounts payable,3479,3600,121
+NKE_5_Analysis,Operating working capital,8727,9832,1105
+NKE_5_Analysis,Average receivables,4572,5324,752
+NKE_5_Analysis,Average inventory,7504,7495,-9
+NKE_5_Analysis,Average payables,3165,3539.5,374.5
+NKE_5_Analysis,Receivable days (proxy),36.03575978751431,41.882408724513986,5.846648936999678
+NKE_5_Analysis,Inventory days,103.28292922055886,103.28368633669348,0.0007571161346220379
+NKE_5_Analysis,Payable days (COGS proxy),43.562162977487844,48.77553139275871,5.213368415270864
+NKE_5_Analysis,Cash conversion cycle (proxy),95.75652603058532,96.39056366844876,0.6340376378634431
+NKE_5_Analysis,Tariff receivable included in closing AR,0,684,684
+NKE_5_Analysis,Closing AR excluding tariff receivable,4717,5247,530
+NKE_5_Analysis,AR days excluding closing tariff effect,36.03575978751431,39.1919910340963,3.1562312465819886
+NKE_6_Analysis,Total assets,36579,38410,1831
+NKE_6_Analysis,Total liabilities,23366,23545,179
+NKE_6_Analysis,Total equity including NCI,13213,14865,1652
+NKE_6_Analysis,Assets less liabilities and equity,0,0,0
+NKE_6_Analysis,Current debt,0,2000,2000
+NKE_6_Analysis,Long-term debt,7961,5942,-2019
+NKE_6_Analysis,Total interest-bearing debt,7961,7942,-19
+NKE_6_Analysis,Cash and short-term investments,9151,9027,-124
+NKE_6_Analysis,Net debt / (net cash),-1190,-1085,105
+NKE_6_Analysis,Current debt / total debt,0,0.2518257365902795,25.182573659027952
+NKE_6_Analysis,Goodwill and intangible assets,499,499,0
+NKE_6_Analysis,Goodwill and intangibles / assets,0.013641706990349655,0.01299140848737308,-0.06502985029765741
+NKE_7_Analysis,Consolidated net income,3219,3108,-111
+NKE_7_Analysis,Depreciation and amortisation,775,747,-28
+NKE_7_Analysis,Share-based compensation,709,715,6
+NKE_7_Analysis,Deferred tax adjustment,-288,-96,192
+NKE_7_Analysis,Impairment and other,33,50,17
+NKE_7_Analysis,Noncash FX adjustment,37,22,-15
+NKE_7_Analysis,Receivables cash effect,-257,-1207,-950
+NKE_7_Analysis,Inventory cash effect,120,-31,-151
+NKE_7_Analysis,Other assets cash effect,-224,519,743
+NKE_7_Analysis,Payables and other liabilities cash effect,-426,-959,-533
+NKE_7_Analysis,Sum of disclosed components,3698,2868,-830
+NKE_7_Analysis,Reported operating cash flow,3698,2868,-830
+NKE_7_Analysis,Reported less component sum,0,0,0
+NKE_7_Analysis,CFO / consolidated net income,1.1488039763901834,0.9227799227799228,-22.602405361026058
+NKE_8_Analysis,Operating cash flow,3698,2868,-830
+NKE_8_Analysis,Capital expenditure paid,430,684,254
+NKE_8_Analysis,Free cash flow (CFO less capex),3268,2184,-1084
+NKE_8_Analysis,Free cash flow / revenue,0.07056943574683107,0.047070994439415495,-2.349844130741557
+NKE_8_Analysis,Cash dividends paid,2300,2407,107
+NKE_8_Analysis,Cash used for share repurchases,2985,146,-2839
+NKE_8_Analysis,Total shareholder cash returns,5285,2553,-2732
+NKE_8_Analysis,FCF after dividends,968,-223,-1191
+NKE_8_Analysis,FCF after dividends and buybacks,-2017,-369,1648
+NKE_8_Analysis,Shareholder returns / FCF,1.6171970624235006,1.168956043956044,-44.824101846745656
+NKE_8_Analysis,Capex / depreciation,0.5548387096774193,0.9156626506024096,0.36082394092499026
+NKE_9_Analysis,Opening cash,9860,7464,-2396
+NKE_9_Analysis,Operating cash flow,3698,2868,-830
+NKE_9_Analysis,Investing cash flow,-275,-488,-213
+NKE_9_Analysis,Financing cash flow,-5820,-2292,3528
+NKE_9_Analysis,FX effect on cash,1,11,10
+NKE_9_Analysis,Calculated cash change,-2396,99,2495
+NKE_9_Analysis,Calculated closing cash,7464,7563,99
+NKE_9_Analysis,Reported closing cash,7464,7563,99
+NKE_9_Analysis,Closing cash reconciliation,0,0,0

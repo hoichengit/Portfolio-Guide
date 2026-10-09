@@ -1,0 +1,167 @@
+{
+  "Source_1": {
+    "pdf_page": 49,
+    "crop_top": 35,
+    "crop_bottom": 137,
+    "highlighted": [
+      "87,032",
+      "84,284"
+    ],
+    "original_columns": "FY2026, FY2025, FY2024 where shown; balance sheet FY2026, FY2025"
+  },
+  "Source_2": {
+    "pdf_page": 49,
+    "crop_top": 35,
+    "crop_bottom": 181.95999999999992,
+    "highlighted": [
+      "87,032",
+      "43,362",
+      "23,922",
+      "19,748",
+      "20,451"
+    ],
+    "original_columns": "FY2026, FY2025, FY2024 where shown; balance sheet FY2026, FY2025"
+  },
+  "Source_3": {
+    "pdf_page": 49,
+    "crop_top": 35,
+    "crop_bottom": 304,
+    "highlighted": [
+      "19,748",
+      "20,451",
+      "1,076",
+      "154",
+      "20,377",
+      "4,233",
+      "16,144",
+      "16,046"
+    ],
+    "original_columns": "FY2026, FY2025, FY2024 where shown; balance sheet FY2026, FY2025"
+  },
+  "Source_4": {
+    "pdf_page": 50,
+    "crop_top": 35,
+    "crop_bottom": 437.03000000000003,
+    "highlighted": [
+      "9,942",
+      "26,208",
+      "25,392",
+      "11,296",
+      "38,694",
+      "36,058"
+    ],
+    "original_columns": "FY2026, FY2025, FY2024 where shown; balance sheet FY2026, FY2025"
+  },
+  "Source_5": {
+    "pdf_page": 50,
+    "crop_top": 35,
+    "crop_bottom": 391,
+    "highlighted": [
+      "6,056",
+      "6,185",
+      "8,170",
+      "7,551",
+      "16,306",
+      "15,227"
+    ],
+    "original_columns": "FY2026, FY2025, FY2024 where shown; balance sheet FY2026, FY2025"
+  },
+  "Source_6": {
+    "pdf_page": 50,
+    "crop_top": 225.99,
+    "crop_bottom": 684,
+    "highlighted": [
+      "41,276",
+      "21,444",
+      "126,521",
+      "11,296",
+      "22,842",
+      "72,210",
+      "54,311",
+      "126,521"
+    ],
+    "original_columns": "FY2026, FY2025, FY2024 where shown; balance sheet FY2026, FY2025"
+  },
+  "Source_7": {
+    "pdf_page": 52,
+    "crop_top": 35,
+    "crop_bottom": 287.15200000000004,
+    "highlighted": [
+      "16,144",
+      "84",
+      "(641)",
+      "919",
+      "(333)",
+      "19,556",
+      "17,817"
+    ],
+    "original_columns": "FY2026, FY2025, FY2024 where shown; balance sheet FY2026, FY2025"
+  },
+  "Source_8": {
+    "pdf_page": 52,
+    "crop_top": 240.99,
+    "crop_bottom": 495,
+    "highlighted": [
+      "19,556",
+      "(4,409)",
+      "(10,232)",
+      "(5,028)"
+    ],
+    "original_columns": "FY2026, FY2025, FY2024 where shown; balance sheet FY2026, FY2025"
+  },
+  "Source_9": {
+    "pdf_page": 52,
+    "crop_top": 240.99,
+    "crop_bottom": 575,
+    "highlighted": [
+      "19,556",
+      "(4,624)",
+      "(14,460)",
+      "(86)",
+      "386",
+      "9,942"
+    ],
+    "original_columns": "FY2026, FY2025, FY2024 where shown; balance sheet FY2026, FY2025"
+  },
+  "Revenue_drivers": {
+    "pdf_page": 32,
+    "crop_top": 470,
+    "crop_bottom": 582.0799999999999,
+    "highlighted": [
+      "3%",
+      "2%",
+      "1%.",
+      "unchanged",
+      "1%."
+    ],
+    "original_columns": "FY2026, FY2025, FY2024 where shown; balance sheet FY2026, FY2025"
+  },
+  "Margin_drivers": {
+    "pdf_page": 33,
+    "crop_top": 22.12948300000005,
+    "crop_bottom": 269.98,
+    "highlighted": [
+      "180",
+      "40",
+      "6%",
+      "80",
+      "160",
+      "160"
+    ],
+    "original_columns": "FY2026, FY2025, FY2024 where shown; balance sheet FY2026, FY2025"
+  },
+  "Working_capital_drivers": {
+    "pdf_page": 37,
+    "crop_top": 408,
+    "crop_bottom": 603.36,
+    "highlighted": [
+      "$641",
+      "safety",
+      "stock",
+      "$919",
+      "marketing",
+      "marketing"
+    ],
+    "original_columns": "FY2026, FY2025, FY2024 where shown; balance sheet FY2026, FY2025"
+  }
+}
