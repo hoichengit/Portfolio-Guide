@@ -6,6 +6,7 @@ Welcome to my financial portfolio. Explore my dashboards, financial analyses and
 
 - [Financial Dashboard Project](#financial-dashboard-project)
 - [Budget vs Actual Analysis Project](#budget-vs-actual-analysis-project)
+- [P&L Analysis](#p-and-l-analysis)
 - [Stock Valuation Project](#stock-valuation-project)
 - [SQL & Financial Data Analysis Project](#sql-financial-data-analysis-project)
 
@@ -36,6 +37,17 @@ Explore budget control, revenue differences and business performance. Each proje
 | 💻[IT Finance](https://github.com/hoichengit/Portfolio-Guide/tree/codex/it-spend) | Cost Control & Forecast Review | An IT finance case tracing a $14.24M overspend to cost drivers. Reconcile the source model, compare estimates and test cost actions in a rolling outlook. | [Source Data](https://github.com/hoichengit/Portfolio-Guide/blob/codex/it-spend/raw_data/README.md) / [Analysis Outputs](https://github.com/hoichengit/Portfolio-Guide/blob/codex/it-spend/processed_data/README.md) |
 | 📈[Commercial Finance](https://github.com/hoichengit/Portfolio-Guide/tree/codex/commercial-finance) | Growth, Margin & FP&A | A commercial finance case connecting revenue growth with profitability and planning. Analyse product economics, test discount policies and extend the work into forecasts, cash and close exercises. | [Source Data](https://github.com/hoichengit/Portfolio-Guide/blob/codex/commercial-finance/raw_data/README.md) /  [Analysis Outputs](https://github.com/hoichengit/Portfolio-Guide/blob/codex/commercial-finance/processed_data/README.md) |
 | 🏪[Global Electronics](https://github.com/hoichengit/Portfolio-Guide/tree/codex/global-electronics) | Retail Performance | A retail finance case diagnosing the 2020 sales decline. Reconcile the multi-table dataset, separate order and basket effects, and assess stores, repeat purchasing and delivery. | [Source Data](https://github.com/hoichengit/Portfolio-Guide/blob/codex/global-electronics/raw_data/README.md) /  [Analysis Outputs](https://github.com/hoichengit/Portfolio-Guide/blob/codex/global-electronics/processed_data/README.md) |
+
+<a id="p-and-l-analysis"></a>
+
+## P&L Analysis
+
+Review actual financial performance across the income statement, balance sheet and cash-flow statement. Each company has nine questions with original-report and Excel screenshot evidence.
+
+| Project | Description and tasks | Outputs |
+|---|---|---|
+| [🧴 P&G Three-Statement Analysis](https://github.com/hoichengit/Portfolio-Guide/blob/codex/pnl-analysis/PG/README.md) | Explain why sales growth did not produce higher operating profit. Analyse margins, earnings quality, working capital, funding and cash allocation. | [Original data](https://github.com/hoichengit/Portfolio-Guide/blob/codex/pnl-analysis/PG/raw_data/README.md) / [Analysis outputs](https://github.com/hoichengit/Portfolio-Guide/blob/codex/pnl-analysis/PG/processed_data/README.md) |
+| [👟 NIKE Three-Statement Analysis](https://github.com/hoichengit/Portfolio-Guide/blob/codex/pnl-analysis/NKE/README.md) | Explain why stable sales did not translate into stronger operating cash flow. Reconcile channel growth, tariff recovery, receivables, investment and shareholder returns. | [Original data](https://github.com/hoichengit/Portfolio-Guide/blob/codex/pnl-analysis/NKE/raw_data/README.md) / [Analysis outputs](https://github.com/hoichengit/Portfolio-Guide/blob/codex/pnl-analysis/NKE/processed_data/README.md) |
 
 <a id="stock-valuation-project"></a>
 
