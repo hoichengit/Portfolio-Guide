@@ -1,0 +1,261 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>P&amp;G Forecast Review | Hoi Chen</title><meta name="description" content="Match dated market data to company results, test historical forecasts and compare simulated ranges with actual outcomes."><link rel="stylesheet" href="../style.css"><link rel="stylesheet" href="../details.css"><link rel="icon" href="../favicon.svg"></head><body><a class="skip" href="#main">Skip to content</a><header><nav class="wrap" aria-label="Project navigation"><a class="brand" href="../index.html">HC<span>HOI CHEN</span></a><div class="navlinks"><a href="../index.html#projects">All projects</a><a href="#analysis">Analysis</a><a href="#downloads">Excel files</a></div></nav></header><main id="main" class="detail-wrap"><section class="detail-hero"><p class="eyebrow">Financial Research · Excel &amp; Python · INDEPENDENT PROJECT</p><h1>P&amp;G Forecast Review</h1><p class="detail-question">Does a more complex forecast actually help?</p><p class="intro">Match dated market data to company results, test historical forecasts and compare simulated ranges with actual outcomes.</p><div class="resource-buttons"><a class="button" href="https://github.com/hoichengit/Portfolio-Guide/raw/refs/heads/codex/pg-external-analysis/outputs/jan_mar_replay/PG_12_Jan_Mar_Replay.xlsx" download>Download Excel</a></div></section><div class="detail-summary"><section><h2>What I worked with</h2><div class="prose"><p>Public company releases and dated market data, used in a historical forecast reconstruction.</p>
+</div></section><section><h2>What I did</h2><ul><li>Matched market releases to historical information cutoffs.</li><li>Compared forecasts with actual results and simple benchmarks.</li><li>Tested simulation ranges and future-information leakage.</li></ul></section></div><section class="headline-result"><p class="eyebrow">PROJECT HIGHLIGHT</p><strong>Test, then challenge</strong><p>Includes unsuccessful forecasts and model limitations</p><span>Backtesting · Monte Carlo · Information cutoffs</span></section><section id="analysis" class="detail-section"><p class="eyebrow">ANALYSIS & RESULTS</p><h2>What I found</h2><p>Choose a question. The answer comes first; expand the evidence to check the source and calculations.</p><details class="question-index" id="analysis-questions" open><summary>Analysis questions</summary><ol><li><a href="#analysis-1">Forecast methods, results and limitations</a></li></ol></details><section class="analysis-item" id="analysis-1"><h3>Forecast methods, results and limitations</h3><div class="prose"><p><strong>Can public market data help us forecast P&amp;G before its earnings release?</strong></p>
+<p>I built forecasts, compared them with later results, and checked whether the model had used information that was not available at the time.</p>
+<p><strong>The result: the model is not reliable enough yet. Keeping the misses visible is part of the analysis.</strong></p>
+<p><a href="https://github.com/hoichengit/Portfolio-Guide/raw/refs/heads/codex/pg-external-analysis/outputs/jan_mar_replay/PG_12_Jan_Mar_Replay.xlsx">📥 Open Excel</a> · 🔎 Full analysis · 🏠 Project home</p>
+<h2>🎯 The goal</h2>
+<ul>
+<li>Forecast January–March 2026 using earlier public information.</li>
+<li>Compare the forecasts with P&amp;G&#39;s actual results.</li>
+<li>Test whether a more complex method beats a simple average.</li>
+<li>Check whether the simulated risk ranges were useful.</li>
+</ul>
+<h2>🧠 What to know first</h2>
+<ul>
+<li><strong>Forecast:</strong> our estimate of a result that has not been reported yet.</li>
+<li><strong>Actual:</strong> the result P&amp;G later reported.</li>
+<li><strong>Error:</strong> the gap between the two. Smaller is better.</li>
+<li><strong>Percentage point (pp):</strong> predicting 3% when actual growth is 5% means a 2pp error.</li>
+</ul>
+<p>These are six segment growth and pricing measures. They are not six separate company revenue forecasts, and they must not be added together.</p>
+<h2>🛠️ Step 1: use only information available at the time</h2>
+<table>
+<thead>
+<tr>
+<th>Date in 2026</th>
+<th>What happens in the reconstruction?</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><strong>22 January</strong></td>
+<td>Use the October–December report and available market data to make the initial forecast.</td>
+</tr>
+<tr>
+<td><strong>23 April</strong></td>
+<td>Update the estimate with information available before the next earnings release.</td>
+</tr>
+<tr>
+<td><strong>24 April</strong></td>
+<td>Read the January–March results and measure the errors.</td>
+</tr>
+</tbody></table>
+<p>The April update happens after the quarter ends, but before P&amp;G reports it. It has more information than the January forecast.</p>
+<details>
+<summary>🔎 Which market data could we see?</summary>
+
+<table>
+<thead>
+<tr>
+<th>Market measure</th>
+<th>Available on 22 January</th>
+<th>Available on 23 April</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>US real nondurable consumption</td>
+<td>Through November 2025</td>
+<td>Through February 2026</td>
+</tr>
+<tr>
+<td>Health and personal-care retail sales</td>
+<td>Through November 2025</td>
+<td>Through March 2026</td>
+</tr>
+<tr>
+<td>Personal-care prices</td>
+<td>Through December 2025</td>
+<td>Through March 2026</td>
+</tr>
+</tbody></table>
+<p>Missing months were estimated using recent year-on-year growth and the corresponding prior-year monthly level. Missing values were not treated as known results.</p>
+<p><a href="https://github.com/hoichengit/Portfolio-Guide/raw/refs/heads/codex/pg-external-analysis/data/jan_mar_replay/release_inputs.csv">Check the dated input files</a>.</p>
+</details>
+
+<h2>📊 Step 2: compare the forecasts with actuals</h2>
+<p><strong>The April update was less accurate than the January forecast.</strong></p>
+<table>
+<thead>
+<tr>
+<th>Method</th>
+<th align="right">Average absolute error</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Our January forecast</td>
+<td align="right"><strong>2.50pp</strong></td>
+</tr>
+<tr>
+<td>Our April update</td>
+<td align="right"><strong>2.85pp</strong></td>
+</tr>
+<tr>
+<td>Repeat the last reported result</td>
+<td align="right">2.83pp</td>
+</tr>
+<tr>
+<td>Average the last four reported quarters</td>
+<td align="right">2.63pp</td>
+</tr>
+</tbody></table>
+<p>For example, we predicted <strong>−1.75%</strong> volume growth for Baby, Feminine &amp; Family Care. Actual growth was <strong>+3%</strong>. We missed by <strong>4.75pp</strong>.</p>
+<p><img src="https://raw.githubusercontent.com/hoichengit/Portfolio-Guide/codex/pg-external-analysis/outputs/jan_mar_replay/comparison.png" alt="January and April forecasts compared with actuals"></p>
+<details>
+<summary>🔎 See all six results</summary>
+
+<table>
+<thead>
+<tr>
+<th>Measure</th>
+<th align="right">January forecast</th>
+<th align="right">April update</th>
+<th align="right">Actual</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Baby / Feminine / Family organic volume</td>
+<td align="right">−1.75%</td>
+<td align="right">−1.75%</td>
+<td align="right">3%</td>
+</tr>
+<tr>
+<td>Beauty organic sales</td>
+<td align="right">3.72%</td>
+<td align="right">2.76%</td>
+<td align="right">7%</td>
+</tr>
+<tr>
+<td>Beauty organic volume</td>
+<td align="right">3.00%</td>
+<td align="right">3.00%</td>
+<td align="right">5%</td>
+</tr>
+<tr>
+<td>Beauty pricing contribution</td>
+<td align="right">2.00pp</td>
+<td align="right">4.06pp</td>
+<td align="right">1pp</td>
+</tr>
+<tr>
+<td>Fabric &amp; Home organic volume</td>
+<td align="right">−1.00%</td>
+<td align="right">−1.00%</td>
+<td align="right">2%</td>
+</tr>
+<tr>
+<td>Health Care pricing contribution</td>
+<td align="right">1.00pp</td>
+<td align="right">1.94pp</td>
+<td align="right">2pp</td>
+</tr>
+</tbody></table>
+<p>The model missed the volume rebound. The company later discussed innovation-led Beauty growth and Family Care&#39;s comparison with prior-year retailer destocking. Broad US indicators do not capture all company-specific and international effects.</p>
+<p>These later explanations help us investigate the misses. They were not inputs to the forecasts, and they do not provide an exact numerical split of each error.</p>
+<p><a href="https://www.pginvestor.com/news/news-details/2026/PG-Announces-Fiscal-Year-2026-Third-Quarter-Results/default.aspx">Read the original company release</a>.</p>
+</details>
+
+<details>
+<summary>📸 Check the original report against the workbook</summary>
+
+<p><strong>1. Original report:</strong> red boxes show Beauty organic sales of 7% and Baby/Feminine/Family organic volume of 3%.</p>
+<p><img src="https://raw.githubusercontent.com/hoichengit/Portfolio-Guide/codex/pg-external-analysis/outputs/jan_mar_replay/source_actuals.png" alt="Original P&amp;G report with key actuals boxed in red"></p>
+<p><a href="https://raw.githubusercontent.com/hoichengit/Portfolio-Guide/codex/pg-external-analysis/raw_data/PG_2026_Q3_Release.pdf">Open the original PDF</a>.</p>
+<p><strong>2. Workbook:</strong> the same actuals and their forecast errors are highlighted in the first two rows. Parentheses mean negative numbers.</p>
+<p><img src="https://raw.githubusercontent.com/hoichengit/Portfolio-Guide/codex/pg-external-analysis/outputs/jan_mar_replay/Review_crop.png" alt="Exported workbook comparison with key values highlighted"></p>
+<p>This image is a rendered view of the exported workbook. It is not a native Excel screenshot.</p>
+<p><a href="https://github.com/hoichengit/Portfolio-Guide/raw/refs/heads/codex/pg-external-analysis/outputs/jan_mar_replay/PG_12_Jan_Mar_Replay.xlsx">Open the Excel workbook</a> · <a href="https://github.com/hoichengit/Portfolio-Guide/raw/refs/heads/codex/pg-external-analysis/data/jan_mar_replay/comparison.csv">Check exact figures</a>.</p>
+</details>
+
+<h2>🎲 Step 3: test the risk ranges</h2>
+<p><strong>Monte Carlo simulated 100,000 possible outcomes around each forecast, using earlier forecast errors to set the spread.</strong></p>
+<p>The updated model&#39;s <strong>80% ranges contained only 1 of the 6 actual results</strong>.</p>
+<p>That is a poor result. Running more simulations would not fix a forecast that starts in the wrong place.</p>
+<details>
+<summary>🔎 What does “80% range” mean?</summary>
+
+<p>It is the middle 80% of the model&#39;s simulated outcomes. It does not guarantee that actual results will fall inside it 80% of the time.</p>
+<ul>
+<li>The initial ranges covered <strong>2 of 6</strong> actual outcomes.</li>
+<li>The updated ranges covered <strong>1 of 6</strong>.</li>
+<li>Earlier rolling tests covered <strong>14 of 18</strong> initial outcomes and <strong>12 of 16</strong> updated outcomes.</li>
+<li>Those samples are small, and several measures overlap. They do not prove stable accuracy.</li>
+</ul>
+<p><img src="https://raw.githubusercontent.com/hoichengit/Portfolio-Guide/codex/pg-external-analysis/outputs/jan_mar_replay/Simulation.png" alt="Simulation ranges from the workbook"></p>
+<p>The simulation uses a Student-t distribution, a minimum scale of 1pp, and partially reduced historical correlations. These are assumptions. The full report explains them and links to the calculations.</p>
+<p>Read the simulation method and results.</p>
+</details>
+
+<h2>🔍 Step 4: check for future information</h2>
+<p><strong>The calculations exclude later information. The model design still benefits from hindsight.</strong></p>
+<ul>
+<li><strong>Input check:</strong> use only company results and historical market versions available by each cutoff.</li>
+<li><strong>Future-data check:</strong> replacing future company results with extreme values did not change the forecasts. Adding a later market version also did not change them.</li>
+<li><strong>Design limitation:</strong> the methods and six measures were chosen after we had already seen historical outcomes.</li>
+</ul>
+<p>This is a <strong>historical reconstruction</strong>. It is not proof that we could have designed the same model before the results were known.</p>
+<details>
+<summary>🔎 What else limits the conclusion?</summary>
+
+<ul>
+<li>The previous release date was corrected from <strong>23 January to 22 January 2026</strong>.</li>
+<li>Some historical price data were missing. The initial evaluation has 42 errors; the update has 40. Missing tests are not counted as zero errors.</li>
+<li>Historical company restatement versions have not been fully audited.</li>
+<li>The two forecast dates use historical tests at different forecast horizons. Their difference reflects both new data and different method-selection evidence.</li>
+<li>The six measures do not form a complete revenue, profit or cash-flow model.</li>
+</ul>
+<p>Read the complete timing audit · <a href="https://github.com/hoichengit/Portfolio-Guide/raw/refs/heads/codex/pg-external-analysis/data/jan_mar_replay/validation.json">Open the checks</a>.</p>
+</details>
+
+<h2>💡 What I learned</h2>
+<p><strong>More data and more complex models do not automatically produce better forecasts.</strong></p>
+<ul>
+<li>Keep simple benchmarks in every comparison.</li>
+<li>Show failed forecasts as clearly as successful ones.</li>
+<li>Separate facts available at the time from later explanations.</li>
+<li>Test probability ranges against actual outcomes.</li>
+</ul>
+<p>The April–June redesign had reduced error to 0.58pp, almost the same as the four-quarter average. This January–March exercise shows why one good quarter was not enough to establish reliability.</p>
+<h2>🧰 Skills shown</h2>
+<table>
+<thead>
+<tr>
+<th>Skill</th>
+<th>What this project demonstrates</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Financial analysis</td>
+<td>Compare matching growth and pricing measures with actual results.</td>
+</tr>
+<tr>
+<td>Excel</td>
+<td>Present forecasts, calculate errors and link figures to their sources.</td>
+</tr>
+<tr>
+<td>Python</td>
+<td>Reproduce dated forecasts, method selection and simulation.</td>
+</tr>
+<tr>
+<td>Research and QA</td>
+<td>Check publication dates and test whether future data affect predictions.</td>
+</tr>
+<tr>
+<td>Business communication</td>
+<td>Explain misses, benchmarks and limitations in plain English.</td>
+</tr>
+</tbody></table>
+<h2>🔗 Want to go deeper?</h2>
+<ul>
+<li>Full January–March analysis and evidence</li>
+<li><a href="https://github.com/hoichengit/Portfolio-Guide/raw/refs/heads/codex/pg-external-analysis/outputs/jan_mar_replay/PG_12_Jan_Mar_Replay.xlsx">Excel workbook</a></li>
+<li>Data and rerun instructions</li>
+<li>Earlier April–June forecast improvement</li>
+<li>All project sections</li>
+</ul>
+<p><strong>Next tests:</strong> hold the January method fixed when updating market data; investigate the largest misses; save a future forecast before its results are released. These are proposed next steps, not completed work.</p>
+<details>
+<summary>Writing reference</summary>
+
+<p>The short sections, goal-first opening and deeper-reading links were inspired by <a href="https://github.com/orgs/community/discussions/168000">GitHub Community: Create your GitHub Profile</a>. The financial analysis and results belong to this project.</p>
+</details>
+
+</div></section></section><section id="downloads" class="detail-section"><p class="eyebrow">TAKE A CLOSER LOOK</p><h2>Download the Excel analysis</h2><p>Download the existing project workbook with its calculations and supporting analysis.</p><ul class="download-list"><li><a href="https://github.com/hoichengit/Portfolio-Guide/raw/refs/heads/codex/pg-external-analysis/outputs/jan_mar_replay/PG_12_Jan_Mar_Replay.xlsx" download>PG 12 Jan Mar Replay.xlsx</a><span>XLSX</span></li></ul></section><section class="detail-section end-links"><a class="button" href="../index.html#projects">Explore other projects</a><a href="mailto:jessechen0228@outlook.com">Contact Hoi</a></section></main><footer class="wrap"><span>HOI CHEN · FINANCE & DATA</span><a href="../index.html">Portfolio home</a></footer></body></html>

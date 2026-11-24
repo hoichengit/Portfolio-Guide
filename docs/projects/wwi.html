@@ -1,0 +1,320 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>WideWorldImporters | Hoi Chen</title><meta name="description" content="Reconcile invoices to the ledger, analyse customer and product profit, and examine receivables, payables and inventory."><link rel="stylesheet" href="../style.css"><link rel="stylesheet" href="../details.css"><link rel="icon" href="../favicon.svg"></head><body><a class="skip" href="#main">Skip to content</a><header><nav class="wrap" aria-label="Project navigation"><a class="brand" href="../index.html">HC<span>HOI CHEN</span></a><div class="navlinks"><a href="../index.html#projects">All projects</a><a href="#analysis">Analysis</a><a href="#downloads">Excel files</a><a href="#dashboard">Dashboard</a></div></nav></header><main id="main" class="detail-wrap"><section class="detail-hero"><p class="eyebrow">SQL &amp; Financial Data Analysis · INDEPENDENT PROJECT</p><h1>WideWorldImporters</h1><p class="detail-question">Do sales, profit and cash tell the same story?</p><p class="intro">Reconcile invoices to the ledger, analyse customer and product profit, and examine receivables, payables and inventory.</p><div class="resource-buttons"><a class="button" href="https://github.com/hoichengit/Portfolio-Guide/raw/refs/heads/codex/wwi-financial-analysis/processed_data/WWI_Financial_Analysis.xlsx" download>Download Excel</a><a class="button secondary" href="#dashboard">View dashboard</a></div></section><div class="detail-summary"><section><h2>What I worked with</h2><div class="prose"><p>Microsoft WideWorldImporters sample database: invoices, customer and supplier transactions, and stock records.</p>
+</div></section><section><h2>What I did</h2><ul><li>Reconciled invoice lines with the customer ledger.</li><li>Used SQL to analyse sales, margins and working capital.</li><li>Built repeatable result files and a six-page Power BI report.</li></ul></section></div><section class="headline-result"><p class="eyebrow">PROJECT HIGHLIGHT</p><strong>10 questions</strong><p>Visible SQL, repeatable outputs and a six-page report</p><span>SQLite · Window functions · Working capital</span></section><section id="analysis" class="detail-section"><p class="eyebrow">ANALYSIS & RESULTS</p><h2>What I found</h2><p>Choose a question. The answer comes first; expand the evidence to check the source and calculations.</p><details class="question-index" id="analysis-questions" open><summary>Analysis questions</summary><ol><li><a href="#analysis-1">1. Can we trust the invoice totals?</a></li><li><a href="#analysis-2">2. How do invoiced sales, profit and cash differ?</a></li><li><a href="#analysis-3">3. Which customers generate profit?</a></li><li><a href="#analysis-4">4. Where is product profitability strongest?</a></li><li><a href="#analysis-5">5. Did price or volume drive May sales growth?</a></li><li><a href="#analysis-6">6. Which unpaid invoices need collection?</a></li><li><a href="#analysis-7">7. What supplier cash commitments are still open?</a></li><li><a href="#analysis-8">8. Where is cash tied up in slow-moving stock?</a></li><li><a href="#analysis-9">9. How much order value has not yet become invoiced sales?</a></li><li><a href="#analysis-10">10. What could working-capital improvements release?</a></li></ol></details><section class="analysis-item" id="analysis-1"><h3>1. Can we trust the invoice totals?</h3><div class="prose"><p><strong>Answer:</strong> All four checks return <strong>0 failures</strong>: invoice totals match the ledger, line arithmetic is correct, invoice-line keys match and invoice IDs are unique.</p>
+<p><strong>How:</strong> Aggregate invoice lines before joining ledger entries. Reconcile tax-inclusive totals and test arithmetic within $0.02.</p>
+<p><a href="https://github.com/hoichengit/Portfolio-Guide/raw/refs/heads/codex/wwi-financial-analysis/processed_data/01_quality.csv">Download result CSV</a> · <a href="https://github.com/hoichengit/Portfolio-Guide/raw/refs/heads/codex/wwi-financial-analysis/sql/01_quality.sql">SQL file</a></p>
+<details>
+<summary>💻 Show the SQL</summary>
+
+<pre><code class="language-sql">WITH lines AS (
+ SELECT InvoiceID, SUM(ExtendedPrice) AS line_total
+ FROM Sales_InvoiceLines GROUP BY InvoiceID
+), ledger AS (
+ SELECT InvoiceID, SUM(TransactionAmount) AS ledger_total
+ FROM Sales_CustomerTransactions WHERE TransactionTypeID IN (1,2)
+ GROUP BY InvoiceID
+)
+SELECT &#39;Invoice-to-ledger mismatches&#39; AS check_name, COUNT(*) AS failures
+FROM lines l LEFT JOIN ledger t ON l.InvoiceID=t.InvoiceID
+WHERE t.InvoiceID IS NULL OR ABS(l.line_total-t.ledger_total)&gt;0.02
+UNION ALL
+SELECT &#39;Line arithmetic mismatches&#39;,COUNT(*) FROM Sales_InvoiceLines
+WHERE ABS(Quantity*UnitPrice+TaxAmount-ExtendedPrice)&gt;0.02
+UNION ALL
+SELECT &#39;Orphan invoice lines&#39;,COUNT(*) FROM Sales_InvoiceLines l
+LEFT JOIN Sales_Invoices i ON l.InvoiceID=i.InvoiceID WHERE i.InvoiceID IS NULL
+UNION ALL
+SELECT &#39;Duplicate invoice IDs&#39;,COUNT(*)-COUNT(DISTINCT InvoiceID) FROM Sales_Invoices;
+</code></pre>
+</details>
+
+<details>
+<summary>📸 Open the evidence</summary>
+
+<p><strong>Original table values extracted from the Microsoft database</strong></p>
+<p><img src="https://raw.githubusercontent.com/hoichengit/Portfolio-Guide/codex/wwi-financial-analysis/evidence/Raw%2520sample.png" alt="Original table values extracted from the Microsoft database"></p>
+<p><strong>Actual Excel worksheet</strong></p>
+<p><img src="https://raw.githubusercontent.com/hoichengit/Portfolio-Guide/codex/wwi-financial-analysis/evidence/Native_excel_quality.png" alt="Actual Excel worksheet"></p>
+</details>
+
+</div></section><section class="analysis-item" id="analysis-2"><h3>2. How do invoiced sales, profit and cash differ?</h3><div class="prose"><p><strong>Answer:</strong> TTM invoiced sales are <strong>$53,945,520.55 excluding tax</strong>; customer receipts are <strong>$61,713,218.44 including tax</strong>. They should not be subtracted as a clean collection variance: the tax basis and timing differ.</p>
+<p><strong>How:</strong> Group invoice-line sales by invoice month and customer payments by transaction month; use LAG for same-month prior-year growth.</p>
+<p><a href="https://github.com/hoichengit/Portfolio-Guide/raw/refs/heads/codex/wwi-financial-analysis/processed_data/02_monthly.csv">Download result CSV</a> · <a href="https://github.com/hoichengit/Portfolio-Guide/raw/refs/heads/codex/wwi-financial-analysis/sql/02_monthly.sql">SQL file</a></p>
+<details>
+<summary>💻 Show the SQL</summary>
+
+<pre><code class="language-sql">WITH sales AS (
+ SELECT substr(i.InvoiceDate,1,7) AS month,
+ SUM(l.ExtendedPrice-l.TaxAmount) AS sales_ex_tax,
+ SUM(l.TaxAmount) AS sales_tax, SUM(l.LineProfit) AS gross_profit
+ FROM Sales_Invoices i JOIN Sales_InvoiceLines l ON i.InvoiceID=l.InvoiceID
+ GROUP BY 1
+), cash AS (
+ SELECT substr(TransactionDate,1,7) AS month,
+ -SUM(CASE WHEN TransactionTypeID=3 THEN TransactionAmount ELSE 0 END) AS receipts_inc_tax
+ FROM Sales_CustomerTransactions GROUP BY 1
+)
+SELECT s.*, c.receipts_inc_tax,
+ 1.0*gross_profit/NULLIF(sales_ex_tax,0) AS gross_margin,
+ 1.0*sales_ex_tax/NULLIF(LAG(sales_ex_tax,12) OVER(ORDER BY s.month),0)-1 AS sales_yoy
+FROM sales s LEFT JOIN cash c ON s.month=c.month ORDER BY s.month;
+</code></pre>
+</details>
+
+<details>
+<summary>📸 Open the evidence</summary>
+
+<p><strong>Excel analysis</strong></p>
+<p><img src="https://raw.githubusercontent.com/hoichengit/Portfolio-Guide/codex/wwi-financial-analysis/evidence/Monthly.png" alt="Excel analysis"></p>
+</details>
+
+</div></section><section class="analysis-item" id="analysis-3"><h3>3. Which customers generate profit?</h3><div class="prose"><p><strong>Answer:</strong> The highest-profit customer location is <strong>Tailspin Toys (Inguadona, MN)</strong>, generating <strong>$72,803.20</strong> in line gross profit. Customer locations are analysed separately from their bill-to parent.</p>
+<p><strong>How:</strong> Aggregate by invoiced CustomerID, calculate margin and revenue share, then rank by gross profit.</p>
+<p><a href="https://github.com/hoichengit/Portfolio-Guide/raw/refs/heads/codex/wwi-financial-analysis/processed_data/03_customers.csv">Download result CSV</a> · <a href="https://github.com/hoichengit/Portfolio-Guide/raw/refs/heads/codex/wwi-financial-analysis/sql/03_customers.sql">SQL file</a></p>
+<details>
+<summary>💻 Show the SQL</summary>
+
+<pre><code class="language-sql">WITH c AS (
+ SELECT i.CustomerID, SUM(l.ExtendedPrice-l.TaxAmount) AS sales,
+ SUM(l.LineProfit) AS gross_profit, COUNT(DISTINCT i.InvoiceID) AS invoices
+ FROM Sales_Invoices i JOIN Sales_InvoiceLines l ON i.InvoiceID=l.InvoiceID
+ WHERE i.InvoiceDate&gt;=&#39;2015-06-01&#39; AND i.InvoiceDate&lt;&#39;2016-06-01&#39;
+ GROUP BY i.CustomerID
+)
+SELECT ROW_NUMBER() OVER(ORDER BY c.gross_profit DESC) AS profit_rank,
+ n.CustomerName,c.*,1.0*c.gross_profit/NULLIF(c.sales,0) AS gross_margin,
+ 1.0*c.sales/SUM(c.sales) OVER() AS revenue_share
+FROM c JOIN Sales_Customers n ON c.CustomerID=n.CustomerID ORDER BY profit_rank;
+</code></pre>
+</details>
+
+<details>
+<summary>📸 Open the evidence</summary>
+
+<p><strong>Excel analysis</strong></p>
+<p><img src="https://raw.githubusercontent.com/hoichengit/Portfolio-Guide/codex/wwi-financial-analysis/evidence/Customers.png" alt="Excel analysis"></p>
+</details>
+
+</div></section><section class="analysis-item" id="analysis-4"><h3>4. Where is product profitability strongest?</h3><div class="prose"><p><strong>Answer:</strong> The top gross-profit product is <strong>20 mm Double sided bubble wrap 50m</strong>, with <strong>$1,747,080.00</strong> gross profit and a <strong>85.2%</strong> line margin.</p>
+<p><strong>How:</strong> Join products to invoice lines; divide total line profit by sales, not an average of row margins.</p>
+<p><a href="https://github.com/hoichengit/Portfolio-Guide/raw/refs/heads/codex/wwi-financial-analysis/processed_data/04_products.csv">Download result CSV</a> · <a href="https://github.com/hoichengit/Portfolio-Guide/raw/refs/heads/codex/wwi-financial-analysis/sql/04_products.sql">SQL file</a></p>
+<details>
+<summary>💻 Show the SQL</summary>
+
+<pre><code class="language-sql">SELECT s.StockItemID,s.StockItemName,SUM(l.Quantity) AS units,
+ SUM(l.ExtendedPrice-l.TaxAmount) AS sales,SUM(l.LineProfit) AS gross_profit,
+ 1.0*SUM(l.LineProfit)/NULLIF(SUM(l.ExtendedPrice-l.TaxAmount),0) AS gross_margin
+FROM Sales_InvoiceLines l JOIN Sales_Invoices i ON l.InvoiceID=i.InvoiceID
+JOIN Warehouse_StockItems s ON l.StockItemID=s.StockItemID
+WHERE i.InvoiceDate&gt;=&#39;2015-06-01&#39; AND i.InvoiceDate&lt;&#39;2016-06-01&#39;
+GROUP BY s.StockItemID,s.StockItemName ORDER BY gross_profit DESC;
+</code></pre>
+</details>
+
+<details>
+<summary>📸 Open the evidence</summary>
+
+<p><strong>Excel analysis</strong></p>
+<p><img src="https://raw.githubusercontent.com/hoichengit/Portfolio-Guide/codex/wwi-financial-analysis/evidence/Products.png" alt="Excel analysis"></p>
+</details>
+
+</div></section><section class="analysis-item" id="analysis-5"><h3>5. Did price or volume drive May sales growth?</h3><div class="prose"><p><strong>Answer:</strong> May revenue changed by <strong>$490,202.10</strong>: <strong>$267,728.95</strong> from volume at prior prices, <strong>$-24,338.05</strong> from realised price / within-product mix, and <strong>$246,811.20</strong> from product entry or exit.</p>
+<p><strong>How:</strong> Use an exact sequential bridge: quantity change × old realised price, then new quantity × realised price change. Compare May with May.</p>
+<p><a href="https://github.com/hoichengit/Portfolio-Guide/raw/refs/heads/codex/wwi-financial-analysis/processed_data/05_growth_bridge.csv">Download result CSV</a> · <a href="https://github.com/hoichengit/Portfolio-Guide/raw/refs/heads/codex/wwi-financial-analysis/sql/05_growth_bridge.sql">SQL file</a></p>
+<details>
+<summary>💻 Show the SQL</summary>
+
+<pre><code class="language-sql">WITH p AS (
+ SELECT l.StockItemID,
+ SUM(CASE WHEN substr(i.InvoiceDate,1,7)=&#39;2015-05&#39; THEN l.Quantity ELSE 0 END) AS q0,
+ SUM(CASE WHEN substr(i.InvoiceDate,1,7)=&#39;2016-05&#39; THEN l.Quantity ELSE 0 END) AS q1,
+ SUM(CASE WHEN substr(i.InvoiceDate,1,7)=&#39;2015-05&#39; THEN l.ExtendedPrice-l.TaxAmount ELSE 0 END) AS r0,
+ SUM(CASE WHEN substr(i.InvoiceDate,1,7)=&#39;2016-05&#39; THEN l.ExtendedPrice-l.TaxAmount ELSE 0 END) AS r1
+ FROM Sales_InvoiceLines l JOIN Sales_Invoices i ON l.InvoiceID=i.InvoiceID
+ WHERE substr(i.InvoiceDate,1,7) IN (&#39;2015-05&#39;,&#39;2016-05&#39;) GROUP BY l.StockItemID
+)
+SELECT &#39;Volume at prior price (common products)&#39; AS driver,SUM((q1-q0)*1.0*r0/q0) AS impact
+FROM p WHERE q0&gt;0 AND q1&gt;0
+UNION ALL SELECT &#39;Realised price / within-product mix&#39;,SUM(q1*(1.0*r1/q1-1.0*r0/q0)) FROM p WHERE q0&gt;0 AND q1&gt;0
+UNION ALL SELECT &#39;New or discontinued products&#39;,SUM(r1-r0) FROM p WHERE q0=0 OR q1=0
+UNION ALL SELECT &#39;Total sales change&#39;,SUM(r1-r0) FROM p;
+</code></pre>
+</details>
+
+<details>
+<summary>📸 Open the evidence</summary>
+
+<p><strong>Excel analysis</strong></p>
+<p><img src="https://raw.githubusercontent.com/hoichengit/Portfolio-Guide/codex/wwi-financial-analysis/evidence/Growth%2520bridge.png" alt="Excel analysis"></p>
+</details>
+
+</div></section><section class="analysis-item" id="analysis-6"><h3>6. Which unpaid invoices need collection?</h3><div class="prose"><p><strong>Answer:</strong> Open receivables total <strong>$267,011.44</strong>, and <strong>$0.00 is overdue</strong> at 31 May 2016. There is no evidence here of a late-payment problem.</p>
+<p><strong>How:</strong> Add the bill-to customer payment terms to transaction date, then compare due date with the snapshot date. OutstandingBalance is a snapshot, so it cannot reconstruct historical aging.</p>
+<p><a href="https://github.com/hoichengit/Portfolio-Guide/raw/refs/heads/codex/wwi-financial-analysis/processed_data/06_receivables.csv">Download result CSV</a> · <a href="https://github.com/hoichengit/Portfolio-Guide/raw/refs/heads/codex/wwi-financial-analysis/sql/06_receivables.sql">SQL file</a></p>
+<details>
+<summary>💻 Show the SQL</summary>
+
+<pre><code class="language-sql">WITH overdue AS (
+ SELECT t.CustomerTransactionID,c.CustomerName,t.InvoiceID,t.TransactionDate,
+ date(t.TransactionDate,&#39;+&#39;||c.PaymentDays||&#39; days&#39;) AS due_date,
+ t.OutstandingBalance AS balance,
+ CAST(julianday(&#39;2016-05-31&#39;)-julianday(t.TransactionDate)-c.PaymentDays AS INTEGER) AS days_overdue
+ FROM Sales_CustomerTransactions t JOIN Sales_Customers c ON t.CustomerID=c.CustomerID
+ WHERE t.OutstandingBalance&lt;&gt;0
+)
+SELECT *, CASE WHEN days_overdue&lt;=0 THEN &#39;Current&#39; WHEN days_overdue&lt;=30 THEN &#39;1-30 days&#39;
+ WHEN days_overdue&lt;=60 THEN &#39;31-60 days&#39; ELSE &#39;61+ days&#39; END AS aging_bucket
+FROM overdue ORDER BY days_overdue DESC,balance DESC;
+</code></pre>
+</details>
+
+<details>
+<summary>📸 Open the evidence</summary>
+
+<p><strong>Excel analysis</strong></p>
+<p><img src="https://raw.githubusercontent.com/hoichengit/Portfolio-Guide/codex/wwi-financial-analysis/evidence/Receivables.png" alt="Excel analysis"></p>
+</details>
+
+</div></section><section class="analysis-item" id="analysis-7"><h3>7. What supplier cash commitments are still open?</h3><div class="prose"><p><strong>Answer:</strong> Open supplier balances total <strong>$2,721,678.21</strong> across <strong>2 invoices</strong>. Both are current at the snapshot date; their due dates determine the upcoming cash requirement.</p>
+<p><strong>How:</strong> Join each supplier invoice to that supplier’s payment terms. Keep current and overdue balances distinct.</p>
+<p><a href="https://github.com/hoichengit/Portfolio-Guide/raw/refs/heads/codex/wwi-financial-analysis/processed_data/07_payables.csv">Download result CSV</a> · <a href="https://github.com/hoichengit/Portfolio-Guide/raw/refs/heads/codex/wwi-financial-analysis/sql/07_payables.sql">SQL file</a></p>
+<details>
+<summary>💻 Show the SQL</summary>
+
+<pre><code class="language-sql">SELECT s.SupplierName,t.SupplierTransactionID,t.TransactionDate,
+ date(t.TransactionDate,&#39;+&#39;||s.PaymentDays||&#39; days&#39;) AS due_date,
+ t.OutstandingBalance AS balance,
+ CASE WHEN date(t.TransactionDate,&#39;+&#39;||s.PaymentDays||&#39; days&#39;)&lt;&#39;2016-05-31&#39; THEN &#39;Overdue&#39; ELSE &#39;Current&#39; END AS status
+FROM Purchasing_SupplierTransactions t JOIN Purchasing_Suppliers s ON t.SupplierID=s.SupplierID
+WHERE t.OutstandingBalance&lt;&gt;0 ORDER BY due_date,balance DESC;
+</code></pre>
+</details>
+
+<details>
+<summary>📸 Open the evidence</summary>
+
+<p><strong>Excel analysis</strong></p>
+<p><img src="https://raw.githubusercontent.com/hoichengit/Portfolio-Guide/codex/wwi-financial-analysis/evidence/Payables.png" alt="Excel analysis"></p>
+</details>
+
+</div></section><section class="analysis-item" id="analysis-8"><h3>8. Where is cash tied up in slow-moving stock?</h3><div class="prose"><p><strong>Answer:</strong> Stock valued at last cost totals <strong>$475.28m</strong>, unusually high relative to sales. This is a sample-data limitation to investigate, not proof of a real company&#39;s overstocking.</p>
+<p><strong>How:</strong> Multiply quantity on hand by last cost; divide stock by the recent 90-day sales rate. Last cost is not a verified inventory carrying value.</p>
+<p><a href="https://github.com/hoichengit/Portfolio-Guide/raw/refs/heads/codex/wwi-financial-analysis/processed_data/08_inventory.csv">Download result CSV</a> · <a href="https://github.com/hoichengit/Portfolio-Guide/raw/refs/heads/codex/wwi-financial-analysis/sql/08_inventory.sql">SQL file</a></p>
+<details>
+<summary>💻 Show the SQL</summary>
+
+<pre><code class="language-sql">WITH usage AS (
+ SELECT l.StockItemID,SUM(l.Quantity) AS units_90d
+ FROM Sales_InvoiceLines l JOIN Sales_Invoices i ON l.InvoiceID=i.InvoiceID
+ WHERE i.InvoiceDate BETWEEN &#39;2016-03-03&#39; AND &#39;2016-05-31&#39; GROUP BY l.StockItemID
+)
+SELECT s.StockItemName,h.StockItemID,h.QuantityOnHand,h.LastCostPrice,
+ h.QuantityOnHand*h.LastCostPrice AS value_at_last_cost,
+ COALESCE(u.units_90d,0) AS units_90d,
+ 90.0*h.QuantityOnHand/NULLIF(u.units_90d,0) AS days_cover,
+ CASE WHEN h.QuantityOnHand&gt;h.TargetStockLevel THEN (h.QuantityOnHand-h.TargetStockLevel)*h.LastCostPrice ELSE 0 END AS excess_vs_target
+FROM Warehouse_StockItemHoldings h JOIN Warehouse_StockItems s ON h.StockItemID=s.StockItemID
+LEFT JOIN usage u ON h.StockItemID=u.StockItemID ORDER BY value_at_last_cost DESC;
+</code></pre>
+</details>
+
+<details>
+<summary>📸 Open the evidence</summary>
+
+<p><strong>Original table values extracted from the Microsoft database</strong></p>
+<p><img src="https://raw.githubusercontent.com/hoichengit/Portfolio-Guide/codex/wwi-financial-analysis/evidence/Raw%2520sample.png" alt="Original table values extracted from the Microsoft database"></p>
+<p><strong>Excel analysis</strong></p>
+<p><img src="https://raw.githubusercontent.com/hoichengit/Portfolio-Guide/codex/wwi-financial-analysis/evidence/Inventory.png" alt="Excel analysis"></p>
+</details>
+
+</div></section><section class="analysis-item" id="analysis-9"><h3>9. How much order value has not yet become invoiced sales?</h3><div class="prose"><p><strong>Answer:</strong> There are <strong>3,085 orders</strong> with a value difference against matched invoices. This is a reconciliation worklist, not a clean backlog: backorder chains, partial fulfilment and timing need separate review.</p>
+<p><strong>How:</strong> Aggregate order lines and invoice lines separately before joining by OrderID; flag unmatched amounts without creating duplicate revenue.</p>
+<p><a href="https://github.com/hoichengit/Portfolio-Guide/raw/refs/heads/codex/wwi-financial-analysis/processed_data/09_orders.csv">Download result CSV</a> · <a href="https://github.com/hoichengit/Portfolio-Guide/raw/refs/heads/codex/wwi-financial-analysis/sql/09_orders.sql">SQL file</a></p>
+<details>
+<summary>💻 Show the SQL</summary>
+
+<pre><code class="language-sql">WITH ordered AS (
+ SELECT OrderID,SUM(Quantity*UnitPrice) AS ordered_ex_tax FROM Sales_OrderLines GROUP BY OrderID
+), billed AS (
+ SELECT i.OrderID,SUM(l.ExtendedPrice-l.TaxAmount) AS invoiced_ex_tax
+ FROM Sales_Invoices i JOIN Sales_InvoiceLines l ON i.InvoiceID=l.InvoiceID GROUP BY i.OrderID
+)
+SELECT o.OrderID,o.OrderDate,o.BackorderOrderID,r.ordered_ex_tax,
+ COALESCE(b.invoiced_ex_tax,0) AS invoiced_ex_tax,
+ r.ordered_ex_tax-COALESCE(b.invoiced_ex_tax,0) AS unmatched_order_value
+FROM Sales_Orders o JOIN ordered r ON o.OrderID=r.OrderID
+LEFT JOIN billed b ON o.OrderID=b.OrderID
+WHERE ABS(r.ordered_ex_tax-COALESCE(b.invoiced_ex_tax,0))&gt;0.02
+ORDER BY o.OrderDate DESC;
+</code></pre>
+</details>
+
+<details>
+<summary>📸 Open the evidence</summary>
+
+<p><strong>Excel analysis</strong></p>
+<p><img src="https://raw.githubusercontent.com/hoichengit/Portfolio-Guide/codex/wwi-financial-analysis/evidence/Unmatched%2520orders.png" alt="Excel analysis"></p>
+</details>
+
+</div></section><section class="analysis-item" id="analysis-10"><h3>10. What could working-capital improvements release?</h3><div class="prose"><p><strong>Answer:</strong> A two-day AR reduction, capped at open AR, plus a 1% stock reduction gives an illustrative <strong>$5.02m</strong> release. It is a scenario, not cash already collected or savings achieved.</p>
+<p><strong>How:</strong> Use annual sales / 365 × proposed days saved, capped at open receivables. Add the stock-at-cost scenario, while recognising sell-through, replacement, discounts and tax.</p>
+<p><a href="https://github.com/hoichengit/Portfolio-Guide/raw/refs/heads/codex/wwi-financial-analysis/processed_data/10_cash_scenario.csv">Download result CSV</a> · <a href="https://github.com/hoichengit/Portfolio-Guide/raw/refs/heads/codex/wwi-financial-analysis/sql/10_cash_scenario.sql">SQL file</a></p>
+<details>
+<summary>💻 Show the SQL</summary>
+
+<pre><code class="language-sql">WITH inputs AS (
+ SELECT 2.0 AS ar_days_reduction, 0.01 AS stock_reduction
+), annual_sales AS (
+ SELECT SUM(l.ExtendedPrice-l.TaxAmount) AS revenue
+ FROM Sales_InvoiceLines l JOIN Sales_Invoices i ON i.InvoiceID=l.InvoiceID
+ WHERE i.InvoiceDate&gt;=&#39;2015-06-01&#39; AND i.InvoiceDate&lt;&#39;2016-06-01&#39;
+), balances AS (
+ SELECT (SELECT SUM(OutstandingBalance) FROM Sales_CustomerTransactions) AS ar,
+ (SELECT SUM(QuantityOnHand*LastCostPrice) FROM Warehouse_StockItemHoldings) AS stock
+)
+SELECT ar_days_reduction,stock_reduction,
+ MIN(revenue/365.0*ar_days_reduction,ar) AS capped_ar_release,
+ stock*stock_reduction AS stock_release_at_cost,
+ MIN(revenue/365.0*ar_days_reduction,ar)+stock*stock_reduction AS illustrative_total
+FROM inputs CROSS JOIN annual_sales CROSS JOIN balances;
+</code></pre>
+</details>
+
+<details>
+<summary>📸 Open the evidence</summary>
+
+<p><strong>Excel analysis</strong></p>
+<p><img src="https://raw.githubusercontent.com/hoichengit/Portfolio-Guide/codex/wwi-financial-analysis/evidence/Cash%2520scenario.png" alt="Excel analysis"></p>
+</details>
+
+<h2>What this project demonstrates</h2>
+<table>
+<thead>
+<tr>
+<th>Skill</th>
+<th>Evidence</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>SQL</td>
+<td>Joins, CTEs, date arithmetic, conditional aggregation and window functions</td>
+</tr>
+<tr>
+<td>Data quality</td>
+<td>Invoice-ledger reconciliation, arithmetic checks and key tests</td>
+</tr>
+<tr>
+<td>Commercial finance</td>
+<td>Customer / product profitability and a price-volume bridge</td>
+</tr>
+<tr>
+<td>Working capital</td>
+<td>Receivables aging, supplier due dates and inventory exposure</td>
+</tr>
+<tr>
+<td>Financial judgement</td>
+<td>Clear distinction between a sample-data anomaly and an actionable business conclusion</td>
+</tr>
+</tbody></table>
+<p><strong>Boundaries:</strong> no overhead ledger, formal budget, audited inventory valuation or bank reconciliation is supplied. This project therefore does not claim net profit, budget variance, audited cash or proven cash savings.</p>
+<p>Data dictionary · Reproduce every query · Back to portfolio</p>
+</div></section></section><section id="downloads" class="detail-section"><p class="eyebrow">TAKE A CLOSER LOOK</p><h2>Download the Excel analysis</h2><p>Download the existing project workbook with its calculations and supporting analysis.</p><ul class="download-list"><li><a href="https://github.com/hoichengit/Portfolio-Guide/raw/refs/heads/codex/wwi-financial-analysis/processed_data/WWI_Financial_Analysis.xlsx" download>WWI Financial Analysis.xlsx</a><span>XLSX</span></li></ul></section><section id="dashboard" class="detail-section"><p class="eyebrow">VISUALISATION</p><h2>Dashboard</h2><p>This report is available as a PBIX download. The images below preview its six pages; they are not interactive.</p><div class="resource-buttons"><a class="button secondary" href="https://github.com/hoichengit/Portfolio-Guide/raw/refs/heads/codex/wwi-financial-analysis/processed_data/WWI_SQL_Finance.pbix" download>Download PBIX</a></div><div class="dashboard-gallery"><figure><a href="https://raw.githubusercontent.com/hoichengit/Portfolio-Guide/codex/wwi-financial-analysis/evidence/dashboard_01.png" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/hoichengit/Portfolio-Guide/codex/wwi-financial-analysis/evidence/dashboard_01.png" loading="lazy" alt="WideWorldImporters dashboard preview 1"></a><figcaption>Report page 1</figcaption></figure><figure><a href="https://raw.githubusercontent.com/hoichengit/Portfolio-Guide/codex/wwi-financial-analysis/evidence/dashboard_02.png" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/hoichengit/Portfolio-Guide/codex/wwi-financial-analysis/evidence/dashboard_02.png" loading="lazy" alt="WideWorldImporters dashboard preview 2"></a><figcaption>Report page 2</figcaption></figure><figure><a href="https://raw.githubusercontent.com/hoichengit/Portfolio-Guide/codex/wwi-financial-analysis/evidence/dashboard_03.png" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/hoichengit/Portfolio-Guide/codex/wwi-financial-analysis/evidence/dashboard_03.png" loading="lazy" alt="WideWorldImporters dashboard preview 3"></a><figcaption>Report page 3</figcaption></figure><figure><a href="https://raw.githubusercontent.com/hoichengit/Portfolio-Guide/codex/wwi-financial-analysis/evidence/dashboard_04.png" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/hoichengit/Portfolio-Guide/codex/wwi-financial-analysis/evidence/dashboard_04.png" loading="lazy" alt="WideWorldImporters dashboard preview 4"></a><figcaption>Report page 4</figcaption></figure><figure><a href="https://raw.githubusercontent.com/hoichengit/Portfolio-Guide/codex/wwi-financial-analysis/evidence/dashboard_05.png" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/hoichengit/Portfolio-Guide/codex/wwi-financial-analysis/evidence/dashboard_05.png" loading="lazy" alt="WideWorldImporters dashboard preview 5"></a><figcaption>Report page 5</figcaption></figure><figure><a href="https://raw.githubusercontent.com/hoichengit/Portfolio-Guide/codex/wwi-financial-analysis/evidence/dashboard_06.png" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/hoichengit/Portfolio-Guide/codex/wwi-financial-analysis/evidence/dashboard_06.png" loading="lazy" alt="WideWorldImporters dashboard preview 6"></a><figcaption>Report page 6</figcaption></figure></div></section><section class="detail-section end-links"><a class="button" href="../index.html#projects">Explore other projects</a><a href="mailto:jessechen0228@outlook.com">Contact Hoi</a></section></main><footer class="wrap"><span>HOI CHEN · FINANCE & DATA</span><a href="../index.html">Portfolio home</a></footer></body></html>
