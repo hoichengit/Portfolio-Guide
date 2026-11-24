@@ -31,9 +31,9 @@ SELECT &#39;Duplicate invoice IDs&#39;,COUNT(*)-COUNT(DISTINCT InvoiceID) FROM S
 <summary>📸 Open the evidence</summary>
 
 <p><strong>Original table values extracted from the Microsoft database</strong></p>
-<p><img src="https://raw.githubusercontent.com/hoichengit/Portfolio-Guide/codex/wwi-financial-analysis/evidence/Raw%2520sample.png" alt="Original table values extracted from the Microsoft database"></p>
+<p><span class="evidence-frame"><span class="evidence-label">EVIDENCE · SOURCE / OUTPUT</span><img src="https://raw.githubusercontent.com/hoichengit/Portfolio-Guide/codex/wwi-financial-analysis/evidence/Raw%2520sample.png" alt="Original table values extracted from the Microsoft database"><span class="evidence-caption">Original table values extracted from the Microsoft database</span></span></p>
 <p><strong>Actual Excel worksheet</strong></p>
-<p><img src="https://raw.githubusercontent.com/hoichengit/Portfolio-Guide/codex/wwi-financial-analysis/evidence/Native_excel_quality.png" alt="Actual Excel worksheet"></p>
+<p><span class="evidence-frame"><span class="evidence-label">EVIDENCE · SOURCE / OUTPUT</span><img src="https://raw.githubusercontent.com/hoichengit/Portfolio-Guide/codex/wwi-financial-analysis/evidence/Native_excel_quality.png" alt="Actual Excel worksheet"><span class="evidence-caption">Actual Excel worksheet</span></span></p>
 </details>
 
 </div></section><section class="analysis-item" id="analysis-2"><h3>2. How do invoiced sales, profit and cash differ?</h3><div class="prose"><p><strong>Answer:</strong> TTM invoiced sales are <strong>$53,945,520.55 excluding tax</strong>; customer receipts are <strong>$61,713,218.44 including tax</strong>. They should not be subtracted as a clean collection variance: the tax basis and timing differ.</p>
@@ -64,7 +64,7 @@ FROM sales s LEFT JOIN cash c ON s.month=c.month ORDER BY s.month;
 <summary>📸 Open the evidence</summary>
 
 <p><strong>Excel analysis</strong></p>
-<p><img src="https://raw.githubusercontent.com/hoichengit/Portfolio-Guide/codex/wwi-financial-analysis/evidence/Monthly.png" alt="Excel analysis"></p>
+<p><span class="evidence-frame"><span class="evidence-label">EVIDENCE · SOURCE / OUTPUT</span><img src="https://raw.githubusercontent.com/hoichengit/Portfolio-Guide/codex/wwi-financial-analysis/evidence/Monthly.png" alt="Excel analysis"><span class="evidence-caption">Excel analysis</span></span></p>
 </details>
 
 </div></section><section class="analysis-item" id="analysis-3"><h3>3. Which customers generate profit?</h3><div class="prose"><p><strong>Answer:</strong> The highest-profit customer location is <strong>Tailspin Toys (Inguadona, MN)</strong>, generating <strong>$72,803.20</strong> in line gross profit. Customer locations are analysed separately from their bill-to parent.</p>
@@ -91,7 +91,7 @@ FROM c JOIN Sales_Customers n ON c.CustomerID=n.CustomerID ORDER BY profit_rank;
 <summary>📸 Open the evidence</summary>
 
 <p><strong>Excel analysis</strong></p>
-<p><img src="https://raw.githubusercontent.com/hoichengit/Portfolio-Guide/codex/wwi-financial-analysis/evidence/Customers.png" alt="Excel analysis"></p>
+<p><span class="evidence-frame"><span class="evidence-label">EVIDENCE · SOURCE / OUTPUT</span><img src="https://raw.githubusercontent.com/hoichengit/Portfolio-Guide/codex/wwi-financial-analysis/evidence/Customers.png" alt="Excel analysis"><span class="evidence-caption">Excel analysis</span></span></p>
 </details>
 
 </div></section><section class="analysis-item" id="analysis-4"><h3>4. Where is product profitability strongest?</h3><div class="prose"><p><strong>Answer:</strong> The top gross-profit product is <strong>20 mm Double sided bubble wrap 50m</strong>, with <strong>$1,747,080.00</strong> gross profit and a <strong>85.2%</strong> line margin.</p>
@@ -114,7 +114,7 @@ GROUP BY s.StockItemID,s.StockItemName ORDER BY gross_profit DESC;
 <summary>📸 Open the evidence</summary>
 
 <p><strong>Excel analysis</strong></p>
-<p><img src="https://raw.githubusercontent.com/hoichengit/Portfolio-Guide/codex/wwi-financial-analysis/evidence/Products.png" alt="Excel analysis"></p>
+<p><span class="evidence-frame"><span class="evidence-label">EVIDENCE · SOURCE / OUTPUT</span><img src="https://raw.githubusercontent.com/hoichengit/Portfolio-Guide/codex/wwi-financial-analysis/evidence/Products.png" alt="Excel analysis"><span class="evidence-caption">Excel analysis</span></span></p>
 </details>
 
 </div></section><section class="analysis-item" id="analysis-5"><h3>5. Did price or volume drive May sales growth?</h3><div class="prose"><p><strong>Answer:</strong> May revenue changed by <strong>$490,202.10</strong>: <strong>$267,728.95</strong> from volume at prior prices, <strong>$-24,338.05</strong> from realised price / within-product mix, and <strong>$246,811.20</strong> from product entry or exit.</p>
@@ -144,7 +144,7 @@ UNION ALL SELECT &#39;Total sales change&#39;,SUM(r1-r0) FROM p;
 <summary>📸 Open the evidence</summary>
 
 <p><strong>Excel analysis</strong></p>
-<p><img src="https://raw.githubusercontent.com/hoichengit/Portfolio-Guide/codex/wwi-financial-analysis/evidence/Growth%2520bridge.png" alt="Excel analysis"></p>
+<p><span class="evidence-frame"><span class="evidence-label">EVIDENCE · SOURCE / OUTPUT</span><img src="https://raw.githubusercontent.com/hoichengit/Portfolio-Guide/codex/wwi-financial-analysis/evidence/Growth%2520bridge.png" alt="Excel analysis"><span class="evidence-caption">Excel analysis</span></span></p>
 </details>
 
 </div></section><section class="analysis-item" id="analysis-6"><h3>6. Which unpaid invoices need collection?</h3><div class="prose"><p><strong>Answer:</strong> Open receivables total <strong>$267,011.44</strong>, and <strong>$0.00 is overdue</strong> at 31 May 2016. There is no evidence here of a late-payment problem.</p>
@@ -171,7 +171,7 @@ FROM overdue ORDER BY days_overdue DESC,balance DESC;
 <summary>📸 Open the evidence</summary>
 
 <p><strong>Excel analysis</strong></p>
-<p><img src="https://raw.githubusercontent.com/hoichengit/Portfolio-Guide/codex/wwi-financial-analysis/evidence/Receivables.png" alt="Excel analysis"></p>
+<p><span class="evidence-frame"><span class="evidence-label">EVIDENCE · SOURCE / OUTPUT</span><img src="https://raw.githubusercontent.com/hoichengit/Portfolio-Guide/codex/wwi-financial-analysis/evidence/Receivables.png" alt="Excel analysis"><span class="evidence-caption">Excel analysis</span></span></p>
 </details>
 
 </div></section><section class="analysis-item" id="analysis-7"><h3>7. What supplier cash commitments are still open?</h3><div class="prose"><p><strong>Answer:</strong> Open supplier balances total <strong>$2,721,678.21</strong> across <strong>2 invoices</strong>. Both are current at the snapshot date; their due dates determine the upcoming cash requirement.</p>
@@ -193,7 +193,7 @@ WHERE t.OutstandingBalance&lt;&gt;0 ORDER BY due_date,balance DESC;
 <summary>📸 Open the evidence</summary>
 
 <p><strong>Excel analysis</strong></p>
-<p><img src="https://raw.githubusercontent.com/hoichengit/Portfolio-Guide/codex/wwi-financial-analysis/evidence/Payables.png" alt="Excel analysis"></p>
+<p><span class="evidence-frame"><span class="evidence-label">EVIDENCE · SOURCE / OUTPUT</span><img src="https://raw.githubusercontent.com/hoichengit/Portfolio-Guide/codex/wwi-financial-analysis/evidence/Payables.png" alt="Excel analysis"><span class="evidence-caption">Excel analysis</span></span></p>
 </details>
 
 </div></section><section class="analysis-item" id="analysis-8"><h3>8. Where is cash tied up in slow-moving stock?</h3><div class="prose"><p><strong>Answer:</strong> Stock valued at last cost totals <strong>$475.28m</strong>, unusually high relative to sales. This is a sample-data limitation to investigate, not proof of a real company&#39;s overstocking.</p>
@@ -221,9 +221,9 @@ LEFT JOIN usage u ON h.StockItemID=u.StockItemID ORDER BY value_at_last_cost DES
 <summary>📸 Open the evidence</summary>
 
 <p><strong>Original table values extracted from the Microsoft database</strong></p>
-<p><img src="https://raw.githubusercontent.com/hoichengit/Portfolio-Guide/codex/wwi-financial-analysis/evidence/Raw%2520sample.png" alt="Original table values extracted from the Microsoft database"></p>
+<p><span class="evidence-frame"><span class="evidence-label">EVIDENCE · SOURCE / OUTPUT</span><img src="https://raw.githubusercontent.com/hoichengit/Portfolio-Guide/codex/wwi-financial-analysis/evidence/Raw%2520sample.png" alt="Original table values extracted from the Microsoft database"><span class="evidence-caption">Original table values extracted from the Microsoft database</span></span></p>
 <p><strong>Excel analysis</strong></p>
-<p><img src="https://raw.githubusercontent.com/hoichengit/Portfolio-Guide/codex/wwi-financial-analysis/evidence/Inventory.png" alt="Excel analysis"></p>
+<p><span class="evidence-frame"><span class="evidence-label">EVIDENCE · SOURCE / OUTPUT</span><img src="https://raw.githubusercontent.com/hoichengit/Portfolio-Guide/codex/wwi-financial-analysis/evidence/Inventory.png" alt="Excel analysis"><span class="evidence-caption">Excel analysis</span></span></p>
 </details>
 
 </div></section><section class="analysis-item" id="analysis-9"><h3>9. How much order value has not yet become invoiced sales?</h3><div class="prose"><p><strong>Answer:</strong> There are <strong>3,085 orders</strong> with a value difference against matched invoices. This is a reconciliation worklist, not a clean backlog: backorder chains, partial fulfilment and timing need separate review.</p>
@@ -252,7 +252,7 @@ ORDER BY o.OrderDate DESC;
 <summary>📸 Open the evidence</summary>
 
 <p><strong>Excel analysis</strong></p>
-<p><img src="https://raw.githubusercontent.com/hoichengit/Portfolio-Guide/codex/wwi-financial-analysis/evidence/Unmatched%2520orders.png" alt="Excel analysis"></p>
+<p><span class="evidence-frame"><span class="evidence-label">EVIDENCE · SOURCE / OUTPUT</span><img src="https://raw.githubusercontent.com/hoichengit/Portfolio-Guide/codex/wwi-financial-analysis/evidence/Unmatched%2520orders.png" alt="Excel analysis"><span class="evidence-caption">Excel analysis</span></span></p>
 </details>
 
 </div></section><section class="analysis-item" id="analysis-10"><h3>10. What could working-capital improvements release?</h3><div class="prose"><p><strong>Answer:</strong> A two-day AR reduction, capped at open AR, plus a 1% stock reduction gives an illustrative <strong>$5.02m</strong> release. It is a scenario, not cash already collected or savings achieved.</p>
@@ -283,7 +283,7 @@ FROM inputs CROSS JOIN annual_sales CROSS JOIN balances;
 <summary>📸 Open the evidence</summary>
 
 <p><strong>Excel analysis</strong></p>
-<p><img src="https://raw.githubusercontent.com/hoichengit/Portfolio-Guide/codex/wwi-financial-analysis/evidence/Cash%2520scenario.png" alt="Excel analysis"></p>
+<p><span class="evidence-frame"><span class="evidence-label">EVIDENCE · SOURCE / OUTPUT</span><img src="https://raw.githubusercontent.com/hoichengit/Portfolio-Guide/codex/wwi-financial-analysis/evidence/Cash%2520scenario.png" alt="Excel analysis"><span class="evidence-caption">Excel analysis</span></span></p>
 </details>
 
 <h2>What this project demonstrates</h2>
@@ -317,4 +317,4 @@ FROM inputs CROSS JOIN annual_sales CROSS JOIN balances;
 </tbody></table>
 <p><strong>Boundaries:</strong> no overhead ledger, formal budget, audited inventory valuation or bank reconciliation is supplied. This project therefore does not claim net profit, budget variance, audited cash or proven cash savings.</p>
 <p>Data dictionary · Reproduce every query · Back to portfolio</p>
-</div></section></section><section id="downloads" class="detail-section"><p class="eyebrow">TAKE A CLOSER LOOK</p><h2>Download the Excel analysis</h2><p>Download the existing project workbook with its calculations and supporting analysis.</p><ul class="download-list"><li><a href="https://github.com/hoichengit/Portfolio-Guide/raw/refs/heads/codex/wwi-financial-analysis/processed_data/WWI_Financial_Analysis.xlsx" download>WWI Financial Analysis.xlsx</a><span>XLSX</span></li></ul></section><section id="dashboard" class="detail-section"><p class="eyebrow">VISUALISATION</p><h2>Dashboard</h2><p>This report is available as a PBIX download. The images below preview its six pages; they are not interactive.</p><div class="resource-buttons"><a class="button secondary" href="https://github.com/hoichengit/Portfolio-Guide/raw/refs/heads/codex/wwi-financial-analysis/processed_data/WWI_SQL_Finance.pbix" download>Download PBIX</a></div><div class="dashboard-gallery"><figure><a href="https://raw.githubusercontent.com/hoichengit/Portfolio-Guide/codex/wwi-financial-analysis/evidence/dashboard_01.png" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/hoichengit/Portfolio-Guide/codex/wwi-financial-analysis/evidence/dashboard_01.png" loading="lazy" alt="WideWorldImporters dashboard preview 1"></a><figcaption>Report page 1</figcaption></figure><figure><a href="https://raw.githubusercontent.com/hoichengit/Portfolio-Guide/codex/wwi-financial-analysis/evidence/dashboard_02.png" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/hoichengit/Portfolio-Guide/codex/wwi-financial-analysis/evidence/dashboard_02.png" loading="lazy" alt="WideWorldImporters dashboard preview 2"></a><figcaption>Report page 2</figcaption></figure><figure><a href="https://raw.githubusercontent.com/hoichengit/Portfolio-Guide/codex/wwi-financial-analysis/evidence/dashboard_03.png" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/hoichengit/Portfolio-Guide/codex/wwi-financial-analysis/evidence/dashboard_03.png" loading="lazy" alt="WideWorldImporters dashboard preview 3"></a><figcaption>Report page 3</figcaption></figure><figure><a href="https://raw.githubusercontent.com/hoichengit/Portfolio-Guide/codex/wwi-financial-analysis/evidence/dashboard_04.png" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/hoichengit/Portfolio-Guide/codex/wwi-financial-analysis/evidence/dashboard_04.png" loading="lazy" alt="WideWorldImporters dashboard preview 4"></a><figcaption>Report page 4</figcaption></figure><figure><a href="https://raw.githubusercontent.com/hoichengit/Portfolio-Guide/codex/wwi-financial-analysis/evidence/dashboard_05.png" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/hoichengit/Portfolio-Guide/codex/wwi-financial-analysis/evidence/dashboard_05.png" loading="lazy" alt="WideWorldImporters dashboard preview 5"></a><figcaption>Report page 5</figcaption></figure><figure><a href="https://raw.githubusercontent.com/hoichengit/Portfolio-Guide/codex/wwi-financial-analysis/evidence/dashboard_06.png" target="_blank" rel="noopener"><img src="https://raw.githubusercontent.com/hoichengit/Portfolio-Guide/codex/wwi-financial-analysis/evidence/dashboard_06.png" loading="lazy" alt="WideWorldImporters dashboard preview 6"></a><figcaption>Report page 6</figcaption></figure></div></section><section class="detail-section end-links"><a class="button" href="../index.html#projects">Explore other projects</a><a href="mailto:jessechen0228@outlook.com">Contact Hoi</a></section></main><footer class="wrap"><span>HOI CHEN · FINANCE & DATA</span><a href="../index.html">Portfolio home</a></footer></body></html>
+</div></section></section><section id="downloads" class="detail-section"><p class="eyebrow">TAKE A CLOSER LOOK</p><h2>Download the Excel analysis</h2><p>Download the existing project workbook with its calculations and supporting analysis.</p><ul class="download-list"><li><a href="https://github.com/hoichengit/Portfolio-Guide/raw/refs/heads/codex/wwi-financial-analysis/processed_data/WWI_Financial_Analysis.xlsx" download>WWI Financial Analysis.xlsx</a><span>XLSX</span></li></ul></section><section id="dashboard" class="detail-section"><p class="eyebrow">VISUALISATION</p><h2>Dashboard</h2><p>This report is available as a PBIX download. The images below preview its six pages; they are not interactive.</p><div class="resource-buttons"><a class="button secondary" href="https://github.com/hoichengit/Portfolio-Guide/raw/refs/heads/codex/wwi-financial-analysis/processed_data/WWI_SQL_Finance.pbix" download>Download PBIX</a></div><div class="dashboard-gallery"><figure><a href="https://raw.githubusercontent.com/hoichengit/Portfolio-Guide/codex/wwi-financial-analysis/evidence/dashboard_01.png" target="_blank" rel="noopener"><span class="evidence-frame"><span class="evidence-label">EVIDENCE · SOURCE / OUTPUT</span><img src="https://raw.githubusercontent.com/hoichengit/Portfolio-Guide/codex/wwi-financial-analysis/evidence/dashboard_01.png" loading="lazy" alt="WideWorldImporters dashboard preview 1"><span class="evidence-caption">WideWorldImporters dashboard preview 1</span></span></a><figcaption>Report page 1</figcaption></figure><figure><a href="https://raw.githubusercontent.com/hoichengit/Portfolio-Guide/codex/wwi-financial-analysis/evidence/dashboard_02.png" target="_blank" rel="noopener"><span class="evidence-frame"><span class="evidence-label">EVIDENCE · SOURCE / OUTPUT</span><img src="https://raw.githubusercontent.com/hoichengit/Portfolio-Guide/codex/wwi-financial-analysis/evidence/dashboard_02.png" loading="lazy" alt="WideWorldImporters dashboard preview 2"><span class="evidence-caption">WideWorldImporters dashboard preview 2</span></span></a><figcaption>Report page 2</figcaption></figure><figure><a href="https://raw.githubusercontent.com/hoichengit/Portfolio-Guide/codex/wwi-financial-analysis/evidence/dashboard_03.png" target="_blank" rel="noopener"><span class="evidence-frame"><span class="evidence-label">EVIDENCE · SOURCE / OUTPUT</span><img src="https://raw.githubusercontent.com/hoichengit/Portfolio-Guide/codex/wwi-financial-analysis/evidence/dashboard_03.png" loading="lazy" alt="WideWorldImporters dashboard preview 3"><span class="evidence-caption">WideWorldImporters dashboard preview 3</span></span></a><figcaption>Report page 3</figcaption></figure><figure><a href="https://raw.githubusercontent.com/hoichengit/Portfolio-Guide/codex/wwi-financial-analysis/evidence/dashboard_04.png" target="_blank" rel="noopener"><span class="evidence-frame"><span class="evidence-label">EVIDENCE · SOURCE / OUTPUT</span><img src="https://raw.githubusercontent.com/hoichengit/Portfolio-Guide/codex/wwi-financial-analysis/evidence/dashboard_04.png" loading="lazy" alt="WideWorldImporters dashboard preview 4"><span class="evidence-caption">WideWorldImporters dashboard preview 4</span></span></a><figcaption>Report page 4</figcaption></figure><figure><a href="https://raw.githubusercontent.com/hoichengit/Portfolio-Guide/codex/wwi-financial-analysis/evidence/dashboard_05.png" target="_blank" rel="noopener"><span class="evidence-frame"><span class="evidence-label">EVIDENCE · SOURCE / OUTPUT</span><img src="https://raw.githubusercontent.com/hoichengit/Portfolio-Guide/codex/wwi-financial-analysis/evidence/dashboard_05.png" loading="lazy" alt="WideWorldImporters dashboard preview 5"><span class="evidence-caption">WideWorldImporters dashboard preview 5</span></span></a><figcaption>Report page 5</figcaption></figure><figure><a href="https://raw.githubusercontent.com/hoichengit/Portfolio-Guide/codex/wwi-financial-analysis/evidence/dashboard_06.png" target="_blank" rel="noopener"><span class="evidence-frame"><span class="evidence-label">EVIDENCE · SOURCE / OUTPUT</span><img src="https://raw.githubusercontent.com/hoichengit/Portfolio-Guide/codex/wwi-financial-analysis/evidence/dashboard_06.png" loading="lazy" alt="WideWorldImporters dashboard preview 6"><span class="evidence-caption">WideWorldImporters dashboard preview 6</span></span></a><figcaption>Report page 6</figcaption></figure></div></section><section class="detail-section end-links"><a class="button" href="../index.html#projects">Explore other projects</a><a href="mailto:jessechen0228@outlook.com">Contact Hoi</a></section></main><footer class="wrap"><span>HOI CHEN · FINANCE & DATA</span><a href="../index.html">Portfolio home</a></footer></body></html>
