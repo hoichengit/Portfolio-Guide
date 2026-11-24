@@ -1,6 +1,22 @@
-# 🗺️ Hoi's Portfolio
+# Hoi Chen | Finance & Data Portfolio
 
-Welcome to my financial portfolio. Explore my dashboards, financial analyses and forecasting projects.
+**FP&A · Commercial Finance · Financial Modelling · Power BI · SQL**
+
+I turn financial and operational data into clear analysis: what changed, why it matters, and what to examine next.
+
+### [Explore the visual portfolio](https://hoichengit.github.io/Portfolio-Guide/)
+
+Browse projects by skill, see real dashboard previews, and open the supporting Excel models, SQL and source evidence.
+
+| Start here | Business question | Skills demonstrated |
+|---|---|---|
+| [Pets & More](https://github.com/hoichengit/Portfolio-Guide/tree/codex/pets-more) | What is behind the budget gap? | Variance analysis, forecasting, cash planning |
+| [NIKE valuation](https://github.com/hoichengit/Portfolio-Guide/tree/codex/nike-valuation) | What must margin recovery deliver? | Linked forecasts, DCF, sensitivity analysis |
+| [WideWorldImporters](https://github.com/hoichengit/Portfolio-Guide/tree/codex/wwi-financial-analysis) | Do sales, profit and cash tell the same story? | SQL reconciliation, working capital, Power BI |
+
+Independent portfolio projects. Reported facts, model assumptions and limitations are explained in each case.
+
+---
 
 ## 📚 Table of Contents
 
@@ -18,7 +34,6 @@ Explore the published Power BI reports, or open the newer projects for dashboard
 
 | Project | Description and visualisation | Dashboard Links |
 |---|---|---|
-| 🧗[Adventure Work](https://github.com/hoichengit/Portfolio-Guide/tree/codex/pets-more) | Explore budget gaps, spending concentration and the revised outlook. Use page navigation, period and scenario controls to move from the summary to detailed analysis. | [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZDUxM2MxNDYtMzZhMy00ZDhlLTkzZjQtMGRiYTRlNDMxYjUxIiwidCI6IjljNzNiMWYxLWY0ZGYtNDhkYy05ZDg5LWE0M2NjNjQ4YmJhNSJ9&language=en-US) |
 | 🐈‍⬛[Pets & More](https://github.com/hoichengit/Portfolio-Guide/tree/codex/pets-more) | Explore budget gaps, spending concentration and the revised outlook. Use page navigation, period and scenario controls to move from the summary to detailed analysis. | [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZDUxM2MxNDYtMzZhMy00ZDhlLTkzZjQtMGRiYTRlNDMxYjUxIiwidCI6IjljNzNiMWYxLWY0ZGYtNDhkYy05ZDg5LWE0M2NjNjQ4YmJhNSJ9&language=en-US) |
 | 💻[IT Finance](https://github.com/hoichengit/Portfolio-Guide/tree/codex/it-spend) | Explore spend, plan variance and the latest estimates across technology and organisational dimensions. Drill through the cost story and compare the available planning scenarios. | [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOTMyMjlmZDAtODE2YS00Njc5LTlhMTktMjZhOTFhZDliYmFhIiwidCI6IjljNzNiMWYxLWY0ZGYtNDhkYy05ZDg5LWE0M2NjNjQ4YmJhNSJ9&language=en-US) |
 | 📈[Commercial Finance](https://github.com/hoichengit/Portfolio-Guide/tree/codex/commercial-finance) | Explore revenue flows, product economics and discount trade-offs alongside FP&A scenarios. Use portfolio bubbles, growth bridges and planning pages to trace headline results to supporting detail. | [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZDcyNmZhMDItYWY0Yy00MDQ4LTgwNDktNzYxNDAxZmRkYzNjIiwidCI6IjljNzNiMWYxLWY0ZGYtNDhkYy05ZDg5LWE0M2NjNjQ4YmJhNSJ9&language=en-US) |
