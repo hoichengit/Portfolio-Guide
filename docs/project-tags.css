@@ -1,1 +1,3 @@
 .project-tags{display:flex;flex-wrap:wrap;gap:7px;margin:0 0 17px}.project-tags span{display:inline-block;padding:5px 9px;border:1px solid #bed3ed;border-radius:5px;background:#eaf2fc;color:#254e7a;font:600 11px/1.4 Arial,Helvetica,sans-serif}.project-tags .data-tag{background:#fff3dc;border-color:#e7cea0;color:#735019}
+
+.analysis-tags{display:flex;flex-wrap:wrap;gap:7px;margin:0 0 22px}.analysis-tags a{padding:5px 9px;border:1px solid #bedbcf;border-radius:5px;background:#eaf5ef;color:#245641;font:500 11px/1.5 Arial,Helvetica,sans-serif;text-decoration:none}.analysis-tags a:hover{background:#d5ecdf;border-color:#7fae98}.detail-section h2[id]{scroll-margin-top:110px}
